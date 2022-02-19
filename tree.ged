@@ -3,9 +3,9 @@
 2 VERS 5.1.2
 2 NAME Gramps
 1 DATE 19 FEB 2022
-2 TIME 21:36:38
+2 TIME 21:57:09
 1 SUBM @SUBM@
-1 FILE /home/dmirecki/Desktop/Untitled_3.ged
+1 FILE /home/dmirecki/Desktop/Untitled_5.ged
 1 COPR Copyright (c) 2022 Damian Mirecki.
 1 GEDC
 2 VERS 5.5.1
@@ -17,10 +17,8 @@
 1 ADDR
 1 EMAIL dmirecki.dm@@gmail.com
 0 @I0002@ INDI
-1 NAME Werner Michał /Mirecki/
-2 TYPE Unknown
-2 GIVN Werner Michał
-2 SURN Mirecki
+1 NAME  /Private/
+2 SURN Private
 1 NAME Werner Michał /Moczygemba/
 2 GIVN Werner Michał
 2 SURN Moczygemba
@@ -38,13 +36,11 @@
 1 OBJE @O0002@
 1 OBJE @O0003@
 1 CHAN
-2 DATE 22 JAN 2022
-3 TIME 10:16:07
+2 DATE 19 FEB 2022
+3 TIME 20:56:40
 0 @I0003@ INDI
-1 NAME Beata Marianna /Poloczek/
-2 GIVN Beata Marianna
-2 SURN Poloczek
-2 NICK Piksa (tak wołała ją siostra Felicja)
+1 NAME  /Private/
+2 SURN Private
 1 NAME Beata Marianna /Moczygemba/
 2 TYPE married
 2 GIVN Beata Marianna
@@ -73,8 +69,8 @@
 1 OBJE @O0004@
 1 OBJE @O0005@
 1 CHAN
-2 DATE 22 JAN 2022
-3 TIME 10:16:23
+2 DATE 19 FEB 2022
+3 TIME 20:56:59
 0 @I0004@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -4918,16 +4914,6 @@
 1 CHAN
 2 DATE 31 JAN 2021
 3 TIME 20:16:53
-0 @I0378@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
-1 SEX M
-1 FAMC @F0000@
-2 PEDI birth
-1 CHAN
-2 DATE 31 AUG 2020
-3 TIME 19:57:28
 0 @I0379@ INDI
 1 NAME Andreas /Zieliński/
 2 GIVN Andreas
@@ -10889,7 +10875,6 @@
 1 FACT MH:F500001
 2 TYPE RIN
 1 _UID 5D2871D700F04322AA5BBA417075E4F9
-1 CHIL @I0378@
 1 CHAN
 2 DATE 16 JUN 2020
 3 TIME 16:54:38
