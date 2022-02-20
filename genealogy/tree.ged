@@ -3,7 +3,7 @@
 2 VERS 5.1.2
 2 NAME Gramps
 1 DATE 20 FEB 2022
-2 TIME 12:16:19
+2 TIME 23:18:00
 1 SUBM @SUBM@
 1 FILE /home/dmirecki/projects/dmirecki.github.io/genealogy/tree.ged
 1 COPR Copyright (c) 2022 Damian Mirecki.
@@ -30,9 +30,6 @@
 2 PAGE Moczygemba Werner, Poloczek Beata - akt małżeństwa
 2 OBJE @O0504@
 2 OBJE @O0505@
-1 SOUR @S0203@
-2 DATA
-3 DATE 20 DEC 2021
 1 OBJE @O0002@
 1 OBJE @O0003@
 1 CHAN
@@ -63,9 +60,6 @@
 2 PAGE Moczygemba Werner, Poloczek Beata - akt małżeństwa
 2 OBJE @O0504@
 2 OBJE @O0505@
-1 SOUR @S0203@
-2 DATA
-3 DATE 20 DEC 2021
 1 OBJE @O0004@
 1 OBJE @O0005@
 1 CHAN
@@ -819,19 +813,6 @@
 2 PAGE pozycja 460.
 2 OBJE @O0350@
 2 OBJE @O0351@
-1 SOUR @S0040@
-2 QUAY 3
-2 DATA
-3 DATE 27 APR 1955
-2 OBJE @O0353@
-1 SOUR @S0045@
-2 DATA
-3 DATE 9 MAR 1970
-2 OBJE @O0364@
-1 SOUR @S0046@
-2 DATA
-3 DATE 21 OCT 1973
-2 OBJE @O0365@
 1 SOUR @S0048@
 2 QUAY 3
 2 DATA
@@ -1192,11 +1173,6 @@
 1 FAMC @F500078@
 2 PEDI birth
 1 FAMS @F0053@
-1 SOUR @S0120@
-2 PAGE Karta Ryszarda Huńka, nr 197152
-2 DATA
-3 DATE 30 AUG 1957
-2 OBJE @O0484@
 1 SOUR @S0022@
 2 PAGE Karta Ryszarda Huńki
 2 OBJE @O0486@
@@ -5681,6 +5657,31 @@
 2 GIVN Mikołaj
 2 SURN Suchanek
 1 SEX M
+1 BIRT
+2 DATE 11 NOV 1820
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0136@
+3 PAGE Suchanek Waleria - akt urodzenia; wpis nr 104
+3 DATA
+4 DATE 4 JUN 1866
+3 OBJE @O0506@
+2 SOUR @S0211@
+3 PAGE Suchanek Mikołaj - akt urodzenia; wpis nr 117
+3 DATA
+4 DATE 17 NOV 1820
+3 OBJE @O0637@
+1 DEAT
+2 DATE BEF 18 APR 1900
+2 SOUR @S0131@
+3 PAGE Fatyga Marianna, Suchanek Wincenty - akt małżeństwa; wpis nr 11
+3 DATA
+4 DATE 18 APR 1900
+3 OBJE @O0500@
 1 FACT chłop
 2 TYPE Occupation
 2 SOUR @S0131@
@@ -5702,6 +5703,8 @@
 3 DATA
 4 DATE 4 JUN 1866
 3 OBJE @O0506@
+1 FAMC @F0282@
+2 PEDI birth
 1 FAMS @F0241@
 1 SOUR @S0131@
 2 PAGE Fatyga Marianna, Suchanek Wincenty - akt małżeństwa; wpis nr 11
@@ -5715,14 +5718,33 @@
 2 OBJE @O0506@
 1 SOUR @S0137@
 2 PAGE Suchanek Katarzyna - akt chrztu; wpis nr 233
+1 SOUR @S0211@
+2 PAGE Suchanek Mikołaj - akt urodzenia; wpis nr 117
+2 DATA
+3 DATE 17 NOV 1820
+2 OBJE @O0637@
 1 CHAN
-2 DATE 25 NOV 2020
-3 TIME 20:05:31
+2 DATE 20 FEB 2022
+3 TIME 22:16:23
 0 @I0418@ INDI
 1 NAME Anna /Jakubczyk/
 2 GIVN Anna
 2 SURN Jakubczyk
 1 SEX F
+1 BIRT
+2 DATE about 1843
+2 SOUR @S0136@
+3 PAGE Suchanek Waleria - akt urodzenia; wpis nr 104
+3 DATA
+4 DATE 4 JUN 1866
+3 OBJE @O0506@
+1 DEAT
+2 DATE after 1900-04-18
+2 SOUR @S0131@
+3 PAGE Fatyga Marianna, Suchanek Wincenty - akt małżeństwa; wpis nr 11
+3 DATA
+4 DATE 18 APR 1900
+3 OBJE @O0500@
 1 FAMS @F0241@
 1 SOUR @S0131@
 2 PAGE Fatyga Marianna, Suchanek Wincenty - akt małżeństwa; wpis nr 11
@@ -7753,6 +7775,49 @@
 1 CHAN
 2 DATE 18 FEB 2022
 3 TIME 21:12:59
+0 @I0509@ INDI
+1 NAME Michał /Suchanek/
+2 GIVN Michał
+2 SURN Suchanek
+1 SEX M
+1 BIRT
+2 DATE ABT 1780
+2 SOUR @S0211@
+3 PAGE Suchanek Mikołaj - akt urodzenia; wpis nr 117
+3 DATA
+4 DATE 17 NOV 1820
+3 OBJE @O0637@
+1 DEAT Y
+1 FAMS @F0282@
+1 SOUR @S0211@
+2 PAGE Suchanek Mikołaj - akt urodzenia; wpis nr 117
+2 DATA
+3 DATE 17 NOV 1820
+2 OBJE @O0637@
+1 CHAN
+2 DATE 20 FEB 2022
+3 TIME 22:16:23
+0 @I0510@ INDI
+1 NAME Elżbieta /Cieśla/
+2 GIVN Elżbieta
+2 SURN Cieśla
+1 SEX F
+1 BIRT
+2 DATE ABT 1790
+2 SOUR @S0211@
+3 PAGE Suchanek Mikołaj - akt urodzenia; wpis nr 117
+3 DATA
+4 DATE 17 NOV 1820
+3 OBJE @O0637@
+1 FAMS @F0282@
+1 SOUR @S0211@
+2 PAGE Suchanek Mikołaj - akt urodzenia; wpis nr 117
+2 DATA
+3 DATE 17 NOV 1820
+2 OBJE @O0637@
+1 CHAN
+2 DATE 20 FEB 2022
+3 TIME 22:16:23
 0 @I500004@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -10511,11 +10576,6 @@
 1 NAME Mieczysław /Huńka/
 2 GIVN Mieczysław
 2 SURN Huńka
-2 SOUR @S0120@
-3 PAGE Karta Ryszarda Huńka, nr 197152
-3 DATA
-4 DATE 30 AUG 1957
-3 OBJE @O0484@
 1 SEX M
 1 RESI
 2 DATE 1918
@@ -10546,11 +10606,6 @@
 3 CTRY Rosja
 1 FACT blacharz
 2 TYPE Occupation
-2 SOUR @S0120@
-3 PAGE Karta Ryszarda Huńka, nr 197152
-3 DATA
-4 DATE 30 AUG 1957
-3 OBJE @O0484@
 2 SOUR @S0122@
 3 PAGE Huńka Mieczysław; Szufladka HUBI-IDZI, skan nr 646-647
 3 DATA
@@ -10560,11 +10615,6 @@
 1 FAMC @F0239@
 2 PEDI birth
 1 FAMS @F500078@
-1 SOUR @S0120@
-2 PAGE Karta Ryszarda Huńka, nr 197152
-2 DATA
-3 DATE 30 AUG 1957
-2 OBJE @O0484@
 1 SOUR @S0122@
 2 PAGE Huńka Mieczysław; Szufladka HUBI-IDZI, skan nr 646-647
 2 DATA
@@ -12638,6 +12688,13 @@
 1 CHAN
 2 DATE 18 FEB 2022
 3 TIME 21:13:02
+0 @F0282@ FAM
+1 HUSB @I0509@
+1 WIFE @I0510@
+1 CHIL @I0417@
+1 CHAN
+2 DATE 20 FEB 2022
+3 TIME 22:16:23
 0 @F500004@ FAM
 1 HUSB @I500013@
 1 WIFE @I500012@
@@ -13648,13 +13705,6 @@
 1 CHAN
 2 DATE 12 FEB 2020
 3 TIME 18:15:26
-0 @S0040@ SOUR
-1 TITL Wincek Ernestyna - list 1955-04-27 + tłumaczenie z niemieckiego
-1 AUTH Ernestyna Wincek (siostra Pastoricia)
-1 OBJE @O0352@
-1 CHAN
-2 DATE 16 FEB 2020
-3 TIME 22:43:17
 0 @S0041@ SOUR
 1 TITL Moczygemba Johann, Nagel Johanna - akt małżeństwa
 1 OBJE @O0355@
@@ -13688,21 +13738,6 @@
 1 CHAN
 2 DATE 16 FEB 2020
 3 TIME 20:10:00
-0 @S0045@ SOUR
-1 TITL Wincek Ernestyna - list 1970-03-09 + tłumaczenie z niemieckiego i koment
-2 CONC arz
-1 AUTH Siostra Canilindis (przełożona prowincji zgromadzenia w Stockerau)
-1 OBJE @O0362@
-1 CHAN
-2 DATE 16 FEB 2020
-3 TIME 22:43:42
-0 @S0046@ SOUR
-1 TITL Wincek Ernestyna - list 1973-10-21 + tłumaczenie z niemieckiego
-1 AUTH Ernestyna Wincek (siostra Pastoricia)
-1 OBJE @O0363@
-1 CHAN
-2 DATE 16 FEB 2020
-3 TIME 22:43:00
 0 @S0048@ SOUR
 1 TITL Wincek Ernestyna - nagrobek
 1 AUTH siostry zakonne w Nagoi
@@ -14198,14 +14233,6 @@
 1 CHAN
 2 DATE 21 SEP 2020
 3 TIME 14:13:27
-0 @S0120@ SOUR
-1 TITL Kartoteka WKU Częstochowa
-1 REPO @R0025@
-2 CALN IPN Ka 641/37
-3 MEDI Book
-1 CHAN
-2 DATE 25 SEP 2020
-3 TIME 14:41:59
 0 @S0122@ SOUR
 1 TITL Kartoteka personalno-odznaczeniowa
 1 REPO @R0026@
@@ -14708,13 +14735,6 @@
 1 CHAN
 2 DATE 21 JAN 2022
 3 TIME 20:19:05
-0 @S0203@ SOUR
-1 TITL Mirecki Andrzej - skrócony odpis aktu zgonu
-1 AUTH USC Strzelce Opolskie
-1 OBJE @O0621@
-1 CHAN
-2 DATE 22 JAN 2022
-3 TIME 09:55:58
 0 @S0204@ SOUR
 1 TITL Repertorium I C Sądu Okręgowego w Bytomiu z 1949 r.
 1 REPO @R0002@
@@ -14764,6 +14784,13 @@
 1 CHAN
 2 DATE 19 FEB 2022
 3 TIME 19:02:07
+0 @S0211@ SOUR
+1 TITL Akta stanu cywilnego - urodzenia 1820
+1 AUTH Parafia Rzymskokatolicka Imielno
+1 REPO @R0008@
+1 CHAN
+2 DATE 20 FEB 2022
+3 TIME 22:11:18
 0 @S500001@ SOUR
 1 TITL Brylewski Web Site
 1 AUTH Grzegorz Brylewski
@@ -18117,11 +18144,6 @@
 1 FILE /home/dmirecki/projects/gramps/media/photos/Huńka__Rudnicka/hunka-ryszard.jpg
 2 FORM jpg
 2 TITL hunka-ryszard
-1 SOUR @S0120@
-2 PAGE Karta Ryszarda Huńka, nr 197152
-2 DATA
-3 DATE 30 AUG 1957
-2 OBJE @O0484@
 1 CHAN
 2 DATE 26 SEP 2020
 3 TIME 10:17:38
@@ -19223,4 +19245,11 @@
 1 CHAN
 2 DATE 19 FEB 2022
 3 TIME 19:13:52
+0 @O0637@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Cieśla__Suchanek/suchanek-mikolaj__akt-urodzenia.jpg
+2 FORM jpg
+2 TITL suchanek-mikolaj__akt-urodzenia
+1 CHAN
+2 DATE 20 FEB 2022
+3 TIME 22:12:08
 0 TRLR
