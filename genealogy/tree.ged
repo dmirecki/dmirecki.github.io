@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 5.1.2
 2 NAME Gramps
-1 DATE 20 FEB 2022
-2 TIME 23:18:00
+1 DATE 26 FEB 2022
+2 TIME 23:08:58
 1 SUBM @SUBM@
 1 FILE /home/dmirecki/projects/dmirecki.github.io/genealogy/tree.ged
 1 COPR Copyright (c) 2022 Damian Mirecki.
@@ -5724,8 +5724,8 @@
 3 DATE 17 NOV 1820
 2 OBJE @O0637@
 1 CHAN
-2 DATE 20 FEB 2022
-3 TIME 22:16:23
+2 DATE 22 FEB 2022
+3 TIME 21:50:00
 0 @I0418@ INDI
 1 NAME Anna /Jakubczyk/
 2 GIVN Anna
@@ -7342,10 +7342,17 @@
 2 SURN Tomaschno
 1 SEX F
 1 BIRT
-2 DATE ABT 1815
+2 DATE 21 MAR 1814
+2 PLAC Rybnik, Polska
+2 ADDR
+3 CITY Rybnik
+3 CTRY Polska
 2 SOUR @S0200@
 3 DATA
 4 DATE 14 DEC 2021
+2 SOUR @S0214@
+3 DATA
+4 DATE 24 FEB 2022
 1 DEAT Y
 1 FAMC @F0275@
 2 PEDI birth
@@ -7353,14 +7360,22 @@
 1 SOUR @S0200@
 2 DATA
 3 DATE 14 DEC 2021
+1 SOUR @S0214@
+2 DATA
+3 DATE 24 FEB 2022
 1 CHAN
-2 DATE 14 DEC 2021
-3 TIME 22:05:20
+2 DATE 26 FEB 2022
+3 TIME 21:34:32
 0 @I0497@ INDI
 1 NAME Anton /Thomaschny/
 2 GIVN Anton
 2 SURN Thomaschny
 1 SEX M
+1 BIRT
+2 DATE ABT 1778
+2 SOUR @S0214@
+3 DATA
+4 DATE 24 FEB 2022
 1 DEAT
 2 DATE BEF 2 NOV 1835
 2 SOUR @S0200@
@@ -7375,9 +7390,12 @@
 1 SOUR @S0200@
 2 DATA
 3 DATE 14 DEC 2021
+1 SOUR @S0214@
+2 DATA
+3 DATE 24 FEB 2022
 1 CHAN
-2 DATE 14 DEC 2021
-3 TIME 22:09:46
+2 DATE 26 FEB 2022
+3 TIME 21:34:30
 0 @I0498@ INDI
 1 NAME Jakub /Kudła/
 2 GIVN Jakub
@@ -7781,43 +7799,185 @@
 2 SURN Suchanek
 1 SEX M
 1 BIRT
-2 DATE ABT 1780
+2 DATE BEF 28 SEP 1784
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
 2 SOUR @S0211@
 3 PAGE Suchanek Mikołaj - akt urodzenia; wpis nr 117
 3 DATA
 4 DATE 17 NOV 1820
 3 OBJE @O0637@
+2 SOUR @S0212@
+3 PAGE Cieśla Elżbieta, Suchanek Michał - akt małżeństwa; wpis nr 4
+3 DATA
+4 DATE 16 NOV 1810
+3 OBJE @O0638@
+2 SOUR @S0213@
+3 PAGE Suchanek Michał - odpis aktu chrztu; str. 3
+3 OBJE @O0640@
 1 DEAT Y
+1 CHR
+2 DATE 28 SEP 1784
+2 PLAC Imielno, Polska
+3 MAP
+4 LATI N50.584722
+4 LONG E20.444722
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0213@
+3 PAGE Suchanek Michał - odpis aktu chrztu; str. 3
+3 OBJE @O0640@
+1 FAMC @F0284@
+2 PEDI birth
 1 FAMS @F0282@
 1 SOUR @S0211@
 2 PAGE Suchanek Mikołaj - akt urodzenia; wpis nr 117
 2 DATA
 3 DATE 17 NOV 1820
 2 OBJE @O0637@
+1 SOUR @S0212@
+2 PAGE Cieśla Elżbieta, Suchanek Michał - akt małżeństwa; wpis nr 4
+2 DATA
+3 DATE 16 NOV 1810
+2 OBJE @O0638@
+1 SOUR @S0213@
+2 PAGE Suchanek Michał - odpis aktu chrztu; str. 3
+2 OBJE @O0640@
 1 CHAN
-2 DATE 20 FEB 2022
-3 TIME 22:16:23
+2 DATE 24 FEB 2022
+3 TIME 19:40:49
 0 @I0510@ INDI
 1 NAME Elżbieta /Cieśla/
 2 GIVN Elżbieta
 2 SURN Cieśla
 1 SEX F
 1 BIRT
-2 DATE ABT 1790
+2 DATE BEF 16 NOV 1791
+2 PLAC Wólka, Jędrzejów, jędrzejowski, świętokrzyskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0213@
+3 PAGE Cieśla Elżbieta - odpis aktu chrztu; str.1
+3 OBJE @O0639@
+1 CHR
+2 DATE 16 NOV 1791
+2 PLAC Imielno, Polska
+3 MAP
+4 LATI N50.584722
+4 LONG E20.444722
+2 ADDR
+3 CTRY Polska
 2 SOUR @S0211@
 3 PAGE Suchanek Mikołaj - akt urodzenia; wpis nr 117
 3 DATA
 4 DATE 17 NOV 1820
 3 OBJE @O0637@
+2 SOUR @S0212@
+3 PAGE Cieśla Elżbieta, Suchanek Michał - akt małżeństwa; wpis nr 4
+3 DATA
+4 DATE 16 NOV 1810
+3 OBJE @O0638@
+1 FAMC @F0283@
+2 PEDI birth
 1 FAMS @F0282@
 1 SOUR @S0211@
 2 PAGE Suchanek Mikołaj - akt urodzenia; wpis nr 117
 2 DATA
 3 DATE 17 NOV 1820
 2 OBJE @O0637@
+1 SOUR @S0212@
+2 PAGE Cieśla Elżbieta, Suchanek Michał - akt małżeństwa; wpis nr 4
+2 DATA
+3 DATE 16 NOV 1810
+2 OBJE @O0638@
+1 SOUR @S0213@
+2 PAGE Cieśla Elżbieta - odpis aktu chrztu; str.1
+2 OBJE @O0639@
 1 CHAN
-2 DATE 20 FEB 2022
-3 TIME 22:16:23
+2 DATE 24 FEB 2022
+3 TIME 19:37:47
+0 @I0511@ INDI
+1 NAME Franciszek /Cieśla/
+2 GIVN Franciszek
+2 SURN Cieśla
+1 SEX M
+1 BIRT
+2 DATE ABT 1771
+2 SOUR @S0212@
+3 PAGE Cieśla Elżbieta, Suchanek Michał - akt małżeństwa; wpis nr 4
+3 DATA
+4 DATE 16 NOV 1810
+3 OBJE @O0638@
+1 DEAT Y
+1 FAMS @F0283@
+1 SOUR @S0212@
+2 PAGE Cieśla Elżbieta, Suchanek Michał - akt małżeństwa; wpis nr 4
+2 DATA
+3 DATE 16 NOV 1810
+2 OBJE @O0638@
+1 SOUR @S0213@
+2 PAGE Cieśla Elżbieta - odpis aktu chrztu; str.1
+2 OBJE @O0639@
+1 CHAN
+2 DATE 22 FEB 2022
+3 TIME 22:08:15
+0 @I0512@ INDI
+1 NAME Katarzyna /Cichoszczonka/
+2 GIVN Katarzyna
+2 SURN Cichoszczonka
+1 SEX F
+1 FAMS @F0283@
+1 SOUR @S0213@
+2 PAGE Cieśla Elżbieta - odpis aktu chrztu; str.1
+2 OBJE @O0639@
+1 CHAN
+2 DATE 22 FEB 2022
+3 TIME 22:09:05
+0 @I0513@ INDI
+1 NAME Marcin /Suchanek/
+2 GIVN Marcin
+2 SURN Suchanek
+1 SEX M
+1 FAMS @F0284@
+1 SOUR @S0213@
+2 PAGE Suchanek Michał - odpis aktu chrztu; str. 3
+2 OBJE @O0640@
+1 CHAN
+2 DATE 22 FEB 2022
+3 TIME 22:13:59
+0 @I0514@ INDI
+1 NAME Jadwiga /Stępień/
+2 GIVN Jadwiga
+2 SURN Stępień
+1 SEX F
+1 FAMS @F0284@
+1 SOUR @S0213@
+2 PAGE Suchanek Michał - odpis aktu chrztu; str. 3
+2 OBJE @O0640@
+1 CHAN
+2 DATE 22 FEB 2022
+3 TIME 22:13:59
+0 @I0515@ INDI
+1 NAME Marianna /Koch/
+2 GIVN Marianna
+2 SURN Koch
+1 SEX F
+1 BIRT
+2 DATE ABT 1782
+2 SOUR @S0214@
+3 DATA
+4 DATE 24 FEB 2022
+1 FAMS @F0275@
+1 SOUR @S0214@
+2 DATA
+3 DATE 24 FEB 2022
+1 CHAN
+2 DATE 26 FEB 2022
+3 TIME 21:34:32
 0 @I500004@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -12600,10 +12760,21 @@
 3 TIME 22:03:31
 0 @F0275@ FAM
 1 HUSB @I0497@
+1 WIFE @I0515@
+1 MARR
+2 TYPE on - kawaler, ona - panna
+2 DATE 11 SEP 1804
+2 PLAC Kościół pw. MB Bolesnej, Rybnik, Polska
+2 ADDR
+3 CITY Rybnik
+3 CTRY Polska
+2 SOUR @S0214@
+3 DATA
+4 DATE 24 FEB 2022
 1 CHIL @I0496@
 1 CHAN
-2 DATE 14 DEC 2021
-3 TIME 22:05:20
+2 DATE 26 FEB 2022
+3 TIME 21:34:32
 0 @F0276@ FAM
 1 HUSB @I0498@
 1 WIFE @I0499@
@@ -12691,10 +12862,38 @@
 0 @F0282@ FAM
 1 HUSB @I0509@
 1 WIFE @I0510@
+1 MARR
+2 TYPE ona - panna
+2 DATE 16 NOV 1810
+2 PLAC Imielno, Polska
+3 MAP
+4 LATI N50.584722
+4 LONG E20.444722
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0212@
+3 PAGE Cieśla Elżbieta, Suchanek Michał - akt małżeństwa; wpis nr 4
+3 DATA
+4 DATE 16 NOV 1810
+3 OBJE @O0638@
 1 CHIL @I0417@
 1 CHAN
-2 DATE 20 FEB 2022
-3 TIME 22:16:23
+2 DATE 22 FEB 2022
+3 TIME 21:50:00
+0 @F0283@ FAM
+1 HUSB @I0511@
+1 WIFE @I0512@
+1 CHIL @I0510@
+1 CHAN
+2 DATE 24 FEB 2022
+3 TIME 19:37:47
+0 @F0284@ FAM
+1 HUSB @I0513@
+1 WIFE @I0514@
+1 CHIL @I0509@
+1 CHAN
+2 DATE 22 FEB 2022
+3 TIME 22:13:59
 0 @F500004@ FAM
 1 HUSB @I500013@
 1 WIFE @I500012@
@@ -14791,6 +14990,27 @@
 1 CHAN
 2 DATE 20 FEB 2022
 3 TIME 22:11:18
+0 @S0212@ SOUR
+1 TITL Akta stanu cywilnego - urodzenia, małżeństwa i zgony - 1810
+1 AUTH Parafia Rzymskokatolicka Imielno
+1 REPO @R0008@
+1 CHAN
+2 DATE 22 FEB 2022
+3 TIME 21:46:21
+0 @S0213@ SOUR
+1 TITL Alegata 1811 r.
+1 AUTH Parafia Rzymskokatolicka Imielno
+1 REPO @R0008@
+1 CHAN
+2 DATE 22 FEB 2022
+3 TIME 22:05:46
+0 @S0214@ SOUR
+1 TITL Drzewo genealogiczne rodziny Koch / Thomashny (Rybnik)
+1 AUTH Archiwum Archidiecezjalne w Katowicach
+1 OBJE @O0641@
+1 CHAN
+2 DATE 26 FEB 2022
+3 TIME 21:27:04
 0 @S500001@ SOUR
 1 TITL Brylewski Web Site
 1 AUTH Grzegorz Brylewski
@@ -19252,4 +19472,32 @@
 1 CHAN
 2 DATE 20 FEB 2022
 3 TIME 22:12:08
+0 @O0638@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Cieśla__Suchanek/ciesla-elzbieta__suchanek-michal__akt-malzenstwa.jpg.jpg
+2 FORM jpg
+2 TITL ciesla-elzbieta__suchanek-michal__akt-malzenstwa.jpg
+1 CHAN
+2 DATE 22 FEB 2022
+3 TIME 21:47:02
+0 @O0639@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Cichoszczonka__Cieśla/ciesla-elzbieta__odpis-aktu-urodzenia.jpg
+2 FORM jpg
+2 TITL ciesla-elzbieta__odpis-aktu-urodzenia
+1 CHAN
+2 DATE 22 FEB 2022
+3 TIME 22:07:47
+0 @O0640@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Stępień__Suchanek/suchanek-michal__akt-urodzenia.jpg
+2 FORM jpg
+2 TITL suchanek-michal__akt-urodzenia
+1 CHAN
+2 DATE 22 FEB 2022
+3 TIME 22:12:38
+0 @O0641@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Koch__Thomashny/koch__thomashny__drzewo-genealogiczne.png
+2 FORM png
+2 TITL koch__thomashny__drzewo-genealogiczne
+1 CHAN
+2 DATE 26 FEB 2022
+3 TIME 21:27:01
 0 TRLR
