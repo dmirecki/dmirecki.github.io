@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 5.1.2
 2 NAME Gramps
-1 DATE 26 FEB 2022
-2 TIME 23:08:58
+1 DATE 17 APR 2022
+2 TIME 12:47:13
 1 SUBM @SUBM@
 1 FILE /home/dmirecki/projects/dmirecki.github.io/genealogy/tree.ged
 1 COPR Copyright (c) 2022 Damian Mirecki.
@@ -23,6 +23,12 @@
 2 GIVN Werner Michał
 2 SURN Moczygemba
 1 SEX M
+1 FACT niebieski
+2 TYPE Kolor oczu
+2 SOUR @S0216@
+3 PAGE str. 2
+3 DATA
+4 DATE 1980
 1 FAMC @F0003@
 2 PEDI birth
 1 FAMS @F0001@
@@ -30,11 +36,16 @@
 2 PAGE Moczygemba Werner, Poloczek Beata - akt małżeństwa
 2 OBJE @O0504@
 2 OBJE @O0505@
+1 SOUR @S0216@
+2 PAGE str. 1
+2 DATA
+3 DATE 1980
 1 OBJE @O0002@
 1 OBJE @O0003@
+1 OBJE @O0649@
 1 CHAN
-2 DATE 19 FEB 2022
-3 TIME 20:56:40
+2 DATE 10 APR 2022
+3 TIME 18:42:54
 0 @I0003@ INDI
 1 NAME  /Private/
 2 SURN Private
@@ -50,6 +61,10 @@
 1 NATI śląska
 1 FACT brązowe
 2 TYPE Kolor oczu
+2 SOUR @S0217@
+3 PAGE str. 2
+3 DATA
+4 DATE 1965
 1 FAMC @F0004@
 2 PEDI birth
 1 FAMS @F0001@
@@ -60,11 +75,14 @@
 2 PAGE Moczygemba Werner, Poloczek Beata - akt małżeństwa
 2 OBJE @O0504@
 2 OBJE @O0505@
+1 SOUR @S0217@
+2 PAGE str. 1
 1 OBJE @O0004@
 1 OBJE @O0005@
+1 OBJE @O0654@
 1 CHAN
-2 DATE 19 FEB 2022
-3 TIME 20:56:59
+2 DATE 16 APR 2022
+3 TIME 20:51:35
 0 @I0004@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -103,6 +121,21 @@
 2 GIVN Augustyn Roman
 2 SURN Moczygemba
 1 SEX M
+1 BIRT
+2 DATE 27 FEB 1898
+2 PLAC Józefowiec, Katowice, Polska
+2 ADDR
+3 CITY Katowice
+3 CTRY Polska
+1 _MILT
+2 TYPE 2 Pionier Batl. in Stettin
+2 DATE FROM MAR 1917 TO 1918
+1 OCCU Kierownik tartaku w firmie Zygmunt i Richter
+2 DATE FROM 1918 TO 1922
+2 PLAC Rybnik, Polska
+2 ADDR
+3 CITY Rybnik
+3 CTRY Polska
 1 FAMC @F0030@
 2 PEDI birth
 1 FAMS @F0003@
@@ -117,8 +150,8 @@
 1 OBJE @O0012@
 1 OBJE @O0013@
 1 CHAN
-2 DATE 3 JUL 2021
-3 TIME 18:09:35
+2 DATE 10 APR 2022
+3 TIME 19:38:11
 0 @I0008@ INDI
 1 NAME Luiza Klara /Solorz/
 2 GIVN Luiza Klara
@@ -130,6 +163,13 @@
 2 SURN Moczygemba
 2 NSFX Lotta
 1 SEX F
+1 BIRT
+2 DATE 7 MAR 1905
+2 PLAC Rybnik, Polska
+2 ADDR
+3 CITY Rybnik
+3 CTRY Polska
+2 SOUR @S0014@
 1 IDNO Nr dowodu: BC 386734
 2 SOUR @S0177@
 3 PAGE str. 2
@@ -144,8 +184,8 @@
 1 OBJE @O0014@
 1 OBJE @O0015@
 1 CHAN
-2 DATE 3 JUL 2021
-3 TIME 13:56:13
+2 DATE 10 APR 2022
+3 TIME 19:30:29
 0 @I0009@ INDI
 1 NAME Teodor Augustyn /Poloczek/
 2 GIVN Teodor Augustyn
@@ -155,6 +195,12 @@
 2 GIVN Teodor Augustyn
 2 SURN Polloczek
 1 SEX M
+1 BIRT
+2 DATE 9 NOV 1906
+2 PLAC Chropaczów, Świętochłowice, Polska
+2 ADDR
+3 CITY Świętochłowice
+3 CTRY Polska
 1 IMMI
 2 TYPE Rejestracja w PUR
 2 DATE 22 DEC 1946
@@ -228,9 +274,10 @@
 1 OBJE @O0469@
 1 OBJE @O0602@
 1 OBJE @O0605@
+1 OBJE @O0664@
 1 CHAN
-2 DATE 22 JAN 2022
-3 TIME 10:19:07
+2 DATE 16 APR 2022
+3 TIME 20:50:44
 0 @I0010@ INDI
 1 NAME Weronika Barbara /Wincek/
 2 GIVN Weronika Barbara
@@ -249,6 +296,15 @@
 2 GIVN Wiktoria
 2 SURN Poloczek
 1 SEX F
+1 BIRT
+2 DATE 27 SEP 1911
+2 PLAC Świętochłowice, Polska
+2 ADDR
+3 CITY Świętochłowice
+3 CTRY Polska
+2 SOUR @S0180@
+3 DATA
+4 DATE 25 MAR 1981
 1 FAMC @F0021@
 2 PEDI birth
 1 FAMS @F0004@
@@ -256,9 +312,10 @@
 2 DATA
 3 DATE 25 MAR 1981
 1 OBJE @O0464@
+1 OBJE @O0664@
 1 CHAN
-2 DATE 11 DEC 2021
-3 TIME 12:56:51
+2 DATE 16 APR 2022
+3 TIME 20:52:34
 0 @I0011@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -268,8 +325,8 @@
 2 PEDI birth
 1 FAMS @F0005@
 1 CHAN
-2 DATE 10 JAN 2021
-3 TIME 19:11:44
+2 DATE 16 APR 2022
+3 TIME 20:51:35
 0 @I0012@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -551,6 +608,8 @@
 2 GIVN Katarzyna
 2 SURN Bek
 1 SEX F
+1 BIRT
+2 DATE 24 NOV 1912
 1 FAMS @F0017@
 1 CHAN
 2 DATE 30 JAN 2020
@@ -707,6 +766,12 @@
 2 GIVN Wilhelm Josef
 2 SURN Wincek
 1 SEX M
+1 BIRT
+2 DATE 22 MAR 1871
+2 PLAC Nowy Bytom, Ruda Śląska, Polska
+2 ADDR
+3 CITY Ruda Śląska
+3 CTRY Polska
 1 FAMC @F500044@
 2 PEDI birth
 1 FAMS @F0021@
@@ -718,18 +783,29 @@
 2 OBJE @O0619@
 2 OBJE @O0620@
 1 OBJE @O0067@
+1 OBJE @O0664@
 1 CHAN
-2 DATE 22 JAN 2022
-3 TIME 10:19:44
+2 DATE 16 APR 2022
+3 TIME 20:53:15
 0 @I0051@ INDI
 1 NAME Josefa /Gruschka/
 2 GIVN Josefa
 2 SURN Gruschka
+2 NICK babcia Józefka
 1 NAME Josefa /Wincek/
 2 TYPE married
 2 GIVN Josefa
 2 SURN Wincek
 1 SEX F
+1 BIRT
+2 DATE 30 OCT 1872
+2 PLAC Ignatzdorf, Katowice, Polska
+3 MAP
+4 LATI N50.284374
+4 LONG E19.010532
+2 ADDR
+3 CITY Katowice
+3 CTRY Polska
 1 FAMC @F500051@
 2 PEDI birth
 1 FAMS @F0021@
@@ -741,9 +817,10 @@
 2 OBJE @O0619@
 2 OBJE @O0620@
 1 OBJE @O0071@
+1 OBJE @O0664@
 1 CHAN
-2 DATE 22 JAN 2022
-3 TIME 10:20:00
+2 DATE 16 APR 2022
+3 TIME 20:54:07
 0 @I0052@ INDI
 1 NAME Agnieszka /Wincek/ Agnes
 2 GIVN Agnieszka
@@ -807,6 +884,13 @@
 2 NPFX SSpS Pastoricia
 2 NICK Erna
 1 SEX F
+1 BIRT
+2 DATE 4 NOV 1900
+2 PLAC Nowy Bytom, Ruda Śląska, Polska
+2 ADDR
+3 CITY Ruda Śląska
+3 CTRY Polska
+2 SOUR @S0024@
 1 FAMC @F0021@
 2 PEDI birth
 1 SOUR @S0024@
@@ -906,6 +990,8 @@
 2 SURN Bara
 2 NSFX Lena
 1 SEX F
+1 BIRT
+2 DATE 5 JAN 1907
 1 FAMC @F0021@
 2 PEDI birth
 1 FAMS @F0026@
@@ -975,6 +1061,36 @@
 2 GIVN Jan
 2 SURN Poloczek
 1 SEX M
+1 BIRT
+2 DATE 25 JUL 1873
+2 PLAC Wirek, Ruda Śląska, Polska
+3 MAP
+4 LATI N50.274444
+4 LONG E18.864167
+2 ADDR
+3 CITY Ruda Śląska
+3 POST 41-710
+3 CTRY Polska
+2 SOUR @S0099@
+3 PAGE Halama, Polloczek - akt małżeństwa; rok 1898, str. 33, wpis nr 17
+3 DATA
+4 DATE 5 FEB 1898
+3 OBJE @O0428@
+3 OBJE @O0429@
+2 SOUR @S0102@
+3 PAGE Polloczek Johann - akt chrztu; rok 1873, str. 133, wpis nr 155
+3 OBJE @O0431@
+1 DEAT
+2 DATE BET 1906 AND 1934
+1 CHR
+2 DATE 27 JUL 1873
+2 PLAC Kościół pw. św. Wawrzyńca, Wirek, Ruda Śląska, Polska
+2 ADDR
+3 CITY Ruda Śląska
+3 CTRY Polska
+2 SOUR @S0102@
+3 PAGE Polloczek Johann - akt chrztu; rok 1873, str. 133, wpis nr 155
+3 OBJE @O0431@
 1 FACT kesselheizer (palacz kotłowy)
 2 TYPE Occupation
 1 FACT katolickie
@@ -1015,6 +1131,31 @@
 2 GIVN Albina
 2 SURN Poloczek
 1 SEX F
+1 BIRT
+2 DATE 30 MAR 1873
+2 PLAC Lipiny, Świętochłowice, Polska
+3 MAP
+4 LATI N50.305833
+4 LONG E18.901944
+2 ADDR
+3 CITY Świętochłowice
+3 POST 41-605
+3 CTRY Polska
+2 SOUR @S0099@
+3 PAGE Halama, Polloczek - akt małżeństwa; rok 1898, str. 33, wpis nr 17
+3 DATA
+4 DATE 5 FEB 1898
+3 OBJE @O0428@
+3 OBJE @O0429@
+1 CHR
+2 DATE 6 APR 1873
+2 PLAC Kościół pw. św. Augustyna, Lipiny, Świętochłowice, Polska
+2 ADDR
+3 CITY Świętochłowice
+3 CTRY Polska
+2 SOUR @S0101@
+3 PAGE Halama Albina - akt chrztu; rok 1872, str. 79, wpis nr 128
+3 OBJE @O0430@
 1 FACT katolickie
 2 TYPE Wyznanie
 2 SOUR @S0099@
@@ -1050,8 +1191,8 @@
 1 OBJE @O0446@
 1 OBJE @O0448@
 1 CHAN
-2 DATE 23 JUL 2021
-3 TIME 20:12:04
+2 DATE 10 APR 2022
+3 TIME 19:15:20
 0 @I0070@ INDI
 1 NAME Krystyna /Durschlag/
 2 GIVN Krystyna
@@ -1063,6 +1204,15 @@
 2 SURN Solorz
 2 NSFX Oma-Mutter
 1 SEX F
+1 BIRT
+2 DATE 22 JUL 1864
+2 PLAC Rybnik, Polska
+2 ADDR
+3 CITY Rybnik
+3 CTRY Polska
+2 SOUR @S0194@
+3 PAGE Pełny odpis aktu chrztu Durschlag Krystyny; str. 168; nr 311
+3 OBJE @O0608@
 1 FAMC @F500063@
 2 PEDI birth
 1 FAMS @F0029@
@@ -1081,6 +1231,18 @@
 2 GIVN Juliusz
 2 SURN Solorz
 1 SEX M
+1 BIRT
+2 DATE 20 DEC 1860
+2 PLAC Paruszowiec, Rybnik, Polska
+3 MAP
+4 LATI N50.099875
+4 LONG E18.569825
+2 ADDR
+3 CITY Rybnik
+3 CTRY Polska
+2 SOUR @S0195@
+3 PAGE Pełny odpis aktu chrztu Solorz Juliusz; str. 441
+3 OBJE @O0609@
 1 FAMC @F500073@
 2 PEDI birth
 1 FAMS @F0029@
@@ -1099,6 +1261,21 @@
 2 GIVN Augustyn
 2 SURN Moczygemba
 1 SEX M
+1 BIRT
+2 DATE 28 AUG 1863
+2 PLAC Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, Polska
+3 MAP
+4 LATI N50.354722
+4 LONG E18.258611
+2 ADDR
+3 CTRY Polska
+1 DEAT
+2 DATE 1 NOV 1903
+2 PLAC Józefowiec, Katowice, Polska
+2 ADDR
+3 CITY Katowice
+3 CTRY Polska
+2 CAUS tragiczna - wypadek w hucie
 1 FAMC @F500054@
 2 PEDI birth
 1 FAMS @F0030@
@@ -1118,6 +1295,12 @@
 2 SURN Moczygemba
 2 NSFX Oma
 1 SEX F
+1 BIRT
+2 DATE 18 SEP 1864
+2 PLAC Rybnik, Polska
+2 ADDR
+3 CITY Rybnik
+3 CTRY Polska
 1 FAMC @F500059@
 2 PEDI birth
 1 FAMS @F0030@
@@ -1168,8 +1351,21 @@
 4 LONG E23.942196
 2 ADDR
 3 CTRY Ukraina
-1 FACT nowotwór
-2 TYPE Przyczyna śmieci
+1 FACT piwne
+2 TYPE Kolor oczu
+2 SOUR @S0215@
+3 PAGE str. 2
+1 FACT GC421005
+2 TYPE Numer dowodu
+2 SOUR @S0215@
+3 PAGE str. 1
+3 DATA
+4 DATE 1963
+1 FACT RH 2287385
+2 TYPE Numer dowodu
+2 SOUR @S0215@
+3 DATA
+4 DATE 1974
 1 FAMC @F500078@
 2 PEDI birth
 1 FAMS @F0053@
@@ -1192,6 +1388,8 @@
 2 PAGE Huńka Ryszard, Sibińska Stefania - rozprawa o rozwód; wpis nr 56
 2 OBJE @O0622@
 2 OBJE @O0623@
+1 SOUR @S0215@
+2 PAGE str. 2
 1 OBJE @O0253@
 1 OBJE @O0254@
 1 OBJE @O0248@
@@ -1199,11 +1397,12 @@
 1 OBJE @O0256@
 1 OBJE @O0485@
 1 OBJE @O0491@
+1 OBJE @O0646@
 1 OBJE @O0492@
 1 OBJE @O0493@
 1 CHAN
-2 DATE 25 JAN 2022
-3 TIME 09:26:12
+2 DATE 10 APR 2022
+3 TIME 14:24:38
 0 @I0090@ INDI
 1 NAME Stefania /Sibińska/
 2 GIVN Stefania
@@ -1305,8 +1504,8 @@
 1 OBJE @O0588@
 1 OBJE @O0589@
 1 CHAN
-2 DATE 25 JAN 2022
-3 TIME 09:26:34
+2 DATE 10 APR 2022
+3 TIME 19:21:17
 0 @I0091@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -1412,6 +1611,15 @@
 2 GIVN Stanisława
 2 SURN Sibińska
 1 SEX F
+1 BIRT
+2 DATE 6 MAY 1902
+2 PLAC Przebędowo, Polska
+3 MAP
+4 LATI N52.585918
+4 LONG E17.014953
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0033@
 1 FAMC @F500081@
 2 PEDI birth
 1 FAMS @F500033@
@@ -1426,13 +1634,35 @@
 1 OBJE @O0252@
 1 OBJE @O0373@
 1 CHAN
-2 DATE 11 DEC 2021
-3 TIME 12:56:02
+2 DATE 10 APR 2022
+3 TIME 19:20:18
 0 @I0099@ INDI
 1 NAME Stanisław /Sibiński/
 2 GIVN Stanisław
 2 SURN Sibiński
 1 SEX M
+1 BIRT
+2 DATE 27 JAN 1906
+3 TIME 22:00
+2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+3 MAP
+4 LATI N51.499999
+4 LONG E18.357912
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0062@
+3 QUAY 3
+1 CHR
+2 DATE 28 JAN 1906
+3 TIME 13:00
+2 PLAC Kościół pw. św. Apostołów Piotra i Pawła, Kraszewice, Polska
+3 MAP
+4 LATI N51.515244
+4 LONG E18.222267
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0062@
+3 QUAY 3
 1 FAMC @F0062@
 2 PEDI birth
 1 FAMS @F500033@
@@ -1445,8 +1675,8 @@
 1 OBJE @O0376@
 1 OBJE @O0379@
 1 CHAN
-2 DATE 11 DEC 2021
-3 TIME 12:56:22
+2 DATE 10 APR 2022
+3 TIME 19:16:36
 0 @I0100@ INDI
 1 NAME Stanisława /Podsiadło/ babka Suchankowa
 2 GIVN Stanisława
@@ -1458,6 +1688,23 @@
 2 SURN Suchanek
 2 NSFX babka Suchankowa
 1 SEX F
+1 BIRT
+2 DATE 17 APR 1911
+2 PLAC Czeladź, Polska
+3 MAP
+4 LATI N50.316994
+4 LONG E19.072703
+2 ADDR
+3 CITY Czeladź
+3 CTRY Polska
+2 SOUR @S0034@
+1 CHR
+2 DATE 23 APR 1911
+2 PLAC Kościół pw. św. Stanisława, Czeladź, Polska
+2 ADDR
+3 CITY Czeladź
+3 CTRY Polska
+2 SOUR @S0035@
 1 FAMC @F500036@
 2 PEDI birth
 1 FAMS @F0055@
@@ -1468,13 +1715,23 @@
 1 OBJE @O0269@
 1 OBJE @O0251@
 1 CHAN
-2 DATE 18 DEC 2021
-3 TIME 12:51:34
+2 DATE 10 APR 2022
+3 TIME 19:17:13
 0 @I0101@ INDI
 1 NAME Mieczysław /Suchanek/
 2 GIVN Mieczysław
 2 SURN Suchanek
 1 SEX M
+1 BIRT
+2 DATE 1 JAN 1908
+3 TIME 02:00
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0019@
 1 FAMC @F0116@
 2 PEDI birth
 1 FAMS @F0055@
@@ -1488,8 +1745,8 @@
 1 OBJE @O0271@
 1 OBJE @O0251@
 1 CHAN
-2 DATE 18 DEC 2021
-3 TIME 12:51:09
+2 DATE 10 APR 2022
+3 TIME 19:16:51
 0 @I0102@ INDI
 1 NAME Wanda Maria /Suchanek/
 2 GIVN Wanda Maria
@@ -1524,6 +1781,44 @@
 2 GIVN Andrzej
 2 SURN Podsiadło
 1 SEX M
+1 BIRT
+2 DATE 31 OCT 1880
+3 TIME 14:00
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0035@
+2 SOUR @S0116@
+3 PAGE Podsiadło Bolesław - akt chrztu; wpis nr 58
+3 DATA
+4 DATE 5 MAR 1916
+3 OBJE @O0480@
+2 SOUR @S0117@
+3 PAGE Dudała Marianna, Podsiadło Andrzej - akt małżeństwa; str. 116, wpis nr 25
+3 DATA
+4 DATE 6 FEB 1907
+3 OBJE @O0481@
+2 SOUR @S0118@
+3 PAGE Podsiadło Andrzej - akt chrztu; wpis nr 122
+3 DATA
+4 DATE 1 NOV 1880
+3 OBJE @O0482@
+1 CHR
+2 DATE 1 NOV 1880
+2 PLAC Kościół św. Mikołaja, Imielno, Polska
+3 MAP
+4 LATI N50.584722
+4 LONG E20.444722
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0118@
+3 PAGE Podsiadło Andrzej - akt chrztu; wpis nr 122
+3 DATA
+4 DATE 1 NOV 1880
+3 OBJE @O0482@
 1 FAMC @F0237@
 2 PEDI birth
 1 FAMS @F500036@
@@ -1549,8 +1844,8 @@
 3 DATE 10 JUN 1908
 2 OBJE @O0483@
 1 CHAN
-2 DATE 11 DEC 2021
-3 TIME 19:58:16
+2 DATE 10 APR 2022
+3 TIME 19:19:47
 0 @I0105@ INDI
 1 NAME Marianna /Dudała/
 2 GIVN Marianna
@@ -1560,6 +1855,25 @@
 2 GIVN Marianna
 2 SURN Podsiadło
 1 SEX F
+1 BIRT
+2 DATE ABT 1887
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0035@
+2 SOUR @S0116@
+3 PAGE Podsiadło Bolesław - akt chrztu; wpis nr 58
+3 DATA
+4 DATE 5 MAR 1916
+3 OBJE @O0480@
+2 SOUR @S0117@
+3 PAGE Dudała Marianna, Podsiadło Andrzej - akt małżeństwa; str. 116, wpis nr 25
+3 DATA
+4 DATE 6 FEB 1907
+3 OBJE @O0481@
 1 FAMC @F0238@
 2 PEDI birth
 1 FAMS @F500036@
@@ -1579,8 +1893,8 @@
 3 DATE 10 JUN 1908
 2 OBJE @O0483@
 1 CHAN
-2 DATE 12 DEC 2021
-3 TIME 17:33:07
+2 DATE 10 APR 2022
+3 TIME 19:20:02
 0 @I0106@ INDI
 1 NAME Zygmunt /Podsiadło/
 2 GIVN Zygmunt
@@ -1736,6 +2050,16 @@
 2 GIVN Katarzyna
 2 SURN Suchanek
 1 SEX F
+1 BIRT
+2 DATE 30 OCT 1904
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0001@
+3 PAGE https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=13sk&rid=B&search_lastname=Suchanek&search_name=Wincenty&search_lastname2=Fatyga&search_name2=&from_date=1900&to_date=
 1 FAMC @F0116@
 2 PEDI birth
 1 CHAN
@@ -1935,6 +2259,8 @@
 2 GIVN Michał
 2 SURN Sibiński
 1 SEX M
+1 BIRT
+2 DATE 16 SEP 1910
 1 FAMC @F0062@
 2 PEDI birth
 1 FAMS @F0095@
@@ -1951,6 +2277,10 @@
 2 GIVN Zofia?
 2 SURN Sibińska
 1 SEX F
+1 BIRT
+2 DATE 16 APR 1898
+2 SOUR @S0039@
+3 QUAY 3
 1 FAMS @F0095@
 1 CHAN
 2 DATE 12 FEB 2020
@@ -2173,6 +2503,8 @@
 2 GIVN Gerhard
 2 SURN Solorz
 1 SEX M
+1 BIRT
+2 DATE 1907
 1 FAMC @F0029@
 2 PEDI birth
 1 FAMS @F0108@
@@ -2342,6 +2674,21 @@
 2 GIVN Wincenty
 2 SURN Suchanek
 1 SEX M
+1 BIRT
+2 DATE 1873
+2 PLAC Kije, Polska
+3 MAP
+4 LATI N50.606958
+4 LONG E20.57121
+2 ADDR
+3 POST 28-404
+3 CTRY Polska
+2 SOUR @S0019@
+2 SOUR @S0131@
+3 PAGE Fatyga Marianna, Suchanek Wincenty - akt małżeństwa; wpis nr 11
+3 DATA
+4 DATE 18 APR 1900
+3 OBJE @O0500@
 1 FACT niepiśmienny
 2 TYPE Unknown
 2 SOUR @S0131@
@@ -2381,13 +2728,34 @@
 3 DATE 21 FEB 1936
 2 OBJE @O0533@
 1 CHAN
-2 DATE 25 NOV 2020
-3 TIME 19:39:41
+2 DATE 10 APR 2022
+3 TIME 19:21:01
 0 @I0187@ INDI
 1 NAME Marianna /Fatyga/
 2 GIVN Marianna
 2 SURN Fatyga
 1 SEX F
+1 BIRT
+2 DATE 20 MAR 1875
+3 TIME 6:00
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0019@
+2 SOUR @S0083@
+1 CHR
+2 DATE 20 MAR 1875
+3 TIME 11:00
+2 PLAC Kościół św. Mikołaja, Imielno, Polska
+3 MAP
+4 LATI N50.584722
+4 LONG E20.444722
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0083@
 1 FACT niepiśmienna
 2 TYPE Unknown
 2 SOUR @S0131@
@@ -2416,13 +2784,39 @@
 3 DATE 10 FEB 1903
 2 OBJE @O0499@
 1 CHAN
-2 DATE 10 NOV 2020
-3 TIME 20:07:01
+2 DATE 10 APR 2022
+3 TIME 19:20:39
 0 @I0188@ INDI
 1 NAME Julianna /Suchanek/
 2 GIVN Julianna
 2 SURN Suchanek
 1 SEX F
+1 BIRT
+2 DATE 9 FEB 1903
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0130@
+3 PAGE Suchanek Julianna - akt chrztu; wpis nr 30
+3 DATA
+4 DATE 10 FEB 1903
+3 OBJE @O0499@
+1 CHR
+2 DATE 10 FEB 1903
+2 PLAC Kościół św. Mikołaja, Imielno, Polska
+3 MAP
+4 LATI N50.584722
+4 LONG E20.444722
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0130@
+3 PAGE Suchanek Julianna - akt chrztu; wpis nr 30
+3 DATA
+4 DATE 10 FEB 1903
+3 OBJE @O0499@
 1 FAMC @F0116@
 2 PEDI birth
 1 FAMS @F0117@
@@ -2444,6 +2838,19 @@
 2 GIVN Marcin
 2 SURN Kowalczyk
 1 SEX M
+1 BIRT
+2 DATE ABT 1898
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0020@
+3 PAGE Kowalczyk Marcin, Suchanek Julianna - akt małżeństwa; wpis nr 22
+3 DATA
+4 DATE 3 MAR 1930
+3 OBJE @O0498@
 1 FAMC @F0118@
 2 PEDI birth
 1 FAMS @F0117@
@@ -2553,6 +2960,9 @@
 2 GIVN Joseph
 2 SURN Moczygemba
 1 SEX M
+1 OCCU Hüttenarbeiter (pracownik huty, hutnik)
+2 DATE 1862
+2 SOUR @S0041@
 1 FAMS @F0121@
 1 SOUR @S0041@
 2 QUAY 3
@@ -2564,6 +2974,12 @@
 2 GIVN Joseph
 2 SURN Nagel
 1 SEX M
+1 BIRT
+2 DATE ABT 1796
+2 SOUR @S0043@
+1 OCCU Hüttenarbeiter (pracownik huty, hutnik)
+2 DATE 1862
+2 SOUR @S0041@
 1 FAMS @F0122@
 1 SOUR @S0041@
 2 QUAY 3
@@ -2583,6 +2999,10 @@
 2 GIVN Julianna
 2 SURN Nagel
 1 SEX F
+1 BIRT
+2 DATE ABT 1797
+2 SOUR @S0043@
+3 QUAY 3
 1 FAMS @F0122@
 1 SOUR @S0042@
 2 QUAY 3
@@ -2597,6 +3017,16 @@
 2 GIVN Carolina
 2 SURN Nagel
 1 SEX F
+1 BIRT
+2 DATE 12 FEB 1834
+2 PLAC Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, Polska
+3 MAP
+4 LATI N50.354722
+4 LONG E18.258611
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0044@
+3 QUAY 3
 1 FAMC @F0122@
 2 PEDI birth
 1 SOUR @S0044@
@@ -2619,6 +3049,9 @@
 2 GIVN Franciszek
 2 SURN Sibiński
 1 SEX M
+1 BIRT
+2 DATE 3 MAR 1895
+2 SOUR @S0085@
 1 FAMC @F0062@
 2 PEDI birth
 1 FAMS @F0226@
@@ -2681,6 +3114,33 @@
 2 GIVN Franciszek
 2 SURN Wentland
 1 SEX M
+1 BIRT
+2 DATE ABT 1810
+2 PLAC Kiączyn, Polska
+3 MAP
+4 LATI N52.4979
+4 LONG E16.58655
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0057@
+3 QUAY 1
+1 DEAT
+2 TYPE Przyczyna zgonu: tyfus
+2 DATE 29 MAY 1868
+2 PLAC Stare, Polska
+3 MAP
+4 LATI N52.478635
+4 LONG E16.60389
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0055@
+3 PAGE Sklepik Victoria, Wentland Johann - akt małżeństwa (ślub cywilny); str. 9, wpis nr 5
+3 QUAY 3
+3 OBJE @O0383@
+3 OBJE @O0384@
+2 SOUR @S0112@
+3 PAGE Wentland Franciszek - akt zgonu; wpis nr 39
+3 OBJE @O0476@
 1 FACT nachtwächter (stróż nocny)
 2 TYPE Occupation
 2 SOUR @S0055@
@@ -2722,6 +3182,26 @@
 2 GIVN Petronilla
 2 SURN Wentland
 1 SEX F
+1 BIRT
+2 DATE ABT 1812
+2 PLAC Kiączyn, Polska
+3 MAP
+4 LATI N52.4979
+4 LONG E16.58655
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0057@
+3 QUAY 1
+1 RESI
+2 DATE 10 NOV 1877
+2 PLAC Ottowo, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0055@
+3 PAGE Sklepik Victoria, Wentland Johann - akt małżeństwa (ślub cywilny); str. 9, wpis nr 5
+3 QUAY 3
+3 OBJE @O0383@
+3 OBJE @O0384@
 1 FAMC @F0126@
 2 PEDI birth
 1 FAMS @F0124@
@@ -2741,6 +3221,19 @@
 2 GIVN Walenty
 2 SURN Sklepik
 1 SEX M
+1 RESI
+2 DATE 10 NOV 1877
+2 PLAC Chludowo, Polska
+3 MAP
+4 LATI N52.557222
+4 LONG E16.845833
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0055@
+3 PAGE Sklepik Victoria, Wentland Johann - akt małżeństwa (ślub cywilny); str. 9, wpis nr 5
+3 QUAY 3
+3 OBJE @O0383@
+3 OBJE @O0384@
 1 FACT tagelöhner (robotnik najemny)
 2 TYPE Occupation
 2 SOUR @S0055@
@@ -2774,6 +3267,24 @@
 2 GIVN Regina
 2 SURN Sklepik
 1 SEX F
+1 BIRT
+2 DATE ABT 1827
+2 SOUR @S0089@
+3 PAGE Kromolicka, Sklepik - akt małżeństwa; str. 13-14, wpis nr 12
+3 OBJE @O0424@
+1 RESI
+2 DATE 10 NOV 1877
+2 PLAC Chludowo, Polska
+3 MAP
+4 LATI N52.557222
+4 LONG E16.845833
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0055@
+3 PAGE Sklepik Victoria, Wentland Johann - akt małżeństwa (ślub cywilny); str. 9, wpis nr 5
+3 QUAY 3
+3 OBJE @O0383@
+3 OBJE @O0384@
 1 FAMS @F0125@
 1 SOUR @S0089@
 2 PAGE Kromolicka, Sklepik - akt małżeństwa; str. 13-14, wpis nr 12
@@ -2811,6 +3322,48 @@
 2 GIVN Kacper
 2 SURN Sibiński
 1 SEX M
+1 BIRT
+2 DATE 30 DEC 1832
+3 TIME 1:00
+2 PLAC Dom nr 36, Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0063@
+2 SOUR @S0113@
+3 PAGE Sibiński Kacper - akt urodzenia; str. 1, wpis nr 2
+3 DATA
+4 DATE 1 JAN 1833
+3 OBJE @O0477@
+1 DEAT
+2 DATE 13 DEC 1878
+2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+3 MAP
+4 LATI N51.499999
+4 LONG E18.357912
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0058@
+2 SOUR @S0219@
+3 PAGE Sibiński Kacper - akt agonu; wpis nr 162
+3 OBJE @O0656@
+1 RESI
+2 DATE 10 FEB 1862
+2 PLAC Pustkowie Sibińskie, Polska
+2 ADDR
+3 CTRY Polska
+1 CHR
+2 DATE 1 JAN 1833
+2 PLAC Kościół pw. św. Apostołów Piotra i Pawła, Kraszewice, Polska
+3 MAP
+4 LATI N51.515244
+4 LONG E18.222267
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0113@
+3 PAGE Sibiński Kacper - akt urodzenia; str. 1, wpis nr 2
+3 DATA
+4 DATE 1 JAN 1833
+3 OBJE @O0477@
 1 FACT rolnik
 2 TYPE Occupation
 2 SOUR @S0058@
@@ -2822,9 +3375,12 @@
 2 DATA
 3 DATE 1 JAN 1833
 2 OBJE @O0477@
+1 SOUR @S0219@
+2 PAGE Sibiński Kacper - akt agonu; wpis nr 162
+2 OBJE @O0656@
 1 CHAN
-2 DATE 5 SEP 2020
-3 TIME 18:36:52
+2 DATE 12 APR 2022
+3 TIME 14:19:48
 0 @I0216@ INDI
 1 NAME Marianna /Mielcarek/
 2 GIVN Marianna
@@ -2835,6 +3391,36 @@
 2 GIVN Marianna
 2 SURN Sibińska
 1 SEX F
+1 BIRT
+2 DATE 17 JAN 1840
+3 TIME 14:00
+2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+3 MAP
+4 LATI N51.499999
+4 LONG E18.357912
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0063@
+2 SOUR @S0066@
+3 PAGE Mielcarek Marianna - akt urodzenia; str. 6,  wpis nr 16
+3 OBJE @O0398@
+1 DEAT
+2 DATE AFT 13 DEC 1878
+2 SOUR @S0164@
+2 SOUR @S0219@
+3 PAGE Sibiński Kacper - akt agonu; wpis nr 162
+3 OBJE @O0656@
+1 CHR
+2 DATE 19 JAN 1840
+2 PLAC Kościół pw. św. Apostołów Piotra i Pawła, Kraszewice, Polska
+3 MAP
+4 LATI N51.515244
+4 LONG E18.222267
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0066@
+3 PAGE Mielcarek Marianna - akt urodzenia; str. 6,  wpis nr 16
+3 OBJE @O0398@
 1 FACT rolnik
 2 TYPE Occupation
 2 SOUR @S0058@
@@ -2845,14 +3431,28 @@
 1 SOUR @S0066@
 2 PAGE Mielcarek Marianna - akt urodzenia; str. 6,  wpis nr 16
 2 OBJE @O0398@
+1 SOUR @S0219@
+2 PAGE Sibiński Kacper - akt agonu; wpis nr 162
+2 OBJE @O0656@
 1 CHAN
-2 DATE 31 JAN 2021
-3 TIME 20:16:53
+2 DATE 12 APR 2022
+3 TIME 14:21:08
 0 @I0217@ INDI
 1 NAME Mateusz /Zieliński/
 2 GIVN Mateusz
 2 SURN Zieliński
 1 SEX M
+1 BIRT
+2 DATE ABT 1828
+2 SOUR @S0181@
+3 PAGE Depka Agnieszka, Zieliński Mateusz - akt małżeństwa - rok 1854, str.13
+3 OBJE @O0571@
+1 DEAT
+2 DATE BET 24 APR 1881 AND 7 JAN 1894
+2 SOUR @S0058@
+2 SOUR @S0184@
+3 PAGE Depka Agnieszka - akt zgonu; rok 1881, wpis nr 14
+3 OBJE @O0575@
 1 FAMS @F0128@
 1 SOUR @S0181@
 2 PAGE Depka Agnieszka, Zieliński Mateusz - akt małżeństwa - rok 1854, str.13
@@ -2929,6 +3529,46 @@
 2 GIVN Jan
 2 SURN Sibiński
 1 SEX M
+1 BIRT
+2 DATE ABT 1802
+2 PLAC Kolonia Sibińskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0064@
+2 SOUR @S0113@
+3 PAGE Sibiński Kacper - akt urodzenia; str. 1, wpis nr 2
+3 DATA
+4 DATE 1 JAN 1833
+3 OBJE @O0477@
+2 SOUR @S0114@
+3 PAGE Dziadek Zofia, Sibiński Jan - akt małżeństwa; wpis nr 53
+3 DATA
+4 DATE 24 NOV 1835
+3 OBJE @O0478@
+2 SOUR @S0115@
+3 PAGE Sibiński Jan, Skorupa Antonina - akt małżeństwa; wpis nr 26
+3 DATA
+4 DATE 9 MAY 1850
+3 OBJE @O0479@
+1 DEAT
+2 DATE BEF 10 FEB 1862
+2 SOUR @S0063@
+1 RESI
+2 DATE 21 JAN 1826
+2 PLAC Kolonia Sibińskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0064@
+1 RESI
+2 DATE 1 JAN 1833
+2 PLAC Dom nr 36, Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0113@
+3 PAGE Sibiński Kacper - akt urodzenia; str. 1, wpis nr 2
+3 DATA
+4 DATE 1 JAN 1833
+3 OBJE @O0477@
 1 FACT rolnik
 2 TYPE Occupation
 2 SOUR @S0064@
@@ -2984,6 +3624,43 @@
 2 GIVN Barbara
 2 SURN Sibińska
 1 SEX F
+1 BIRT
+2 DATE ABT 1806
+2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+3 MAP
+4 LATI N51.499999
+4 LONG E18.357912
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0064@
+2 SOUR @S0113@
+3 PAGE Sibiński Kacper - akt urodzenia; str. 1, wpis nr 2
+3 DATA
+4 DATE 1 JAN 1833
+3 OBJE @O0477@
+1 DEAT
+2 DATE 25 APR 1835
+2 PLAC Pustkowie Sibińskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0063@
+2 SOUR @S0065@
+1 RESI
+2 DATE 25 APR 1835
+2 PLAC Dom nr 51, Pustkowie Sibińskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0065@
+1 RESI
+2 DATE 1 JAN 1833
+2 PLAC Dom nr 36, Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0113@
+3 PAGE Sibiński Kacper - akt urodzenia; str. 1, wpis nr 2
+3 DATA
+4 DATE 1 JAN 1833
+3 OBJE @O0477@
 1 FACT rolniczka
 2 TYPE Occupation
 2 SOUR @S0065@
@@ -3005,6 +3682,17 @@
 2 GIVN Jan
 2 SURN Mielcarek
 1 SEX M
+1 BIRT
+2 DATE ABT 1807
+2 SOUR @S0066@
+3 PAGE Mielcarek Marianna - akt urodzenia; str. 6,  wpis nr 16
+3 OBJE @O0398@
+1 DEAT
+2 DATE BET 1840 AND 10 FEB 1862
+2 SOUR @S0063@
+2 SOUR @S0066@
+3 PAGE Mielcarek Marianna - akt urodzenia; str. 6,  wpis nr 16
+3 OBJE @O0398@
 1 FAMS @F0130@
 1 SOUR @S0066@
 2 PAGE Mielcarek Marianna - akt urodzenia; str. 6,  wpis nr 16
@@ -3021,6 +3709,19 @@
 2 GIVN Antonina
 2 SURN Sibińska
 1 SEX F
+1 BIRT
+2 DATE ABT 1812
+2 SOUR @S0066@
+3 PAGE Mielcarek Marianna - akt urodzenia; str. 6,  wpis nr 16
+3 OBJE @O0398@
+1 DEAT
+2 DATE AFT 1862
+2 SOUR @S0063@
+1 RESI
+2 DATE 10 FEB 1862
+2 PLAC Pustkowie Sibińskie, Polska
+2 ADDR
+3 CTRY Polska
 1 FAMS @F0130@
 1 CHAN
 2 DATE 9 SEP 2020
@@ -3030,6 +3731,12 @@
 2 GIVN Walenty
 2 SURN Sibiński
 1 SEX M
+1 RESI
+2 DATE 21 JAN 1826
+2 PLAC Kolonia Sibińskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0064@
 1 FAMS @F0131@
 1 SOUR @S0064@
 1 SOUR @S0114@
@@ -3054,6 +3761,12 @@
 2 GIVN Marianna
 2 SURN Sibińska
 1 SEX F
+1 RESI
+2 DATE 21 JAN 1826
+2 PLAC Kolonia Sibińskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0064@
 1 FAMS @F0131@
 1 SOUR @S0114@
 2 PAGE Dziadek Zofia, Sibiński Jan - akt małżeństwa; wpis nr 53
@@ -3073,14 +3786,60 @@
 2 GIVN Piotr
 2 SURN Wyrębski
 1 SEX M
+1 BIRT
+2 DATE ABT 1783
+2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+3 MAP
+4 LATI N51.499999
+4 LONG E18.357912
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0067@
+2 SOUR @S0218@
+3 PAGE Pipia Helena, Wyrębski Piotr - akt małżeństwa; str. 87, wpis nr 33
+3 DATA
+4 DATE 18 NOV 1834
+3 OBJE @O0655@
+2 SOUR @S0220@
+3 PAGE Wyrębski Piotr - akt zgonu; wpis nr 12
+3 DATA
+4 DATE 26 JAN 1844
+3 OBJE @O0657@
+1 DEAT
+2 DATE 25 JAN 1844
+2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+3 MAP
+4 LATI N51.499999
+4 LONG E18.357912
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0067@
+2 SOUR @S0220@
+3 PAGE Wyrębski Piotr - akt zgonu; wpis nr 12
+3 DATA
+4 DATE 26 JAN 1844
+3 OBJE @O0657@
 1 FACT rolnik
 2 TYPE Occupation
 2 SOUR @S0067@
+1 FAMC @F0286@
+2 PEDI birth
 1 FAMS @F0132@
+1 FAMS @F0285@
 1 SOUR @S0064@
+1 SOUR @S0218@
+2 PAGE Pipia Helena, Wyrębski Piotr - akt małżeństwa; str. 87, wpis nr 33
+2 DATA
+3 DATE 18 NOV 1834
+2 OBJE @O0655@
+1 SOUR @S0220@
+2 PAGE Wyrębski Piotr - akt zgonu; wpis nr 12
+2 DATA
+3 DATE 26 JAN 1844
+2 OBJE @O0657@
 1 CHAN
-2 DATE 14 APR 2020
-3 TIME 19:50:34
+2 DATE 12 APR 2022
+3 TIME 19:21:48
 0 @I0226@ INDI
 1 NAME Antonina /Sibińska/
 2 GIVN Antonina
@@ -3091,6 +3850,24 @@
 2 GIVN Antonina
 2 SURN Wyrębska
 1 SEX F
+1 BIRT
+2 DATE ABT 1793
+2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+3 MAP
+4 LATI N51.499999
+4 LONG E18.357912
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0067@
+1 DEAT
+2 DATE 26 FEB 1834
+2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+3 MAP
+4 LATI N51.499999
+4 LONG E18.357912
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0067@
 1 FAMC @F0133@
 2 PEDI birth
 1 FAMS @F0132@
@@ -3215,6 +3992,8 @@
 2 GIVN Zyta
 2 SURN Kopeć
 1 SEX F
+1 BIRT
+2 DATE 20 MAY 1911
 1 FACT MH:I500012
 2 TYPE RIN
 1 _UID 5DBC1521E7E1DD48FEC60348E30C6AAD
@@ -3229,6 +4008,8 @@
 2 GIVN Kazimierz
 2 SURN Kopeć
 1 SEX M
+1 BIRT
+2 DATE 2 JUN 1911
 1 FACT MH:I500013
 2 TYPE RIN
 1 _UID 5DBC15335BAFC0123C171D9556989566
@@ -3379,6 +4160,11 @@
 2 GIVN Jan
 2 SURN Kulik
 1 SEX M
+1 BIRT
+2 DATE 16 APR 1898
+2 PLAC Piasek Wielki, Polska
+2 ADDR
+3 CTRY Polska
 1 FACT MH:I500029
 2 TYPE RIN
 1 _UID 5DBC1852AD1104C68FAB549B8468DED8
@@ -3577,6 +4363,11 @@
 2 GIVN Agnieszka
 2 SURN Wac
 1 SEX F
+1 BIRT
+2 DATE 15 APR 1905
+2 PLAC Czukiew, rejon samborski, obwód lwowski, Ukraina
+2 ADDR
+3 CTRY Ukraina
 1 FAMC @F0175@
 2 PEDI birth
 1 FAMS @F0162@
@@ -3638,6 +4429,8 @@
 2 GIVN Julianna
 2 SURN Chudzicka
 1 SEX F
+1 DEAT
+2 DATE EST 1917
 1 FACT MH:I500064
 2 TYPE RIN
 1 _UID 5DBC20BBC331CE22E34F7818DD3A7C31
@@ -3652,6 +4445,11 @@
 2 GIVN Piotr
 2 SURN Chudzicki
 1 SEX M
+1 BIRT
+2 DATE 22 JAN 1914
+2 PLAC Zagorzany, Polska
+2 ADDR
+3 CTRY Polska
 1 FACT MH:I500065
 2 TYPE RIN
 1 _UID 5DBC20BBD3DA2E24E34F7818DD3A7C31
@@ -3982,6 +4780,8 @@
 2 GIVN Dorota
 2 SURN Santor
 1 SEX F
+1 BIRT
+2 DATE 1908
 1 FAMC @F0147@
 2 PEDI birth
 1 FAMS @F0199@
@@ -4150,6 +4950,8 @@
 2 GIVN Magda
 2 SURN Ząbek
 1 SEX F
+1 BIRT
+2 DATE 1905
 1 FACT MH:I500185
 2 TYPE RIN
 1 _UID 5DBD81213357877ECBDEA4DF9530AB90
@@ -4437,6 +5239,8 @@
 2 GIVN Maria
 2 SURN Gaweł
 1 SEX F
+1 BIRT
+2 DATE ABT 1899
 1 FACT MH:I500224
 2 TYPE RIN
 1 _UID 5E22D636E2680A8C0385AA88E5FAD9AD
@@ -4496,6 +5300,8 @@
 2 GIVN Jan
 2 SURN Gaweł
 1 SEX M
+1 BIRT
+2 DATE 10 FEB 1897
 1 FACT MH:I500228
 2 TYPE RIN
 1 _UID 5E2350439EDE1E55DDA8875CC005369C
@@ -4552,6 +5358,8 @@
 2 GIVN Franciszek
 2 SURN Kopeć
 1 SEX M
+1 BIRT
+2 DATE EST 1909
 1 FACT MH:I500236
 2 TYPE RIN
 1 _UID 5E288ECADB321D20ED49F40E12C4EF47
@@ -4596,6 +5404,8 @@
 2 GIVN Zofia
 2 SURN Kopeć
 1 SEX F
+1 BIRT
+2 DATE EST 1913
 1 FACT MH:I500239
 2 TYPE RIN
 1 _UID 5E288EF0BE00466203266C4EC83F188A
@@ -4673,6 +5483,20 @@
 2 GIVN Olga
 2 SURN Wincek
 1 SEX F
+1 BIRT
+2 DATE ABT 1 JAN 1870
+2 SOUR @S0076@
+3 PAGE Wincek Olga - akt zgonu; wpis nr 93
+3 OBJE @O0415@
+1 DEAT
+2 DATE 24 JUN 1870
+2 PLAC Nowy Bytom, Ruda Śląska, Polska
+2 ADDR
+3 CITY Ruda Śląska
+3 CTRY Polska
+2 SOUR @S0076@
+3 PAGE Wincek Olga - akt zgonu; wpis nr 93
+3 OBJE @O0415@
 1 FAMC @F500044@
 2 PEDI birth
 1 SOUR @S0076@
@@ -4695,6 +5519,8 @@
 2 GIVN Rosalie
 2 SURN Schulz
 1 SEX F
+1 BIRT
+2 DATE ABT 1 FEB 1835
 1 FAMC @F0135@
 2 PEDI birth
 1 FAMS @F0223@
@@ -4715,6 +5541,8 @@
 2 GIVN Marie
 2 SURN Schulz
 1 SEX F
+1 BIRT
+2 DATE ABT 1838
 1 FAMC @F0135@
 2 PEDI birth
 1 FAMS @F0224@
@@ -4726,6 +5554,40 @@
 2 GIVN Florian
 2 SURN Fatyga
 1 SEX M
+1 BIRT
+2 DATE 26 APR 1844
+2 PLAC Kije, Polska
+3 MAP
+4 LATI N50.606958
+4 LONG E20.57121
+2 ADDR
+3 POST 28-404
+3 CTRY Polska
+2 SOUR @S0083@
+3 QUAY 1
+2 SOUR @S0143@
+3 PAGE Fatyga Florian, Madejczyk Franciszka - akt małżeństwa; wpis nr 5
+3 DATA
+4 DATE 5 FEB 1872
+3 OBJE @O0511@
+2 SOUR @S0144@
+3 PAGE Fatyga Florian - akt urodzenia; wpis nr 62
+3 DATA
+4 DATE 26 APR 1844
+3 OBJE @O0532@
+1 RESI
+2 DATE 5 FEB 1872
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0143@
+3 PAGE Fatyga Florian, Madejczyk Franciszka - akt małżeństwa; wpis nr 5
+3 DATA
+4 DATE 5 FEB 1872
+3 OBJE @O0511@
 1 FACT włościanin (chłop)
 2 TYPE Occupation
 2 SOUR @S0083@
@@ -4769,6 +5631,33 @@
 2 SURN Fatyga
 2 SOUR @S0083@
 1 SEX F
+1 BIRT
+2 DATE 2 APR 1851
+2 PLAC Dom nr 8, Motkowice, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0083@
+2 SOUR @S0143@
+3 PAGE Fatyga Florian, Madejczyk Franciszka - akt małżeństwa; wpis nr 5
+3 DATA
+4 DATE 5 FEB 1872
+3 OBJE @O0511@
+2 SOUR @S0163@
+3 PAGE Madejczyk Franciszka - akt urodzenia; str. 6, wpis nr 21
+3 OBJE @O0554@
+1 RESI
+2 DATE 5 FEB 1872
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0143@
+3 PAGE Fatyga Florian, Madejczyk Franciszka - akt małżeństwa; wpis nr 5
+3 DATA
+4 DATE 5 FEB 1872
+3 OBJE @O0511@
 1 FAMC @F0246@
 2 PEDI birth
 1 FAMS @F0225@
@@ -4798,6 +5687,21 @@
 2 GIVN Anastazja
 2 SURN Fatyga
 1 SEX F
+1 BIRT
+2 DATE 23 DEC 1877
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0152@
+3 PAGE Fatyga Anastazja - akt zgonu; rok 1936, wpis nr 9
+3 DATA
+4 DATE 21 FEB 1936
+3 OBJE @O0533@
+2 SOUR @S0001@
+3 PAGE Fatyga Anastazja - akt urodzenia; rok 1877, wpis nr 164
 1 FACT panna
 2 TYPE Stan cywilny
 2 SOUR @S0152@
@@ -4822,6 +5726,9 @@
 2 GIVN Rozalia
 2 SURN Dittfeld
 1 SEX F
+1 BIRT
+2 DATE 30 JUL 1884
+2 SOUR @S0085@
 1 FAMS @F0226@
 1 SOUR @S0085@
 1 CHAN
@@ -4895,6 +5802,9 @@
 2 GIVN Andreas
 2 SURN Zieliński
 1 SEX M
+1 BIRT
+2 DATE 1855
+2 SOUR @S0090@
 1 FAMC @F0128@
 2 PEDI birth
 1 CHAN
@@ -4905,6 +5815,9 @@
 2 GIVN Marianna
 2 SURN Zieliński
 1 SEX F
+1 BIRT
+2 DATE 1858
+2 SOUR @S0091@
 1 FAMC @F0128@
 2 PEDI birth
 1 CHAN
@@ -4915,6 +5828,9 @@
 2 GIVN Julianna
 2 SURN Zieliński
 1 SEX F
+1 BIRT
+2 DATE 1860
+2 SOUR @S0092@
 1 FAMC @F0128@
 2 PEDI birth
 1 CHAN
@@ -4925,6 +5841,9 @@
 2 GIVN Joanna
 2 SURN Zieliński
 1 SEX F
+1 BIRT
+2 DATE 1862
+2 SOUR @S0093@
 1 FAMC @F0128@
 2 PEDI birth
 1 CHAN
@@ -4935,6 +5854,9 @@
 2 GIVN Theopil
 2 SURN Zieliński
 1 SEX M
+1 BIRT
+2 DATE 1864
+2 SOUR @S0094@
 1 FAMC @F0128@
 2 PEDI birth
 1 CHAN
@@ -4945,6 +5867,9 @@
 2 GIVN Leon
 2 SURN Zieliński
 1 SEX M
+1 BIRT
+2 DATE 1865
+2 SOUR @S0095@
 1 FAMC @F0128@
 2 PEDI birth
 1 CHAN
@@ -4955,6 +5880,9 @@
 2 GIVN Franz Xaver
 2 SURN Zieliński
 1 SEX M
+1 BIRT
+2 DATE 1869
+2 SOUR @S0096@
 1 FAMC @F0128@
 2 PEDI birth
 1 CHAN
@@ -4976,6 +5904,26 @@
 3 PAGE Waniołek Joseph - akt zgonu; rok 1852, IV Ignatzdorf, wpis nr. 22
 3 OBJE @O0420@
 1 SEX M
+1 BIRT
+2 DATE ABT 1820
+2 SOUR @S0081@
+3 PAGE Waniołek Joseph - akt zgonu; rok 1852, IV Ignatzdorf, wpis nr. 22
+3 OBJE @O0420@
+2 SOUR @S0080@
+3 PAGE Krzanowskie Marie, Waniurka Joseph - akt małżeństwa; rok 1849, str. 2, wpis nr. 2
+3 OBJE @O0419@
+1 DEAT
+2 DATE 28 SEP 1852
+2 PLAC Ignatzdorf, Katowice, Polska
+3 MAP
+4 LATI N50.284374
+4 LONG E19.010532
+2 ADDR
+3 CITY Katowice
+3 CTRY Polska
+2 SOUR @S0081@
+3 PAGE Waniołek Joseph - akt zgonu; rok 1852, IV Ignatzdorf, wpis nr. 22
+3 OBJE @O0420@
 1 FAMS @F0229@
 1 SOUR @S0080@
 2 PAGE Krzanowskie Marie, Waniurka Joseph - akt małżeństwa; rok 1849, str. 2, wpis nr. 2
@@ -5046,6 +5994,55 @@
 3 PAGE Polloczek Johann - akt chrztu; rok 1873, str. 133, wpis nr 155
 3 OBJE @O0431@
 1 SEX M
+1 BIRT
+2 DATE 4 JUL 1833
+2 PLAC Stanowice, Polska
+3 MAP
+4 LATI N50.130556
+4 LONG E18.6725
+2 ADDR
+3 POST 44-230
+3 CTRY Polska
+2 SOUR @S0109@
+3 PAGE Polloczek Josef, Pirożek Elisabeth - akt małżeństwa; rok 1863, str. 378, wpis nr 12
+3 DATA
+4 DATE 16 FEB 1863
+3 OBJE @O0470@
+2 SOUR @S0110@
+3 PAGE Pollok Joseph - akt chrztu; rok 1833, str. 46, wpis nr 64
+3 OBJE @O0471@
+1 DEAT
+2 DATE BEF 5 FEB 1898
+2 SOUR @S0099@
+3 PAGE Halama, Polloczek - akt małżeństwa; rok 1898, str. 33, wpis nr 17
+3 DATA
+4 DATE 5 FEB 1898
+3 OBJE @O0428@
+3 OBJE @O0429@
+1 RESI
+2 DATE 5 FEB 1898
+2 PLAC Wirek, Ruda Śląska, Polska
+3 MAP
+4 LATI N50.274444
+4 LONG E18.864167
+2 ADDR
+3 CITY Ruda Śląska
+3 POST 41-710
+3 CTRY Polska
+2 SOUR @S0099@
+3 PAGE Halama, Polloczek - akt małżeństwa; rok 1898, str. 33, wpis nr 17
+3 DATA
+4 DATE 5 FEB 1898
+3 OBJE @O0428@
+3 OBJE @O0429@
+1 CHR
+2 DATE 7 JUL 1833
+2 PLAC Kościół pw. św. Marii Magdaleny, Bełk, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0110@
+3 PAGE Pollok Joseph - akt chrztu; rok 1833, str. 46, wpis nr 64
+3 OBJE @O0471@
 1 FAMC @F0233@
 2 PEDI birth
 1 FAMS @F0231@
@@ -5095,6 +6092,26 @@
 2 TYPE married
 2 SURN Polloczek, Pollok
 1 SEX F
+1 BIRT
+2 DATE ABT 1842
+2 PLAC Bielszowice, Ruda Śląska, Polska
+2 ADDR
+3 CITY Ruda Śląska
+3 POST 41-711
+3 CTRY Polska
+2 SOUR @S0109@
+3 PAGE Polloczek Josef, Pirożek Elisabeth - akt małżeństwa; rok 1863, str. 378, wpis nr 12
+3 DATA
+4 DATE 16 FEB 1863
+3 OBJE @O0470@
+1 DEAT
+2 DATE BEF 5 FEB 1898
+2 SOUR @S0099@
+3 PAGE Halama, Polloczek - akt małżeństwa; rok 1898, str. 33, wpis nr 17
+3 DATA
+4 DATE 5 FEB 1898
+3 OBJE @O0428@
+3 OBJE @O0429@
 1 FAMC @F0234@
 2 PEDI birth
 1 FAMS @F0231@
@@ -5126,6 +6143,33 @@
 2 GIVN Carl
 2 SURN Halama
 1 SEX M
+1 RESI
+2 DATE 5 FEB 1898
+2 PLAC Lipiny, Świętochłowice, Polska
+3 MAP
+4 LATI N50.305833
+4 LONG E18.901944
+2 ADDR
+3 CITY Świętochłowice
+3 POST 41-605
+3 CTRY Polska
+2 SOUR @S0099@
+3 PAGE Halama, Polloczek - akt małżeństwa; rok 1898, str. 33, wpis nr 17
+3 DATA
+4 DATE 5 FEB 1898
+3 OBJE @O0428@
+3 OBJE @O0429@
+1 RESI
+2 DATE 3 JUL 1875
+2 PLAC Davidhütte, Lipiny, Świętochłowice, Polska
+2 ADDR
+3 CITY Świętochłowice
+3 CTRY Polska
+2 SOUR @S0103@
+3 PAGE Halama Albert - akt urodzenia; rok 1875, wpis nr 307
+3 DATA
+4 DATE 3 JUL 1876
+3 OBJE @O0432@
 1 FACT stolarz (tischler)
 2 TYPE Occupation
 2 SOUR @S0099@
@@ -5154,6 +6198,33 @@
 2 GIVN Florentine
 2 SURN Przikling
 1 SEX F
+1 RESI
+2 DATE 5 FEB 1898
+2 PLAC Lipiny, Świętochłowice, Polska
+3 MAP
+4 LATI N50.305833
+4 LONG E18.901944
+2 ADDR
+3 CITY Świętochłowice
+3 POST 41-605
+3 CTRY Polska
+2 SOUR @S0099@
+3 PAGE Halama, Polloczek - akt małżeństwa; rok 1898, str. 33, wpis nr 17
+3 DATA
+4 DATE 5 FEB 1898
+3 OBJE @O0428@
+3 OBJE @O0429@
+1 RESI
+2 DATE 3 JUL 1875
+2 PLAC Davidhütte, Lipiny, Świętochłowice, Polska
+2 ADDR
+3 CITY Świętochłowice
+3 CTRY Polska
+2 SOUR @S0103@
+3 PAGE Halama Albert - akt urodzenia; rok 1875, wpis nr 307
+3 DATA
+4 DATE 3 JUL 1876
+3 OBJE @O0432@
 1 FAMS @F0232@
 1 SOUR @S0099@
 2 PAGE Halama, Polloczek - akt małżeństwa; rok 1898, str. 33, wpis nr 17
@@ -5174,6 +6245,21 @@
 2 GIVN Albert
 2 SURN Halama
 1 SEX M
+1 BIRT
+2 DATE 3 JUL 1875
+2 PLAC Lipiny, Świętochłowice, Polska
+3 MAP
+4 LATI N50.305833
+4 LONG E18.901944
+2 ADDR
+3 CITY Świętochłowice
+3 POST 41-605
+3 CTRY Polska
+2 SOUR @S0103@
+3 PAGE Halama Albert - akt urodzenia; rok 1875, wpis nr 307
+3 DATA
+4 DATE 3 JUL 1876
+3 OBJE @O0432@
 1 FAMC @F0232@
 2 PEDI birth
 1 SOUR @S0103@
@@ -5189,6 +6275,28 @@
 2 GIVN Marie
 2 SURN Polloczek
 1 SEX F
+1 BIRT
+2 DATE 13 JAN 1869
+2 PLAC Wirek, Ruda Śląska, Polska
+3 MAP
+4 LATI N50.274444
+4 LONG E18.864167
+2 ADDR
+3 CITY Ruda Śląska
+3 POST 41-710
+3 CTRY Polska
+2 SOUR @S0102@
+3 PAGE Polloczek Marie - akt chrztu; rok 1869, wpis nr 5
+3 OBJE @O0433@
+1 CHR
+2 DATE 17 JAN 1869
+2 PLAC Kościół pw. św. Wawrzyńca, Wirek, Ruda Śląska, Polska
+2 ADDR
+3 CITY Ruda Śląska
+3 CTRY Polska
+2 SOUR @S0102@
+3 PAGE Polloczek Marie - akt chrztu; rok 1869, wpis nr 5
+3 OBJE @O0433@
 1 FAMC @F0231@
 2 PEDI birth
 1 SOUR @S0102@
@@ -5202,6 +6310,15 @@
 2 GIVN Philipp Johann
 2 SURN Krzanowski
 1 SEX M
+1 BIRT
+2 DATE 26 APR 1825
+2 PLAC Ignatzdorf, Katowice, Polska
+2 ADDR
+3 CITY Katowice
+3 CTRY Polska
+2 SOUR @S0079@
+3 PAGE Krzanowski Philipp - akt chrztu; rok 1825, str. 265, wpis nr 48
+3 OBJE @O0434@
 1 FAMC @F0230@
 2 PEDI birth
 1 SOUR @S0079@
@@ -5219,6 +6336,52 @@
 1 NAME  /Polok/
 2 SPFX Polok
 1 SEX F
+1 BIRT
+2 DATE 27 APR 1871
+2 PLAC Wirek, Ruda Śląska, Polska
+3 MAP
+4 LATI N50.274444
+4 LONG E18.864167
+2 ADDR
+3 CITY Ruda Śląska
+3 POST 41-710
+3 CTRY Polska
+2 SOUR @S0102@
+3 PAGE Polloczek Franciska - akt chrztu; rok 1871, wpis nr 90
+3 OBJE @O0435@
+1 DEAT
+2 DATE 19 JAN 1873
+2 PLAC Wirek, Ruda Śląska, Polska
+3 MAP
+4 LATI N50.274444
+4 LONG E18.864167
+2 ADDR
+3 CITY Ruda Śląska
+3 POST 41-710
+3 CTRY Polska
+2 SOUR @S0076@
+3 PAGE Polloczek Franciska - akt zgonu; rok 1971, wpis nr 7
+3 OBJE @O0436@
+1 CHR
+2 DATE 30 APR 1871
+2 PLAC Kościół pw. św. Wawrzyńca, Wirek, Ruda Śląska, Polska
+2 ADDR
+3 CITY Ruda Śląska
+3 CTRY Polska
+2 SOUR @S0102@
+3 PAGE Polloczek Franciska - akt chrztu; rok 1871, wpis nr 90
+3 OBJE @O0435@
+1 EVEN przyczna zgonu: wychudzenie lub wycieńczenie (niem. Auszehrung)
+2 TYPE Cause Of Death
+2 DATE 19 JAN 1873
+2 PLAC Wirek, Ruda Śląska, Polska
+3 MAP
+4 LATI N50.274444
+4 LONG E18.864167
+2 ADDR
+3 CITY Ruda Śląska
+3 POST 41-710
+3 CTRY Polska
 1 FAMC @F0231@
 2 PEDI birth
 1 SOUR @S0102@
@@ -5283,6 +6446,24 @@
 2 GIVN Johanna
 2 SURN Krzanowski
 1 SEX F
+1 BIRT
+2 DATE 28 MAY 1830
+2 PLAC Ignatzdorf, Katowice, Polska
+2 ADDR
+3 CITY Katowice
+3 CTRY Polska
+2 SOUR @S0079@
+3 PAGE Krzanowski Johanna - akt chrztu; str. 400, Ignatzdorf, wpis nr 10
+3 OBJE @O0472@
+1 CHR
+2 DATE 30 MAY 1830
+2 PLAC Kościół pw. św. Michała Archanioła, Ignatzdorf, Katowice, Polska
+2 ADDR
+3 CITY Katowice
+3 CTRY Polska
+2 SOUR @S0079@
+3 PAGE Krzanowski Johanna - akt chrztu; str. 400, Ignatzdorf, wpis nr 10
+3 OBJE @O0472@
 1 FAMC @F0230@
 2 PEDI birth
 1 SOUR @S0079@
@@ -5296,6 +6477,24 @@
 2 GIVN Franz
 2 SURN Krzanowski
 1 SEX M
+1 BIRT
+2 DATE 30 SEP 1832
+2 PLAC Ignatzdorf, Katowice, Polska
+2 ADDR
+3 CITY Katowice
+3 CTRY Polska
+2 SOUR @S0079@
+3 PAGE Krzanowski Franz - akt chrztu; rok 1832, str. 433, wpis nr 48
+3 OBJE @O0473@
+1 CHR
+2 DATE 30 SEP 1832
+2 PLAC Kościół pw. św. Michała Archanioła, Ignatzdorf, Katowice, Polska
+2 ADDR
+3 CITY Katowice
+3 CTRY Polska
+2 SOUR @S0079@
+3 PAGE Krzanowski Franz - akt chrztu; rok 1832, str. 433, wpis nr 48
+3 OBJE @O0473@
 1 FAMC @F0230@
 2 PEDI birth
 1 SOUR @S0079@
@@ -5309,6 +6508,19 @@
 2 GIVN Franz
 2 SURN Wentland
 1 SEX M
+1 BIRT
+2 DATE 25 FEB 1879
+2 PLAC Popówko, Polska
+3 MAP
+4 LATI N52.630352
+4 LONG E16.67413
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0111@
+3 PAGE Wendlandt Franz - akt urodzenia; wpis nr 36
+3 DATA
+4 DATE 28 FEB 1879
+3 OBJE @O0474@
 1 FAMC @F500081@
 2 PEDI birth
 1 SOUR @S0111@
@@ -5324,6 +6536,16 @@
 2 GIVN Marianna
 2 SURN Wentland
 1 SEX F
+1 BIRT
+2 DATE 1859
+2 SOUR @S0112@
+3 PAGE Wentland Franciszek - akt zgonu; wpis nr 39
+3 OBJE @O0476@
+1 DEAT
+2 DATE AFT 1868
+2 SOUR @S0112@
+3 PAGE Wentland Franciszek - akt zgonu; wpis nr 39
+3 OBJE @O0476@
 1 FAMC @F0124@
 2 PEDI birth
 1 SOUR @S0112@
@@ -5340,6 +6562,16 @@
 3 PAGE Wentland Franciszek - akt zgonu; wpis nr 39
 3 OBJE @O0476@
 1 SEX F
+1 BIRT
+2 DATE 1851
+2 SOUR @S0112@
+3 PAGE Wentland Franciszek - akt zgonu; wpis nr 39
+3 OBJE @O0476@
+1 DEAT
+2 DATE AFT 1868
+2 SOUR @S0112@
+3 PAGE Wentland Franciszek - akt zgonu; wpis nr 39
+3 OBJE @O0476@
 1 FAMC @F0124@
 2 PEDI birth
 1 SOUR @S0112@
@@ -5353,6 +6585,19 @@
 2 GIVN Zofia
 2 SURN Dziadek
 1 SEX F
+1 BIRT
+2 DATE ABT 1814
+2 PLAC Czajków, Polska
+3 MAP
+4 LATI N51.491929
+4 LONG E18.325164
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0114@
+3 PAGE Dziadek Zofia, Sibiński Jan - akt małżeństwa; wpis nr 53
+3 DATA
+4 DATE 24 NOV 1835
+3 OBJE @O0478@
 1 FAMS @F0235@
 1 SOUR @S0114@
 2 PAGE Dziadek Zofia, Sibiński Jan - akt małżeństwa; wpis nr 53
@@ -5367,6 +6612,13 @@
 2 GIVN Antonina
 2 SURN Skorupa
 1 SEX F
+1 BIRT
+2 DATE ABT 1803
+2 SOUR @S0115@
+3 PAGE Sibiński Jan, Skorupa Antonina - akt małżeństwa; wpis nr 26
+3 DATA
+4 DATE 9 MAY 1850
+3 OBJE @O0479@
 1 FAMS @F0236@
 1 SOUR @S0115@
 2 PAGE Sibiński Jan, Skorupa Antonina - akt małżeństwa; wpis nr 26
@@ -5381,6 +6633,38 @@
 2 GIVN Jan
 2 SURN Podsiadło
 1 SEX M
+1 BIRT
+2 DATE 14 MAY 1844
+2 PLAC Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.631869
+4 LONG E20.486976
+2 ADDR
+3 POST 28-313
+3 CTRY Polska
+2 SOUR @S0118@
+3 PAGE Podsiadło Andrzej - akt chrztu; wpis nr 122
+3 DATA
+4 DATE 1 NOV 1880
+3 OBJE @O0482@
+2 SOUR @S0139@
+3 PAGE Podsiadło Jan - akt chrztu; wpis nr 62
+3 DATA
+4 DATE 15 MAY 1844
+3 OBJE @O0508@
+1 CHR
+2 DATE 15 MAY 1844
+2 PLAC Kościół św. Mikołaja, Imielno, Polska
+3 MAP
+4 LATI N50.584722
+4 LONG E20.444722
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0139@
+3 PAGE Podsiadło Jan - akt chrztu; wpis nr 62
+3 DATA
+4 DATE 15 MAY 1844
+3 OBJE @O0508@
 1 FAMC @F0242@
 2 PEDI birth
 1 FAMS @F0237@
@@ -5446,6 +6730,13 @@
 2 GIVN Marianna
 2 SURN Kielesińska
 1 SEX F
+1 BIRT
+2 DATE ABT 1845
+2 SOUR @S0118@
+3 PAGE Podsiadło Andrzej - akt chrztu; wpis nr 122
+3 DATA
+4 DATE 1 NOV 1880
+3 OBJE @O0482@
 1 FAMS @F0237@
 1 SOUR @S0117@
 2 PAGE Dudała Marianna, Podsiadło Andrzej - akt małżeństwa; str. 116, wpis nr 25
@@ -5590,6 +6881,29 @@
 2 GIVN Antoni
 2 SURN Podsiadło
 1 SEX M
+1 BIRT
+2 DATE 9 JUN 1908
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0119@
+3 PAGE Podsiadło Antoni - akt chrztu; wpis nr 123
+3 DATA
+4 DATE 10 JUN 1908
+3 OBJE @O0483@
+1 DEAT
+2 DATE 21 SEP 1908
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0001@
+3 PAGE https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=D&w=13sk&rid=D&search_lastname=Duda%C5%82a&search_name=Marianna&search_lastname2=Podsiad%C5%82o&search_name2=&from_date=&to_date=
 1 FAMC @F500036@
 2 PEDI birth
 1 SOUR @S0119@
@@ -5732,19 +7046,40 @@
 2 SURN Jakubczyk
 1 SEX F
 1 BIRT
-2 DATE about 1843
+2 DATE ABT 1843
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
 2 SOUR @S0136@
 3 PAGE Suchanek Waleria - akt urodzenia; wpis nr 104
 3 DATA
 4 DATE 4 JUN 1866
 3 OBJE @O0506@
+2 SOUR @S0224@
+3 PAGE Jakubczyk Anna - akt zgonu; rok 1902, wpis nr 46
+3 OBJE @O0663@
 1 DEAT
-2 DATE after 1900-04-18
+2 TYPE wdowa
+2 DATE 14 APR 1902
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
 2 SOUR @S0131@
 3 PAGE Fatyga Marianna, Suchanek Wincenty - akt małżeństwa; wpis nr 11
 3 DATA
 4 DATE 18 APR 1900
 3 OBJE @O0500@
+2 SOUR @S0224@
+3 PAGE Jakubczyk Anna - akt zgonu; rok 1902, wpis nr 46
+3 OBJE @O0663@
+1 FAMC @F0289@
+2 PEDI birth
 1 FAMS @F0241@
 1 SOUR @S0131@
 2 PAGE Fatyga Marianna, Suchanek Wincenty - akt małżeństwa; wpis nr 11
@@ -5758,14 +7093,31 @@
 2 OBJE @O0506@
 1 SOUR @S0137@
 2 PAGE Suchanek Katarzyna - akt chrztu; wpis nr 233
+1 SOUR @S0224@
+2 PAGE Jakubczyk Anna - akt zgonu; rok 1902, wpis nr 46
+2 OBJE @O0663@
 1 CHAN
-2 DATE 25 NOV 2020
-3 TIME 20:05:46
+2 DATE 14 APR 2022
+3 TIME 20:15:41
 0 @I0419@ INDI
 1 NAME Waleria /Suchanek/
 2 GIVN Waleria
 2 SURN Suchanek
 1 SEX F
+1 BIRT
+2 DATE 4 JUN 1866
+2 PLAC Wierzbica, Kije, pińczowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.630329
+4 LONG E20.563648
+2 ADDR
+3 POST 28-404
+3 CTRY Polska
+2 SOUR @S0136@
+3 PAGE Suchanek Waleria - akt urodzenia; wpis nr 104
+3 DATA
+4 DATE 4 JUN 1866
+3 OBJE @O0506@
 1 FAMC @F0241@
 2 PEDI birth
 1 SOUR @S0136@
@@ -5781,6 +7133,16 @@
 2 GIVN Katarzyna
 2 SURN Suchanek
 1 SEX F
+1 BIRT
+2 DATE 13 NOV 1869
+2 PLAC Lipnik, Kije, pińczowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.607046
+4 LONG E20.584863
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0137@
+3 PAGE Suchanek Katarzyna - akt chrztu; wpis nr 233
 1 FAMC @F0241@
 2 PEDI birth
 1 SOUR @S0137@
@@ -5793,6 +7155,19 @@
 2 GIVN Anna
 2 SURN Podsiadło
 1 SEX F
+1 BIRT
+2 DATE 27 JUN 1868
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0138@
+3 PAGE Podsiadło Anna - akt chrztu; wpis nr 97
+3 DATA
+4 DATE 27 JUN 1868
+3 OBJE @O0507@
 1 FAMC @F0237@
 2 PEDI birth
 1 SOUR @S0138@
@@ -5813,6 +7188,44 @@
 2 GIVN Marcin
 2 SURN Podsiadło
 1 SEX M
+1 BIRT
+2 DATE 16 OCT 1807
+2 PLAC Dom nr 23, Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0139@
+3 PAGE Podsiadło Jan - akt chrztu; wpis nr 62
+3 DATA
+4 DATE 15 MAY 1844
+3 OBJE @O0508@
+2 SOUR @S0141@
+3 PAGE Kieliś Łucja, Podsiadło Marcin - akt małżeństwa; wpis nr 14
+3 DATA
+4 DATE 18 FEB 1828
+3 OBJE @O0509@
+2 SOUR @S0142@
+3 PAGE Podsiadło Marcin - akt chrztu; rok 1807
+3 OBJE @O0548@
+1 RESI
+2 DATE 1844
+2 PLAC Dom nr 17, Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0139@
+3 PAGE Podsiadło Jan - akt chrztu; wpis nr 62
+3 DATA
+4 DATE 15 MAY 1844
+3 OBJE @O0508@
+1 RESI
+2 DATE 18 FEB 1828
+2 PLAC Dom nr 24, Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0141@
+3 PAGE Kieliś Łucja, Podsiadło Marcin - akt małżeństwa; wpis nr 14
+3 DATA
+4 DATE 18 FEB 1828
+3 OBJE @O0509@
 1 FACT zagrodnik
 2 TYPE Occupation
 2 SOUR @S0139@
@@ -5856,6 +7269,38 @@
 2 GIVN Łucja
 2 SURN Kieliś
 1 SEX F
+1 BIRT
+2 DATE 24 NOV 1809
+2 PLAC Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.631869
+4 LONG E20.486976
+2 ADDR
+3 POST 28-313
+3 CTRY Polska
+2 SOUR @S0139@
+3 PAGE Podsiadło Jan - akt chrztu; wpis nr 62
+3 DATA
+4 DATE 15 MAY 1844
+3 OBJE @O0508@
+2 SOUR @S0141@
+3 PAGE Kieliś Łucja, Podsiadło Marcin - akt małżeństwa; wpis nr 14
+3 DATA
+4 DATE 18 FEB 1828
+3 OBJE @O0509@
+2 SOUR @S0142@
+3 PAGE Kieliś Łucja - akt urodzenia; str. 82
+3 OBJE @O0510@
+1 RESI
+2 DATE 18 FEB 1828
+2 PLAC Dom nr 11, Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0141@
+3 PAGE Kieliś Łucja, Podsiadło Marcin - akt małżeństwa; wpis nr 14
+3 DATA
+4 DATE 18 FEB 1828
+3 OBJE @O0509@
 1 FACT katolickie
 2 TYPE Wyznanie
 2 SOUR @S0141@
@@ -5892,6 +7337,33 @@
 2 GIVN Jakub
 2 SURN Podsiadło
 1 SEX M
+1 BIRT
+2 DATE ABT 1770
+2 SOUR @S0155@
+3 PAGE Borkowa Magdalena - akt zgonu; wpis nr 50
+3 QUAY 1
+3 OBJE @O0549@
+1 DEAT
+2 DATE AFT 5 OCT 1830
+2 SOUR @S0141@
+3 PAGE Kieliś Łucja, Podsiadło Marcin - akt małżeństwa; wpis nr 14
+3 DATA
+4 DATE 18 FEB 1828
+3 OBJE @O0509@
+2 SOUR @S0155@
+3 PAGE Borkowa Magdalena - akt zgonu; wpis nr 50
+3 QUAY 1
+3 OBJE @O0549@
+1 RESI
+2 DATE 18 FEB 1828
+2 PLAC Dom nr 24, Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0141@
+3 PAGE Kieliś Łucja, Podsiadło Marcin - akt małżeństwa; wpis nr 14
+3 DATA
+4 DATE 18 FEB 1828
+3 OBJE @O0509@
 1 FAMS @F0243@
 1 SOUR @S0141@
 2 PAGE Kieliś Łucja, Podsiadło Marcin - akt małżeństwa; wpis nr 14
@@ -5916,6 +7388,40 @@
 3 PAGE Podsiadło Marcin - akt chrztu; rok 1807
 3 OBJE @O0548@
 1 SEX F
+1 BIRT
+2 DATE ABT 1770
+2 SOUR @S0155@
+3 PAGE Borkowa Magdalena - akt zgonu; wpis nr 50
+3 QUAY 1
+3 OBJE @O0549@
+1 DEAT
+2 DATE 5 OCT 1830
+2 PLAC Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.631869
+4 LONG E20.486976
+2 ADDR
+3 POST 28-313
+3 CTRY Polska
+2 SOUR @S0141@
+3 PAGE Kieliś Łucja, Podsiadło Marcin - akt małżeństwa; wpis nr 14
+3 DATA
+4 DATE 18 FEB 1828
+3 OBJE @O0509@
+2 SOUR @S0155@
+3 PAGE Borkowa Magdalena - akt zgonu; wpis nr 50
+3 QUAY 1
+3 OBJE @O0549@
+1 RESI
+2 DATE 18 FEB 1828
+2 PLAC Dom nr 24, Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0141@
+3 PAGE Kieliś Łucja, Podsiadło Marcin - akt małżeństwa; wpis nr 14
+3 DATA
+4 DATE 18 FEB 1828
+3 OBJE @O0509@
 1 FAMS @F0243@
 1 SOUR @S0141@
 2 PAGE Kieliś Łucja, Podsiadło Marcin - akt małżeństwa; wpis nr 14
@@ -5937,6 +7443,23 @@
 2 GIVN Wojciech
 2 SURN Kielesiński
 1 SEX M
+1 DEAT
+2 DATE AFT 18 FEB 1828
+2 SOUR @S0141@
+3 PAGE Kieliś Łucja, Podsiadło Marcin - akt małżeństwa; wpis nr 14
+3 DATA
+4 DATE 18 FEB 1828
+3 OBJE @O0509@
+1 RESI
+2 DATE 18 FEB 1828
+2 PLAC Dom nr 11, Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0141@
+3 PAGE Kieliś Łucja, Podsiadło Marcin - akt małżeństwa; wpis nr 14
+3 DATA
+4 DATE 18 FEB 1828
+3 OBJE @O0509@
 1 FAMS @F0244@
 1 SOUR @S0141@
 2 PAGE Kieliś Łucja, Podsiadło Marcin - akt małżeństwa; wpis nr 14
@@ -5957,6 +7480,23 @@
 3 PAGE Kieliś Łucja - akt urodzenia; str. 82
 3 OBJE @O0510@
 1 SEX F
+1 DEAT
+2 DATE AFT 18 FEB 1828
+2 SOUR @S0141@
+3 PAGE Kieliś Łucja, Podsiadło Marcin - akt małżeństwa; wpis nr 14
+3 DATA
+4 DATE 18 FEB 1828
+3 OBJE @O0509@
+1 RESI
+2 DATE 18 FEB 1828
+2 PLAC Dom nr 11, Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0141@
+3 PAGE Kieliś Łucja, Podsiadło Marcin - akt małżeństwa; wpis nr 14
+3 DATA
+4 DATE 18 FEB 1828
+3 OBJE @O0509@
 1 FAMS @F0244@
 1 SOUR @S0141@
 2 PAGE Kieliś Łucja, Podsiadło Marcin - akt małżeństwa; wpis nr 14
@@ -5974,6 +7514,41 @@
 2 GIVN Wojciech
 2 SURN Fatyga
 1 SEX M
+1 BIRT
+2 DATE 28 MAR 1817
+2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.616498
+4 LONG E20.52293
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0176@
+3 PAGE Fatyga Wojciech, Trzeciak Katarzyna - akt małżeństwa; rok 1839, wpis nr 31
+3 DATA
+4 DATE 1839
+3 OBJE @O0565@
+2 SOUR @S0001@
+3 PAGE Fatyga Wojciech - akt urodzenia; rok 1817
+3 DATA
+4 DATE 1817
+1 DEAT
+2 DATE 30 JAN 1872
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0143@
+3 PAGE Fatyga Florian, Madejczyk Franciszka - akt małżeństwa; wpis nr 5
+3 DATA
+4 DATE 5 FEB 1872
+3 OBJE @O0511@
+2 SOUR @S0143@
+3 PAGE Fatyga Wojciech - akt zgonu; rok 1872, wpis nr 9
+3 DATA
+4 DATE 1 FEB 1872
+3 OBJE @O0569@
 1 FACT Zagrodnik, włościanin
 2 TYPE Occupation
 2 SOUR @S0144@
@@ -6016,6 +7591,41 @@
 2 GIVN Katarzyna
 2 SURN Trzeciak
 1 SEX F
+1 BIRT
+2 DATE ABT 1813
+2 PLAC Rębów, Kije, pińczowski, świętokrzyskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0176@
+3 PAGE Fatyga Wojciech, Trzeciak Katarzyna - akt małżeństwa; rok 1839, wpis nr 31
+3 DATA
+4 DATE 1839
+3 OBJE @O0565@
+2 SOUR @S0144@
+3 PAGE Fatyga Florian - akt urodzenia; wpis nr 62
+3 DATA
+4 DATE 26 APR 1844
+3 OBJE @O0532@
+1 DEAT
+2 DATE AFT 5 FEB 1872
+2 SOUR @S0143@
+3 PAGE Fatyga Florian, Madejczyk Franciszka - akt małżeństwa; wpis nr 5
+3 DATA
+4 DATE 5 FEB 1872
+3 OBJE @O0511@
+1 RESI
+2 DATE 5 FEB 1872
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0143@
+3 PAGE Fatyga Florian, Madejczyk Franciszka - akt małżeństwa; wpis nr 5
+3 DATA
+4 DATE 5 FEB 1872
+3 OBJE @O0511@
 1 FACT chłopka
 2 TYPE Occupation
 2 SOUR @S0143@
@@ -6056,6 +7666,51 @@
 2 GIVN Tomasz
 2 SURN Madejczyk
 1 SEX M
+1 BIRT
+2 DATE BET 1816 AND 1822
+2 SOUR @S0143@
+3 PAGE Fatyga Florian, Madejczyk Franciszka - akt małżeństwa; wpis nr 5
+3 DATA
+4 DATE 5 FEB 1872
+3 OBJE @O0511@
+2 SOUR @S0153@
+3 PAGE Madejczyk Tomasz, Stopieńska Katarzyna - akt małżeństwa; str. 45, rok 1840, wpis nr 20
+3 DATA
+4 DATE 27 OCT 1840
+3 OBJE @O0538@
+2 SOUR @S0163@
+3 PAGE Madejczyk Franciszka - akt urodzenia; str. 6, wpis nr 21
+3 OBJE @O0554@
+1 DEAT
+2 DATE AFT 5 FEB 1872
+2 SOUR @S0143@
+3 PAGE Fatyga Florian, Madejczyk Franciszka - akt małżeństwa; wpis nr 5
+3 DATA
+4 DATE 5 FEB 1872
+3 OBJE @O0511@
+1 RESI
+2 DATE 5 FEB 1872
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0143@
+3 PAGE Fatyga Florian, Madejczyk Franciszka - akt małżeństwa; wpis nr 5
+3 DATA
+4 DATE 5 FEB 1872
+3 OBJE @O0511@
+1 RESI
+2 DATE 27 OCT 1840
+2 PLAC Dom nr 50, Motkowice, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0153@
+3 PAGE Madejczyk Tomasz, Stopieńska Katarzyna - akt małżeństwa; str. 45, rok 1840, wpis nr 20
+3 DATA
+4 DATE 27 OCT 1840
+3 OBJE @O0538@
 1 FACT chłop
 2 TYPE Occupation
 2 SOUR @S0143@
@@ -6092,6 +7747,39 @@
 2 GIVN Katarzyna
 2 SURN Stopińska
 1 SEX F
+1 BIRT
+2 DATE ABT 1822
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0153@
+3 PAGE Madejczyk Tomasz, Stopieńska Katarzyna - akt małżeństwa; str. 45, rok 1840, wpis nr 20
+3 DATA
+4 DATE 27 OCT 1840
+3 OBJE @O0538@
+2 SOUR @S0163@
+3 PAGE Madejczyk Franciszka - akt urodzenia; str. 6, wpis nr 21
+3 OBJE @O0554@
+1 DEAT
+2 DATE BEF 5 FEB 1872
+2 SOUR @S0143@
+3 PAGE Fatyga Florian, Madejczyk Franciszka - akt małżeństwa; wpis nr 5
+3 DATA
+4 DATE 5 FEB 1872
+3 OBJE @O0511@
+1 RESI
+2 DATE 27 OCT 1840
+2 PLAC Dom nr 30, Motkowice, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0153@
+3 PAGE Madejczyk Tomasz, Stopieńska Katarzyna - akt małżeństwa; str. 45, rok 1840, wpis nr 20
+3 DATA
+4 DATE 27 OCT 1840
+3 OBJE @O0538@
 1 FAMC @F0258@
 2 PEDI birth
 1 FAMS @F0246@
@@ -6116,6 +7804,21 @@
 2 GIVN Florian
 2 SURN Fatyga
 1 SEX M
+1 BIRT
+2 DATE 4 APR 1777
+2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.616498
+4 LONG E20.52293
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0001@
+3 PAGE Fatyga Jadwiga - akt chrztu; rok 1819, wpis nr 105
+3 DATA
+4 DATE 1819
+2 SOUR @S0149@
+3 PAGE Fatyga Florian - akt urodzenia; str 94, rok 1777
+3 OBJE @O0516@
 1 FAMC @F0251@
 2 PEDI birth
 1 FAMS @F0247@
@@ -6152,6 +7855,22 @@
 2 GIVN Agnieszka
 2 SURN Kostoń
 1 SEX F
+1 BIRT
+2 DATE 19 JAN 1785
+2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.616498
+4 LONG E20.52293
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0001@
+3 PAGE Fatyga Jadwiga - akt chrztu; rok 1819, wpis nr 105
+3 DATA
+4 DATE 1819
+2 SOUR @S0001@
+3 PAGE Kostoń Agnieszka - akt chrztu; rok 1785
+3 DATA
+4 DATE 1785
 1 FAMC @F0249@
 2 PEDI birth
 1 FAMS @F0247@
@@ -6233,6 +7952,18 @@
 2 GIVN Jadwiga
 2 SURN Fatyga
 1 SEX F
+1 BIRT
+2 DATE 8 OCT 1819
+2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.616498
+4 LONG E20.52293
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0001@
+3 PAGE Fatyga Jadwiga - akt chrztu; rok 1819, wpis nr 105
+3 DATA
+4 DATE 1819
 1 FAMC @F0247@
 2 PEDI birth
 1 SOUR @S0001@
@@ -6247,6 +7978,23 @@
 2 GIVN Franciszek
 2 SURN Kostoń
 1 SEX M
+1 BIRT
+2 DATE ABT 1754
+2 SOUR @S0146@
+3 PAGE Kostoń Franciszek - akt zgonu; rok 1814, wpis nr 8
+3 DATA
+4 DATE 10 JAN 1814
+3 OBJE @O0513@
+1 DEAT
+2 DATE 9 JAN 1814
+2 PLAC Dom nr 9, Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0146@
+3 PAGE Kostoń Franciszek - akt zgonu; rok 1814, wpis nr 8
+3 DATA
+4 DATE 10 JAN 1814
+3 OBJE @O0513@
 1 FACT chłop (łac. pracowity)
 2 TYPE Occupation
 2 SOUR @S0145@
@@ -6286,6 +8034,23 @@
 4 DATE 1779
 3 OBJE @O0512@
 1 SEX F
+1 BIRT
+2 DATE ABT 1760
+2 SOUR @S0147@
+3 PAGE Kostoń Zofia - akt zgonu; str. 386, rok 1805
+3 OBJE @O0514@
+1 DEAT
+2 DATE 27 FEB 1805
+2 PLAC Kije, Polska
+3 MAP
+4 LATI N50.606958
+4 LONG E20.57121
+2 ADDR
+3 POST 28-404
+3 CTRY Polska
+2 SOUR @S0147@
+3 PAGE Kostoń Zofia - akt zgonu; str. 386, rok 1805
+3 OBJE @O0514@
 1 FAMS @F0249@
 1 SOUR @S0001@
 2 PAGE Kostoń Agnieszka - akt chrztu; rok 1785
@@ -6320,6 +8085,22 @@
 2 GIVN Jakub
 2 SURN Fatyga
 1 SEX M
+1 BIRT
+2 DATE ABT 1734
+2 SOUR @S0147@
+3 PAGE Fatyga Jakub - akt zgonu; rok 1794, str 327
+3 OBJE @O0518@
+1 DEAT
+2 DATE 23 AUG 1794
+2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.616498
+4 LONG E20.52293
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0147@
+3 PAGE Fatyga Jakub - akt zgonu; rok 1794, str 327
+3 OBJE @O0518@
 1 FAMS @F0251@
 1 FAMS @F0256@
 1 SOUR @S0149@
@@ -6366,6 +8147,22 @@
 2 GIVN Agnieszka
 2 SURN Góra
 1 SEX F
+1 BIRT
+2 DATE ABT 1737
+2 SOUR @S0147@
+3 PAGE Fatyga Agnieszka - akt zgonu; rok 1797, str 348
+3 OBJE @O0519@
+1 DEAT
+2 DATE 15 MAY 1797
+2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.616498
+4 LONG E20.52293
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0147@
+3 PAGE Fatyga Agnieszka - akt zgonu; rok 1797, str 348
+3 OBJE @O0519@
 1 FAMS @F0251@
 1 SOUR @S0149@
 2 PAGE Fatyga Florian - akt urodzenia; str 94, rok 1777
@@ -6411,6 +8208,17 @@
 2 GIVN Ambroży
 2 SURN Fatyga
 1 SEX M
+1 BIRT
+2 DATE 7 DEC 1767
+2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.616498
+4 LONG E20.52293
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0149@
+3 PAGE Fatyga Ambroży - akt urodzenia; rok 1767; str 41
+3 OBJE @O0520@
 1 FAMC @F0251@
 2 PEDI birth
 1 SOUR @S0149@
@@ -6424,6 +8232,17 @@
 2 GIVN Kazimierz
 2 SURN Fatyga
 1 SEX M
+1 BIRT
+2 DATE 20 MAR 1770
+2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.616498
+4 LONG E20.52293
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0149@
+3 PAGE Fatyga Kazimierz - akt urodzenia; rok 1770, str 56
+3 OBJE @O0521@
 1 FAMC @F0251@
 2 PEDI birth
 1 SOUR @S0149@
@@ -6437,6 +8256,17 @@
 2 GIVN Marcin
 2 SURN Fatyga
 1 SEX M
+1 BIRT
+2 DATE 3 NOV 1772
+2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.616498
+4 LONG E20.52293
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0149@
+3 PAGE Fatyga Marcin - akt urodzenia; rok 1772, str. 71
+3 OBJE @O0522@
 1 FAMC @F0251@
 2 PEDI birth
 1 SOUR @S0149@
@@ -6450,6 +8280,17 @@
 2 GIVN Franciszek
 2 SURN Fatyga
 1 SEX M
+1 BIRT
+2 DATE 1 OCT 1773
+2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.616498
+4 LONG E20.52293
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0149@
+3 PAGE Fatyga Franciszek - akt urodzenia; rok 1773, str. 76
+3 OBJE @O0523@
 1 FAMC @F0251@
 2 PEDI birth
 1 SOUR @S0149@
@@ -6463,6 +8304,17 @@
 2 GIVN Marianna
 2 SURN Fatyga
 1 SEX F
+1 BIRT
+2 DATE 9 APR 1779
+2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.616498
+4 LONG E20.52293
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0149@
+3 PAGE Fatyga Marianna - akt urodzenia; rok 1779, str.
+3 OBJE @O0524@
 1 FAMC @F0251@
 2 PEDI birth
 1 SOUR @S0149@
@@ -6477,6 +8329,17 @@
 2 SURN Fatyga
 2 NSFX de Pazis
 1 SEX F
+1 BIRT
+2 DATE 19 MAY 1781
+2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.616498
+4 LONG E20.52293
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0149@
+3 PAGE Fatyga Magdalena - akt urodzenia; rok 1781, str. 121
+3 OBJE @O0525@
 1 FAMC @F0251@
 2 PEDI birth
 1 SOUR @S0149@
@@ -6490,6 +8353,17 @@
 2 GIVN Jakub
 2 SURN Fatyga
 1 SEX M
+1 BIRT
+2 DATE 2 JUL 1786
+2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.616498
+4 LONG E20.52293
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0149@
+3 PAGE Fatyga Jakub - akt urodzenia; rok 1786, str. 161
+3 OBJE @O0526@
 1 FAMC @F0251@
 2 PEDI birth
 1 SOUR @S0149@
@@ -6503,6 +8377,17 @@
 2 GIVN Barbara
 2 SURN Fatyga
 1 SEX F
+1 BIRT
+2 DATE 30 NOV 1783
+2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.616498
+4 LONG E20.52293
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0149@
+3 PAGE Fatyga Barbara - akt urodzenia; rok 1783, str. 139
+3 OBJE @O0527@
 1 FAMC @F0251@
 2 PEDI birth
 1 SOUR @S0149@
@@ -6516,6 +8401,17 @@
 2 GIVN Tekla
 2 SURN Fatyga
 1 SEX F
+1 BIRT
+2 DATE 1 AUG 1787
+2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.616498
+4 LONG E20.52293
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0150@
+3 PAGE Fatyga Tekla - akt urodzenia; rok 1787, str. 2
+3 OBJE @O0528@
 1 FAMC @F0251@
 2 PEDI birth
 1 SOUR @S0150@
@@ -6540,6 +8436,8 @@
 2 GIVN Tekla
 2 SURN Mocydlarz
 1 SEX F
+1 BIRT
+2 DATE 18 SEP 1888
 1 FAMS @F0252@
 1 CHAN
 2 DATE 24 NOV 2020
@@ -6575,6 +8473,27 @@
 2 GIVN Ludwika
 2 SURN Podsiadło
 1 SEX F
+1 BIRT
+2 DATE 21 JUL 1889
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0152@
+3 PAGE Kielesiński Jan, Podsiadło Ludwika - akt małżeństwa; str 261, wpis nr 9
+3 DATA
+4 DATE 29 JAN 1919
+3 OBJE @O0531@
+2 SOUR @S0152@
+3 PAGE Podsiadło Ludwika - akt zgonu; rok 1934 nr 73
+3 DATA
+4 DATE 11 SEP 1934
+3 OBJE @O0530@
+2 SOUR @S0196@
+3 PAGE Podsiadło Ludwika - akt chrztu; rok 1889, wpis nr 121
+3 OBJE @O0612@
 1 FAMC @F0237@
 2 PEDI birth
 1 FAMS @F0254@
@@ -6599,6 +8518,13 @@
 2 GIVN Jan
 2 SURN Kielesiński
 1 SEX M
+1 BIRT
+2 DATE ABT 1884
+2 SOUR @S0152@
+3 PAGE Kielesiński Jan, Podsiadło Ludwika - akt małżeństwa; str 261, wpis nr 9
+3 DATA
+4 DATE 29 JAN 1919
+3 OBJE @O0531@
 1 FAMS @F0254@
 1 FAMS @F0255@
 1 SOUR @S0152@
@@ -6624,6 +8550,35 @@
 2 GIVN Józefa
 2 SURN Podsiadło
 1 SEX F
+1 BIRT
+2 DATE 17 MAR 1886
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0140@
+3 PAGE Podsiadło Józefa - akt zgonu; wpis nr 135
+3 DATA
+4 DATE 18 NOV 1918
+3 OBJE @O0534@
+2 SOUR @S0198@
+3 PAGE Podsiadło Józefa - akt chrztu; rok wpis nr 51
+3 OBJE @O0611@
+1 DEAT
+2 DATE 17 NOV 1918
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0140@
+3 PAGE Podsiadło Józefa - akt zgonu; wpis nr 135
+3 DATA
+4 DATE 18 NOV 1918
+3 OBJE @O0534@
 1 FAMC @F0237@
 2 PEDI birth
 1 FAMS @F0255@
@@ -6655,6 +8610,36 @@
 2 GIVN Baltazar
 2 SURN Madejczyk
 1 SEX M
+1 BIRT
+2 DATE 1756
+2 PLAC Chroberz, Złota, pińczowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.41699
+4 LONG E20.549983
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0154@
+3 PAGE Ciasnocha Magdalena, Madejczyk Baltazar - akt małżeństwa; str. 366, Motkowice, rok 1814
+3 OBJE @O0539@
+2 SOUR @S0155@
+3 PAGE Madejczyk Baltazar - akt zgonu; wpis nr 51
+3 OBJE @O0540@
+2 SOUR @S0156@
+3 PAGE Madejczyk Baltazar - akt urodzenia; rok 1756, str. 46
+3 OBJE @O0542@
+1 DEAT
+2 DATE 7 OCT 1830
+2 PLAC Dom nr 30, Motkowice, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0153@
+3 PAGE Madejczyk Tomasz, Stopieńska Katarzyna - akt małżeństwa; str. 45, rok 1840, wpis nr 20
+3 DATA
+4 DATE 27 OCT 1840
+3 OBJE @O0538@
+2 SOUR @S0155@
+3 PAGE Madejczyk Baltazar - akt zgonu; wpis nr 51
+3 OBJE @O0540@
 1 FAMC @F0260@
 2 PEDI birth
 1 FAMS @F0257@
@@ -6684,6 +8669,28 @@
 2 GIVN Magdalena
 2 SURN Ciasnocha
 1 SEX F
+1 BIRT
+2 DATE ABT 1784
+2 SOUR @S0154@
+3 PAGE Ciasnocha Magdalena, Madejczyk Baltazar - akt małżeństwa; str. 366, Motkowice, rok 1814
+3 OBJE @O0539@
+1 DEAT
+2 DATE AFT 27 OCT 1840
+2 SOUR @S0153@
+3 PAGE Madejczyk Tomasz, Stopieńska Katarzyna - akt małżeństwa; str. 45, rok 1840, wpis nr 20
+3 DATA
+4 DATE 27 OCT 1840
+3 OBJE @O0538@
+1 RESI
+2 DATE 27 OCT 1840
+2 PLAC Dom nr 50, Motkowice, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0153@
+3 PAGE Madejczyk Tomasz, Stopieńska Katarzyna - akt małżeństwa; str. 45, rok 1840, wpis nr 20
+3 DATA
+4 DATE 27 OCT 1840
+3 OBJE @O0538@
 1 FAMS @F0257@
 1 SOUR @S0153@
 2 PAGE Madejczyk Tomasz, Stopieńska Katarzyna - akt małżeństwa; str. 45, rok 1840, wpis nr 20
@@ -6704,6 +8711,36 @@
 2 GIVN Grzegorz
 2 SURN Stopiński
 1 SEX M
+1 BIRT
+2 DATE 8 MAR 1793
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0157@
+3 PAGE Rak Petronella, Stopiński Grzegorz - akt małżeństwa; wpis nr 33
+3 DATA
+4 DATE 1819
+3 OBJE @O0544@
+1 DEAT
+2 DATE AFT 27 OCT 1840
+2 SOUR @S0153@
+3 PAGE Madejczyk Tomasz, Stopieńska Katarzyna - akt małżeństwa; str. 45, rok 1840, wpis nr 20
+3 DATA
+4 DATE 27 OCT 1840
+3 OBJE @O0538@
+1 RESI
+2 DATE 27 OCT 1840
+2 PLAC Dom nr 30, Motkowice, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0153@
+3 PAGE Madejczyk Tomasz, Stopieńska Katarzyna - akt małżeństwa; str. 45, rok 1840, wpis nr 20
+3 DATA
+4 DATE 27 OCT 1840
+3 OBJE @O0538@
 1 FAMC @F0261@
 2 PEDI birth
 1 FAMS @F0258@
@@ -6725,6 +8762,36 @@
 2 GIVN Petronella
 2 SURN Raczek
 1 SEX F
+1 BIRT
+2 DATE 25 MAY 1792
+2 PLAC Rębów, Kije, pińczowski, świętokrzyskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0157@
+3 PAGE Rak Petronella, Stopiński Grzegorz - akt małżeństwa; wpis nr 33
+3 DATA
+4 DATE 1819
+3 OBJE @O0544@
+2 SOUR @S0158@
+3 PAGE Rak Petronella - wypis aktu chrztu; str. 50
+3 OBJE @O0545@
+1 DEAT
+2 DATE AFT 27 OCT 1840
+2 SOUR @S0153@
+3 PAGE Madejczyk Tomasz, Stopieńska Katarzyna - akt małżeństwa; str. 45, rok 1840, wpis nr 20
+3 DATA
+4 DATE 27 OCT 1840
+3 OBJE @O0538@
+1 RESI
+2 DATE 27 OCT 1840
+2 PLAC Dom nr 30, Motkowice, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0153@
+3 PAGE Madejczyk Tomasz, Stopieńska Katarzyna - akt małżeństwa; str. 45, rok 1840, wpis nr 20
+3 DATA
+4 DATE 27 OCT 1840
+3 OBJE @O0538@
 1 FAMC @F0262@
 2 PEDI birth
 1 FAMS @F0258@
@@ -6813,6 +8880,19 @@
 2 GIVN Jacek
 2 SURN Rak
 1 SEX M
+1 BIRT
+2 DATE ABT 1747
+2 SOUR @S0158@
+3 PAGE Rak Jacek - wypis aktu zgonu; str 51
+3 OBJE @O0546@
+1 DEAT
+2 DATE 30 OCT 1798
+2 PLAC Rębów, Kije, pińczowski, świętokrzyskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0158@
+3 PAGE Rak Jacek - wypis aktu zgonu; str 51
+3 OBJE @O0546@
 1 FAMS @F0262@
 1 SOUR @S0157@
 2 PAGE Rak Petronella, Stopiński Grzegorz - akt małżeństwa; wpis nr 33
@@ -6839,6 +8919,19 @@
 3 PAGE Kuczma Łucja, Rak Jacek - akt małżeństwa; rok 1775, str. 163
 3 OBJE @O0547@
 1 SEX F
+1 BIRT
+2 DATE ABT 1740
+2 SOUR @S0158@
+3 PAGE Rak Łucja - wypis aktu zgonu; str. 51
+3 OBJE @O0546@
+1 DEAT
+2 DATE 3 DEC 1811
+2 PLAC Rębów, Kije, pińczowski, świętokrzyskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0158@
+3 PAGE Rak Łucja - wypis aktu zgonu; str. 51
+3 OBJE @O0546@
 1 FAMS @F0262@
 1 SOUR @S0157@
 2 PAGE Rak Petronella, Stopiński Grzegorz - akt małżeństwa; wpis nr 33
@@ -6950,6 +9043,11 @@
 2 GIVN Mateusz
 2 SURN Depka
 1 SEX M
+1 BIRT
+2 DATE ABT 1806
+2 SOUR @S0183@
+3 PAGE Depka Mateusz - akt zgonu; rok 1863, str. 144, akt nr 87
+3 OBJE @O0574@
 1 DEAT
 2 DATE 22 NOV 1863
 2 PLAC Lubocheń, Polska
@@ -7799,7 +9897,7 @@
 2 SURN Suchanek
 1 SEX M
 1 BIRT
-2 DATE BEF 28 SEP 1784
+2 DATE ABT 28 SEP 1784
 2 PLAC Motkowice, Polska
 3 MAP
 4 LATI N50.602833
@@ -7848,8 +9946,8 @@
 2 PAGE Suchanek Michał - odpis aktu chrztu; str. 3
 2 OBJE @O0640@
 1 CHAN
-2 DATE 24 FEB 2022
-3 TIME 19:40:49
+2 DATE 13 APR 2022
+3 TIME 21:04:04
 0 @I0510@ INDI
 1 NAME Elżbieta /Cieśla/
 2 GIVN Elżbieta
@@ -7942,13 +10040,35 @@
 2 GIVN Marcin
 2 SURN Suchanek
 1 SEX M
+1 BIRT
+2 DATE ABT 1743
+2 SOUR @S0223@
+3 PAGE Suchanek Marcin - akt zgonu; wpis nr 5
+3 OBJE @O0660@
+1 DEAT
+2 DATE 22 JAN 1814
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0223@
+3 PAGE Suchanek Marcin - akt zgonu; wpis nr 5
+3 OBJE @O0660@
 1 FAMS @F0284@
 1 SOUR @S0213@
 2 PAGE Suchanek Michał - odpis aktu chrztu; str. 3
 2 OBJE @O0640@
+1 SOUR @S0222@
+2 PAGE Suchanek Paweł - akt urodzenia; str. 377
+2 OBJE @O0659@
+1 SOUR @S0223@
+2 PAGE Suchanek Marcin - akt zgonu; wpis nr 5
+2 OBJE @O0660@
 1 CHAN
-2 DATE 22 FEB 2022
-3 TIME 22:13:59
+2 DATE 13 APR 2022
+3 TIME 20:36:45
 0 @I0514@ INDI
 1 NAME Jadwiga /Stępień/
 2 GIVN Jadwiga
@@ -7958,9 +10078,12 @@
 1 SOUR @S0213@
 2 PAGE Suchanek Michał - odpis aktu chrztu; str. 3
 2 OBJE @O0640@
+1 SOUR @S0222@
+2 PAGE Suchanek Paweł - akt urodzenia; str. 377
+2 OBJE @O0659@
 1 CHAN
-2 DATE 22 FEB 2022
-3 TIME 22:13:59
+2 DATE 13 APR 2022
+3 TIME 20:22:56
 0 @I0515@ INDI
 1 NAME Marianna /Koch/
 2 GIVN Marianna
@@ -7978,6 +10101,221 @@
 1 CHAN
 2 DATE 26 FEB 2022
 3 TIME 21:34:32
+0 @I0516@ INDI
+1 NAME Helena /Pipia/
+2 GIVN Helena
+2 SURN Pipia
+1 SEX F
+1 BIRT
+2 DATE ABT 1804
+2 SOUR @S0218@
+3 PAGE Pipia Helena, Wyrębski Piotr - akt małżeństwa; str. 87, wpis nr 33
+3 DATA
+4 DATE 18 NOV 1834
+3 OBJE @O0655@
+1 FAMS @F0285@
+1 SOUR @S0218@
+2 PAGE Pipia Helena, Wyrębski Piotr - akt małżeństwa; str. 87, wpis nr 33
+2 DATA
+3 DATE 18 NOV 1834
+2 OBJE @O0655@
+1 CHAN
+2 DATE 10 APR 2022
+3 TIME 21:06:01
+0 @I0517@ INDI
+1 NAME Wojciech /Wyrębski/
+2 GIVN Wojciech
+2 SURN Wyrębski
+1 SEX M
+1 DEAT
+2 DATE BEF 1809
+2 SOUR @S0218@
+3 PAGE Pipia Helena, Wyrębski Piotr - akt małżeństwa; str. 87, wpis nr 33
+3 DATA
+4 DATE 18 NOV 1834
+3 OBJE @O0655@
+2 SOUR @S0221@
+3 PAGE Grzesiek Gertruda, Wyrębski Józef - akt małżeństwa; wpis nr 6
+3 DATA
+4 DATE 23 AUG 1809
+3 OBJE @O0658@
+1 FAMS @F0286@
+1 SOUR @S0218@
+2 PAGE Pipia Helena, Wyrębski Piotr - akt małżeństwa; str. 87, wpis nr 33
+2 DATA
+3 DATE 18 NOV 1834
+2 OBJE @O0655@
+1 SOUR @S0220@
+2 PAGE Wyrębski Piotr - akt zgonu; wpis nr 12
+2 DATA
+3 DATE 26 JAN 1844
+2 OBJE @O0657@
+1 SOUR @S0221@
+2 PAGE Grzesiek Gertruda, Wyrębski Józef - akt małżeństwa; wpis nr 6
+2 DATA
+3 DATE 23 AUG 1809
+2 OBJE @O0658@
+1 CHAN
+2 DATE 12 APR 2022
+3 TIME 19:33:42
+0 @I0518@ INDI
+1 NAME Zofia /Janik/
+2 GIVN Zofia
+2 SURN Janik
+2 SOUR @S0221@
+3 PAGE Grzesiek Gertruda, Wyrębski Józef - akt małżeństwa; wpis nr 6
+3 DATA
+4 DATE 23 AUG 1809
+3 OBJE @O0658@
+1 SEX F
+1 DEAT
+2 DATE BEF 1809
+2 SOUR @S0218@
+3 PAGE Pipia Helena, Wyrębski Piotr - akt małżeństwa; str. 87, wpis nr 33
+3 DATA
+4 DATE 18 NOV 1834
+3 OBJE @O0655@
+2 SOUR @S0221@
+3 PAGE Grzesiek Gertruda, Wyrębski Józef - akt małżeństwa; wpis nr 6
+3 DATA
+4 DATE 23 AUG 1809
+3 OBJE @O0658@
+1 FAMS @F0286@
+1 SOUR @S0218@
+2 PAGE Pipia Helena, Wyrębski Piotr - akt małżeństwa; str. 87, wpis nr 33
+2 DATA
+3 DATE 18 NOV 1834
+2 OBJE @O0655@
+1 SOUR @S0220@
+2 PAGE Wyrębski Piotr - akt zgonu; wpis nr 12
+2 DATA
+3 DATE 26 JAN 1844
+2 OBJE @O0657@
+1 SOUR @S0221@
+2 PAGE Grzesiek Gertruda, Wyrębski Józef - akt małżeństwa; wpis nr 6
+2 DATA
+3 DATE 23 AUG 1809
+2 OBJE @O0658@
+1 CHAN
+2 DATE 12 APR 2022
+3 TIME 19:25:17
+0 @I0519@ INDI
+1 NAME Józef /Wyrębski/
+2 GIVN Józef
+2 SURN Wyrębski
+1 SEX M
+1 BIRT
+2 DATE ABT 1779
+2 SOUR @S0221@
+3 PAGE Grzesiek Gertruda, Wyrębski Józef - akt małżeństwa; wpis nr 6
+3 DATA
+4 DATE 23 AUG 1809
+3 OBJE @O0658@
+1 FAMC @F0286@
+2 PEDI birth
+1 FAMS @F0287@
+1 FAMS @F0288@
+1 SOUR @S0221@
+2 PAGE Grzesiek Gertruda, Wyrębski Józef - akt małżeństwa; wpis nr 6
+2 DATA
+3 DATE 23 AUG 1809
+2 OBJE @O0658@
+1 CHAN
+2 DATE 12 APR 2022
+3 TIME 19:33:42
+0 @I0520@ INDI
+1 NAME Tekla /Salamon/
+2 GIVN Tekla
+2 SURN Salamon
+1 SEX F
+1 DEAT
+2 DATE BEF 1809
+2 SOUR @S0221@
+3 PAGE Grzesiek Gertruda, Wyrębski Józef - akt małżeństwa; wpis nr 6
+3 DATA
+4 DATE 23 AUG 1809
+3 OBJE @O0658@
+1 FAMS @F0287@
+1 SOUR @S0221@
+2 PAGE Grzesiek Gertruda, Wyrębski Józef - akt małżeństwa; wpis nr 6
+2 DATA
+3 DATE 23 AUG 1809
+2 OBJE @O0658@
+1 CHAN
+2 DATE 12 APR 2022
+3 TIME 19:23:36
+0 @I0521@ INDI
+1 NAME Gertruda /Grzesiek/
+2 GIVN Gertruda
+2 SURN Grzesiek
+1 SEX F
+1 BIRT
+2 DATE ABT 1777
+2 SOUR @S0221@
+3 PAGE Grzesiek Gertruda, Wyrębski Józef - akt małżeństwa; wpis nr 6
+3 DATA
+4 DATE 23 AUG 1809
+3 OBJE @O0658@
+1 FAMS @F0288@
+1 SOUR @S0221@
+2 PAGE Grzesiek Gertruda, Wyrębski Józef - akt małżeństwa; wpis nr 6
+2 DATA
+3 DATE 23 AUG 1809
+2 OBJE @O0658@
+1 CHAN
+2 DATE 12 APR 2022
+3 TIME 19:29:01
+0 @I0522@ INDI
+1 NAME Paweł /Suchanek/
+2 GIVN Paweł
+2 SURN Suchanek
+1 SEX M
+1 BIRT
+2 DATE 23 JAN 1781
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0222@
+3 PAGE Suchanek Paweł - akt urodzenia; str. 377
+3 OBJE @O0659@
+1 FAMC @F0284@
+2 PEDI birth
+1 SOUR @S0222@
+2 PAGE Suchanek Paweł - akt urodzenia; str. 377
+2 OBJE @O0659@
+1 SOUR @S0223@
+2 PAGE Suchanek Marcin - akt zgonu; wpis nr 5
+2 OBJE @O0660@
+1 CHAN
+2 DATE 13 APR 2022
+3 TIME 21:04:04
+0 @I0523@ INDI
+1 NAME Antoni /Jakubczyk/
+2 GIVN Antoni
+2 SURN Jakubczyk
+1 SEX M
+1 FAMS @F0289@
+1 SOUR @S0224@
+2 PAGE Jakubczyk Anna - akt zgonu; rok 1902, wpis nr 46
+2 OBJE @O0663@
+1 CHAN
+2 DATE 14 APR 2022
+3 TIME 20:15:41
+0 @I0524@ INDI
+1 NAME Regina /Kałuża/
+2 GIVN Regina
+2 SURN Kałuża
+1 SEX F
+1 FAMS @F0289@
+1 SOUR @S0224@
+2 PAGE Jakubczyk Anna - akt zgonu; rok 1902, wpis nr 46
+2 OBJE @O0663@
+1 CHAN
+2 DATE 14 APR 2022
+3 TIME 20:15:41
 0 @I500004@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -8004,6 +10342,12 @@
 2 GIVN Jadwiga
 2 SURN Matuszczyk
 1 SEX F
+1 BIRT
+2 DATE 16 JUL 1914
+2 PLAC Petersburg, Rosja
+2 ADDR
+3 CITY Petersburg
+3 CTRY Rosja
 1 FACT MH:I500007
 2 TYPE RIN
 1 _UID 5D287B3DDEC95F9D8CFA02FED10EE8D5
@@ -8050,6 +10394,12 @@
 2 SURN Poloczek
 2 NICK ciocia Anielcia
 1 SEX F
+1 BIRT
+2 DATE 5 NOV 1903
+2 PLAC Chropaczów, Świętochłowice, Polska
+2 ADDR
+3 CITY Świętochłowice
+3 CTRY Polska
 1 FAMC @F0028@
 2 PEDI birth
 1 OBJE @O0455@
@@ -8095,6 +10445,17 @@
 2 SURN Poloczek
 2 NSFX Paul
 1 SEX M
+1 BIRT
+2 DATE 5 MAY 1902
+2 PLAC Chropaczów, Świętochłowice, Polska
+2 ADDR
+3 CITY Świętochłowice
+3 CTRY Polska
+2 SOUR @S0098@
+3 PAGE Akt urodzenia Paweł Poloczek; rok 1902, nr. 172
+3 DATA
+4 DATE 7 MAY 1902
+3 OBJE @O0427@
 1 FAMC @F0028@
 2 PEDI birth
 1 SOUR @S0098@
@@ -8224,6 +10585,8 @@
 2 GIVN Arthur
 2 SURN Kropp
 1 SEX M
+1 BIRT
+2 DATE 20 MAR 1920
 1 FACT MH:I500026
 2 TYPE RIN
 1 _UID 5D28DCE3BB33880965CCC5CC9ECD1875
@@ -8524,6 +10887,11 @@
 2 GIVN Józef
 2 SURN Wac
 1 SEX M
+1 BIRT
+2 DATE 10 APR 1900
+2 PLAC Czukiew, rejon samborski, obwód lwowski, Ukraina
+2 ADDR
+3 CTRY Ukraina
 1 FAMC @F0228@
 2 PEDI birth
 1 FAMS @F0162@
@@ -8535,6 +10903,8 @@
 2 GIVN Józef
 2 SURN Bek
 1 SEX M
+1 BIRT
+2 DATE 15 SEP 1905
 1 FACT MH:I500056
 2 TYPE RIN
 1 _UID 5D28EA9F3DFD5B1C6DEDF52CDE487765
@@ -9000,6 +11370,35 @@
 2 GIVN Bolesław
 2 SURN Podsiadło
 1 SEX M
+1 BIRT
+2 DATE 26 FEB 1916
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0001@
+3 PAGE http://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=13sk&rid=B&search_lastname=Podsiad%C5%82o&search_name=Boles%C5%82aw&search_lastname2=&search_name2=&from_date=&to_date=
+3 QUAY 0
+2 SOUR @S0116@
+3 PAGE Podsiadło Bolesław - akt chrztu; wpis nr 58
+3 DATA
+4 DATE 5 MAR 1916
+3 OBJE @O0480@
+1 CHR
+2 DATE 5 MAR 1916
+2 PLAC Kościół św. Mikołaja, Imielno, Polska
+3 MAP
+4 LATI N50.584722
+4 LONG E20.444722
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0116@
+3 PAGE Podsiadło Bolesław - akt chrztu; wpis nr 58
+3 DATA
+4 DATE 5 MAR 1916
+3 OBJE @O0480@
 1 FAMC @F500036@
 2 PEDI birth
 1 FAMS @F0068@
@@ -9364,6 +11763,12 @@
 2 GIVN Fryderyk
 2 SURN Wincek
 1 SEX M
+1 BIRT
+2 DATE 13 DEC 1882
+2 PLAC Nowy Bytom, Ruda Śląska, Polska
+2 ADDR
+3 CITY Ruda Śląska
+3 CTRY Polska
 1 FAMC @F500044@
 2 PEDI birth
 1 FAMS @F500045@
@@ -9379,6 +11784,8 @@
 2 GIVN Rozalia
 2 SURN Wincek
 1 SEX F
+1 BIRT
+2 DATE 20 SEP 1889
 1 FACT MH:I500133
 2 TYPE RIN
 1 _UID 5DBD6CF3A6A903F53E3FE98642531330
@@ -9395,6 +11802,12 @@
 2 GIVN Łucja
 2 SURN Bienia
 1 SEX F
+1 BIRT
+2 DATE 4 DEC 1915
+2 PLAC Nowa Wieś, Polska
+2 ADDR
+3 CITY Nowa Wieś
+3 CTRY Polska
 1 FAMC @F500045@
 2 PEDI birth
 1 FAMS @F500046@
@@ -9406,6 +11819,8 @@
 2 GIVN Roman
 2 SURN Bienia
 1 SEX M
+1 BIRT
+2 DATE 12 FEB 1910
 1 FACT MH:I500135
 2 TYPE RIN
 1 _UID 5DBD6E8330CE3CE2FA2B0890FAE90E81
@@ -9554,6 +11969,11 @@
 2 GIVN Andreas
 2 SURN Gruschka
 1 SEX M
+1 BIRT
+2 DATE ABT 1828
+2 SOUR @S0082@
+3 PAGE Gruschka Andreas, Waniołek Marianna - akt ślubu; str. 8, wpis nr 123
+3 OBJE @O0421@
 1 FAMS @F500051@
 1 SOUR @S0082@
 2 PAGE Gruschka Andreas, Waniołek Marianna - akt ślubu; str. 8, wpis nr 123
@@ -9587,6 +12007,24 @@
 3 PAGE Gruschka Andreas, Waniołek Marianna - akt ślubu; str. 8, wpis nr 123
 3 OBJE @O0421@
 1 SEX F
+1 BIRT
+2 DATE 31 JUL 1827
+2 PLAC Ignatzdorf, Katowice, Polska
+3 MAP
+4 LATI N50.284374
+4 LONG E19.010532
+2 ADDR
+3 CITY Katowice
+3 CTRY Polska
+2 SOUR @S0079@
+3 PAGE Krzanowski Marianna - akt chrztu; rok 1827, str. 318, wpis nr. 82
+3 OBJE @O0426@
+2 SOUR @S0080@
+3 PAGE Krzanowskie Marie, Waniurka Joseph - akt małżeństwa; rok 1849, str. 2, wpis nr. 2
+3 OBJE @O0419@
+2 SOUR @S0082@
+3 PAGE Gruschka Andreas, Waniołek Marianna - akt ślubu; str. 8, wpis nr 123
+3 OBJE @O0421@
 1 FAMC @F0230@
 2 PEDI birth
 1 FAMS @F500051@
@@ -9608,6 +12046,12 @@
 2 GIVN Franz
 2 SURN Gruschka
 1 SEX M
+1 BIRT
+2 DATE 11 NOV 1867
+2 PLAC Ignatzdorf, Katowice, Polska
+2 ADDR
+3 CITY Katowice
+3 CTRY Polska
 1 FACT MH:I500150
 2 TYPE RIN
 1 _UID 5DC9644DBAA9A237108F6A24B14EFCA2
@@ -9626,6 +12070,11 @@
 2 GIVN Albine Anna
 2 SURN Gruschka
 1 SEX F
+1 BIRT
+2 DATE 23 MAR 1863
+2 PLAC Kuźnia, Kreis Rosenberg O.S. (pow. Olesno), Polska
+2 ADDR
+3 CTRY Polska
 1 FACT MH:I500151
 2 TYPE RIN
 1 _UID 5DC96488BFA3DB48F4BCD2EFBC6C48AB
@@ -9640,6 +12089,17 @@
 2 GIVN Franz
 2 SURN Szyga
 1 SEX M
+1 BIRT
+2 DATE 4 OCT 1823
+2 PLAC Sausenberg Kreis Rosenberg (Szumirad, powiat Olesno, opolskie)), Polska
+2 ADDR
+3 CTRY Polska
+1 DEAT
+2 DATE 25 FEB 1896
+2 PLAC Josefsdorf, gemainde Domb (Józefowiec, gmina Dąb), Katowice, Polska
+2 ADDR
+3 CITY Katowice
+3 CTRY Polska
 1 FACT MH:I500152
 2 TYPE RIN
 1 _UID 5DC9653AC4075A1322388EDFF588B6AE
@@ -9656,6 +12116,12 @@
 2 GIVN Marie
 2 SURN Szyga
 1 SEX F
+1 DEAT
+2 DATE BEF 1884
+2 PLAC Josefsdorf, gemainde Domb (Józefowiec, gmina Dąb), Katowice, Polska
+2 ADDR
+3 CITY Katowice
+3 CTRY Polska
 1 FACT MH:I500153
 2 TYPE RIN
 1 _UID 5DC9655BCC2ABCF1DFD274E20048ECEC
@@ -9668,6 +12134,21 @@
 2 GIVN Johann
 2 SURN Moczygemba
 1 SEX M
+1 BIRT
+2 DATE 26 MAR 1835
+2 PLAC Sośnicowice, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0041@
+1 OCCU Hüttenarbeiter (pracownik huty, hutnik)
+2 DATE ABT 1888
+2 PLAC Huta, Katowice, Polska
+2 ADDR
+3 CITY Katowice
+3 CTRY Polska
+1 OCCU Fabrikant (rzemieślnik produkujący metodami rękodzielniczymi jakieś wyro
+2 CONC by na sprzedaż)
+2 DATE ABT 1863
 1 FAMC @F0121@
 2 PEDI birth
 1 FAMS @F500054@
@@ -9685,6 +12166,16 @@
 2 GIVN Johanna
 2 SURN Moczygemba
 1 SEX F
+1 BIRT
+2 DATE 16 MAY 1837
+2 PLAC Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, Polska
+3 MAP
+4 LATI N50.354722
+4 LONG E18.258611
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0042@
+3 QUAY 3
 1 FAMC @F0122@
 2 PEDI birth
 1 FAMS @F500054@
@@ -9700,6 +12191,14 @@
 2 GIVN Franzisca Selma
 2 SURN Musiol
 1 SEX F
+1 BIRT
+2 DATE 4 OCT 1869
+2 PLAC Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, Polska
+3 MAP
+4 LATI N50.354722
+4 LONG E18.258611
+2 ADDR
+3 CTRY Polska
 1 FACT MH:I500156
 2 TYPE RIN
 1 _UID 5DE81F7F679E71040C48D4C3FD00361F
@@ -9714,6 +12213,12 @@
 2 GIVN Eduard
 2 SURN Musiol
 1 SEX M
+1 BIRT
+2 DATE 12 OCT 1861
+2 PLAC Bitschin (Bycina), Polska
+2 ADDR
+3 CITY Bitschin (Bycina)
+3 CTRY Polska
 1 FACT MH:I500157
 2 TYPE RIN
 1 _UID 5DE8203E664A112D9CD9301055BC0FB3
@@ -9760,6 +12265,14 @@
 2 GIVN Philomena Marie
 2 SURN Piontek
 1 SEX F
+1 BIRT
+2 DATE 14 JUL 1865
+2 PLAC Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, Polska
+3 MAP
+4 LATI N50.354722
+4 LONG E18.258611
+2 ADDR
+3 CTRY Polska
 1 FACT MH:I500160
 2 TYPE RIN
 1 _UID 5DE8230046EA336D8519C8A280DF642D
@@ -9776,6 +12289,12 @@
 2 GIVN August Johann
 2 SURN Piontek
 1 SEX M
+1 BIRT
+2 DATE 14 JUL 1862
+2 PLAC Mittel Lagiewnik, Bytom, Polska
+2 ADDR
+3 CITY Bytom
+3 CTRY Polska
 1 FACT MH:I500161
 2 TYPE RIN
 1 _UID 5DE823451AA47FEFC89D54934E0A038F
@@ -9818,6 +12337,13 @@
 2 GIVN Bernhard
 2 SURN Chruszcz
 1 SEX M
+1 BIRT
+2 DATE 11 JUN 1833
+2 PLAC Smolna, Rybnik, Polska
+2 ADDR
+3 CITY Rybnik
+3 CTRY Polska
+2 SOUR @S0074@
 1 FACT szewc (schuhmachermeister)
 2 TYPE Occupation
 1 FACT katolickie
@@ -9840,6 +12366,12 @@
 2 GIVN Emilie
 2 SURN Chruszcz
 1 SEX F
+1 BIRT
+2 DATE 1 OCT 1836
+2 PLAC Strzelce Opolskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0074@
 1 FACT ewangelickie
 2 TYPE Wyznanie
 2 SOUR @S0074@
@@ -9865,6 +12397,8 @@
 2 GIVN Paul
 2 SURN Solorz
 1 SEX M
+1 BIRT
+2 DATE 1902
 1 FACT MH:I500167
 2 TYPE RIN
 1 _UID 5E04EB7076AE041C35043CD07317DCB5
@@ -9885,6 +12419,8 @@
 2 SURN Böhm
 2 NSFX Tante Frieda
 1 SEX F
+1 BIRT
+2 DATE 1898
 1 FACT MH:I500168
 2 TYPE RIN
 1 _UID 5E04EB89A8D706B9784BB9830BFC7B30
@@ -9921,6 +12457,8 @@
 2 SURN Aust
 2 NSFX Tante Trude
 1 SEX F
+1 BIRT
+2 DATE 1896
 1 FACT MH:I500170
 2 TYPE RIN
 1 _UID 5E14F696881A94005EF38736C6CF0A8F
@@ -10113,6 +12651,11 @@
 2 GIVN August
 2 SURN Solorz
 1 SEX M
+1 BIRT
+2 DATE 1888
+1 DEAT
+2 DATE 1918
+2 CAUS Zginął w I Wojnie Światowej
 1 FACT MH:I500183
 2 TYPE RIN
 1 _UID 5E14FF1C071C20D37EF211250955F561
@@ -10130,6 +12673,10 @@
 2 GIVN Lucie
 2 SURN Umlauf
 1 SEX F
+1 BIRT
+2 DATE 1889
+1 DEAT
+2 DATE 1912
 1 FACT MH:I500184
 2 TYPE RIN
 1 _UID 5E14FF93E6B852F9DB0BE3112C1D8A10
@@ -10156,6 +12703,8 @@
 2 GIVN Hans-Joachim
 2 SURN Umlauf
 1 SEX M
+1 BIRT
+2 DATE EST FROM 1910 TO 1911
 1 FACT MH:I500186
 2 TYPE RIN
 1 _UID 5E150033BF1A4E94BAE6471D4712CBDF
@@ -10180,6 +12729,10 @@
 2 GIVN Carl
 2 SURN Solorz
 1 SEX M
+1 BIRT
+2 DATE 1891
+1 DEAT
+2 DATE 1892
 1 FACT MH:I500188
 2 TYPE RIN
 1 _UID 5E15011D741BFE66717BDC3CAC591759
@@ -10193,6 +12746,10 @@
 2 GIVN Emil
 2 SURN Solorz
 1 SEX M
+1 BIRT
+2 DATE 1892
+1 DEAT
+2 DATE 1892
 1 FACT MH:I500189
 2 TYPE RIN
 1 _UID 5E150153187F0CA7537FAE522A22C1AD
@@ -10206,6 +12763,10 @@
 2 GIVN Elisabeth
 2 SURN Solorz
 1 SEX F
+1 BIRT
+2 DATE 1893
+1 DEAT
+2 DATE 1894
 1 FACT MH:I500190
 2 TYPE RIN
 1 _UID 5E15017D3DF2E01A3EEFE04EABF93841
@@ -10219,6 +12780,10 @@
 2 GIVN Albert
 2 SURN Solorz
 1 SEX M
+1 BIRT
+2 DATE 1895
+1 DEAT
+2 DATE 1896
 1 FACT MH:I500191
 2 TYPE RIN
 1 _UID 5E1501B6C959C2FDCF6AB7D637B104E1
@@ -10312,6 +12877,15 @@
 2 GIVN Ruth
 2 SURN Nebroj
 1 SEX F
+1 BIRT
+2 DATE 29 AUG 1920
+2 PLAC Zabrze, Polska
+3 MAP
+4 LATI N50.320093
+4 LONG E18.789534
+2 ADDR
+3 CITY Zabrze
+3 CTRY Polska
 1 FACT MH:I500199
 2 TYPE RIN
 1 _UID 5E150B5135F2211F391D7A7046D36149
@@ -10362,6 +12936,25 @@
 2 GIVN Józef
 2 SURN Sibiński
 1 SEX M
+1 BIRT
+2 DATE ABT 1867
+2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+3 MAP
+4 LATI N51.499999
+4 LONG E18.357912
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0062@
+2 SOUR @S0058@
+1 RESI
+2 DATE 27 JAN 1906
+2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+3 MAP
+4 LATI N51.499999
+4 LONG E18.357912
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0062@
 1 FACT rolnik
 2 TYPE Occupation
 2 SOUR @S0062@
@@ -10384,6 +12977,31 @@
 2 GIVN Katarzyna
 2 SURN Sibińska
 1 SEX F
+1 BIRT
+2 DATE 10 SEP 1867
+2 PLAC Lubocheń, Polska
+3 MAP
+4 LATI N53.479551
+4 LONG E18.354387
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0062@
+2 SOUR @S0087@
+1 RESI
+2 DATE 7 JAN 1894
+2 PLAC Kraszewice, Polska
+3 MAP
+4 LATI N51.518034
+4 LONG E18.220324
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0058@
+1 CHR
+2 DATE 15 SEP 1867
+2 PLAC Parafia Matki Bożej Pocieszenia, Drzycim, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0087@
 1 FAMC @F0128@
 2 PEDI birth
 1 FAMS @F0062@
@@ -10419,6 +13037,8 @@
 2 SURN Schmidt
 2 NSFX Tante Heide
 1 SEX F
+1 BIRT
+2 DATE 1900
 1 FACT MH:I500206
 2 TYPE RIN
 1 _UID 5E1510724B43C8BF68174E81C2344030
@@ -10578,6 +13198,10 @@
 2 GIVN Emil Julius
 2 SURN Solorz
 1 SEX M
+1 BIRT
+2 DATE 1901
+1 DEAT
+2 DATE 1901
 1 FACT MH:I500217
 2 TYPE RIN
 1 _UID 5E1521144D6004EDA7E124E9E919B952
@@ -10632,6 +13256,8 @@
 2 GIVN Józef
 2 SURN Chudzicki
 1 SEX M
+1 BIRT
+2 DATE 1870
 1 FACT MH:I500221
 2 TYPE RIN
 1 _UID 5DD91C90050F5C65A379FD9D433C7653
@@ -10681,6 +13307,16 @@
 2 GIVN Mieczysław
 2 SURN Podsiadło
 1 SEX M
+1 BIRT
+2 DATE ABT MAY 1919
+1 DEAT
+2 DATE 12 NOV 1920
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
 1 FACT MH:I500225
 2 TYPE RIN
 1 _UID 5E02843BD9EC1A3622E77AA7ABE510EC
@@ -10737,6 +13373,20 @@
 2 GIVN Mieczysław
 2 SURN Huńka
 1 SEX M
+1 BIRT
+2 DATE 6 SEP 1896
+2 PLAC Lwów, Ukraina
+3 MAP
+4 LATI N49.832668
+4 LONG E23.942196
+2 ADDR
+3 CTRY Ukraina
+2 SOUR @S0122@
+3 PAGE Huńka Mieczysław; Szufladka HUBI-IDZI, skan nr 646-647
+3 DATA
+4 DATE about 1933
+3 OBJE @O0488@
+3 OBJE @O0489@
 1 RESI
 2 DATE 1918
 2 PLAC Barnauł, Kraj Ałtajski, Rosja
@@ -10795,8 +13445,8 @@
 1 OBJE @O0582@
 1 OBJE @O0584@
 1 CHAN
-2 DATE 16 DEC 2021
-3 TIME 18:02:27
+2 DATE 10 APR 2022
+3 TIME 19:13:41
 0 @I500231@ INDI
 1 NAME Eugenia /Hamaryn/
 2 GIVN Eugenia
@@ -10809,6 +13459,21 @@
 2 GIVN Eugenia
 2 SURN Mamaryna
 1 SEX F
+1 BIRT
+2 DATE 1899
+2 PLAC Omsk, Rosja
+3 MAP
+4 LATI N54.983333
+4 LONG E73.366667
+2 ADDR
+3 CITY Omsk
+3 CTRY Rosja
+2 SOUR @S0000@
+3 PAGE Karta nr 317 - Huńka Ryszard
+3 DATA
+4 DATE 26 AUG 1946
+3 OBJE @O0297@
+3 OBJE @O0298@
 1 _MDCL
 2 TYPE Zachorowała na zapalenie stawów
 2 DATE 1939
@@ -10859,6 +13524,23 @@
 2 GIVN Idzi
 2 SURN Sibiński
 1 SEX M
+1 BIRT
+2 DATE 2 SEP 1897
+2 SOUR @S0068@
+1 CHR
+2 DATE 2 SEP 1897
+2 PLAC Kościół pw. św. Apostołów Piotra i Pawła, Kraszewice, Polska
+3 MAP
+4 LATI N51.515244
+4 LONG E18.222267
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0068@
+1 EMIG
+2 DATE 1914
+2 PLAC Dania
+2 ADDR
+3 CTRY Dania
 1 FAMC @F0062@
 2 PEDI birth
 1 FAMS @F500080@
@@ -10904,6 +13586,44 @@
 3 QUAY 3
 3 OBJE @O0371@
 1 SEX M
+1 BIRT
+2 DATE 1 MAY 1855
+2 PLAC Radzyny, Polska
+3 MAP
+4 LATI N52.537588
+4 LONG E16.580224
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0050@
+2 SOUR @S0055@
+3 PAGE Sklepik Victoria, Wentland Johann - akt małżeństwa (ślub cywilny); str. 9, wpis nr 5
+3 QUAY 3
+3 OBJE @O0383@
+3 OBJE @O0384@
+1 RESI
+2 DATE 10 NOV 1877
+2 PLAC Ottowo, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0055@
+3 PAGE Sklepik Victoria, Wentland Johann - akt małżeństwa (ślub cywilny); str. 9, wpis nr 5
+3 QUAY 3
+3 OBJE @O0383@
+3 OBJE @O0384@
+1 RESI
+2 DATE 25 FEB 1879
+2 PLAC Objezierze, Polska
+3 MAP
+4 LATI N52.604356
+4 LONG E16.762923
+2 ADDR
+3 POST 64-600
+3 CTRY Polska
+2 SOUR @S0111@
+3 PAGE Wendlandt Franz - akt urodzenia; wpis nr 36
+3 DATA
+4 DATE 28 FEB 1879
+3 OBJE @O0474@
 1 FACT arbaiter (robotnik)
 2 TYPE Occupation
 2 SOUR @S0055@
@@ -10957,6 +13677,47 @@
 2 GIVN Victoria
 2 SURN Wentland
 1 SEX F
+1 BIRT
+2 DATE 29 NOV 1857
+2 PLAC Imbierowo, Zielątkowo, Polska
+3 MAP
+4 LATI N52.539938
+4 LONG E16.79063
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0050@
+2 SOUR @S0055@
+3 PAGE Sklepik Victoria, Wentland Johann - akt małżeństwa (ślub cywilny); str. 9, wpis nr 5
+3 QUAY 3
+3 OBJE @O0383@
+3 OBJE @O0384@
+1 RESI
+2 DATE 10 NOV 1877
+2 PLAC Chludowo, Polska
+3 MAP
+4 LATI N52.557222
+4 LONG E16.845833
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0055@
+3 PAGE Sklepik Victoria, Wentland Johann - akt małżeństwa (ślub cywilny); str. 9, wpis nr 5
+3 QUAY 3
+3 OBJE @O0383@
+3 OBJE @O0384@
+1 RESI
+2 DATE 25 FEB 1879
+2 PLAC Objezierze, Polska
+3 MAP
+4 LATI N52.604356
+4 LONG E16.762923
+2 ADDR
+3 POST 64-600
+3 CTRY Polska
+2 SOUR @S0111@
+3 PAGE Wendlandt Franz - akt urodzenia; wpis nr 36
+3 DATA
+4 DATE 28 FEB 1879
+3 OBJE @O0474@
 1 FACT katolickie
 2 TYPE Wyznanie
 2 SOUR @S0111@
@@ -11122,11 +13883,22 @@
 0 @F0004@ FAM
 1 HUSB @I0009@
 1 WIFE @I0010@
+1 MARR
+2 DATE 7 OCT 1934
+2 PLAC Nowy Bytom, Ruda Śląska, Polska
+2 ADDR
+3 CITY Ruda Śląska
+3 CTRY Polska
+2 SOUR @S0225@
+3 PAGE recto
+3 DATA
+4 DATE 7 OCT 1934
 1 CHIL @I0003@
 1 CHIL @I0011@
+1 OBJE @O0664@
 1 CHAN
-2 DATE 17 JUL 2020
-3 TIME 12:23:06
+2 DATE 16 APR 2022
+3 TIME 20:51:35
 0 @F0005@ FAM
 1 HUSB @I0029@
 1 WIFE @I0011@
@@ -11298,6 +14070,15 @@
 0 @F0021@ FAM
 1 HUSB @I0050@
 1 WIFE @I0051@
+1 MARR
+2 DATE 22 JAN 1895
+2 PLAC Ignatzdorf, Katowice, Polska
+3 MAP
+4 LATI N50.284374
+4 LONG E19.010532
+2 ADDR
+3 CITY Katowice
+3 CTRY Polska
 1 CHIL @I0064@
 1 CHIL @I0010@
 1 CHIL @I0052@
@@ -11362,6 +14143,22 @@
 0 @F0028@ FAM
 1 HUSB @I0068@
 1 WIFE @I0069@
+1 MARR
+2 DATE 5 FEB 1898
+2 PLAC Lipiny, Świętochłowice, Polska
+3 MAP
+4 LATI N50.305833
+4 LONG E18.901944
+2 ADDR
+3 CITY Świętochłowice
+3 POST 41-605
+3 CTRY Polska
+2 SOUR @S0099@
+3 PAGE Halama, Polloczek - akt małżeństwa; rok 1898, str. 33, wpis nr 17
+3 DATA
+4 DATE 5 FEB 1898
+3 OBJE @O0428@
+3 OBJE @O0429@
 1 CHIL @I500011@
 1 CHIL @I0009@
 1 CHIL @I500014@
@@ -11372,6 +14169,14 @@
 0 @F0029@ FAM
 1 HUSB @I0071@
 1 WIFE @I0070@
+1 MARR
+2 DATE 5 SEP 1887
+2 PLAC Rybnik, Polska
+2 ADDR
+3 CITY Rybnik
+3 CTRY Polska
+2 SOUR @S500008@
+3 QUAY 0
 1 CHIL @I500188@
 1 CHIL @I500189@
 1 CHIL @I500190@
@@ -11391,6 +14196,12 @@
 0 @F0030@ FAM
 1 HUSB @I0072@
 1 WIFE @I0073@
+1 MARR
+2 DATE 13 MAY 1889
+2 PLAC Rybnik, Polska
+2 ADDR
+3 CITY Rybnik
+3 CTRY Polska
 1 CHIL @I0007@
 1 CHIL @I500171@
 1 CHIL @I500172@
@@ -11439,6 +14250,16 @@
 0 @F0062@ FAM
 1 HUSB @I500203@
 1 WIFE @I500204@
+1 MARR
+2 DATE 7 JAN 1894
+3 TIME 13:00
+2 PLAC Kościół pw. św. Apostołów Piotra i Pawła, Kraszewice, Polska
+3 MAP
+4 LATI N51.515244
+4 LONG E18.222267
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0058@
 1 FACT MH:F500072
 2 TYPE RIN
 1 _UID 5DD8392A1C25DE4D3651ABDD8B8F88E3
@@ -11690,6 +14511,19 @@
 0 @F0116@ FAM
 1 HUSB @I0186@
 1 WIFE @I0187@
+1 MARR
+2 DATE 18 APR 1900
+2 PLAC Kościół św. Mikołaja, Imielno, Polska
+3 MAP
+4 LATI N50.584722
+4 LONG E20.444722
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0131@
+3 PAGE Fatyga Marianna, Suchanek Wincenty - akt małżeństwa; wpis nr 11
+3 DATA
+4 DATE 18 APR 1900
+3 OBJE @O0500@
 1 CHIL @I0101@
 1 CHIL @I0120@
 1 CHIL @I0188@
@@ -11750,6 +14584,21 @@
 0 @F0122@ FAM
 1 HUSB @I0199@
 1 WIFE @I0200@
+1 MARR
+2 HUSB
+3 AGE 25
+2 WIFE
+3 AGE 24
+2 DATE 25 JAN 1820
+2 PLAC Schlawentziz, Kędzierzyn-Koźle, Polska
+3 MAP
+4 LATI N50.379979
+4 LONG E18.316259
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0042@
+2 SOUR @S0043@
+3 QUAY 3
 1 CHIL @I500155@
 1 CHIL @I0201@
 1 SOUR @S0041@
@@ -11773,6 +14622,17 @@
 0 @F0124@ FAM
 1 HUSB @I0209@
 1 WIFE @I0210@
+1 MARR
+2 DATE 16 MAY 1841
+2 PLAC Kaźmierz, Polska
+3 MAP
+4 LATI N52.514402
+4 LONG E16.575181
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0057@
+3 PAGE Skowroński Petronella, Wentland Franciszek - akt małżeństwa; str. 19, wpis nr 5
+3 OBJE @O0385@
 1 CHIL @I500239@
 1 CHIL @I0403@
 1 CHIL @I0404@
@@ -11787,6 +14647,29 @@
 0 @F0125@ FAM
 1 HUSB @I0211@
 1 WIFE @I0212@
+1 MARR
+2 DATE 4 NOV 1849
+2 PLAC Sobota, Polska
+3 MAP
+4 LATI N52.522459
+4 LONG E16.798951
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0089@
+3 PAGE Kromolicka, Sklepik - akt małżeństwa; str. 13-14, wpis nr 12
+3 OBJE @O0424@
+1 EVEN
+2 TYPE Residence
+2 DATE 4 NOV 1849
+2 PLAC Golęczewo, Polska
+3 MAP
+4 LATI N52.535274
+4 LONG E16.817511
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0089@
+3 PAGE Kromolicka, Sklepik - akt małżeństwa; str. 13-14, wpis nr 12
+3 OBJE @O0424@
 1 CHIL @I500240@
 1 CHAN
 2 DATE 2 SEP 2020
@@ -11801,6 +14684,16 @@
 0 @F0127@ FAM
 1 HUSB @I0215@
 1 WIFE @I0216@
+1 MARR
+2 DATE 10 FEB 1862
+3 TIME 10:00
+2 PLAC Kościół pw. św. Apostołów Piotra i Pawła, Kraszewice, Polska
+3 MAP
+4 LATI N51.515244
+4 LONG E18.222267
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0063@
 1 CHIL @I500203@
 1 CHAN
 2 DATE 7 APR 2020
@@ -11808,6 +14701,17 @@
 0 @F0128@ FAM
 1 HUSB @I0217@
 1 WIFE @I0218@
+1 MARR
+2 DATE 7 MAY 1854
+2 PLAC Drzycim, Polska
+3 MAP
+4 LATI N53.506322
+4 LONG E18.310719
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0181@
+3 PAGE Depka Agnieszka, Zieliński Mateusz - akt małżeństwa - rok 1854, str.13
+3 OBJE @O0571@
 1 CHIL @I500204@
 1 CHIL @I0379@
 1 CHIL @I0380@
@@ -11822,6 +14726,16 @@
 0 @F0129@ FAM
 1 HUSB @I0219@
 1 WIFE @I0220@
+1 MARR
+2 DATE 21 JAN 1826
+3 TIME 10:00
+2 PLAC Wojków, Polska
+3 MAP
+4 LATI N51.589807
+4 LONG E18.430852
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0064@
 1 CHIL @I0215@
 1 CHAN
 2 DATE 9 APR 2020
@@ -11843,6 +14757,16 @@
 0 @F0132@ FAM
 1 HUSB @I0225@
 1 WIFE @I0226@
+1 EVEN
+2 TYPE Residence
+2 DATE 21 JAN 1826
+2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+3 MAP
+4 LATI N51.499999
+4 LONG E18.357912
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0064@
 1 CHIL @I0220@
 1 CHAN
 2 DATE 9 APR 2020
@@ -12326,18 +15250,56 @@
 0 @F0223@ FAM
 1 HUSB @I0364@
 1 WIFE @I0365@
+1 MARR
+2 DATE 21 OCT 1860
+2 PLAC Katowice, Polska
+3 MAP
+4 LATI N50.266005
+4 LONG E19.024878
+2 ADDR
+3 CITY Katowice
+3 CTRY Polska
 1 CHAN
 2 DATE 3 JUN 2020
 3 TIME 19:35:08
 0 @F0224@ FAM
 1 HUSB @I0366@
 1 WIFE @I0367@
+1 MARR
+2 DATE 10 NOV 1862
+2 PLAC Bytom, Polska
+2 ADDR
+3 CITY Bytom
+3 CTRY Polska
 1 CHAN
 2 DATE 3 JUN 2020
 3 TIME 20:11:34
 0 @F0225@ FAM
 1 HUSB @I0368@
 1 WIFE @I0369@
+1 EVEN
+2 TYPE Residence
+2 DATE 20 MAR 1875
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0083@
+1 MARR
+2 DATE 5 FEB 1872
+2 PLAC Imielno, Polska
+3 MAP
+4 LATI N50.584722
+4 LONG E20.444722
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0143@
+3 PAGE Fatyga Florian, Madejczyk Franciszka - akt małżeństwa; wpis nr 5
+3 DATA
+4 DATE 5 FEB 1872
+3 OBJE @O0511@
 1 CHIL @I0187@
 1 CHIL @I0370@
 1 CHAN
@@ -12369,6 +15331,15 @@
 0 @F0229@ FAM
 1 HUSB @I0386@
 1 WIFE @I500149@
+1 MARR
+2 DATE 14 JAN 1849
+2 PLAC Kościół pw. św. Michała Archanioła, Ignatzdorf, Katowice, Polska
+2 ADDR
+3 CITY Katowice
+3 CTRY Polska
+2 SOUR @S0080@
+3 PAGE Krzanowskie Marie, Waniurka Joseph - akt małżeństwa; rok 1849, str. 2, wpis nr. 2
+3 OBJE @O0419@
 1 CHAN
 2 DATE 17 JUL 2020
 3 TIME 10:53:25
@@ -12385,6 +15356,17 @@
 0 @F0231@ FAM
 1 HUSB @I0389@
 1 WIFE @I0390@
+1 MARR
+2 DATE 16 FEB 1863
+2 PLAC Kościół pw. Trójcy Przenajświętszej, Kochłowice, Ruda Śląska, Polska
+2 ADDR
+3 CITY Ruda Śląska
+3 CTRY Polska
+2 SOUR @S0109@
+3 PAGE Polloczek Josef, Pirożek Elisabeth - akt małżeństwa; rok 1863, str. 378, wpis nr 12
+3 DATA
+4 DATE 16 FEB 1863
+3 OBJE @O0470@
 1 CHIL @I0068@
 1 CHIL @I0394@
 1 CHIL @I0396@
@@ -12420,12 +15402,38 @@
 0 @F0235@ FAM
 1 HUSB @I0219@
 1 WIFE @I0405@
+1 MARR
+2 DATE 24 NOV 1835
+2 PLAC Kościół pw. św. Apostołów Piotra i Pawła, Kraszewice, Polska
+3 MAP
+4 LATI N51.515244
+4 LONG E18.222267
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0114@
+3 PAGE Dziadek Zofia, Sibiński Jan - akt małżeństwa; wpis nr 53
+3 DATA
+4 DATE 24 NOV 1835
+3 OBJE @O0478@
 1 CHAN
 2 DATE 6 SEP 2020
 3 TIME 15:41:10
 0 @F0236@ FAM
 1 HUSB @I0219@
 1 WIFE @I0406@
+1 MARR
+2 DATE 9 MAY 1850
+2 PLAC Kościół pw. św. Apostołów Piotra i Pawła, Kraszewice, Polska
+3 MAP
+4 LATI N51.515244
+4 LONG E18.222267
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0115@
+3 PAGE Sibiński Jan, Skorupa Antonina - akt małżeństwa; wpis nr 26
+3 DATA
+4 DATE 9 MAY 1850
+3 OBJE @O0479@
 1 SOUR @S0115@
 2 PAGE Sibiński Jan, Skorupa Antonina - akt małżeństwa; wpis nr 26
 2 DATA
@@ -12498,6 +15506,19 @@
 0 @F0242@ FAM
 1 HUSB @I0422@
 1 WIFE @I0423@
+1 MARR
+2 DATE 18 FEB 1828
+2 PLAC Kościół św. Mikołaja, Imielno, Polska
+3 MAP
+4 LATI N50.584722
+4 LONG E20.444722
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0141@
+3 PAGE Kieliś Łucja, Podsiadło Marcin - akt małżeństwa; wpis nr 14
+3 DATA
+4 DATE 18 FEB 1828
+3 OBJE @O0509@
 1 CHIL @I0407@
 1 CHAN
 2 DATE 31 OCT 2020
@@ -12519,6 +15540,20 @@
 0 @F0245@ FAM
 1 HUSB @I0428@
 1 WIFE @I0429@
+1 MARR
+2 DATE 7 OCT 1839
+2 PLAC Kije, Polska
+3 MAP
+4 LATI N50.606958
+4 LONG E20.57121
+2 ADDR
+3 POST 28-404
+3 CTRY Polska
+2 SOUR @S0176@
+3 PAGE Fatyga Wojciech, Trzeciak Katarzyna - akt małżeństwa; rok 1839, wpis nr 31
+3 DATA
+4 DATE 1839
+3 OBJE @O0565@
 1 CHIL @I0368@
 1 CHAN
 2 DATE 12 NOV 2020
@@ -12526,6 +15561,19 @@
 0 @F0246@ FAM
 1 HUSB @I0430@
 1 WIFE @I0431@
+1 MARR
+2 DATE 27 OCT 1840
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0153@
+3 PAGE Madejczyk Tomasz, Stopieńska Katarzyna - akt małżeństwa; str. 45, rok 1840, wpis nr 20
+3 DATA
+4 DATE 27 OCT 1840
+3 OBJE @O0538@
 1 CHIL @I0369@
 1 CHAN
 2 DATE 16 DEC 2020
@@ -12533,6 +15581,19 @@
 0 @F0247@ FAM
 1 HUSB @I0432@
 1 WIFE @I0433@
+1 MARR
+2 DATE 7 NOV 1803
+2 PLAC Kije, Polska
+3 MAP
+4 LATI N50.606958
+4 LONG E20.57121
+2 ADDR
+3 POST 28-404
+3 CTRY Polska
+2 SOUR @S0001@
+3 PAGE Fatyga Florian, Kostoń Agnieszka - akt małżeństwa; rok 1803
+3 DATA
+4 DATE 1803
 1 CHIL @I0428@
 1 CHIL @I0436@
 1 CHAN
@@ -12541,6 +15602,18 @@
 0 @F0248@ FAM
 1 HUSB @I0434@
 1 WIFE @I0435@
+1 MARR
+2 DATE 21 MAY 1792
+2 PLAC Kije, Polska
+3 MAP
+4 LATI N50.606958
+4 LONG E20.57121
+2 ADDR
+3 POST 28-404
+3 CTRY Polska
+2 SOUR @S0148@
+3 PAGE Kudla Katarzyna, Trzeciak Antoni - akt małżeństwa; rok 1792, str. 247
+3 OBJE @O0537@
 1 CHIL @I0429@
 1 CHAN
 2 DATE 29 NOV 2020
@@ -12548,6 +15621,19 @@
 0 @F0249@ FAM
 1 HUSB @I0437@
 1 WIFE @I0438@
+1 MARR
+2 DATE 24 JAN 1779
+2 PLAC Imielno, Polska
+3 MAP
+4 LATI N50.584722
+4 LONG E20.444722
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0145@
+3 PAGE Gancarzanka Zofia, Kostoń Franciszek - akt małżeństwa; rok 1779, str. 152, wpis nr 1
+3 DATA
+4 DATE 1779
+3 OBJE @O0512@
 1 CHIL @I0433@
 1 CHAN
 2 DATE 12 NOV 2020
@@ -12555,12 +15641,36 @@
 0 @F0250@ FAM
 1 HUSB @I0437@
 1 WIFE @I0439@
+1 MARR
+2 DATE 10 JUN 1805
+2 PLAC Kije, Polska
+3 MAP
+4 LATI N50.606958
+4 LONG E20.57121
+2 ADDR
+3 POST 28-404
+3 CTRY Polska
+2 SOUR @S0148@
+3 PAGE Kostoń Franciszek, Woźniak Agnieszka - akt małżeństwa; rok 1805, str. 294
+3 OBJE @O0515@
 1 CHAN
 2 DATE 15 NOV 2020
 3 TIME 18:41:50
 0 @F0251@ FAM
 1 HUSB @I0440@
 1 WIFE @I0441@
+1 MARR
+2 DATE 30 JAN 1767
+2 PLAC Kije, Polska
+3 MAP
+4 LATI N50.606958
+4 LONG E20.57121
+2 ADDR
+3 POST 28-404
+3 CTRY Polska
+2 SOUR @S0148@
+3 PAGE Fatyga Jakub, Góra Agnieszka - akt małżeństwa; rok 1767, str. 133
+3 OBJE @O0517@
 1 CHIL @I0432@
 1 CHIL @I0442@
 1 CHIL @I0443@
@@ -12591,6 +15701,19 @@
 0 @F0254@ FAM
 1 HUSB @I0457@
 1 WIFE @I0456@
+1 MARR
+2 DATE 29 JAN 1919
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0152@
+3 PAGE Kielesiński Jan, Podsiadło Ludwika - akt małżeństwa; str 261, wpis nr 9
+3 DATA
+4 DATE 29 JAN 1919
+3 OBJE @O0531@
 1 CHAN
 2 DATE 24 NOV 2020
 3 TIME 20:24:04
@@ -12603,12 +15726,36 @@
 0 @F0256@ FAM
 1 HUSB @I0440@
 1 WIFE @I0459@
+1 MARR
+2 DATE 19 NOV 1752
+2 PLAC Kije, Polska
+3 MAP
+4 LATI N50.606958
+4 LONG E20.57121
+2 ADDR
+3 POST 28-404
+3 CTRY Polska
+2 SOUR @S0148@
+3 PAGE Fatyga Jakub, Groszek Małgorzata - akt małżeństwa; rok 1752, str. 60
+3 OBJE @O0536@
 1 CHAN
 2 DATE 29 NOV 2020
 3 TIME 16:02:42
 0 @F0257@ FAM
 1 HUSB @I0460@
 1 WIFE @I0461@
+1 MARR
+2 TYPE on: wdowiec, ona: panna
+2 DATE 20 JUN 1814
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0154@
+3 PAGE Ciasnocha Magdalena, Madejczyk Baltazar - akt małżeństwa; str. 366, Motkowice, rok 1814
+3 OBJE @O0539@
 1 CHIL @I0430@
 1 CHAN
 2 DATE 18 DEC 2020
@@ -12616,6 +15763,19 @@
 0 @F0258@ FAM
 1 HUSB @I0462@
 1 WIFE @I0463@
+1 MARR
+2 DATE 22 NOV 1819
+2 PLAC Imielno, Polska
+3 MAP
+4 LATI N50.584722
+4 LONG E20.444722
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0157@
+3 PAGE Rak Petronella, Stopiński Grzegorz - akt małżeństwa; wpis nr 33
+3 DATA
+4 DATE 1819
+3 OBJE @O0544@
 1 CHIL @I0431@
 1 CHAN
 2 DATE 26 DEC 2020
@@ -12623,12 +15783,36 @@
 0 @F0259@ FAM
 1 HUSB @I0460@
 1 WIFE @I0464@
+1 MARR
+2 TYPE on: wdowiec, ona: panna
+2 DATE 30 OCT 1780
+2 PLAC Kije, Polska
+3 MAP
+4 LATI N50.606958
+4 LONG E20.57121
+2 ADDR
+3 POST 28-404
+3 CTRY Polska
+2 SOUR @S0148@
+3 PAGE Madejczyk Baltazar, Pachowicz Jadwiga - akt małżeństwa; str. 191, rok 1780
+3 OBJE @O0541@
 1 CHAN
 2 DATE 20 DEC 2020
 3 TIME 07:35:28
 0 @F0260@ FAM
 1 HUSB @I0465@
 1 WIFE @I0466@
+1 MARR
+2 DATE 1737
+2 PLAC Chroberz, Złota, pińczowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.41699
+4 LONG E20.549983
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0156@
+3 PAGE Madejczyk Adam, Zdeb Agnieszka - akt małżeństwa; rok 1737
+3 OBJE @O0543@
 1 CHIL @I0460@
 1 CHAN
 2 DATE 20 DEC 2020
@@ -12643,6 +15827,14 @@
 0 @F0262@ FAM
 1 HUSB @I0469@
 1 WIFE @I0470@
+1 MARR
+2 DATE 17 JUN 1775
+2 PLAC Rębów, Kije, pińczowski, świętokrzyskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0148@
+3 PAGE Kuczma Łucja, Rak Jacek - akt małżeństwa; rok 1775, str. 163
+3 OBJE @O0547@
 1 CHIL @I0463@
 1 CHAN
 2 DATE 27 DEC 2020
@@ -12890,10 +16082,76 @@
 0 @F0284@ FAM
 1 HUSB @I0513@
 1 WIFE @I0514@
+1 MARR
+2 DATE 1778
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0145@
+3 PAGE Stępień Jadwiga, Suchanek Marcin - akt ślubu; wpis nr 19 (i 28)
+3 OBJE @O0661@
+3 OBJE @O0662@
 1 CHIL @I0509@
+1 CHIL @I0522@
 1 CHAN
-2 DATE 22 FEB 2022
-3 TIME 22:13:59
+2 DATE 13 APR 2022
+3 TIME 21:04:04
+0 @F0285@ FAM
+1 HUSB @I0225@
+1 WIFE @I0516@
+1 MARR
+2 DATE 18 NOV 1834
+2 PLAC Wojków, Polska
+3 MAP
+4 LATI N51.589807
+4 LONG E18.430852
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0218@
+3 PAGE Pipia Helena, Wyrębski Piotr - akt małżeństwa; str. 87, wpis nr 33
+3 DATA
+4 DATE 18 NOV 1834
+3 OBJE @O0655@
+1 CHAN
+2 DATE 10 APR 2022
+3 TIME 21:00:51
+0 @F0286@ FAM
+1 HUSB @I0517@
+1 WIFE @I0518@
+1 CHIL @I0225@
+1 CHIL @I0519@
+1 CHAN
+2 DATE 12 APR 2022
+3 TIME 19:21:48
+0 @F0287@ FAM
+1 HUSB @I0519@
+1 WIFE @I0520@
+1 CHAN
+2 DATE 12 APR 2022
+3 TIME 19:23:36
+0 @F0288@ FAM
+1 HUSB @I0519@
+1 WIFE @I0521@
+1 MARR
+2 DATE 23 AUG 1809
+2 SOUR @S0221@
+3 PAGE Grzesiek Gertruda, Wyrębski Józef - akt małżeństwa; wpis nr 6
+3 DATA
+4 DATE 23 AUG 1809
+3 OBJE @O0658@
+1 CHAN
+2 DATE 12 APR 2022
+3 TIME 19:34:51
+0 @F0289@ FAM
+1 HUSB @I0523@
+1 WIFE @I0524@
+1 CHIL @I0418@
+1 CHAN
+2 DATE 14 APR 2022
+3 TIME 20:15:41
 0 @F500004@ FAM
 1 HUSB @I500013@
 1 WIFE @I500012@
@@ -13223,6 +16481,19 @@
 0 @F500036@ FAM
 1 HUSB @I0104@
 1 WIFE @I0105@
+1 MARR
+2 DATE 6 FEB 1907
+2 PLAC Kościół św. Mikołaja, Imielno, Polska
+3 MAP
+4 LATI N50.584722
+4 LONG E20.444722
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0117@
+3 PAGE Dudała Marianna, Podsiadło Andrzej - akt małżeństwa; str. 116, wpis nr 25
+3 DATA
+4 DATE 6 FEB 1907
+3 OBJE @O0481@
 1 CHIL @I0100@
 1 CHIL @I500098@
 1 CHIL @I500225@
@@ -13383,6 +16654,15 @@
 0 @F500051@ FAM
 1 HUSB @I500148@
 1 WIFE @I500149@
+1 MARR
+2 DATE 18 OCT 1857
+2 PLAC Kościół pw. św. Michała Archanioła, Ignatzdorf, Katowice, Polska
+2 ADDR
+3 CITY Katowice
+3 CTRY Polska
+2 SOUR @S0082@
+3 PAGE Gruschka Andreas, Waniołek Marianna - akt ślubu; str. 8, wpis nr 123
+3 OBJE @O0421@
 1 CHIL @I500150@
 1 CHIL @I0051@
 1 SOUR @S0082@
@@ -13394,6 +16674,15 @@
 0 @F500052@ FAM
 1 HUSB @I500150@
 1 WIFE @I500151@
+1 MARR
+2 DATE 18 NOV 1893
+2 PLAC Ignatzdorf, Katowice, Polska
+3 MAP
+4 LATI N50.284374
+4 LONG E19.010532
+2 ADDR
+3 CITY Katowice
+3 CTRY Polska
 1 FACT MH:F500052
 2 TYPE RIN
 1 _UID 5DC96488CB088B49F4BCD2EFBC6C48AB
@@ -13403,6 +16692,11 @@
 0 @F500053@ FAM
 1 HUSB @I500152@
 1 WIFE @I500153@
+1 MARR
+2 DATE EST 1850
+2 PLAC Sausenberg Kreis Rosenberg (Szumirad, powiat Olesno, opolskie)), Polska
+2 ADDR
+3 CTRY Polska
 1 FACT MH:F500053
 2 TYPE RIN
 1 _UID 5DC9653AD4754A1422388EDFF588B6AE
@@ -13413,6 +16707,16 @@
 0 @F500054@ FAM
 1 HUSB @I500154@
 1 WIFE @I500155@
+1 MARR
+2 DATE 16 NOV 1862
+2 PLAC Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, Polska
+3 MAP
+4 LATI N50.354722
+4 LONG E18.258611
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0041@
+3 QUAY 3
 1 CHIL @I0072@
 1 CHIL @I500160@
 1 CHIL @I500156@
@@ -13424,6 +16728,15 @@
 0 @F500055@ FAM
 1 HUSB @I500157@
 1 WIFE @I500156@
+1 MARR
+2 DATE 20 OCT 1888
+2 PLAC Ignatzdorf, Katowice, Polska
+3 MAP
+4 LATI N50.284374
+4 LONG E19.010532
+2 ADDR
+3 CITY Katowice
+3 CTRY Polska
 1 FACT MH:F500055
 2 TYPE RIN
 1 _UID 5DE8203E72E6C12E9CD9301055BC0FB3
@@ -13443,6 +16756,15 @@
 0 @F500057@ FAM
 1 HUSB @I500161@
 1 WIFE @I500160@
+1 MARR
+2 DATE 11 FEB 1890
+2 PLAC Ignatzdorf, Katowice, Polska
+3 MAP
+4 LATI N50.284374
+4 LONG E19.010532
+2 ADDR
+3 CITY Katowice
+3 CTRY Polska
 1 FACT MH:F500057
 2 TYPE RIN
 1 _UID 5DE8234529055FF0C89D54934E0A038F
@@ -13462,6 +16784,16 @@
 0 @F500059@ FAM
 1 HUSB @I500164@
 1 WIFE @I500165@
+1 MARR
+2 DATE 12 AUG 1860
+2 PLAC Kościół Ewangelicko-Augsburski, Rybnik, Polska
+3 MAP
+4 LATI N50.09151
+4 LONG E18.54207
+2 ADDR
+3 CITY Rybnik
+3 CTRY Polska
+2 SOUR @S0074@
 1 CHIL @I0073@
 1 CHIL @I500174@
 1 CHAN
@@ -13503,6 +16835,15 @@
 0 @F500063@ FAM
 1 HUSB @I500181@
 1 WIFE @I500182@
+1 MARR
+2 DATE 11 OCT 1857
+2 PLAC Kościół pw. MB Bolesnej, Rybnik, Polska
+2 ADDR
+3 CITY Rybnik
+3 CTRY Polska
+2 SOUR @S0200@
+3 DATA
+4 DATE 14 DEC 2021
 1 CHIL @I0070@
 1 CHIL @I0158@
 1 CHIL @I0159@
@@ -13520,6 +16861,8 @@
 0 @F500064@ FAM
 1 HUSB @I500185@
 1 WIFE @I500184@
+1 MARR
+2 DATE 1910
 1 FACT MH:F500064
 2 TYPE RIN
 1 _UID 5E14FFB46D07C2DF7D77B955BE4093DA
@@ -13531,6 +16874,8 @@
 0 @F500065@ FAM
 1 HUSB @I500192@
 1 WIFE @I500170@
+1 MARR
+2 DATE 1920
 1 FACT MH:F500065
 2 TYPE RIN
 1 _UID 5E15056385A250C41CC6A5667CCA6BA9
@@ -13552,6 +16897,8 @@
 0 @F500067@ FAM
 1 HUSB @I500198@
 1 WIFE @I500168@
+1 MARR
+2 DATE 1918
 1 FACT MH:F500067
 2 TYPE RIN
 1 _UID 5E150A54C5BE626F727815A329B6B7D2
@@ -13702,6 +17049,28 @@
 0 @F500081@ FAM
 1 HUSB @I500239@
 1 WIFE @I500240@
+1 MARC
+2 DATE 10 NOV 1877
+2 PLAC Knyszyn, Polska
+3 MAP
+4 LATI N52.539167
+4 LONG E16.8775
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0055@
+3 PAGE Sklepik Victoria, Wentland Johann - akt małżeństwa (ślub cywilny); str. 9, wpis nr 5
+3 QUAY 3
+3 OBJE @O0383@
+3 OBJE @O0384@
+1 MARR
+2 DATE 1877
+2 PLAC Owińska, Polska
+3 MAP
+4 LATI N52.511519
+4 LONG E16.976005
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0050@
 1 CHIL @I0098@
 1 CHIL @I500241@
 1 CHIL @I0402@
@@ -15011,6 +18380,99 @@
 1 CHAN
 2 DATE 26 FEB 2022
 3 TIME 21:27:04
+0 @S0215@ SOUR
+1 TITL Huńka Ryszard - metryczka dowodowa
+1 AUTH KPMO Tarnobrzeg
+1 OBJE @O0642@
+1 OBJE @O0643@
+1 OBJE @O0644@
+1 OBJE @O0645@
+1 REPO @R0033@
+2 CALN 1/2930
+3 MEDI Card
+1 CHAN
+2 DATE 10 APR 2022
+3 TIME 12:58:22
+0 @S0216@ SOUR
+1 TITL Mirecki Werner - metryczka dowodowa
+1 AUTH KPMO Koźle
+1 OBJE @O0647@
+1 OBJE @O0648@
+1 REPO @R0033@
+2 CALN 2/10644
+3 MEDI Card
+1 CHAN
+2 DATE 10 APR 2022
+3 TIME 18:40:42
+0 @S0217@ SOUR
+1 TITL Poloczek Beata - metryczka dowodowa
+1 AUTH KPMO Koźle
+1 OBJE @O0650@
+1 OBJE @O0651@
+1 OBJE @O0652@
+1 OBJE @O0653@
+1 REPO @R0033@
+2 CALN 2/10643
+3 MEDI Card
+1 CHAN
+2 DATE 10 APR 2022
+3 TIME 19:08:57
+0 @S0218@ SOUR
+1 TITL Akta stanu cywilnego 1834
+1 AUTH Parafia Rzymskokatolicka Wojków
+1 REPO @R0034@
+1 CHAN
+2 DATE 10 APR 2022
+3 TIME 20:57:49
+0 @S0219@ SOUR
+1 TITL Duplikat aktów urodzeń, małżeństw i zgonów 1878
+1 AUTH Parafia Rzymskokatolicka w Kraszewicach
+1 REPO @R0016@
+1 CHAN
+2 DATE 12 APR 2022
+3 TIME 14:17:35
+0 @S0220@ SOUR
+1 TITL Akta stanu cywilnego 1844
+1 AUTH Parafia Rzymskokatolicka w Wojkowie
+1 REPO @R0034@
+1 CHAN
+2 DATE 12 APR 2022
+3 TIME 14:35:29
+0 @S0221@ SOUR
+1 TITL Akta małżeństwa gminy Kraszewickiej 1809
+1 AUTH Parafie Rzymskokatolicka Kraszewice
+1 REPO @R0016@
+1 CHAN
+2 DATE 12 APR 2022
+3 TIME 19:19:26
+0 @S0222@ SOUR
+1 TITL Księga urodzonych 1748-1786
+1 AUTH Parafia Rzymskokatolicka Imielno
+1 REPO @R0027@
+1 CHAN
+2 DATE 13 APR 2022
+3 TIME 20:17:45
+0 @S0223@ SOUR
+1 TITL Akta zgonów 1814
+1 AUTH Parafia Rzymskokatolicka Imielno
+1 REPO @R0008@
+1 CHAN
+2 DATE 13 APR 2022
+3 TIME 20:33:00
+0 @S0224@ SOUR
+1 TITL Księga zgonów 1899-1907
+1 AUTH Parafia Rzymskokatolicka Imielno
+1 REPO @R0008@
+1 CHAN
+2 DATE 14 APR 2022
+3 TIME 20:12:00
+0 @S0225@ SOUR
+1 TITL Poloczek Teodor, Wincek Weronika - zdjęcie weselne
+1 OBJE @O0666@
+1 OBJE @O0664@
+1 CHAN
+2 DATE 17 APR 2022
+3 TIME 08:31:13
 0 @S500001@ SOUR
 1 TITL Brylewski Web Site
 1 AUTH Grzegorz Brylewski
@@ -15147,6 +18609,10 @@
 1 NAME Archiwum ZUS
 0 @R0032@ REPO
 1 NAME Archiwum Archidiecezjalne w Katowicach
+0 @R0033@ REPO
+1 NAME Archiwum Państwowe Dokumentacji Osobowej i Płacowej w Milanówku
+0 @R0034@ REPO
+1 NAME Archiwum Państwowe w Łodzi
 0 @O0000@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/500018_83613838t5dbd58205l30l.jpg
 2 FORM jpg
@@ -18412,17 +21878,17 @@
 0 @O0492@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/photos/Huńka__Rudnicka/hunka-ryszard__paszport__2.jpg
 2 FORM jpg
-2 TITL hunka-ryszard__paszport__2
+2 TITL 1985 r.
 1 CHAN
-2 DATE 29 SEP 2020
-3 TIME 18:00:32
+2 DATE 10 APR 2022
+3 TIME 14:24:05
 0 @O0493@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/photos/Huńka__Rudnicka/hunka-ryszard__paszport__3.jpg
 2 FORM jpg
-2 TITL hunka-ryszard__paszport__3
+2 TITL 1989 r.
 1 CHAN
-2 DATE 29 SEP 2020
-3 TIME 18:37:05
+2 DATE 10 APR 2022
+3 TIME 14:21:56
 0 @O0494@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/sources/Moczygemba__Solorz/moczygemba-augustyn__materialy-sledcze-podejrzanego-o-podpisanie-volkslisty.pdf
 2 FORM pdf
@@ -19500,4 +22966,194 @@
 1 CHAN
 2 DATE 26 FEB 2022
 3 TIME 21:27:01
+0 @O0642@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Huńka__Sibińska/hunka-ryszard__metryczka-dowodowa/Huńka_Ryszard_Bronisław_04-02-1922_Lwów_Mieczysław_Eugenia_72_3728_0_1_2930_A.jpg
+2 FORM jpg
+2 TITL Huńka_Ryszard_Bronisław_04-02-1922_Lwów_Mieczysław_Eugenia_72_3728_0_1_2
+3 CONC 930_A
+1 CHAN
+2 DATE 10 APR 2022
+3 TIME 12:52:44
+0 @O0643@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Huńka__Sibińska/hunka-ryszard__metryczka-dowodowa/Huńka_Ryszard_Bronisław_04-02-1922_Lwów_Mieczysław_Eugenia_72_3728_0_1_2930_B.jpg
+2 FORM jpg
+2 TITL Huńka_Ryszard_Bronisław_04-02-1922_Lwów_Mieczysław_Eugenia_72_3728_0_1_2
+3 CONC 930_B
+1 CHAN
+2 DATE 10 APR 2022
+3 TIME 12:52:53
+0 @O0644@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Huńka__Sibińska/hunka-ryszard__metryczka-dowodowa/Huńka_Ryszard_Bronisław_04-02-1922_Lwów_Mieczysław_Eugenia_72_3728_0_1_2930_C.jpg
+2 FORM jpg
+2 TITL Huńka_Ryszard_Bronisław_04-02-1922_Lwów_Mieczysław_Eugenia_72_3728_0_1_2
+3 CONC 930_C
+1 CHAN
+2 DATE 10 APR 2022
+3 TIME 12:53:03
+0 @O0645@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Huńka__Sibińska/hunka-ryszard__metryczka-dowodowa/Huńka_Ryszard_Bronisław_04-02-1922_Lwów_Mieczysław_Eugenia_72_3728_0_1_2930_D.jpg
+2 FORM jpg
+2 TITL Huńka_Ryszard_Bronisław_04-02-1922_Lwów_Mieczysław_Eugenia_72_3728_0_1_2
+3 CONC 930_D
+1 CHAN
+2 DATE 10 APR 2022
+3 TIME 12:53:11
+0 @O0646@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Huńka__Sibińska/hunka-ryszard__metryczka-dowodowa/zdjęcie-portretowe.jpg
+2 FORM jpg
+2 TITL 1963 r.
+1 SOUR @S0215@
+2 PAGE str. 2
+1 CHAN
+2 DATE 10 APR 2022
+3 TIME 14:20:56
+0 @O0647@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Moczygemba__Poloczek/mirecki-werner__metryczka-dowodowa/Mirecki_Werner_04-09-1932_Rybnik_Augustyn_Luiza_72_3728_0_2_10644_A.jpg
+2 FORM jpg
+2 TITL Mirecki_Werner_04-09-1932_Rybnik_Augustyn_Luiza_72_3728_0_2_10644_A
+1 CHAN
+2 DATE 10 APR 2022
+3 TIME 18:39:58
+0 @O0648@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Moczygemba__Poloczek/mirecki-werner__metryczka-dowodowa/Mirecki_Werner_04-09-1932_Rybnik_Augustyn_Luiza_72_3728_0_2_10644_B.jpg
+2 FORM jpg
+2 TITL Mirecki_Werner_04-09-1932_Rybnik_Augustyn_Luiza_72_3728_0_2_10644_B
+1 CHAN
+2 DATE 10 APR 2022
+3 TIME 18:40:06
+0 @O0649@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Moczygemba__Poloczek/mirecki-werner__metryczka-dowodowa/zdjecie-portretowe.jpg
+2 FORM jpg
+2 TITL zdjecie-portretowe
+1 SOUR @S0216@
+2 PAGE str. 2
+2 DATA
+3 DATE 1980
+1 CHAN
+2 DATE 10 APR 2022
+3 TIME 18:42:03
+0 @O0650@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Moczygemba__Poloczek/mirecka-beata__metryczka-dowodowa/Mirecka_Beata_Marianna_18-01-1936_Ruda-Śląska_Teodor_Wiktoria_72_3728_0_2_10643_A.jpg
+2 FORM jpg
+2 TITL Mirecka_Beata_Marianna_18-01-1936_Ruda-Śląska_Teodor_Wiktoria_72_3728_0_
+3 CONC 2_10643_A
+1 CHAN
+2 DATE 10 APR 2022
+3 TIME 19:08:27
+0 @O0651@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Moczygemba__Poloczek/mirecka-beata__metryczka-dowodowa/Mirecka_Beata_Marianna_18-01-1936_Ruda-Śląska_Teodor_Wiktoria_72_3728_0_2_10643_B.jpg
+2 FORM jpg
+2 TITL Mirecka_Beata_Marianna_18-01-1936_Ruda-Śląska_Teodor_Wiktoria_72_3728_0_
+3 CONC 2_10643_B
+1 CHAN
+2 DATE 10 APR 2022
+3 TIME 19:08:35
+0 @O0652@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Moczygemba__Poloczek/mirecka-beata__metryczka-dowodowa/Mirecka_Beata_Marianna_18-01-1936_Ruda-Śląska_Teodor_Wiktoria_72_3728_0_2_10643_C.jpg
+2 FORM jpg
+2 TITL Mirecka_Beata_Marianna_18-01-1936_Ruda-Śląska_Teodor_Wiktoria_72_3728_0_
+3 CONC 2_10643_C
+1 CHAN
+2 DATE 10 APR 2022
+3 TIME 19:08:41
+0 @O0653@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Moczygemba__Poloczek/mirecka-beata__metryczka-dowodowa/Mirecka_Beata_Marianna_18-01-1936_Ruda-Śląska_Teodor_Wiktoria_72_3728_0_2_10643_D.jpg
+2 FORM jpg
+2 TITL Mirecka_Beata_Marianna_18-01-1936_Ruda-Śląska_Teodor_Wiktoria_72_3728_0_
+3 CONC 2_10643_D
+1 CHAN
+2 DATE 10 APR 2022
+3 TIME 19:08:47
+0 @O0654@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Moczygemba__Poloczek/mirecka-beata__metryczka-dowodowa/zdjecie-portretowe.jpg
+2 FORM jpg
+2 TITL 1965 r.
+1 SOUR @S0217@
+2 PAGE str. 2
+2 DATA
+3 DATE 1965
+1 CHAN
+2 DATE 10 APR 2022
+3 TIME 19:11:00
+0 @O0655@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Pipia__Wyrębski/pipia-helena__wyrebski-wojciech__akt-slubu.jpg
+2 FORM jpg
+2 TITL pipia-helena__wyrebski-wojciech__akt-slubu
+1 CHAN
+2 DATE 10 APR 2022
+3 TIME 20:58:14
+0 @O0656@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Mielcarek__Sibiński/sibinski-kacper__akt-zgonu.jpeg
+2 FORM jpeg
+2 TITL sibinski-kacper__akt-zgonu
+1 CHAN
+2 DATE 12 APR 2022
+3 TIME 14:17:54
+0 @O0657@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Pipia__Wyrębski/wyrebski-piotr__akt-zgonu.jpg
+2 FORM jpg
+2 TITL wyrebski-piotr__akt-zgonu
+1 CHAN
+2 DATE 12 APR 2022
+3 TIME 14:35:47
+0 @O0658@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Janik__Wyrębski/grzesiek-gertruda__wyrebski-jozef__akt-malzenstwa.jpg
+2 FORM jpg
+2 TITL grzesiek-gertruda__wyrebski-jozef__akt-malzenstwa
+1 CHAN
+2 DATE 12 APR 2022
+3 TIME 19:16:23
+0 @O0659@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Stępień__Suchanek/suchanek-pawel__akt-urodzenia.jpg
+2 FORM jpg
+2 TITL suchanek-pawel__akt-urodzenia
+1 CHAN
+2 DATE 13 APR 2022
+3 TIME 20:19:35
+0 @O0660@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Stępień__Suchanek/suchanek-marcin__akt-zgonu.jpg
+2 FORM jpg
+2 TITL suchanek-marcin__akt-zgonu
+1 CHAN
+2 DATE 13 APR 2022
+3 TIME 20:34:20
+0 @O0661@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Stępień__Suchanek/stepien-jadwiga__suchanek-marcin__akt-malzenstwa__akt-nr1.jpg
+2 FORM jpg
+2 TITL stepien-jadwiga__suchanek-marcin__akt-malzenstwa__akt-nr1
+1 CHAN
+2 DATE 13 APR 2022
+3 TIME 20:58:52
+0 @O0662@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Stępień__Suchanek/stepien-jadwiga__suchanek-marcin__akt-malzenstwa__akt-nr2.jpg
+2 FORM jpg
+2 TITL stepien-jadwiga__suchanek-marcin__akt-malzenstwa__akt-nr2
+1 CHAN
+2 DATE 13 APR 2022
+3 TIME 20:59:15
+0 @O0663@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Jakubczyk__Suchanek/jakubczyk-anna__akt-zgonu.jpg
+2 FORM jpg
+2 TITL jakubczyk-anna__akt-zgonu
+1 CHAN
+2 DATE 14 APR 2022
+3 TIME 20:12:27
+0 @O0664@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Poloczek__Wincek/poloczek-teodor__wincek-weronika__wesele.jpg
+2 FORM jpg
+2 TITL Zdjęcie weselna Poloczek Teodor, Wincek Weronika
+1 SOUR @S0225@
+2 PAGE recto
+2 DATA
+3 DATE 7 OCT 1934
+1 CHAN
+2 DATE 17 APR 2022
+3 TIME 08:31:07
+0 @O0666@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Poloczek__Wincek/poloczek-teodor__wincek-weronika__wesele__verso.jpg
+2 FORM jpg
+2 TITL Zdjęcie weselna Poloczek Teodor, Wincek Weronika (verso)
+1 CHAN
+2 DATE 17 APR 2022
+3 TIME 08:26:15
 0 TRLR

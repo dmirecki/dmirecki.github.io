@@ -3,10 +3,10 @@ ppl/c/b/e5e47fa416b11cac04062a95ebc.html|[Private]|[Private] /[Private]/|||||
 ppl/4/e/e5e47fa426f627441c2715acce4.html|[Private]|[Private] /[Private]/|||||
 ppl/7/a/e5e47fa42dd696ba27a5ec481a7.html|[Private]|[Private] /[Private]/|||||
 ppl/d/c/e5e47fa43694c18f00fb0cd31cd.html|[Private]|[Private] /[Private]/|||||
-ppl/0/0/e5e47fa43c290670e3dac1db00.html|Moczygemba|Augustyn Roman /Moczygemba/|||||
-ppl/4/7/e5e47fa44941c5a582e564ab074.html|Solorz|Luiza Klara /Solorz/|||||
-ppl/7/6/e5e47fa4534717624ad5d2a4467.html|Poloczek|Teodor Augustyn /Poloczek/|||||
-ppl/3/d/e5e47fa458e3b139a01fbd1e6d3.html|Wincek|Weronika Barbara /Wincek/|||||
+ppl/0/0/e5e47fa43c290670e3dac1db00.html|Moczygemba|Augustyn Roman /Moczygemba/|27 FEB 1898|Józefowiec, Katowice, Polska|||
+ppl/4/7/e5e47fa44941c5a582e564ab074.html|Solorz|Luiza Klara /Solorz/|7 MAR 1905|Rybnik, Polska|||
+ppl/7/6/e5e47fa4534717624ad5d2a4467.html|Poloczek|Teodor Augustyn /Poloczek/|9 NOV 1906|Chropaczów, Świętochłowice, Polska|||
+ppl/3/d/e5e47fa458e3b139a01fbd1e6d3.html|Wincek|Weronika Barbara /Wincek/|27 SEP 1911|Świętochłowice, Polska|||
 ppl/9/2/e5e47fa464c4e126824ebbbbc29.html|[Private]|[Private] /[Private]/|||||
 ppl/a/1/e5e47fa46747f9160a2f322d31a.html|[Private]|[Private] /[Private]/|||||
 ppl/7/e/e5e47fa46f673b345b5c34b58e7.html|[Private]|[Private] /[Private]/|||||
@@ -28,7 +28,7 @@ ppl/5/c/e5e47fa4d3a66abf407c107b2c5.html|[Private]|[Private] /[Private]/|||||
 ppl/9/4/e5e47fa4dd1487742d0bc5dbf49.html|[Private]|[Private] /[Private]/|||||
 ppl/7/4/e5e47fa4def4217549f68e9047.html|[Private]|[Private] /[Private]/|||||
 ppl/3/d/e5e47fa4e7b221403061b9640d3.html|[Private]|[Private] /[Private]/|||||
-ppl/d/5/e5e47fa4ed522c1354acabda75d.html|Bek|Katarzyna /Bek/|||||
+ppl/d/5/e5e47fa4ed522c1354acabda75d.html|Bek|Katarzyna /Bek/|24 NOV 1912||||
 ppl/8/a/e5e47fa4efd584b37ca838435a8.html|[Private]|[Private] /[Private]/|||||
 ppl/5/2/e5e47fa4f952edb383bac559625.html|[Private]|[Private] /[Private]/|||||
 ppl/1/0/e5e47fa4fdb4026f613a6b19401.html|[Private]|[Private] /[Private]/|||||
@@ -43,35 +43,35 @@ ppl/2/a/e5e47fa523c648aca966aed68a2.html|[Private]|[Private] /[Private]/|||||
 ppl/6/0/e5e47fa52b43c321984f3691d06.html|[Private]|[Private] /[Private]/|||||
 ppl/c/3/e5e47fa52fa3aaf1e885a3d013c.html|Kolorz|Tomasz /Kolorz/|||||
 ppl/0/5/e5e47fa53865f04383cd306f850.html|[Private]|[Private] /[Private]/|||||
-ppl/9/e/e5e47fa53d62fe16cac6dd4a5e9.html|Wincek|Wilhelm Josef /Wincek/|||||
-ppl/d/e/e5e47fa5480777d826332ec3bed.html|Gruschka|Josefa /Gruschka/|||||
+ppl/9/e/e5e47fa53d62fe16cac6dd4a5e9.html|Wincek|Wilhelm Josef /Wincek/|22 MAR 1871|Nowy Bytom, Ruda Śląska, Polska|||
+ppl/d/e/e5e47fa5480777d826332ec3bed.html|Gruschka|Josefa /Gruschka/|30 OCT 1872|Ignatzdorf, Katowice, Polska|||
 ppl/9/c/e5e47fa55346ab846a14803e7c9.html|Wincek|Agnieszka /Wincek/ Agnes|||||
 ppl/c/0/e5e47fa557a2b8a6962e52050c.html|Gaida|Jan /Gaida/|||||
 ppl/c/7/e5e47fa558e7ef87d6c33ab67c.html|[Private]|[Private] /[Private]/|||||
-ppl/3/4/e5e47fa562f6cb46888a4de8843.html|Wincek|Ernestyna Elżbieta /Wincek/|||||
+ppl/3/4/e5e47fa562f6cb46888a4de8843.html|Wincek|Ernestyna Elżbieta /Wincek/|4 NOV 1900|Nowy Bytom, Ruda Śląska, Polska|||
 ppl/0/5/e5e47fa56e2529e4875a96e8a50.html|Wincek|Maria /Wincek/ Mitza|||||
 ppl/7/9/e5e47fa57285e97471f64d34d97.html|Kubica|Franciszek /Kubica/ Franz|||||
 ppl/b/8/e5e47fa57963e963fce16da268b.html|[Private]|[Private] /[Private]/|||||
 ppl/d/e/e5e47fa57d23b76b3344c418ed.html|Wincek|Aniela /Wincek/ Gela|||||
 ppl/d/b/e5e47fa585e22780a8465d297bd.html|Schaeffer|Pawel /Schaeffer/ Paul|||||
-ppl/8/3/e5e47fa589a4d4558c074b2a738.html|Wincek|Helena /Wincek/|||||
+ppl/8/3/e5e47fa589a4d4558c074b2a738.html|Wincek|Helena /Wincek/|5 JAN 1907||||
 ppl/1/2/e5e47fa58e037f11f5754dbda21.html|Bara|Leon /Bara/|||||
 ppl/7/5/e5e47fa59456229f15ef4d43c57.html|Brysch|Josef /Brysch/|||||
 ppl/0/8/e5e47fa59945621bce301066880.html|Brysch|Brygida /Brysch/|||||
-ppl/b/6/e5e47fa59d06cf7f4444fd6216b.html|Polloczek|Johann /Polloczek/|||||
-ppl/f/4/e5e47fa5a5376e0a9d52ae68b4f.html|Halama|Albina Florentyna /Halama/|||||
-ppl/1/0/e5e47fa5a8f317e19f43dfd1001.html|Durschlag|Krystyna /Durschlag/|||||
-ppl/2/8/e5e47fa5b1043487cec02aac82.html|Solorz|Juliusz /Solorz/|||||
-ppl/b/1/e5e47fa5b5656e659cf608e9a1b.html|Moczygemba|Augustyn /Moczygemba/|||||
-ppl/c/4/e5e47fa5bb044fe3e656016a24c.html|Chruszcz|Maria Anna /Chruszcz/ Oma|||||
+ppl/b/6/e5e47fa59d06cf7f4444fd6216b.html|Polloczek|Johann /Polloczek/|25 JUL 1873|Wirek, Ruda Śląska, Polska|BET 1906 AND 1934||
+ppl/f/4/e5e47fa5a5376e0a9d52ae68b4f.html|Halama|Albina Florentyna /Halama/|30 MAR 1873|Lipiny, Świętochłowice, Polska|||
+ppl/1/0/e5e47fa5a8f317e19f43dfd1001.html|Durschlag|Krystyna /Durschlag/|22 JUL 1864|Rybnik, Polska|||
+ppl/2/8/e5e47fa5b1043487cec02aac82.html|Solorz|Juliusz /Solorz/|20 DEC 1860|Paruszowiec, Rybnik, Polska|||
+ppl/b/1/e5e47fa5b5656e659cf608e9a1b.html|Moczygemba|Augustyn /Moczygemba/|28 AUG 1863|Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, Polska|1 NOV 1903|Józefowiec, Katowice, Polska|
+ppl/c/4/e5e47fa5bb044fe3e656016a24c.html|Chruszcz|Maria Anna /Chruszcz/ Oma|18 SEP 1864|Rybnik, Polska|||
 ppl/a/d/e5e47fa5ce749c72d2583c2e4da.html|[Private]|[Private] /[Private]/|||||
-ppl/5/c/e5e47fa5d2332aa47f979ef5fc5.html|Brylewska|Jadwiga /Brylewska/|||||
+ppl/5/c/e5e47fa5d2332aa47f979ef5fc5.html|Brylewska|Jadwiga /Brylewska/|16 JUL 1914|Petersburg, Rosja|||
 ppl/d/6/e5e47fa5d5f5f468905a1a4426d.html|[Private]|[Private] /[Private]/|||||
 ppl/4/9/e5e47fa5dff5046d0a20c552d94.html|[Private]|[Private] /[Private]/|||||
-ppl/b/f/e5e47fa5e8a29d24879deb0eafb.html|Poloczek|Aniela /Poloczek/|||||
+ppl/b/f/e5e47fa5e8a29d24879deb0eafb.html|Poloczek|Aniela /Poloczek/|5 NOV 1903|Chropaczów, Świętochłowice, Polska|||
 ppl/b/b/e5e47fa5ee4e9fe2f01dc5eabb.html|Poloczek|Łucja /Poloczek/|||||
 ppl/f/4/e5e47fa5f5c7e8442f254ca744f.html|Kurpas|Ryszard /Kurpas/|||||
-ppl/7/6/e5e47fa5f8e488c8a77aaee3967.html|Poloczek|Paweł Antoni /Poloczek/ Paul|||||
+ppl/7/6/e5e47fa5f8e488c8a77aaee3967.html|Poloczek|Paweł Antoni /Poloczek/ Paul|5 MAY 1902|Chropaczów, Świętochłowice, Polska|||
 ppl/a/b/e5e47fa5fac3708b22023b33eba.html|[Private]|[Private] /[Private]/|||||
 ppl/1/b/e5e47fa602438b0446dde73d6b1.html|[Private]|[Private] /[Private]/|||||
 ppl/d/b/e5e47fa6060283119fff9258bbd.html|[Private]|[Private] /[Private]/|||||
@@ -82,7 +82,7 @@ ppl/3/3/e5e47fa618c1760d8ca2867d733.html|[Private]|[Private] /[Private]/|||||
 ppl/5/3/e5e47fa61be3d66a7f3233cb735.html|[Private]|[Private] /[Private]/|||||
 ppl/6/9/e5e47fa6218512b46ea37177496.html|[Private]|[Private] /[Private]/|||||
 ppl/5/d/e5e47fa6240401ec95285e868d5.html|[Private]|[Private] /[Private]/|||||
-ppl/9/4/e5e47fa62727fd836b8438f8149.html|Kropp|Arthur /Kropp/|||||
+ppl/9/4/e5e47fa62727fd836b8438f8149.html|Kropp|Arthur /Kropp/|20 MAR 1920||||
 ppl/c/4/e5e47fa62903bd9d840c09e674c.html|[Private]|[Private] /[Private]/|||||
 ppl/f/b/e5e47fa631248a4db5e2acaf5bf.html|[Private]|[Private] /[Private]/|||||
 ppl/4/9/e5e47fa634436100c0918f7e394.html|[Private]|[Private] /[Private]/|||||
@@ -103,7 +103,7 @@ ppl/2/7/e5e47fa673565bdab4097f5da72.html|[Private]|[Private] /[Private]/|||||
 ppl/8/3/e5e47fa67496228d5400be8cf38.html|[Private]|[Private] /[Private]/|||||
 ppl/1/6/e5e47fa676715a6c400d8c44d61.html|[Private]|[Private] /[Private]/|||||
 ppl/3/d/e5e47fa67f42bedc7e00e329cd3.html|[Private]|[Private] /[Private]/|||||
-ppl/2/c/e5e47fa681c3153efbe75372fc2.html|Bek|Józef /Bek/|||||
+ppl/2/c/e5e47fa681c3153efbe75372fc2.html|Bek|Józef /Bek/|15 SEP 1905||||
 ppl/d/3/e5e47fa684e236766d85422f73d.html|[Private]|[Private] /[Private]/|||||
 ppl/d/d/e5e47fa68d0679165a214dc5add.html|[Private]|[Private] /[Private]/|||||
 ppl/b/b/e5e47fa690c730830542430d3bb.html|[Private]|[Private] /[Private]/|||||
@@ -157,10 +157,10 @@ ppl/4/a/e5e47fa75a937b1cea033cfcda4.html|[Private]|[Private] /[Private]/|||||
 ppl/0/0/e5e47fa75bd126247a0032c9f00.html|[Private]|[Private] /[Private]/|||||
 ppl/1/9/e5e47fa75d11038f7f1bb206991.html|[Private]|[Private] /[Private]/|||||
 ppl/7/4/e5e47fa75f93224464c219c1047.html|Wischkowski|Franzisca /Wischkowski/|||||
-ppl/3/c/e5e47fa76175a7704e4ef1b8bc3.html|Wincek|Fryderyk /Wincek/|||||
-ppl/e/8/e5e47fa76a337a62fcf614cf28e.html|Strahler|Rozalia /Strahler/|||||
-ppl/e/a/e5e47fa76d56366b81afd4e6cae.html|Wincek|Łucja /Wincek/|||||
-ppl/1/c/e5e47fa771b495dfc8e120a64c1.html|Bienia|Roman /Bienia/|||||
+ppl/3/c/e5e47fa76175a7704e4ef1b8bc3.html|Wincek|Fryderyk /Wincek/|13 DEC 1882|Nowy Bytom, Ruda Śląska, Polska|||
+ppl/e/8/e5e47fa76a337a62fcf614cf28e.html|Strahler|Rozalia /Strahler/|20 SEP 1889||||
+ppl/e/a/e5e47fa76d56366b81afd4e6cae.html|Wincek|Łucja /Wincek/|4 DEC 1915|Nowa Wieś, Polska|||
+ppl/1/c/e5e47fa771b495dfc8e120a64c1.html|Bienia|Roman /Bienia/|12 FEB 1910||||
 ppl/a/c/e5e47fa77936b7a6bf0debbcaca.html|[Private]|[Private] /[Private]/|||||
 ppl/7/8/e5e47fa77bb3479cab96a402d87.html|[Private]|[Private] /[Private]/|||||
 ppl/0/0/e5e47fa77d977a23c3484439b00.html|[Private]|[Private] /[Private]/|||||
@@ -173,29 +173,29 @@ ppl/4/8/e5e47fa78fc38a58f3d48689384.html|[Private]|[Private] /[Private]/|||||
 ppl/6/7/e5e47fa791018732fd4de9a3276.html|[Private]|[Private] /[Private]/|||||
 ppl/9/4/e5e47fa7924662596201d762949.html|[Private]|[Private] /[Private]/|||||
 ppl/1/5/e5e47fa79386d18ae6d7726b851.html|Wincek|Johann /Wincek/|||||
-ppl/e/3/e5e47fa799c6d23baa50f8be53e.html|Gruschka|Andreas /Gruschka/|||||
-ppl/b/5/e5e47fa79b04e9b779cfc39105b.html|Krzanowski|Marie /Krzanowski/|||||
-ppl/1/e/e5e47fa79d82256b5f848df51e1.html|Gruschka|Franz /Gruschka/|||||
-ppl/7/5/e5e47fa7a00312da21db8b19057.html|Szyga|Albine Anna /Szyga/|||||
-ppl/e/1/e5e47fa7a3273cc3350848d651e.html|Szyga|Franz /Szyga/|||||
-ppl/f/4/e5e47fa7aa134024de7b7c0ab4f.html|Rendschmidt|Marie /Rendschmidt/|||||
-ppl/0/f/e5e47fa7abf382a0b518c185df0.html|Moczygemba|Johann /Moczygemba/|||||
-ppl/d/0/e5e47fa7b045006b03d524b6c0d.html|Nagel|Johanna /Nagel/|||||
-ppl/4/0/e5e47fa7b182cfa8d773d458704.html|Moczygemba|Franzisca Selma /Moczygemba/|||||
-ppl/6/9/e5e47fa7b9b664e2319c3793796.html|Musiol|Eduard /Musiol/|||||
+ppl/e/3/e5e47fa799c6d23baa50f8be53e.html|Gruschka|Andreas /Gruschka/|ABT 1828||||
+ppl/b/5/e5e47fa79b04e9b779cfc39105b.html|Krzanowski|Marie /Krzanowski/|31 JUL 1827|Ignatzdorf, Katowice, Polska|||
+ppl/1/e/e5e47fa79d82256b5f848df51e1.html|Gruschka|Franz /Gruschka/|11 NOV 1867|Ignatzdorf, Katowice, Polska|||
+ppl/7/5/e5e47fa7a00312da21db8b19057.html|Szyga|Albine Anna /Szyga/|23 MAR 1863|Kuźnia, Kreis Rosenberg O.S. (pow. Olesno), Polska|||
+ppl/e/1/e5e47fa7a3273cc3350848d651e.html|Szyga|Franz /Szyga/|4 OCT 1823|Sausenberg Kreis Rosenberg (Szumirad, powiat Olesno, opolskie)), Polska|25 FEB 1896|Josefsdorf, gemainde Domb (Józefowiec, gmina Dąb), Katowice, Polska|
+ppl/f/4/e5e47fa7aa134024de7b7c0ab4f.html|Rendschmidt|Marie /Rendschmidt/|||BEF 1884|Josefsdorf, gemainde Domb (Józefowiec, gmina Dąb), Katowice, Polska|
+ppl/0/f/e5e47fa7abf382a0b518c185df0.html|Moczygemba|Johann /Moczygemba/|26 MAR 1835|Sośnicowice, Polska|||
+ppl/d/0/e5e47fa7b045006b03d524b6c0d.html|Nagel|Johanna /Nagel/|16 MAY 1837|Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, Polska|||
+ppl/4/0/e5e47fa7b182cfa8d773d458704.html|Moczygemba|Franzisca Selma /Moczygemba/|4 OCT 1869|Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, Polska|||
+ppl/6/9/e5e47fa7b9b664e2319c3793796.html|Musiol|Eduard /Musiol/|12 OCT 1861|Bitschin (Bycina), Polska|||
 ppl/e/7/e5e47fa7bd749606051ce38eb7e.html|Musiol|Josef /Musiol/|||||
 ppl/1/9/e5e47fa7beb6160f6722c060391.html|Bednarek|Johanna /Bednarek/|||||
-ppl/6/0/e5e47fa7bffbd4fbff38388e06.html|Moczygemba|Philomena Marie /Moczygemba/|||||
-ppl/9/f/e5e47fa7c808933e9d5a301bf9.html|Piontek|August Johann /Piontek/|||||
+ppl/6/0/e5e47fa7bffbd4fbff38388e06.html|Moczygemba|Philomena Marie /Moczygemba/|14 JUL 1865|Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, Polska|||
+ppl/9/f/e5e47fa7c808933e9d5a301bf9.html|Piontek|August Johann /Piontek/|14 JUL 1862|Mittel Lagiewnik, Bytom, Polska|||
 ppl/b/a/e5e47fa7cb2203ed4bf671836ab.html|Piontek|Nicolaus /Piontek/|||||
 ppl/f/0/e5e47fa7cd0621b7ecc8805360f.html|Szweda|Marianna /Szweda/|||||
-ppl/4/9/e5e47fa7cee23ad4cd9c245e894.html|Chruszcz|Bernhard /Chruszcz/|||||
-ppl/d/c/e5e47fa7d0c67ebd4460ee446cd.html|Schulz|Emilie /Schulz/|||||
+ppl/4/9/e5e47fa7cee23ad4cd9c245e894.html|Chruszcz|Bernhard /Chruszcz/|11 JUN 1833|Smolna, Rybnik, Polska|||
+ppl/d/c/e5e47fa7d0c67ebd4460ee446cd.html|Schulz|Emilie /Schulz/|1 OCT 1836|Strzelce Opolskie, Polska|||
 ppl/b/a/e5e47fa7d2013d1df38fbe3f4ab.html|[Private]|[Private] /[Private]/|||||
-ppl/c/a/e5e47fa7e9c4b8a678bb40e82ac.html|Solorz|Paul /Solorz/|||||
-ppl/3/3/e5e47fa7ec4d43fe2fee14a633.html|Solorz|Elfriede /Solorz/|||||
+ppl/c/a/e5e47fa7e9c4b8a678bb40e82ac.html|Solorz|Paul /Solorz/|1902||||
+ppl/3/3/e5e47fa7ec4d43fe2fee14a633.html|Solorz|Elfriede /Solorz/|1898||||
 ppl/f/3/e5e47fa7eec701dd1bba3e13f.html|Rudolf|Katharina /Rudolf/|||||
-ppl/9/f/e5e47fa7f0a4a7b8071b1c8eaf9.html|Solorz|Gertrude /Solorz/|||||
+ppl/9/f/e5e47fa7f0a4a7b8071b1c8eaf9.html|Solorz|Gertrude /Solorz/|1896||||
 ppl/0/4/e5e47fa7f8d15cd444dd8351240.html|Moczygemba| /Moczygemba/|||||
 ppl/4/f/e5e47fa7faa15261e189d5bc9f4.html|Moczygemba|Anton lub Alfred lub Alois lub Alfons /Moczygemba/|||||
 ppl/2/2/e5e47fa7fbe545357e976d0df22.html|Moczygemba| /Moczygemba/|||||
@@ -208,26 +208,26 @@ ppl/6/4/e5e47fa80cd7b5d96e49fd9e046.html|[Private]|[Private] /[Private]/|||||
 ppl/5/f/e5e47fa80eb1ceefae7c82bcff5.html|[Private]|[Private] /[Private]/|||||
 ppl/d/d/e5e47fa81094f235d0b5c60fcdd.html|Durschlag|August /Durschlag/|25 AUG 1832|Rybnik, Polska|||
 ppl/0/6/e5e47fa8130cb044bb97197760.html|Malharczyk|Louise Franzisca /Malharczyk/|24 OCT 1836|Rybnik, Polska|||
-ppl/e/c/e5e47fa81943e1a75a34e9fa3ce.html|Solorz|August /Solorz/|||||
-ppl/d/7/e5e47fa81b22e002a8c82bf497d.html|Solorz|Lucie /Solorz/|||||
+ppl/e/c/e5e47fa81943e1a75a34e9fa3ce.html|Solorz|August /Solorz/|1888||1918||
+ppl/d/7/e5e47fa81b22e002a8c82bf497d.html|Solorz|Lucie /Solorz/|1889||1912||
 ppl/e/5/e5e47fa81da169679e76ed4175e.html|Umlauf|Hugo /Umlauf/|||||
-ppl/d/a/e5e47fa81ee59e000914e233aad.html|Umlauf|Hans-Joachim /Umlauf/|||||
+ppl/d/a/e5e47fa81ee59e000914e233aad.html|Umlauf|Hans-Joachim /Umlauf/|EST FROM 1910 TO 1911||||
 ppl/e/6/e5e47fa822030f97d9434df156e.html|[Private]|[Private] /[Private]/|||||
-ppl/f/b/e5e47fa827b5ab259d051b32cbf.html|Solorz|Carl /Solorz/|||||
-ppl/6/d/e5e47fa82a3216d027e8367cd6.html|Solorz|Emil /Solorz/|||||
-ppl/f/e/e5e47fa82ca55e2a302b9ebdfef.html|Solorz|Elisabeth /Solorz/|||||
-ppl/1/9/e5e47fa82f219f72965365ce91.html|Solorz|Albert /Solorz/|||||
+ppl/f/b/e5e47fa827b5ab259d051b32cbf.html|Solorz|Carl /Solorz/|1891||1892||
+ppl/6/d/e5e47fa82a3216d027e8367cd6.html|Solorz|Emil /Solorz/|1892||1892||
+ppl/f/e/e5e47fa82ca55e2a302b9ebdfef.html|Solorz|Elisabeth /Solorz/|1893||1894||
+ppl/1/9/e5e47fa82f219f72965365ce91.html|Solorz|Albert /Solorz/|1895||1896||
 ppl/8/c/e5e47fa831a6cae74a4c10768c8.html|Aust|Georg /Aust/|||||
 ppl/8/1/e5e47fa837e272e878eaea08318.html|[Private]|[Private] /[Private]/|||||
 ppl/c/9/e5e47fa839c50894a40f3ba149c.html|[Private]|[Private] /[Private]/|||||
 ppl/7/0/e5e47fa83c412469f3eabc1607.html|[Private]|[Private] /[Private]/|||||
 ppl/f/6/e5e47fa83d857acd1ce8f3fcd6f.html|[Private]|[Private] /[Private]/|||||
 ppl/9/3/e5e47fa83f647d3bf857c72f939.html|Böhm|Georg /Böhm/|||||
-ppl/2/9/e5e47fa8414ff86e02e4d6f892.html|Böhm|Ruth /Böhm/|||||
+ppl/2/9/e5e47fa8414ff86e02e4d6f892.html|Böhm|Ruth /Böhm/|29 AUG 1920|Zabrze, Polska|||
 ppl/b/f/e5e47fa848c76a3a2fa0979dcfb.html|Nebroj|Ferdynand /Nebroj/|||||
 ppl/8/8/e5e47fa84a03fc3a36da446d188.html|[Private]|[Private] /[Private]/|||||
 ppl/a/4/e5e47fa84be47e6593318ccd14a.html|Böhm|Lieselotte /Böhm/|||||
-ppl/9/5/e5e47fa84dc63915332fb775959.html|Solorz|Adelheid /Solorz/|||||
+ppl/9/5/e5e47fa84dc63915332fb775959.html|Solorz|Adelheid /Solorz/|1900||||
 ppl/f/9/e5e47fa8504fb140492ac0219f.html|Schmidt|Franz /Schmidt/|||||
 ppl/6/9/e5e47fa855457e3a15e57fff296.html|[Private]|[Private] /[Private]/|||||
 ppl/4/5/e5e47fa857230c4349daf7ad954.html|[Private]|[Private] /[Private]/|||||
@@ -238,7 +238,7 @@ ppl/d/6/e5e47fa867526c7ed89042e106d.html|[Private]|[Private] /[Private]/|||||
 ppl/e/f/e5e47fa86931e2b6d8aef821dfe.html|Solorz|Albert /Solorz/|||||
 ppl/c/3/e5e47fa86bb235ce33633df4b3c.html|Buchalik|Louise /Buchalik/|||||
 ppl/b/a/e5e47fa86d93839196177b34bab.html|Solorz|Ryszard /Solorz/|||||
-ppl/8/f/e5e47fa86f710680279b22d82f8.html|Solorz|Emil Julius /Solorz/|||||
+ppl/8/f/e5e47fa86f710680279b22d82f8.html|Solorz|Emil Julius /Solorz/|1901||1901||
 ppl/9/4/e5e47fa87662eb1822fff0ed349.html|[Private]|[Private] /[Private]/|||||
 ppl/9/4/e5e47fa87844780a5895ab58049.html|[Private]|[Private] /[Private]/|||||
 ppl/1/8/e5e47fa87987048d4d533d93c81.html|Solorz|Lutzian /Solorz/|||||
@@ -255,16 +255,16 @@ ppl/0/3/e5e4936c83862ad76de5eeaf330.html|Włodarczak|Ignacy /Włodarczak/|||||
 ppl/7/6/e5e4936c85f6b99121040ea967.html|[Private]|[Private] /[Private]/|||||
 ppl/5/2/e5e4936c8b91d8b64fa145ced25.html|[Private]|[Private] /[Private]/|||||
 ppl/a/1/e5e4936c8d71c013c4bc3c231a.html|[Private]|[Private] /[Private]/|||||
-ppl/6/1/e5e4936c8ff2f3ba1f205a42e16.html|Wentland|Stanisława /Wentland/|||||
-ppl/4/d/e5e4936c9bd41d70021610db0d4.html|Sibiński|Stanisław /Sibiński/|||||
-ppl/9/c/e5e4936ca5d162e2e1657494ac9.html|Podsiadło|Stanisława /Podsiadło/ babka Suchankowa|||||
-ppl/2/a/e5e4936caa315ed61a85286c4a2.html|Suchanek|Mieczysław /Suchanek/|||||
+ppl/6/1/e5e4936c8ff2f3ba1f205a42e16.html|Wentland|Stanisława /Wentland/|6 MAY 1902|Przebędowo, Polska|||
+ppl/4/d/e5e4936c9bd41d70021610db0d4.html|Sibiński|Stanisław /Sibiński/|27 JAN 1906|Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska|||
+ppl/9/c/e5e4936ca5d162e2e1657494ac9.html|Podsiadło|Stanisława /Podsiadło/ babka Suchankowa|17 APR 1911|Czeladź, Polska|||
+ppl/2/a/e5e4936caa315ed61a85286c4a2.html|Suchanek|Mieczysław /Suchanek/|1 JAN 1908|Motkowice, Polska|||
 ppl/c/6/e5e4936cb4d4bdc69a423eda16c.html|Suchanek|Wanda Maria /Suchanek/|||||
 ppl/3/3/e5e4936cbbb474b896d37f67d33.html|[Private]|[Private] /[Private]/|||||
-ppl/a/b/e5e4936cbd92b16340a0d4c5cba.html|Podsiadło|Andrzej /Podsiadło/|||||
-ppl/e/9/e5e4936cbed473c2ae62043b89e.html|Dudała|Marianna /Dudała/|||||
+ppl/a/b/e5e4936cbd92b16340a0d4c5cba.html|Podsiadło|Andrzej /Podsiadło/|31 OCT 1880|Motkowice, Polska|||
+ppl/e/9/e5e4936cbed473c2ae62043b89e.html|Dudała|Marianna /Dudała/|ABT 1887|Motkowice, Polska|||
 ppl/d/f/e5e4936cc01721ed4482d72c2fd.html|Podsiadło|Zygmunt /Podsiadło/|||||
-ppl/b/3/e5e4936cc1549826dc885d67a3b.html|Podsiadło|Bolesław /Podsiadło/|||||
+ppl/b/3/e5e4936cc1549826dc885d67a3b.html|Podsiadło|Bolesław /Podsiadło/|26 FEB 1916|Motkowice, Polska|||
 ppl/7/4/e5e4936ccaa217b7d40b6a58647.html|Podsiadło|Władysław /Podsiadło/|||||
 ppl/b/7/e5e4936ccc86623e8487bebe97b.html|Podsiadło|Stanisław /Podsiadło/|||||
 ppl/9/d/e5e4936cd2269475037ec7dc8d9.html||Zofia //|||||
@@ -293,7 +293,7 @@ ppl/9/e/e5e4936cf8e392b51ba29a69fe9.html|[Private]|[Private] /[Private]/|||||
 ppl/e/a/e5e4936cfa2626461db9b4698ae.html|[Private]|[Private] /[Private]/|||||
 ppl/b/2/e5e4936cfb66de768c00803aa2b.html|[Private]|[Private] /[Private]/|||||
 ppl/4/e/e5e4936cfca3d19ce974df7ffe4.html|[Private]|[Private] /[Private]/|||||
-ppl/0/9/e5e4936d00f6369c495b6c39d90.html|Suchanek|Katarzyna /Suchanek/|||||
+ppl/0/9/e5e4936d00f6369c495b6c39d90.html|Suchanek|Katarzyna /Suchanek/|30 OCT 1904|Motkowice, Polska|||
 ppl/a/4/e5e4936d0373b15efc6f2204b4a.html|Sibiński|Edmund Teodor /Sibiński/|||||
 ppl/8/5/e5e4936d07d22446666fd119c58.html|[Private]|[Private] /[Private]/|||||
 ppl/a/3/e5e4936d0f5f46d1950c93a63a.html|Sibiński|Tadeusz /Sibiński/|||||
@@ -313,11 +313,11 @@ ppl/4/9/e5e4936d2a32faa95052e0b0894.html|[Private]|[Private] /[Private]/|||||
 ppl/b/2/e5e4936d2b73c0b57f56e6182b.html|[Private]|[Private] /[Private]/|||||
 ppl/f/8/e5e4936d2c1a272cefde22d98f.html|[Private]|[Private] /[Private]/|||||
 ppl/7/f/e5e4936d37f5dc4a948852ac4f7.html|[Private]|[Private] /[Private]/|||||
-ppl/1/a/e5e4936d3f67f6a7fd573bcd1a1.html|Sibiński|Michał /Sibiński/|||||
-ppl/d/5/e5e4936d41ec945433c1aed65d.html|Sibiński|Józef /Sibiński/|||||
-ppl/b/a/e5e4936d4322fbfb42570dea9ab.html|Zielińska|Katarzyna /Zielińska/|||||
+ppl/1/a/e5e4936d3f67f6a7fd573bcd1a1.html|Sibiński|Michał /Sibiński/|16 SEP 1910||||
+ppl/d/5/e5e4936d41ec945433c1aed65d.html|Sibiński|Józef /Sibiński/|ABT 1867|Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska|||
+ppl/b/a/e5e4936d4322fbfb42570dea9ab.html|Zielińska|Katarzyna /Zielińska/|10 SEP 1867|Lubocheń, Polska|||
 ppl/f/2/e5e4936d48276b10a1b8680cc2f.html|Sibińska|Helena /Sibińska/|||||
-ppl/c/9/e5e4936d4aa6d1e48c501f90f9c.html|Sibińska|Zofia /Sibińska/|||||
+ppl/c/9/e5e4936d4aa6d1e48c501f90f9c.html|Sibińska|Zofia /Sibińska/|16 APR 1898||||
 ppl/8/7/e5e4936d4be4ae4d15847278878.html|[Private]|[Private] /[Private]/|||||
 ppl/9/a/e5e4936d4dc296322dffd2d1ea9.html|Sibińska|Judyta /Sibińska/|||||
 ppl/b/e/e5e4936d4e61ad06dae2c5010eb.html|[Private]|[Private] /[Private]/|||||
@@ -327,19 +327,19 @@ ppl/a/2/e5e4936d55e4c33eaa8a9d7342a.html|[Private]|[Private] /[Private]/|||||
 ppl/7/9/e5e4936d57247c764129bb54697.html|[Private]|[Private] /[Private]/|||||
 ppl/0/3/e5e4936d5906d619396ce6fcf30.html|[Private]|[Private] /[Private]/|||||
 ppl/2/b/e5e4936d5ea631c242c2e0b27b2.html|Podsiadło|Matylda /Podsiadło/|||||
-ppl/c/8/e5e4936d6124f4e45d9ad3d2b8c.html|Podsiadło|Mieczysław /Podsiadło/|||||
+ppl/c/8/e5e4936d6124f4e45d9ad3d2b8c.html|Podsiadło|Mieczysław /Podsiadło/|ABT MAY 1919||12 NOV 1920|Motkowice, Polska|
 ppl/9/c/e5e4936d63a7c910dc3c7e3b3c9.html|[Private]|[Private] /[Private]/|||||
 ppl/c/f/e5e4936d64e50aa23272cf766fc.html|[Private]|[Private] /[Private]/|||||
 ppl/f/0/e5e4936d662545148efe82da20f.html|[Private]|[Private] /[Private]/|||||
 ppl/8/6/e5e4936d6bc391c8c0dd08a4c68.html|[Private]|[Private] /[Private]/|||||
-ppl/5/7/e5e4936d6ee210e2e0a14084975.html|Huńka|Mieczysław /Huńka/|||||
-ppl/d/2/e5e4936d70255fff87233f49e2d.html|Hamaryn|Eugenia /Hamaryn/|||||
-ppl/8/f/e5e4936d7b55dfe3f35343e0df8.html|Sibiński|Idzi /Sibiński/|||||
+ppl/5/7/e5e4936d6ee210e2e0a14084975.html|Huńka|Mieczysław /Huńka/|6 SEP 1896|Lwów, Ukraina|||
+ppl/d/2/e5e4936d70255fff87233f49e2d.html|Hamaryn|Eugenia /Hamaryn/|1899|Omsk, Rosja|||
+ppl/8/f/e5e4936d7b55dfe3f35343e0df8.html|Sibiński|Idzi /Sibiński/|2 SEP 1897||||
 ppl/0/d/e5e4936d7d315cd77df781037d0.html|Sibińska| /Sibińska/|||||
 ppl/a/e/e5e4936d7e72ab3258f3265faea.html|[Private]|[Private] /[Private]/|||||
 ppl/e/c/e5e4936d7f128d396c655d565ce.html|[Private]|[Private] /[Private]/|||||
-ppl/f/9/e5e4936d84b45d1a7fbec1ee49f.html|Wentland|Johann Nepomuk /Wentland/|||||
-ppl/8/8/e5e4936d85521599040cc0dc88.html|Sklepik|Victoria /Sklepik/|||||
+ppl/f/9/e5e4936d84b45d1a7fbec1ee49f.html|Wentland|Johann Nepomuk /Wentland/|1 MAY 1855|Radzyny, Polska|||
+ppl/8/8/e5e4936d85521599040cc0dc88.html|Sklepik|Victoria /Sklepik/|29 NOV 1857|Imbierowo, Zielątkowo, Polska|||
 ppl/a/e/e5e4936d869c8d3e65d474faea.html|Wentladt| /Wentladt/|||||
 ppl/8/3/e5e4936d87d5b842f2792bc3838.html|[Private]|[Private] /[Private]/|||||
 ppl/3/a/e5e4936d8914d4a1a2c92ad20a3.html|| //|||||
@@ -358,7 +358,7 @@ ppl/5/0/e601f2908ff6ba5190c7a4a4805.html|Durschlag|Carl /Durschlag/|||||
 ppl/c/5/e601f30950034355c32fd5c465c.html|Durschlag|Emil-Nikolaus /Durschlag/|||||
 ppl/1/8/e601f35a40d207edc15a3015e81.html|Durschlag|Paul-Johann /Durschlag/|||||
 ppl/1/5/e601ffff64c7ccc1cb2dcd50351.html|Pohl| /Pohl/|||||
-ppl/d/8/e602188ba5c4f8002e99b902c8d.html|Solorz|Gerhard /Solorz/|||||
+ppl/d/8/e602188ba5c4f8002e99b902c8d.html|Solorz|Gerhard /Solorz/|1907||||
 ppl/6/2/e6021a09f713509c50640a25e26.html|Olma|Elżbieta /Olma/|||||
 ppl/c/9/e6021aa33cb767142a589a6f79c.html|Solorz|Urszula /Solorz/|||||
 ppl/3/5/e6021bbb2212ea12c8f92c36f53.html|[Private]|[Private] /[Private]/|||||
@@ -375,10 +375,10 @@ ppl/4/6/e60231187da75fb14bec3e4d164.html|[Private]|[Private] /[Private]/|||||
 ppl/e/c/e6023207f6d4da770c33efaf4ce.html|[Private]|[Private] /[Private]/|||||
 ppl/e/f/e602323d1ed3d46c36a029c57fe.html|[Private]|[Private] /[Private]/|||||
 ppl/d/b/e6023425eb6241b1cdd0ebba1bd.html|[Private]|[Private] /[Private]/|||||
-ppl/0/7/e603c01226c4ee69b8c898bb570.html|Suchanek|Wincenty /Suchanek/|||||
-ppl/c/5/e603c13af014576327a23ef25c.html|Fatyga|Marianna /Fatyga/|||||
-ppl/4/b/e603c61ceb113e38afd61b264b4.html|Suchanek|Julianna /Suchanek/|||||
-ppl/a/5/e603c8ec3ab5dd31756cd1ca05a.html|Kowalczyk|Marcin /Kowalczyk/|||||
+ppl/0/7/e603c01226c4ee69b8c898bb570.html|Suchanek|Wincenty /Suchanek/|1873|Kije, Polska|||
+ppl/c/5/e603c13af014576327a23ef25c.html|Fatyga|Marianna /Fatyga/|20 MAR 1875|Motkowice, Polska|||
+ppl/4/b/e603c61ceb113e38afd61b264b4.html|Suchanek|Julianna /Suchanek/|9 FEB 1903|Motkowice, Polska|||
+ppl/a/5/e603c8ec3ab5dd31756cd1ca05a.html|Kowalczyk|Marcin /Kowalczyk/|ABT 1898|Motkowice, Polska|||
 ppl/c/0/e603faf36326650b9640144bc0c.html|Kowalczyk|Jan /Kowalczyk/|||||
 ppl/3/8/e603fb25d11fef4aea92d68183.html|Skwar|Katarzyna /Skwar/|||||
 ppl/9/a/e605337f69a35c0fad18b4d73a9.html|[Private]|[Private] /[Private]/|||||
@@ -388,34 +388,34 @@ ppl/2/1/e607cddef9e26ba2e4276728712.html|Madejczyk|Małgorzata /Madejczyk/|||||
 ppl/c/a/e607e8834365cce29af2e89f8ac.html|[Private]|[Private] /[Private]/|||||
 ppl/0/2/e607e8b332d7a488b55ded85a20.html|[Private]|[Private] /[Private]/|||||
 ppl/2/9/e630b3ea73655cf0d844248ab92.html|Moczygemba|Joseph /Moczygemba/|||||
-ppl/d/d/e630b59e193c6896a6f77628dd.html|Nagel|Joseph /Nagel/|||||
-ppl/f/3/e6313b4c14921a1acd9fca10c3f.html|Rudolf|Julianna /Rudolf/|||||
-ppl/c/e/e631c3939b12f6b6975c30264ec.html|Nagel|Carolina /Nagel/|||||
+ppl/d/d/e630b59e193c6896a6f77628dd.html|Nagel|Joseph /Nagel/|ABT 1796||||
+ppl/f/3/e6313b4c14921a1acd9fca10c3f.html|Rudolf|Julianna /Rudolf/|ABT 1797||||
+ppl/c/e/e631c3939b12f6b6975c30264ec.html|Nagel|Carolina /Nagel/|12 FEB 1834|Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, Polska|||
 ppl/3/0/e67eb0f1a62393a171a5da3a403.html|[Private]|[Private] /[Private]/|||||
-ppl/7/0/e67ebe1512360f7031c7a16e07.html|Sibiński|Franciszek /Sibiński/|||||
+ppl/7/0/e67ebe1512360f7031c7a16e07.html|Sibiński|Franciszek /Sibiński/|3 MAR 1895||||
 ppl/0/a/e67eeb523b25857742fd71f4da0.html|[Private]|[Private] /[Private]/|||||
 ppl/6/6/e67eeb931ff4d4d7ac862e63766.html|[Private]|[Private] /[Private]/|||||
 ppl/1/7/e67eebbb610384a14164be5e671.html|[Private]|[Private] /[Private]/|||||
 ppl/1/0/e67eec700114baabba42714ad01.html|[Private]|[Private] /[Private]/|||||
 ppl/4/c/e67eec8e40c2d4aaf8c8141dfc4.html|[Private]|[Private] /[Private]/|||||
-ppl/4/5/e688f805ccf2d53e8f17501d454.html|Wentland|Franciszek /Wentland/|||||
-ppl/6/6/e688f85b958ddbdd1ba4299866.html|Skowronski|Petronilla /Skowronski/|||||
+ppl/4/5/e688f805ccf2d53e8f17501d454.html|Wentland|Franciszek /Wentland/|ABT 1810|Kiączyn, Polska|29 MAY 1868|Stare, Polska|
+ppl/6/6/e688f85b958ddbdd1ba4299866.html|Skowronski|Petronilla /Skowronski/|ABT 1812|Kiączyn, Polska|||
 ppl/b/4/e6890164e6627654be5b44ff04b.html|Sklepik|Walenty /Sklepik/|||||
-ppl/c/a/e68901afe8e28b7f62bd00c2ac.html|Kromolicka|Regina /Kromolicka/|||||
+ppl/c/a/e68901afe8e28b7f62bd00c2ac.html|Kromolicka|Regina /Kromolicka/|ABT 1827||||
 ppl/7/f/e68a943ebca3fb71fa854eadbf7.html|Skowroński|Wojciech /Skowroński/|||||
 ppl/9/e/e68a9485d922cc0daaa949879e9.html|Skowroński|Marianna /Skowroński/|||||
-ppl/d/a/e6d5237fde25544ba636c22b9ad.html|Sibiński|Kacper /Sibiński/|||||
-ppl/f/0/e6d525a4b885352ac89e5991c0f.html|Mielcarek|Marianna /Mielcarek/|||||
-ppl/4/8/e6d52cb3c20699f9249af3b5484.html|Zieliński|Mateusz /Zieliński/|||||
+ppl/d/a/e6d5237fde25544ba636c22b9ad.html|Sibiński|Kacper /Sibiński/|30 DEC 1832|Dom nr 36, Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska|13 DEC 1878|Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska|
+ppl/f/0/e6d525a4b885352ac89e5991c0f.html|Mielcarek|Marianna /Mielcarek/|17 JAN 1840|Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska|AFT 13 DEC 1878||
+ppl/4/8/e6d52cb3c20699f9249af3b5484.html|Zieliński|Mateusz /Zieliński/|ABT 1828||BET 24 APR 1881 AND 7 JAN 1894||
 ppl/c/5/e6d52d5e37b4100680be888c5c.html|Depka|Agnieszka /Depka/|19 OCT 1834|Sulnówko, Świecie, świecki, kujawsko-pomorskie, Polska|24 APR 1881|Osie, Osie, świecki, kujawsko-pomorskie, Polska|
-ppl/6/7/e6d5759d06c60f576d6ba830d76.html|Sibiński|Jan /Sibiński/|||||
-ppl/5/c/e6d5769d7c8147f4a0fcb0037c5.html|Wyrębska|Barbara /Wyrębska/|||||
-ppl/9/7/e6d57c1f4e75e238ff39ed8679.html|Mielcarek|Jan /Mielcarek/|||||
-ppl/3/8/e6d57ca37fc2af6a9f97af7cd83.html|Salamon|Antonina /Salamon/|||||
+ppl/6/7/e6d5759d06c60f576d6ba830d76.html|Sibiński|Jan /Sibiński/|ABT 1802|Kolonia Sibińskie, Polska|BEF 10 FEB 1862||
+ppl/5/c/e6d5769d7c8147f4a0fcb0037c5.html|Wyrębska|Barbara /Wyrębska/|ABT 1806|Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska|25 APR 1835|Pustkowie Sibińskie, Polska|
+ppl/9/7/e6d57c1f4e75e238ff39ed8679.html|Mielcarek|Jan /Mielcarek/|ABT 1807||BET 1840 AND 10 FEB 1862||
+ppl/3/8/e6d57ca37fc2af6a9f97af7cd83.html|Salamon|Antonina /Salamon/|ABT 1812||AFT 1862||
 ppl/6/7/e6dbe9d7e796945118ec5f3d676.html|Sibiński|Walenty /Sibiński/|||||
 ppl/8/6/e6dbea35ce46dfe71e9aa228568.html|Gaszta|Marianna /Gaszta/|||||
-ppl/6/4/e6dbec0879248501ae353069b46.html|Wyrębski|Piotr /Wyrębski/|||||
-ppl/4/8/e6dbec4bfa931ba79ca78308284.html|Sibińska|Antonina /Sibińska/|||||
+ppl/6/4/e6dbec0879248501ae353069b46.html|Wyrębski|Piotr /Wyrębski/|ABT 1783|Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska|25 JAN 1844|Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska|
+ppl/4/8/e6dbec4bfa931ba79ca78308284.html|Sibińska|Antonina /Sibińska/|ABT 1793|Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska|26 FEB 1834|Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska|
 ppl/d/8/e6ec59d44913e7f455bad63018d.html|Sibiński|Jan /Sibiński/|||||
 ppl/e/2/e6ec5a13dcd36b44ac32a4eec2e.html|Sibińska|Helena /Sibińska/|||||
 ppl/9/e/e6f5d1be736274d093e01abe9e9.html|[Private]|[Private] /[Private]/|||||
@@ -426,8 +426,8 @@ ppl/b/5/e779f968fbe2ac193d0860f595b.html|[Private]|[Private] /[Private]/|||||
 ppl/f/f/e779f9690005302cb89af2886ff.html|[Private]|[Private] /[Private]/|||||
 ppl/8/7/e779f9690131c68f110018e7878.html|[Private]|[Private] /[Private]/|||||
 ppl/1/9/e779f96905629e97601a71b0891.html|[Private]|[Private] /[Private]/|||||
-ppl/2/0/e779f969077413eeee738f38c02.html|Chudzicka|Zyta /Chudzicka/|||||
-ppl/1/f/e779f9690a312cbed03122366f1.html|Kopeć|Kazimierz /Kopeć/|||||
+ppl/2/0/e779f969077413eeee738f38c02.html|Chudzicka|Zyta /Chudzicka/|20 MAY 1911||||
+ppl/1/f/e779f9690a312cbed03122366f1.html|Kopeć|Kazimierz /Kopeć/|2 JUN 1911||||
 ppl/1/9/e779f9690c228a16f3ac5f03b91.html|[Private]|[Private] /[Private]/|||||
 ppl/9/a/e779f9691011581391ae8ccc3a9.html|[Private]|[Private] /[Private]/|||||
 ppl/0/9/e779f9691084c816cfcacd81a90.html|Kopeć|Zygmunt /Kopeć/|||||
@@ -442,7 +442,7 @@ ppl/2/8/e779f9691bf1a78c03234d74382.html|[Private]|[Private] /[Private]/|||||
 ppl/4/5/e779f9691cd306b157d1237f954.html|[Private]|[Private] /[Private]/|||||
 ppl/4/8/e779f9691f135c4496614f47684.html|[Private]|[Private] /[Private]/|||||
 ppl/a/c/e779f9691fe6172f5987c0cb8ca.html|[Private]|[Private] /[Private]/|||||
-ppl/e/8/e779f96923b6e9d0bafe370958e.html|Kulik|Jan /Kulik/|||||
+ppl/e/8/e779f96923b6e9d0bafe370958e.html|Kulik|Jan /Kulik/|16 APR 1898|Piasek Wielki, Polska|||
 ppl/2/b/e779f9692521df680389a0a3bb2.html||Maria //|||||
 ppl/0/5/e779f96925d19a6834ea1ed9b50.html|[Private]|[Private] /[Private]/|||||
 ppl/8/9/e779f96926617f3307c67466598.html|[Private]|[Private] /[Private]/|||||
@@ -467,8 +467,8 @@ ppl/0/8/e779f9693b83a8f29ad420f0580.html|[Private]|[Private] /[Private]/|||||
 ppl/f/8/e779f9693c15157d9af51672f8f.html|[Private]|[Private] /[Private]/|||||
 ppl/4/2/e779f9693cc2651e49b3bd2d524.html|[Private]|[Private] /[Private]/|||||
 ppl/6/3/e779f9693e04b1b82bd3cab5636.html|[Private]|[Private] /[Private]/|||||
-ppl/4/9/e779f9693ea339eabd5a75e0594.html|Wac|Józef /Wac/|||||
-ppl/6/b/e779f9693f56194e0b8c75d8ab6.html|Sławik|Agnieszka /Sławik/|||||
+ppl/4/9/e779f9693ea339eabd5a75e0594.html|Wac|Józef /Wac/|10 APR 1900|Czukiew, rejon samborski, obwód lwowski, Ukraina|||
+ppl/6/b/e779f9693f56194e0b8c75d8ab6.html|Sławik|Agnieszka /Sławik/|15 APR 1905|Czukiew, rejon samborski, obwód lwowski, Ukraina|||
 ppl/f/2/e779f9694323be0f87ed627a52f.html|[Private]|[Private] /[Private]/|||||
 ppl/1/1/e779f96943b28b81749942da611.html|[Private]|[Private] /[Private]/|||||
 ppl/2/2/e779f96944957e13325083fa022.html|[Private]|[Private] /[Private]/|||||
@@ -476,8 +476,8 @@ ppl/1/c/e779f969456558e3fa4189975c1.html|[Private]|[Private] /[Private]/|||||
 ppl/4/2/e779f9694617a04fec528bcc024.html|[Private]|[Private] /[Private]/|||||
 ppl/e/7/e779f9694687884feafc928e97e.html|[Private]|[Private] /[Private]/|||||
 ppl/9/c/e779f96947a28babce54eb359c9.html|[Private]|[Private] /[Private]/|||||
-ppl/a/5/e779f969484777b54908bbf545a.html|Chudzicka|Julianna /Chudzicka/|||||
-ppl/2/c/e779f9694cd17c040a0d0942dc2.html|Chudzicki|Piotr /Chudzicki/|||||
+ppl/a/5/e779f969484777b54908bbf545a.html|Chudzicka|Julianna /Chudzicka/|||EST 1917||
+ppl/2/c/e779f9694cd17c040a0d0942dc2.html|Chudzicki|Piotr /Chudzicki/|22 JAN 1914|Zagorzany, Polska|||
 ppl/f/8/e779f9694ed6d49451d7072b28f.html|Chudzicka|Maria /Chudzicka/ Barbara|||||
 ppl/8/d/e779f9694fb358b7f5797fde8d8.html|Juszczyk|Marianna /Juszczyk/ Marysia|||||
 ppl/b/6/e779f96950615800604829be06b.html|[Private]|[Private] /[Private]/|||||
@@ -508,7 +508,7 @@ ppl/5/f/e779f9697414ca27ce940286df5.html|[Private]|[Private] /[Private]/|||||
 ppl/d/9/e779f96975f261837887f3e1f9d.html|[Private]|[Private] /[Private]/|||||
 ppl/c/9/e779f96976f33e82b95b4750f9c.html|[Private]|[Private] /[Private]/|||||
 ppl/3/b/e779f96977c200582cf72459fb3.html|[Private]|[Private] /[Private]/|||||
-ppl/3/c/e779f9697926d3af1029db3cfc3.html|Chudzicka|Dorota /Chudzicka/|||||
+ppl/3/c/e779f9697926d3af1029db3cfc3.html|Chudzicka|Dorota /Chudzicka/|1908||||
 ppl/0/d/e779f9697b2468ce2d8b2fcbed0.html|Santor|Anotni /Santor/|||||
 ppl/8/3/e779f9697c67f6517ac0add1338.html|[Private]|[Private] /[Private]/|||||
 ppl/b/d/e779f9697d552aa9c90814ce3db.html|[Private]|[Private] /[Private]/|||||
@@ -523,7 +523,7 @@ ppl/8/a/e779f96982265e14c0edbf78fa8.html|[Private]|[Private] /[Private]/|||||
 ppl/a/f/e779f96982b44a05aa46ff657fa.html|[Private]|[Private] /[Private]/|||||
 ppl/a/3/e779f969836793d61d7c669803a.html|Chudzicka|Maria /Chudzicka/ rududu|||||
 ppl/6/0/e779f96984210665ccde0d97806.html|Ostrowski| /Ostrowski/|||||
-ppl/a/7/e779f96984914268bafb609017a.html|Chudzicka|Magda /Chudzicka/|||||
+ppl/a/7/e779f96984914268bafb609017a.html|Chudzicka|Magda /Chudzicka/|1905||||
 ppl/f/6/e779f969862723e9c239b59106f.html|Ząbek|Stanisław /Ząbek/|||||
 ppl/6/5/e779f9698707f211553f8ab1e56.html|[Private]|[Private] /[Private]/|||||
 ppl/3/d/e779f96987a7565c28791f115d3.html|[Private]|[Private] /[Private]/|||||
@@ -547,14 +547,14 @@ ppl/f/7/e779f96992d6ef940929671cf7f.html|Chudzicka|Elżbieta /Chudzicka/|||||
 ppl/e/5/e779f9699386ec951c5cddcdb5e.html|Chudzicka|Józefa /Chudzicka/|||||
 ppl/4/7/e779f9699431cf3b7b4f5d18374.html|Chudzicka| /Chudzicka/|||||
 ppl/f/d/e779f969950c795928c50f57df.html|Chudzicki|Wojciech /Chudzicki/|||||
-ppl/1/7/e779f96995b73af25fdd12dbf71.html|Chudzicki|Józef /Chudzicki/|||||
+ppl/1/7/e779f96995b73af25fdd12dbf71.html|Chudzicki|Józef /Chudzicki/|1870||||
 ppl/d/6/e779f96996f403ce2d674a6ff6d.html|Czajkowski|Andrzej /Czajkowski/|||||
 ppl/e/8/e779f96997d5601685227ab678e.html|| //|||||
-ppl/b/7/e779f9699834466fd26d7b0617b.html|Chudzicka|Maria /Chudzicka/|||||
+ppl/b/7/e779f9699834466fd26d7b0617b.html|Chudzicka|Maria /Chudzicka/|ABT 1899||||
 ppl/6/4/e779f96999749bb6fed72726946.html|Kulik|Stanisław /Kulik/|||||
 ppl/8/3/e779f9699a0317b8554df2ffb38.html|Bańbura|Katarzyna /Bańbura/|||||
 ppl/5/e/e779f9699ab71ef78353a39e4e5.html|Kulik|Józefa /Kulik/|||||
-ppl/4/8/e779f9699c0344c71885425bc84.html|Gaweł|Jan /Gaweł/|||||
+ppl/4/8/e779f9699c0344c71885425bc84.html|Gaweł|Jan /Gaweł/|10 FEB 1897||||
 ppl/3/9/e779f9699d0784d049e6c8ccf93.html|[Private]|[Private] /[Private]/|||||
 ppl/8/9/e779f9699d862c6ea60d165b498.html|| //|||||
 ppl/d/6/e779f9699e0b2b1204ec3ed56d.html|[Private]|[Private] /[Private]/|||||
@@ -562,10 +562,10 @@ ppl/8/b/e779f9699e8190e7171570975b8.html|[Private]|[Private] /[Private]/|||||
 ppl/d/3/e779f9699ee247740a923e6743d.html|[Private]|[Private] /[Private]/|||||
 ppl/d/9/e779f9699f346c0214d1d3fb9d.html|Kopeć|Józef /Kopeć/|||||
 ppl/2/f/e779f9699fd2c1a56ffa534dff2.html|Kopeć|Stanisław /Kopeć/|||||
-ppl/2/8/e779f969a07110149b9bff0c182.html|Kopeć|Franciszek /Kopeć/|||||
+ppl/2/8/e779f969a07110149b9bff0c182.html|Kopeć|Franciszek /Kopeć/|EST 1909||||
 ppl/7/5/e779f969a13231c1e748ed58a57.html|Kopeć|Maria /Kopeć/|||||
 ppl/7/7/e779f969a1d185f9c69d49ca777.html|Kopeć|Helena /Kopeć/|||||
-ppl/0/5/e779f969a287293ff487b32d150.html|Kopeć|Zofia /Kopeć/|||||
+ppl/0/5/e779f969a287293ff487b32d150.html|Kopeć|Zofia /Kopeć/|EST 1913||||
 ppl/e/8/e779f969a347fe6ca3255ef018e.html|Kopeć|Wiktoria /Kopeć/|||||
 ppl/9/6/e779f969a3e2a6b09377077b669.html|Kopeć|Stanisława /Kopeć/|||||
 ppl/0/6/e779f969a4a1ba5d64a287dd960.html|Kurpiński|Franciszek /Kurpiński/ babuńciu|||||
@@ -575,111 +575,111 @@ ppl/1/a/e779f969a64a0cbcd0c414f2a1.html|[Private]|[Private] /[Private]/|||||
 ppl/c/9/e779f969a6b76694120dab529c.html||Janina //|||||
 ppl/9/c/e779f969a7337a735f01ba7c2c9.html|Kosela|Władysław /Kosela/|||||
 ppl/e/c/e779f969a7beeb28d5c88710ce.html|[Private]|[Private] /[Private]/|||||
-ppl/2/4/e7808c177a6565a242fd3174642.html|Wincek|Olga /Wincek/|||||
+ppl/2/4/e7808c177a6565a242fd3174642.html|Wincek|Olga /Wincek/|ABT 1 JAN 1870||24 JUN 1870|Nowy Bytom, Ruda Śląska, Polska|
 ppl/9/2/e78d4aa99c76eae4fb407b4ee29.html|Rothkegel|Joseph Wilhelm /Rothkegel/|||||
-ppl/2/f/e78d4bbb9af5706e5e394583cf2.html|Schulz|Rosalie /Schulz/|||||
+ppl/2/f/e78d4bbb9af5706e5e394583cf2.html|Schulz|Rosalie /Schulz/|ABT 1 FEB 1835||||
 ppl/5/5/e78d60b93ff31f04d30b9083a55.html|Rudner|Karl /Rudner/|||||
-ppl/2/3/e78d61003aca3cfeeb32a65c32.html|Schulz|Marie /Schulz/|||||
-ppl/7/c/e7a59eb7e7dcfe589c763db6c7.html|Fatyga|Florian /Fatyga/|||||
-ppl/e/d/e7a5a0cd700224a7035269bade.html|Madejczyk|Franciszka /Madejczyk/|||||
-ppl/6/c/e7a5a478f4858c4bf7d7e3d21c6.html|Fatyga|Anastazja /Fatyga/|||||
-ppl/8/8/e7a5cca27f7770f0c6b7d403988.html|Dittfeld|Rozalia /Dittfeld/|||||
+ppl/2/3/e78d61003aca3cfeeb32a65c32.html|Schulz|Marie /Schulz/|ABT 1838||||
+ppl/7/c/e7a59eb7e7dcfe589c763db6c7.html|Fatyga|Florian /Fatyga/|26 APR 1844|Kije, Polska|||
+ppl/e/d/e7a5a0cd700224a7035269bade.html|Madejczyk|Franciszka /Madejczyk/|2 APR 1851|Dom nr 8, Motkowice, Polska|||
+ppl/6/c/e7a5a478f4858c4bf7d7e3d21c6.html|Fatyga|Anastazja /Fatyga/|23 DEC 1877|Motkowice, Polska|||
+ppl/8/8/e7a5cca27f7770f0c6b7d403988.html|Dittfeld|Rozalia /Dittfeld/|30 JUL 1884||||
 ppl/3/9/e7a5cea99724af91f81b69b9d93.html|Sibiński|Stanisław /Sibiński/|||||
 ppl/d/1/e7a5d6951406347ca4ea4e4bc1d.html|[Private]|[Private] /[Private]/|||||
 ppl/d/3/e7a5d6df39869750c8a391f9d3d.html|[Private]|[Private] /[Private]/|||||
 ppl/7/8/e7a5d8de4ab7d92314fa7048887.html|Wac|Franciszek /Wac/|||||
 ppl/2/5/e7a5d91b4f76eca93b09f0c8452.html|Wac|Katarzyna /Wac/|||||
 ppl/d/5/e7a5d994c4e46f4561b0e3def5d.html|Wac|Iwan /Wac/|||||
-ppl/0/5/e7bd4d26f273a0016248a26c150.html|Zieliński|Andreas /Zieliński/|||||
-ppl/9/e/e7bd4e7bbde5a95251c46bc37e9.html|Zieliński|Marianna /Zieliński/|||||
-ppl/b/f/e7bd4f2173f31dd3c12b75fc9fb.html|Zieliński|Julianna /Zieliński/|||||
-ppl/3/2/e7bd4fbf60f181e331e0bf5b623.html|Zieliński|Joanna /Zieliński/|||||
-ppl/2/9/e7bd50677a6437ff1de5e212d92.html|Zieliński|Theopil /Zieliński/|||||
-ppl/c/8/e7bd51d09f64f25e5e521f3738c.html|Zieliński|Leon /Zieliński/|||||
-ppl/1/7/e7bd52760006043b98688f25171.html|Zieliński|Franz Xaver /Zieliński/|||||
-ppl/5/a/e819be359457a4354696c5504a5.html|Waniurka|Joseph /Waniurka/|||||
+ppl/0/5/e7bd4d26f273a0016248a26c150.html|Zieliński|Andreas /Zieliński/|1855||||
+ppl/9/e/e7bd4e7bbde5a95251c46bc37e9.html|Zieliński|Marianna /Zieliński/|1858||||
+ppl/b/f/e7bd4f2173f31dd3c12b75fc9fb.html|Zieliński|Julianna /Zieliński/|1860||||
+ppl/3/2/e7bd4fbf60f181e331e0bf5b623.html|Zieliński|Joanna /Zieliński/|1862||||
+ppl/2/9/e7bd50677a6437ff1de5e212d92.html|Zieliński|Theopil /Zieliński/|1864||||
+ppl/c/8/e7bd51d09f64f25e5e521f3738c.html|Zieliński|Leon /Zieliński/|1865||||
+ppl/1/7/e7bd52760006043b98688f25171.html|Zieliński|Franz Xaver /Zieliński/|1869||||
+ppl/5/a/e819be359457a4354696c5504a5.html|Waniurka|Joseph /Waniurka/|ABT 1820||28 SEP 1852|Ignatzdorf, Katowice, Polska|
 ppl/e/5/e819ee3236540ae809a448995e.html|Schwammel|Antonie /Schwammel/|||||
 ppl/9/6/e819ef357fe4c23d48ac3f8c969.html|Krzanowski|Johann /Krzanowski/|||||
-ppl/1/c/e8365123c974c54bdf1b71ba4c1.html|Polloczek|Josef /Polloczek/|||||
-ppl/c/2/e83651ac6b58225cd2ef1dad2c.html|Pirożek|Margaretha /Pirożek/|||||
+ppl/1/c/e8365123c974c54bdf1b71ba4c1.html|Polloczek|Josef /Polloczek/|4 JUL 1833|Stanowice, Polska|BEF 5 FEB 1898||
+ppl/c/2/e83651ac6b58225cd2ef1dad2c.html|Pirożek|Margaretha /Pirożek/|ABT 1842|Bielszowice, Ruda Śląska, Polska|BEF 5 FEB 1898||
 ppl/7/9/e836558013131b78a407f40d197.html|Halama|Carl /Halama/|||||
 ppl/e/c/e83655a85dd2046f3ae833b48ce.html|Przikling|Florentine /Przikling/|||||
-ppl/3/d/e844d1e092258928466710d6cd3.html|Halama|Albert /Halama/|||||
-ppl/4/3/e847fda34215901a80b9c070834.html|Polloczek|Marie /Polloczek/|||||
-ppl/6/2/e8651a2abfc1e08be1aa5b36326.html|Krzanowski|Philipp Johann /Krzanowski/|||||
-ppl/6/5/e86ad13618d24b4ed00301d0956.html|Polloczek|Franciska /Polloczek/|||||
+ppl/3/d/e844d1e092258928466710d6cd3.html|Halama|Albert /Halama/|3 JUL 1875|Lipiny, Świętochłowice, Polska|||
+ppl/4/3/e847fda34215901a80b9c070834.html|Polloczek|Marie /Polloczek/|13 JAN 1869|Wirek, Ruda Śląska, Polska|||
+ppl/6/2/e8651a2abfc1e08be1aa5b36326.html|Krzanowski|Philipp Johann /Krzanowski/|26 APR 1825|Ignatzdorf, Katowice, Polska|||
+ppl/6/5/e86ad13618d24b4ed00301d0956.html|Polloczek|Franciska /Polloczek/|27 APR 1871|Wirek, Ruda Śląska, Polska|19 JAN 1873|Wirek, Ruda Śląska, Polska|
 ppl/6/6/e873ca08e8b36352317d6e3b166.html|Poloczek|Paul /Poloczek/|||||
 ppl/c/4/e873ccdc13472326555f7e54c.html|Pirożek|Franz /Pirożek/|||||
 ppl/3/1/e877a3d982e5e570b7937279613.html|Januschok|Susanna /Januschok/|||||
-ppl/b/5/e8abc902be5164a7cdffeee45b.html|Krzanowski|Johanna /Krzanowski/|||||
-ppl/c/4/e8adff1787972e2f1bcf1b1fc4c.html|Krzanowski|Franz /Krzanowski/|||||
-ppl/a/7/e8b2197a05d5030c29d31bdcf7a.html|Wentland|Franz /Wentland/|||||
-ppl/a/8/e8b822a597e5c5103dd89b898a.html|Wentland|Marianna /Wentland/|||||
-ppl/c/d/e8b856266016767986bb6498edc.html|Wentland|Hedvigis /Wentland/|||||
-ppl/6/5/e8be4f431476fec82430185b956.html|Dziadek|Zofia /Dziadek/|||||
-ppl/1/e/e8bf0bf6e0a5a0c09a6a69ce7e1.html|Skorupa|Antonina /Skorupa/|||||
-ppl/6/2/e8df602f90c7d353a84a425aa26.html|Podsiadło|Jan /Podsiadło/|||||
-ppl/d/8/e8df60823cc39bac678eb5b3f8d.html|Kielesińska|Marianna /Kielesińska/|||||
+ppl/b/5/e8abc902be5164a7cdffeee45b.html|Krzanowski|Johanna /Krzanowski/|28 MAY 1830|Ignatzdorf, Katowice, Polska|||
+ppl/c/4/e8adff1787972e2f1bcf1b1fc4c.html|Krzanowski|Franz /Krzanowski/|30 SEP 1832|Ignatzdorf, Katowice, Polska|||
+ppl/a/7/e8b2197a05d5030c29d31bdcf7a.html|Wentland|Franz /Wentland/|25 FEB 1879|Popówko, Polska|||
+ppl/a/8/e8b822a597e5c5103dd89b898a.html|Wentland|Marianna /Wentland/|1859||AFT 1868||
+ppl/c/d/e8b856266016767986bb6498edc.html|Wentland|Hedvigis /Wentland/|1851||AFT 1868||
+ppl/6/5/e8be4f431476fec82430185b956.html|Dziadek|Zofia /Dziadek/|ABT 1814|Czajków, Polska|||
+ppl/1/e/e8bf0bf6e0a5a0c09a6a69ce7e1.html|Skorupa|Antonina /Skorupa/|ABT 1803||||
+ppl/6/2/e8df602f90c7d353a84a425aa26.html|Podsiadło|Jan /Podsiadło/|14 MAY 1844|Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska|||
+ppl/d/8/e8df60823cc39bac678eb5b3f8d.html|Kielesińska|Marianna /Kielesińska/|ABT 1845||||
 ppl/a/5/e8df639329021118374fb47425a.html|Dudała|Antoni /Dudała/|15 JAN 1865|Motkowice, Polska|||
 ppl/3/8/e8df63e057f30f99aa71cc88c83.html|Banaś|Marcjanna /Banaś/|6 JAN 1865|Motkowice, Polska|||
-ppl/5/a/e8ee9f20534625b097da0d44ca5.html|Podsiadło|Antoni /Podsiadło/|||||
+ppl/5/a/e8ee9f20534625b097da0d44ca5.html|Podsiadło|Antoni /Podsiadło/|9 JUN 1908|Motkowice, Polska|21 SEP 1908|Motkowice, Polska|
 ppl/d/4/e902a4b70c5513b7654b7f3ee4d.html|Huńka|Jan /Huńka/|||||
 ppl/8/7/e902a4e681135a1315282e1f478.html|Huńka|Maria /Huńka/|||||
 ppl/9/1/e912e9c05643e0579d2b5c65a19.html|[Private]|[Private] /[Private]/|||||
 ppl/9/e/e941f9e0b552e637e628e462ee9.html|Suchanek|Mikołaj /Suchanek/|11 NOV 1820|Motkowice, Polska|BEF 18 APR 1900||
-ppl/0/3/e941fa95831321abc99bf0abc30.html|Jakubczyk|Anna /Jakubczyk/|||||
-ppl/4/3/e95ca2011b51aff09c2be232134.html|Suchanek|Waleria /Suchanek/|||||
-ppl/4/d/e95ccc0556e3a21b89e534fa8d4.html|Suchanek|Katarzyna /Suchanek/|||||
-ppl/1/d/e96f4821ba5156e050340d8f9d1.html|Podsiadło|Anna /Podsiadło/|||||
-ppl/1/c/e96f8b9a12b34cefcd4248c69c1.html|Podsiadło|Marcin /Podsiadło/|||||
-ppl/0/3/e96f8e864094d3777a729517330.html|Kieliś|Łucja /Kieliś/|||||
-ppl/6/8/e96fa54b70c7efcee24316bcc86.html|Podsiadło|Jakub /Podsiadło/|||||
-ppl/d/f/e96fa56f8b7294a79ab4470ccfd.html|Borkowa|Magdalena /Borkowa/|||||
-ppl/1/a/e96fa8637b33d304ee6aa5e42a1.html|Kielesiński|Wojciech /Kielesiński/|||||
-ppl/1/c/e96fa917a2b711b03a3475145c1.html|Woźniak|Katarzyna /Woźniak/|||||
-ppl/d/c/e9905569b243683aa539e614fcd.html|Fatyga|Wojciech /Fatyga/|||||
-ppl/7/e/e99055f418a153523d79aff45e7.html|Trzeciak|Katarzyna /Trzeciak/|||||
-ppl/0/4/e990586d4f78fc2ad72c840540.html|Madejczyk|Tomasz /Madejczyk/|||||
-ppl/f/3/e99059391d84432f7b2411c873f.html|Stopińska|Katarzyna /Stopińska/|||||
-ppl/b/9/e996983448330cdb4bf9a818f9b.html|Fatyga|Florian /Fatyga/|||||
-ppl/7/a/e9969856d8b2083fdef93dae7a7.html|Kostoń|Agnieszka /Kostoń/|||||
+ppl/0/3/e941fa95831321abc99bf0abc30.html|Jakubczyk|Anna /Jakubczyk/|ABT 1843|Motkowice, Polska|14 APR 1902|Motkowice, Polska|
+ppl/4/3/e95ca2011b51aff09c2be232134.html|Suchanek|Waleria /Suchanek/|4 JUN 1866|Wierzbica, Kije, pińczowski, świętokrzyskie, Polska|||
+ppl/4/d/e95ccc0556e3a21b89e534fa8d4.html|Suchanek|Katarzyna /Suchanek/|13 NOV 1869|Lipnik, Kije, pińczowski, świętokrzyskie, Polska|||
+ppl/1/d/e96f4821ba5156e050340d8f9d1.html|Podsiadło|Anna /Podsiadło/|27 JUN 1868|Motkowice, Polska|||
+ppl/1/c/e96f8b9a12b34cefcd4248c69c1.html|Podsiadło|Marcin /Podsiadło/|16 OCT 1807|Dom nr 23, Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska|||
+ppl/0/3/e96f8e864094d3777a729517330.html|Kieliś|Łucja /Kieliś/|24 NOV 1809|Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska|||
+ppl/6/8/e96fa54b70c7efcee24316bcc86.html|Podsiadło|Jakub /Podsiadło/|ABT 1770||AFT 5 OCT 1830||
+ppl/d/f/e96fa56f8b7294a79ab4470ccfd.html|Borkowa|Magdalena /Borkowa/|ABT 1770||5 OCT 1830|Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska|
+ppl/1/a/e96fa8637b33d304ee6aa5e42a1.html|Kielesiński|Wojciech /Kielesiński/|||AFT 18 FEB 1828||
+ppl/1/c/e96fa917a2b711b03a3475145c1.html|Woźniak|Katarzyna /Woźniak/|||AFT 18 FEB 1828||
+ppl/d/c/e9905569b243683aa539e614fcd.html|Fatyga|Wojciech /Fatyga/|28 MAR 1817|Kliszów, Kije, pińczowski, świętokrzyskie, Polska|30 JAN 1872|Motkowice, Polska|
+ppl/7/e/e99055f418a153523d79aff45e7.html|Trzeciak|Katarzyna /Trzeciak/|ABT 1813|Rębów, Kije, pińczowski, świętokrzyskie, Polska|AFT 5 FEB 1872||
+ppl/0/4/e990586d4f78fc2ad72c840540.html|Madejczyk|Tomasz /Madejczyk/|BET 1816 AND 1822||AFT 5 FEB 1872||
+ppl/f/3/e99059391d84432f7b2411c873f.html|Stopińska|Katarzyna /Stopińska/|ABT 1822|Motkowice, Polska|BEF 5 FEB 1872||
+ppl/b/9/e996983448330cdb4bf9a818f9b.html|Fatyga|Florian /Fatyga/|4 APR 1777|Kliszów, Kije, pińczowski, świętokrzyskie, Polska|||
+ppl/7/a/e9969856d8b2083fdef93dae7a7.html|Kostoń|Agnieszka /Kostoń/|19 JAN 1785|Kliszów, Kije, pińczowski, świętokrzyskie, Polska|||
 ppl/4/6/e996990621e64507d4fb34f1c64.html|Trzeciak|Antoni /Trzeciak/|||||
 ppl/c/8/e996992d5a91e8a99094bb1fa8c.html|Kudła|Katarzyna /Kudła/|11 APR 1772|Kokot, Kije, pińczowski, świętokrzyskie, Polska|||
-ppl/5/6/e996b3066b779fa88666849b865.html|Fatyga|Jadwiga /Fatyga/|||||
-ppl/a/8/e996b89b3e5c114521c6247f8a.html|Kostoń|Franciszek /Kostoń/|||||
-ppl/8/3/e996b8c6e1f48498d2cf5e87438.html|Gancarzanka|Zofia /Gancarzanka/|||||
+ppl/5/6/e996b3066b779fa88666849b865.html|Fatyga|Jadwiga /Fatyga/|8 OCT 1819|Kliszów, Kije, pińczowski, świętokrzyskie, Polska|||
+ppl/a/8/e996b89b3e5c114521c6247f8a.html|Kostoń|Franciszek /Kostoń/|ABT 1754||9 JAN 1814|Dom nr 9, Kliszów, Kije, pińczowski, świętokrzyskie, Polska|
+ppl/8/3/e996b8c6e1f48498d2cf5e87438.html|Gancarzanka|Zofia /Gancarzanka/|ABT 1760||27 FEB 1805|Kije, Polska|
 ppl/7/a/e9a03e6fefb599f907bb9d731a7.html|Woźniak|Agnieszka /Woźniak/|||||
-ppl/6/e/e9a0723a41e77aa4b985367c6e6.html|Fatyga|Jakub /Fatyga/|||||
-ppl/5/f/e9a0726a1de1a28c50171a2f6f5.html|Góra|Agnieszka /Góra/|||||
-ppl/1/6/e9a9f0725d8d1a3758901b7b61.html|Fatyga|Ambroży /Fatyga/|||||
-ppl/b/9/e9ad21940db1b65a4d1305f549b.html|Fatyga|Kazimierz /Fatyga/|||||
-ppl/e/a/e9ad3084cdb794f2e71ffd2aeae.html|Fatyga|Marcin /Fatyga/|||||
-ppl/b/a/e9ad324a4475a5320c3d45930ab.html|Fatyga|Franciszek /Fatyga/|||||
-ppl/f/9/e9ad36c8fdf42ef062d309c4e9f.html|Fatyga|Marianna /Fatyga/|||||
-ppl/3/5/e9b1e8aeb6e363b1a34ba02e53.html|Fatyga|Magdalena /Fatyga/ de Pazis|||||
-ppl/4/8/e9b2079a8a47403f905b90b1384.html|Fatyga|Jakub /Fatyga/|||||
-ppl/d/c/e9b27a08bbf367bc1d7e44ce3cd.html|Fatyga|Barbara /Fatyga/|||||
-ppl/d/1/e9b27c7b94a383405d4a3ae981d.html|Fatyga|Tekla /Fatyga/|||||
+ppl/6/e/e9a0723a41e77aa4b985367c6e6.html|Fatyga|Jakub /Fatyga/|ABT 1734||23 AUG 1794|Kliszów, Kije, pińczowski, świętokrzyskie, Polska|
+ppl/5/f/e9a0726a1de1a28c50171a2f6f5.html|Góra|Agnieszka /Góra/|ABT 1737||15 MAY 1797|Kliszów, Kije, pińczowski, świętokrzyskie, Polska|
+ppl/1/6/e9a9f0725d8d1a3758901b7b61.html|Fatyga|Ambroży /Fatyga/|7 DEC 1767|Kliszów, Kije, pińczowski, świętokrzyskie, Polska|||
+ppl/b/9/e9ad21940db1b65a4d1305f549b.html|Fatyga|Kazimierz /Fatyga/|20 MAR 1770|Kliszów, Kije, pińczowski, świętokrzyskie, Polska|||
+ppl/e/a/e9ad3084cdb794f2e71ffd2aeae.html|Fatyga|Marcin /Fatyga/|3 NOV 1772|Kliszów, Kije, pińczowski, świętokrzyskie, Polska|||
+ppl/b/a/e9ad324a4475a5320c3d45930ab.html|Fatyga|Franciszek /Fatyga/|1 OCT 1773|Kliszów, Kije, pińczowski, świętokrzyskie, Polska|||
+ppl/f/9/e9ad36c8fdf42ef062d309c4e9f.html|Fatyga|Marianna /Fatyga/|9 APR 1779|Kliszów, Kije, pińczowski, świętokrzyskie, Polska|||
+ppl/3/5/e9b1e8aeb6e363b1a34ba02e53.html|Fatyga|Magdalena /Fatyga/ de Pazis|19 MAY 1781|Kliszów, Kije, pińczowski, świętokrzyskie, Polska|||
+ppl/4/8/e9b2079a8a47403f905b90b1384.html|Fatyga|Jakub /Fatyga/|2 JUL 1786|Kliszów, Kije, pińczowski, świętokrzyskie, Polska|||
+ppl/d/c/e9b27a08bbf367bc1d7e44ce3cd.html|Fatyga|Barbara /Fatyga/|30 NOV 1783|Kliszów, Kije, pińczowski, świętokrzyskie, Polska|||
+ppl/d/1/e9b27c7b94a383405d4a3ae981d.html|Fatyga|Tekla /Fatyga/|1 AUG 1787|Kliszów, Kije, pińczowski, świętokrzyskie, Polska|||
 ppl/2/f/e9bd118425d3100f93a85ea7cf2.html|[Private]|[Private] /[Private]/|||||
-ppl/0/a/e9bd13012bc6433b2ca5d19f0a0.html|Mocydlarz|Tekla /Mocydlarz/|||||
+ppl/0/a/e9bd13012bc6433b2ca5d19f0a0.html|Mocydlarz|Tekla /Mocydlarz/|18 SEP 1888||||
 ppl/8/7/e9bd13d443f7d9a1c637e2b5c78.html|Zurek| /Zurek/|||||
 ppl/9/c/e9bd1b079d227c1198a3d1f5bc9.html|Matuszczyk|Franciszek /Matuszczyk/|||||
 ppl/1/1/e9bd1b726052893415b25ad1311.html|Jędrusik|Józefa /Jędrusik/|||||
-ppl/d/2/e9bd67357ce10faf1754635112d.html|Podsiadło|Ludwika /Podsiadło/|||||
-ppl/d/8/e9bd6fe12d31638a4026409bc8d.html|Kielesiński|Jan /Kielesiński/|||||
-ppl/9/d/e9c0966ab5f35d7054d5f55acd9.html|Podsiadło|Józefa /Podsiadło/|||||
+ppl/d/2/e9bd67357ce10faf1754635112d.html|Podsiadło|Ludwika /Podsiadło/|21 JUL 1889|Motkowice, Polska|||
+ppl/d/8/e9bd6fe12d31638a4026409bc8d.html|Kielesiński|Jan /Kielesiński/|ABT 1884||||
+ppl/9/d/e9c0966ab5f35d7054d5f55acd9.html|Podsiadło|Józefa /Podsiadło/|17 MAR 1886|Motkowice, Polska|17 NOV 1918|Motkowice, Polska|
 ppl/d/8/e9ccf47ccb41361494d0420cc8d.html|Groszek|Małgorzata /Groszek/|||||
-ppl/6/b/ea045a89ea45bd9193744f700b6.html|Madejczyk|Baltazar /Madejczyk/|||||
-ppl/9/0/ea045ae9e96293bd6a8865d9d09.html|Ciasnocha|Magdalena /Ciasnocha/|||||
-ppl/7/d/ea045ee20c7646f808d0c8c55d7.html|Stopiński|Grzegorz /Stopiński/|||||
-ppl/7/0/ea045f225b77cb2b8dfac228e07.html|Raczek|Petronella /Raczek/|||||
+ppl/6/b/ea045a89ea45bd9193744f700b6.html|Madejczyk|Baltazar /Madejczyk/|1756|Chroberz, Złota, pińczowski, świętokrzyskie, Polska|7 OCT 1830|Dom nr 30, Motkowice, Polska|
+ppl/9/0/ea045ae9e96293bd6a8865d9d09.html|Ciasnocha|Magdalena /Ciasnocha/|ABT 1784||AFT 27 OCT 1840||
+ppl/7/d/ea045ee20c7646f808d0c8c55d7.html|Stopiński|Grzegorz /Stopiński/|8 MAR 1793|Motkowice, Polska|AFT 27 OCT 1840||
+ppl/7/0/ea045f225b77cb2b8dfac228e07.html|Raczek|Petronella /Raczek/|25 MAY 1792|Rębów, Kije, pińczowski, świętokrzyskie, Polska|AFT 27 OCT 1840||
 ppl/3/b/ea0f67b1ca73cadf2f633afc3b3.html|Pachowicz|Jadwiga /Pachowicz/|||||
 ppl/8/f/ea0f754a2545219aa341b4755f8.html|Madejczyk|Adam /Madejczyk/|||||
 ppl/3/0/ea0f75736a26ec04d2245ab3603.html|Zdeb|Agnieszka /Zdeb/|||||
 ppl/0/e/ea24743df0b4c228e49b59902e0.html|Stopiński|Andrzej /Stopiński/|||||
 ppl/2/b/ea2474660f7701c143811d373b2.html|Powałka|Magdalena /Powałka/|||||
-ppl/6/4/ea2476a8e2428b4c831efe0bc46.html|Rak|Jacek /Rak/|||||
-ppl/6/b/ea2476ed6f9311e67bbf5f57bb6.html|Kuczma|Łucja /Kuczma/|||||
+ppl/6/4/ea2476a8e2428b4c831efe0bc46.html|Rak|Jacek /Rak/|ABT 1747||30 OCT 1798|Rębów, Kije, pińczowski, świętokrzyskie, Polska|
+ppl/6/b/ea2476ed6f9311e67bbf5f57bb6.html|Kuczma|Łucja /Kuczma/|ABT 1740||3 DEC 1811|Rębów, Kije, pińczowski, świętokrzyskie, Polska|
 ppl/5/5/ea3144cf70838c619dd54a58955.html|[Private]|[Private] /[Private]/|||||
 ppl/7/c/ea31454c3b269915275ca93a9c7.html|Pawłowicz| /Pawłowicz/|||||
 ppl/e/1/ea315ec8f7230c57bc09119631e.html|Sławik|Maria /Sławik/|||||
@@ -689,7 +689,7 @@ ppl/f/8/ea363d3e9f76180d04028404b8f.html|Wac|Agnieszka /Wac/|||||
 ppl/2/7/ea363e41eea6d10f4ad47b9ac72.html|Wac|Jakub /Wac/|||||
 ppl/3/2/ea363ec108027dc994aa45af23.html||Paweł //|||||
 ppl/2/6/eaded4f6d96333ac20dc68aba62.html|[Private]|[Private] /[Private]/|||||
-ppl/a/6/ecb84397f30e10363a13d0f76a.html|Depka|Mateusz /Depka/|||22 NOV 1863|Lubocheń, Polska|
+ppl/a/6/ecb84397f30e10363a13d0f76a.html|Depka|Mateusz /Depka/|ABT 1806||22 NOV 1863|Lubocheń, Polska|
 ppl/d/a/ecb844189666d6bfd4cc73dcad.html|Skomska|Franciszka /Skomska/|||BEF 22 NOV 1863||
 ppl/1/e/ecbb76fbbfd69f43fb393fbbce1.html|Depka|Andrzej /Depka/|ABT 1844||||
 ppl/b/5/ecbeb7e3d0848b68dd5603d625b.html||Katarzyna //|||||
@@ -718,10 +718,19 @@ ppl/8/7/ef62cca338c540d8f9ab705a578.html|Rak|Magdalena /Rak/||Borszowice, Imieln
 ppl/0/0/ef62cdf9807f31bc41f32afa00.html|Suchanek|Magdalena /Suchanek/|20 JUL 1806||15 DEC 1829|Motkowice, Polska|
 ppl/d/6/ef62cfaa18818831ee60954156d.html|Karasek|Marcin /Karasek/|ABT 1742||2 NOV 1812|Jakubów, Imielno, jędrzejowski, świętokrzyskie, Polska|
 ppl/5/7/ef62d13f0e26844ec0e68fec75.html|Ciszkoszczonka|Katarzyna /Ciszkoszczonka/|ABT 1760||9 DEC 1812|Jakubów, Imielno, jędrzejowski, świętokrzyskie, Polska|
-ppl/4/c/ef6fbf9990c4b721499455cb9c4.html|Suchanek|Michał /Suchanek/|BEF 28 SEP 1784|Motkowice, Polska|||
+ppl/4/c/ef6fbf9990c4b721499455cb9c4.html|Suchanek|Michał /Suchanek/|ABT 28 SEP 1784|Motkowice, Polska|||
 ppl/e/a/ef6fc089fcf933175c578974ae.html|Cieśla|Elżbieta /Cieśla/|BEF 16 NOV 1791|Wólka, Jędrzejów, jędrzejowski, świętokrzyskie, Polska|||
 ppl/0/4/ef7622448e975f17a2c4170ce40.html|Cieśla|Franciszek /Cieśla/|ABT 1771||||
 ppl/1/e/ef762cae9056bcad98efa98a1e1.html|Cichoszczonka|Katarzyna /Cichoszczonka/|||||
-ppl/c/9/ef762f42074ba03d34554249c.html|Suchanek|Marcin /Suchanek/|||||
+ppl/c/9/ef762f42074ba03d34554249c.html|Suchanek|Marcin /Suchanek/|ABT 1743||22 JAN 1814|Motkowice, Polska|
 ppl/e/d/ef762f753f044e7cdc9362851de.html|Stępień|Jadwiga /Stępień/|||||
 ppl/f/4/ef82f7dbc6e401bf544a4c6c4f.html|Koch|Marianna /Koch/|ABT 1782||||
+ppl/9/6/f00d4918c8b2a27cadde98adc69.html|Pipia|Helena /Pipia/|ABT 1804||||
+ppl/1/9/f00d4e4ab9f778fd3355ebf1291.html|Wyrębski|Wojciech /Wyrębski/|||BEF 1809||
+ppl/c/7/f00d4ed60f3314ee2cd31b2c67c.html|Janik|Zofia /Janik/|||BEF 1809||
+ppl/a/3/f013803e1614e69dc967ccb633a.html|Wyrębski|Józef /Wyrębski/|ABT 1779||||
+ppl/e/a/f01384224d176585c5c1d8dadae.html|Salamon|Tekla /Salamon/|||BEF 1809||
+ppl/7/7/f013872a89fe985fac88ee2c77.html|Grzesiek|Gertruda /Grzesiek/|ABT 1777||||
+ppl/9/6/f016c6cb3ec56eeaabbe0cd1969.html|Suchanek|Paweł /Suchanek/|23 JAN 1781|Motkowice, Polska|||
+ppl/c/d/f01a12342916e5cc6d140bb3bdc.html|Jakubczyk|Antoni /Jakubczyk/|||||
+ppl/b/c/f01a128809a7a4b0e65af9c01cb.html|Kałuża|Regina /Kałuża/|||||
