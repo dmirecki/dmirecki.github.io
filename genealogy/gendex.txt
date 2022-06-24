@@ -246,8 +246,8 @@ ppl/e/6/e5e4936c07e7884a936c70ab16e.html|[Private]|[Private] /[Private]/|||||
 ppl/b/c/e5e4936c1096e5498847d4789cb.html|[Private]|[Private] /[Private]/|||||
 ppl/4/f/e5e4936c47972592242ac680af4.html|[Private]|[Private] /[Private]/|||||
 ppl/1/7/e5e4936c53646853b0fc93be371.html|[Private]|[Private] /[Private]/|||||
-ppl/b/7/e5e4936c5f4765a12b398c1c97b.html|Huńka|Ryszard Bronisław /Huńka/|||||
-ppl/b/5/e5e4936c6b25020792d1b5a875b.html|Sibińska|Stefania /Sibińska/|||||
+ppl/b/7/e5e4936c5f4765a12b398c1c97b.html|Huńka|Ryszard Bronisław /Huńka/|4 FEB 1922|Lwów, Ukraina|30 JAN 2009|Częstochowa, Polska|
+ppl/b/5/e5e4936c6b25020792d1b5a875b.html|Sibińska|Stefania /Sibińska/|15 SEP 1928|Oborniki, Polska|23 APR 1979|Kędzierzyn-Koźle, Polska|
 ppl/3/b/e5e4936c75237763caf8ec9a7b3.html|[Private]|[Private] /[Private]/|||||
 ppl/5/5/e5e4936c77a1749c28da6ee3c55.html|Włodarczak|Ireneusz /Włodarczak/|||||
 ppl/d/4/e5e4936c8067fada6ed7d6bb14d.html|Huńka|Jadwiga Maria /Huńka/|||||
@@ -332,8 +332,8 @@ ppl/9/c/e5e4936d63a7c910dc3c7e3b3c9.html|[Private]|[Private] /[Private]/|||||
 ppl/c/f/e5e4936d64e50aa23272cf766fc.html|[Private]|[Private] /[Private]/|||||
 ppl/f/0/e5e4936d662545148efe82da20f.html|[Private]|[Private] /[Private]/|||||
 ppl/8/6/e5e4936d6bc391c8c0dd08a4c68.html|[Private]|[Private] /[Private]/|||||
-ppl/5/7/e5e4936d6ee210e2e0a14084975.html|Huńka|Mieczysław /Huńka/|6 SEP 1896|Lwów, Ukraina|||
-ppl/d/2/e5e4936d70255fff87233f49e2d.html|Hamaryn|Eugenia /Hamaryn/|1899|Omsk, Rosja|||
+ppl/5/7/e5e4936d6ee210e2e0a14084975.html|Huńka|Mieczysław /Huńka/|6 SEP 1896|Lwów, Ukraina|5 FEB 1951|Bytom, Polska|
+ppl/d/2/e5e4936d70255fff87233f49e2d.html|Mamaryna|Eugenia /Mamaryna/|21 DEC 1897|Omsk, Rosja|17 MAR 1949||
 ppl/8/f/e5e4936d7b55dfe3f35343e0df8.html|Sibiński|Idzi /Sibiński/|2 SEP 1897||||
 ppl/0/d/e5e4936d7d315cd77df781037d0.html|Sibińska| /Sibińska/|||||
 ppl/a/e/e5e4936d7e72ab3258f3265faea.html|[Private]|[Private] /[Private]/|||||
@@ -419,7 +419,7 @@ ppl/4/8/e6dbec4bfa931ba79ca78308284.html|Sibińska|Antonina /Sibińska/|ABT 1793
 ppl/d/8/e6ec59d44913e7f455bad63018d.html|Sibiński|Jan /Sibiński/|||||
 ppl/e/2/e6ec5a13dcd36b44ac32a4eec2e.html|Sibińska|Helena /Sibińska/|||||
 ppl/9/e/e6f5d1be736274d093e01abe9e9.html|[Private]|[Private] /[Private]/|||||
-ppl/1/d/e72955a8e9f27ec7421ab5e3d1.html|Chruszcz|Joseph /Chruszcz/|||||
+ppl/1/d/e72955a8e9f27ec7421ab5e3d1.html|Chruszcz|Joseph /Chruszcz/|ABT 1794|Marklowice, Marklowice, wodzisławski, śląskie, Polska|||
 ppl/2/8/e7295bf2dcc34634f2d57ac3b82.html|Schulz|Friedrich /Schulz/|||||
 ppl/8/e/e779f968faf7f2ed1a446c2f3e8.html|[Private]|[Private] /[Private]/|||||
 ppl/b/5/e779f968fbe2ac193d0860f595b.html|[Private]|[Private] /[Private]/|||||
@@ -623,8 +623,8 @@ ppl/d/8/e8df60823cc39bac678eb5b3f8d.html|Kielesińska|Marianna /Kielesińska/|AB
 ppl/a/5/e8df639329021118374fb47425a.html|Dudała|Antoni /Dudała/|15 JAN 1865|Motkowice, Polska|||
 ppl/3/8/e8df63e057f30f99aa71cc88c83.html|Banaś|Marcjanna /Banaś/|6 JAN 1865|Motkowice, Polska|||
 ppl/5/a/e8ee9f20534625b097da0d44ca5.html|Podsiadło|Antoni /Podsiadło/|9 JUN 1908|Motkowice, Polska|21 SEP 1908|Motkowice, Polska|
-ppl/d/4/e902a4b70c5513b7654b7f3ee4d.html|Huńka|Jan /Huńka/|||||
-ppl/8/7/e902a4e681135a1315282e1f478.html|Huńka|Maria /Huńka/|||||
+ppl/d/4/e902a4b70c5513b7654b7f3ee4d.html|Huńka|Jan /Huńka/|||1938|Zimna Woda, obwód lwowski, Ukraina|
+ppl/8/7/e902a4e681135a1315282e1f478.html|Martynak|Maria /Martynak/|||||
 ppl/9/1/e912e9c05643e0579d2b5c65a19.html|[Private]|[Private] /[Private]/|||||
 ppl/9/e/e941f9e0b552e637e628e462ee9.html|Suchanek|Mikołaj /Suchanek/|11 NOV 1820|Motkowice, Polska|BEF 18 APR 1900||
 ppl/0/3/e941fa95831321abc99bf0abc30.html|Jakubczyk|Anna /Jakubczyk/|ABT 1843|Motkowice, Polska|14 APR 1902|Motkowice, Polska|
@@ -732,5 +732,12 @@ ppl/a/3/f013803e1614e69dc967ccb633a.html|Wyrębski|Józef /Wyrębski/|ABT 1779||
 ppl/e/a/f01384224d176585c5c1d8dadae.html|Salamon|Tekla /Salamon/|||BEF 1809||
 ppl/7/7/f013872a89fe985fac88ee2c77.html|Grzesiek|Gertruda /Grzesiek/|ABT 1777||||
 ppl/9/6/f016c6cb3ec56eeaabbe0cd1969.html|Suchanek|Paweł /Suchanek/|23 JAN 1781|Motkowice, Polska|||
-ppl/c/d/f01a12342916e5cc6d140bb3bdc.html|Jakubczyk|Antoni /Jakubczyk/|||||
-ppl/b/c/f01a128809a7a4b0e65af9c01cb.html|Kałuża|Regina /Kałuża/|||||
+ppl/c/d/f01a12342916e5cc6d140bb3bdc.html|Jakubczyk|Antoni /Jakubczyk/|ABT 1783|Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska|||
+ppl/b/c/f01a128809a7a4b0e65af9c01cb.html|Stępień|Regina /Stępień/|ABT 1807|Motkowice, Polska|||
+ppl/7/d/f02542862753d9ed4def693fbd7.html|Jakubczyk|Tomasz /Jakubczyk/|||||
+ppl/0/1/f02542ee02c3ee1374254c88d10.html||Jadwiga //|||||
+ppl/0/f/f025435e9df506c126d48aadbf0.html||Franciszka //|||BEF NOV 1830||
+ppl/d/a/f02545db40323bb452f4f8e21ad.html|Stępień|Maciej /Stępień/|||||
+ppl/5/3/f0254634bb25d996e8e74b8ed35.html|Kałuża|Agnieszka /Kałuża/|||||
+ppl/e/3/f0e802bec487ee202763e2fff3e.html|Czech|Józefa /Czech/|9 OCT 1934||19 MAR 2003||
+ppl/c/2/f0f144ef82d7b28a2f5b1bf922c.html|Juryssek|Magdalena /Juryssek/|ABT 1800|Lyski, Lyski, rybnicki, śląskie, Polska|||

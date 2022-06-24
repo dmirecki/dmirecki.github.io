@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 5.1.2
 2 NAME Gramps
-1 DATE 17 APR 2022
-2 TIME 12:47:13
+1 DATE 25 JUN 2022
+2 TIME 00:02:23
 1 SUBM @SUBM@
 1 FILE /home/dmirecki/projects/dmirecki.github.io/genealogy/tree.ged
 1 COPR Copyright (c) 2022 Damian Mirecki.
@@ -150,8 +150,8 @@
 1 OBJE @O0012@
 1 OBJE @O0013@
 1 CHAN
-2 DATE 10 APR 2022
-3 TIME 19:38:11
+2 DATE 18 APR 2022
+3 TIME 15:16:12
 0 @I0008@ INDI
 1 NAME Luiza Klara /Solorz/
 2 GIVN Luiza Klara
@@ -276,8 +276,8 @@
 1 OBJE @O0605@
 1 OBJE @O0664@
 1 CHAN
-2 DATE 16 APR 2022
-3 TIME 20:50:44
+2 DATE 21 APR 2022
+3 TIME 19:17:45
 0 @I0010@ INDI
 1 NAME Weronika Barbara /Wincek/
 2 GIVN Weronika Barbara
@@ -314,8 +314,8 @@
 1 OBJE @O0464@
 1 OBJE @O0664@
 1 CHAN
-2 DATE 16 APR 2022
-3 TIME 20:52:34
+2 DATE 21 APR 2022
+3 TIME 19:18:11
 0 @I0011@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -516,8 +516,8 @@
 2 PEDI birth
 1 FAMS @F0011@
 1 CHAN
-2 DATE 24 JUL 2020
-3 TIME 19:33:09
+2 DATE 18 APR 2022
+3 TIME 15:16:33
 0 @I0028@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -785,8 +785,8 @@
 1 OBJE @O0067@
 1 OBJE @O0664@
 1 CHAN
-2 DATE 16 APR 2022
-3 TIME 20:53:15
+2 DATE 21 APR 2022
+3 TIME 19:19:10
 0 @I0051@ INDI
 1 NAME Josefa /Gruschka/
 2 GIVN Josefa
@@ -819,8 +819,8 @@
 1 OBJE @O0071@
 1 OBJE @O0664@
 1 CHAN
-2 DATE 16 APR 2022
-3 TIME 20:54:07
+2 DATE 21 APR 2022
+3 TIME 19:18:49
 0 @I0052@ INDI
 1 NAME Agnieszka /Wincek/ Agnes
 2 GIVN Agnieszka
@@ -836,9 +836,10 @@
 2 PEDI birth
 1 FAMS @F0022@
 1 OBJE @O0073@
+1 OBJE @O0664@
 1 CHAN
-2 DATE 21 JAN 2022
-3 TIME 19:58:53
+2 DATE 21 APR 2022
+3 TIME 19:23:30
 0 @I0053@ INDI
 1 NAME Jan /Gaida/
 2 GIVN Jan
@@ -927,9 +928,10 @@
 2 PEDI birth
 1 FAMS @F0024@
 1 OBJE @O0079@
+1 OBJE @O0664@
 1 CHAN
-2 DATE 21 JAN 2022
-3 TIME 20:05:29
+2 DATE 21 APR 2022
+3 TIME 19:24:20
 0 @I0060@ INDI
 1 NAME Franciszek /Kubica/ Franz
 2 GIVN Franciszek
@@ -938,9 +940,10 @@
 1 SEX M
 1 FAMS @F0024@
 1 OBJE @O0081@
+1 OBJE @O0664@
 1 CHAN
-2 DATE 21 JAN 2022
-3 TIME 20:05:53
+2 DATE 21 APR 2022
+3 TIME 19:24:49
 0 @I0061@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -949,8 +952,8 @@
 1 FAMC @F0024@
 2 PEDI birth
 1 CHAN
-2 DATE 21 JAN 2022
-3 TIME 20:06:08
+2 DATE 21 APR 2022
+3 TIME 19:25:13
 0 @I0062@ INDI
 1 NAME Aniela /Wincek/ Gela
 2 GIVN Aniela
@@ -966,9 +969,10 @@
 2 PEDI birth
 1 FAMS @F0025@
 1 OBJE @O0085@
+1 OBJE @O0664@
 1 CHAN
-2 DATE 21 JAN 2022
-3 TIME 20:06:28
+2 DATE 21 APR 2022
+3 TIME 19:26:08
 0 @I0063@ INDI
 1 NAME Pawel /Schaeffer/ Paul
 2 GIVN Pawel
@@ -977,9 +981,10 @@
 1 SEX M
 1 FAMS @F0025@
 1 OBJE @O0087@
+1 OBJE @O0664@
 1 CHAN
-2 DATE 21 JAN 2022
-3 TIME 20:06:59
+2 DATE 21 APR 2022
+3 TIME 19:26:45
 0 @I0064@ INDI
 1 NAME Helena /Wincek/
 2 GIVN Helena
@@ -997,9 +1002,10 @@
 1 FAMS @F0026@
 1 FAMS @F0027@
 1 OBJE @O0339@
+1 OBJE @O0664@
 1 CHAN
-2 DATE 21 JAN 2022
-3 TIME 19:58:03
+2 DATE 21 APR 2022
+3 TIME 19:21:28
 0 @I0065@ INDI
 1 NAME Leon /Bara/
 2 GIVN Leon
@@ -1017,12 +1023,12 @@
 2 GIVN Josef
 2 SURN Brysch
 1 SEX M
-1 NATI
 1 FAMS @F0026@
 1 OBJE @O0089@
+1 OBJE @O0664@
 1 CHAN
-2 DATE 21 JAN 2022
-3 TIME 20:03:19
+2 DATE 21 APR 2022
+3 TIME 19:22:31
 0 @I0067@ INDI
 1 NAME Brygida /Brysch/
 2 GIVN Brygida
@@ -1190,9 +1196,10 @@
 1 OBJE @O0447@
 1 OBJE @O0446@
 1 OBJE @O0448@
+1 OBJE @O0664@
 1 CHAN
-2 DATE 10 APR 2022
-3 TIME 19:15:20
+2 DATE 20 JUN 2022
+3 TIME 19:54:40
 0 @I0070@ INDI
 1 NAME Krystyna /Durschlag/
 2 GIVN Krystyna
@@ -1316,8 +1323,8 @@
 2 PEDI birth
 1 FAMS @F0051@
 1 CHAN
-2 DATE 15 SEP 2021
-3 TIME 18:14:25
+2 DATE 21 APR 2022
+3 TIME 20:32:27
 0 @I0088@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -1334,6 +1341,20 @@
 2 GIVN Ryszard Bronisław
 2 SURN Huńka
 1 SEX M
+1 BIRT
+2 DATE 4 FEB 1922
+2 PLAC Lwów, Ukraina
+3 MAP
+4 LATI N49.832668
+4 LONG E23.942196
+2 ADDR
+3 CTRY Ukraina
+1 DEAT
+2 DATE 30 JAN 2009
+2 PLAC Częstochowa, Polska
+2 ADDR
+3 CITY Częstochowa
+3 CTRY Polska
 1 RESI
 2 DATE FROM 1922 TO 1939
 2 PLAC Zimna Woda, obwód lwowski, Ukraina
@@ -1390,6 +1411,16 @@
 2 OBJE @O0623@
 1 SOUR @S0215@
 2 PAGE str. 2
+1 SOUR @S0227@
+2 PAGE Ankieta o wydanie dowodu osobistego
+2 DATA
+3 DATE 5 MAY 1952
+2 OBJE @O0670@
+1 SOUR @S0227@
+2 PAGE Zaświadczenie nr 867755 o przybyciu do Polski
+2 DATA
+3 DATE 26 MAY 1946
+2 OBJE @O0668@
 1 OBJE @O0253@
 1 OBJE @O0254@
 1 OBJE @O0248@
@@ -1397,12 +1428,15 @@
 1 OBJE @O0256@
 1 OBJE @O0485@
 1 OBJE @O0491@
+1 OBJE @O0669@
+1 OBJE @O0671@
 1 OBJE @O0646@
 1 OBJE @O0492@
 1 OBJE @O0493@
+1 OBJE @O0673@
 1 CHAN
-2 DATE 10 APR 2022
-3 TIME 14:24:38
+2 DATE 18 JUN 2022
+3 TIME 05:25:58
 0 @I0090@ INDI
 1 NAME Stefania /Sibińska/
 2 GIVN Stefania
@@ -1416,6 +1450,55 @@
 2 GIVN Stefania
 2 SURN Huńka
 1 SEX F
+1 BIRT
+2 TYPE Rozbieżności w dacie urodzenia
+2 DATE 15 SEP 1928
+2 PLAC Oborniki, Polska
+3 MAP
+4 LATI N52.652796
+4 LONG E16.770452
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0011@
+2 SOUR @S0192@
+3 PAGE Ankieta o wydanie dowodu osobistego
+3 DATA
+4 DATE 18 MAR 1957
+3 OBJE @O0592@
+2 SOUR @S0192@
+3 PAGE Ankieta o wydanie dowodu osobistego
+3 DATA
+4 DATE 4 MAY 1952
+3 OBJE @O0593@
+2 SOUR @S0192@
+3 PAGE Ankieta o wydanie dowodu osobistego
+3 DATA
+4 DATE 11 MAR 1960
+3 OBJE @O0594@
+2 SOUR @S0192@
+3 PAGE Wniosek o wydanie dowodu osobistego
+3 DATA
+4 DATE 3 JAN 1968
+3 OBJE @O0595@
+2 SOUR @S0192@
+3 PAGE Karta osobowa
+3 DATA
+4 DATE 16 APR 1951
+3 OBJE @O0596@
+2 SOUR @S0192@
+3 PAGE Stefania Sibińska - wyciąg aktu urodzenia
+3 DATA
+4 DATE 13 MAY 1952
+3 OBJE @O0598@
+1 DEAT
+2 DATE 23 APR 1979
+2 PLAC Kędzierzyn-Koźle, Polska
+3 MAP
+4 LATI N50.345262
+4 LONG E18.105965
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0011@
 1 FACT szare
 2 TYPE Kolor oczu
 2 SOUR @S0192@
@@ -1584,8 +1667,8 @@
 2 SURN [Private]
 1 SEX F
 1 CHAN
-2 DATE 14 SEP 2021
-3 TIME 12:45:01
+2 DATE 21 APR 2022
+3 TIME 20:32:45
 0 @I0096@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -1600,8 +1683,8 @@
 2 SURN [Private]
 1 SEX F
 1 CHAN
-2 DATE 14 SEP 2021
-3 TIME 12:44:37
+2 DATE 21 APR 2022
+3 TIME 20:32:49
 0 @I0098@ INDI
 1 NAME Stanisława /Wentland/
 2 GIVN Stanisława
@@ -3916,14 +3999,22 @@
 2 GIVN Joseph
 2 SURN Chruszcz
 1 SEX M
+1 BIRT
+2 DATE ABT 1794
+2 PLAC Marklowice, Marklowice, wodzisławski, śląskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0074@
+2 SOUR @S0232@
 1 FACT szewc (schuhmachermaister)
 2 TYPE Occupation
 2 SOUR @S0074@
-1 FAMS @F0134@
+1 FAMS @F0294@
 1 SOUR @S0074@
+1 SOUR @S0232@
 1 CHAN
-2 DATE 31 JAN 2021
-3 TIME 20:16:53
+2 DATE 20 JUN 2022
+3 TIME 16:57:09
 0 @I0231@ INDI
 1 NAME Friedrich /Schulz/
 2 GIVN Friedrich
@@ -6919,6 +7010,14 @@
 2 GIVN Jan
 2 SURN Huńka
 1 SEX M
+1 DEAT
+2 DATE 1938
+2 PLAC Zimna Woda, obwód lwowski, Ukraina
+3 MAP
+4 LATI N49.826111
+4 LONG E23.886667
+2 ADDR
+3 CTRY Ukraina
 1 BURI
 2 DATE 1938
 2 PLAC Zimna Woda, obwód lwowski, Ukraina
@@ -6936,15 +7035,30 @@
 3 DATE about 1933
 2 OBJE @O0488@
 2 OBJE @O0489@
+1 SOUR @S0230@
+2 PAGE akt nr 206
+2 QUAY 3
+2 DATA
+3 DATE 6 FEB 1951
+2 OBJE @O0676@
 1 CHAN
-2 DATE 16 DEC 2021
-3 TIME 18:06:57
+2 DATE 19 JUN 2022
+3 TIME 10:41:18
 0 @I0413@ INDI
-1 NAME Maria /Huńka/
+1 NAME Maria /Martynak/
 2 TYPE married
 2 GIVN Maria
-2 SURN Huńka
+2 SURN Martynak
+2 SOUR @S0230@
+3 PAGE akt nr 206
+3 QUAY 3
+3 DATA
+4 DATE 6 FEB 1951
+3 OBJE @O0676@
 1 SEX F
+1 DEAT
+2 TYPE Estimated death date
+2 SOUR @S0164@
 1 FAMS @F0239@
 1 SOUR @S0122@
 2 PAGE Huńka Mieczysław; Szufladka HUBI-IDZI, skan nr 646-647
@@ -6952,9 +7066,15 @@
 3 DATE about 1933
 2 OBJE @O0488@
 2 OBJE @O0489@
+1 SOUR @S0230@
+2 PAGE akt nr 206
+2 QUAY 3
+2 DATA
+3 DATE 6 FEB 1951
+2 OBJE @O0676@
 1 CHAN
-2 DATE 31 JAN 2021
-3 TIME 20:16:53
+2 DATE 18 JUN 2022
+3 TIME 05:24:38
 0 @I0415@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -6964,8 +7084,8 @@
 2 PEDI birth
 1 FAMS @F0240@
 1 CHAN
-2 DATE 14 SEP 2021
-3 TIME 07:51:27
+2 DATE 18 JUN 2022
+3 TIME 05:25:58
 0 @I0417@ INDI
 1 NAME Mikołaj /Suchanek/
 2 GIVN Mikołaj
@@ -7097,8 +7217,8 @@
 2 PAGE Jakubczyk Anna - akt zgonu; rok 1902, wpis nr 46
 2 OBJE @O0663@
 1 CHAN
-2 DATE 14 APR 2022
-3 TIME 20:15:41
+2 DATE 18 APR 2022
+3 TIME 07:39:28
 0 @I0419@ INDI
 1 NAME Waleria /Suchanek/
 2 GIVN Waleria
@@ -10297,25 +10417,157 @@
 2 GIVN Antoni
 2 SURN Jakubczyk
 1 SEX M
+1 BIRT
+2 DATE ABT 1783
+2 PLAC Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+3 MAP
+4 LATI N50.631869
+4 LONG E20.486976
+2 ADDR
+3 POST 28-313
+3 CTRY Polska
+2 SOUR @S0226@
+3 PAGE Jakubczyk Anotni, Stępień Regina - akt małżeństwa; wpis nr 26
+3 OBJE @O0667@
+1 FAMC @F0290@
+2 PEDI birth
+1 FAMS @F0289@
+1 FAMS @F0291@
+1 SOUR @S0224@
+2 PAGE Jakubczyk Anna - akt zgonu; rok 1902, wpis nr 46
+2 OBJE @O0663@
+1 SOUR @S0226@
+2 PAGE Jakubczyk Anotni, Stępień Regina - akt małżeństwa; wpis nr 26
+2 OBJE @O0667@
+1 CHAN
+2 DATE 18 APR 2022
+3 TIME 07:43:06
+0 @I0524@ INDI
+1 NAME Regina /Stępień/
+2 GIVN Regina
+2 SURN Stępień
+1 SEX F
+1 BIRT
+2 DATE ABT 1807
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0226@
+3 PAGE Jakubczyk Anotni, Stępień Regina - akt małżeństwa; wpis nr 26
+3 OBJE @O0667@
+1 FAMC @F0292@
+2 PEDI birth
 1 FAMS @F0289@
 1 SOUR @S0224@
 2 PAGE Jakubczyk Anna - akt zgonu; rok 1902, wpis nr 46
 2 OBJE @O0663@
+1 SOUR @S0226@
+2 PAGE Jakubczyk Anotni, Stępień Regina - akt małżeństwa; wpis nr 26
+2 OBJE @O0667@
 1 CHAN
-2 DATE 14 APR 2022
-3 TIME 20:15:41
-0 @I0524@ INDI
-1 NAME Regina /Kałuża/
-2 GIVN Regina
+2 DATE 18 APR 2022
+3 TIME 07:52:27
+0 @I0525@ INDI
+1 NAME Tomasz /Jakubczyk/
+2 GIVN Tomasz
+2 SURN Jakubczyk
+1 SEX M
+1 FAMS @F0290@
+1 SOUR @S0226@
+2 PAGE Jakubczyk Anotni, Stępień Regina - akt małżeństwa; wpis nr 26
+2 OBJE @O0667@
+1 CHAN
+2 DATE 18 APR 2022
+3 TIME 07:41:31
+0 @I0526@ INDI
+1 NAME Jadwiga //
+2 GIVN Jadwiga
+1 SEX F
+1 FAMS @F0290@
+1 SOUR @S0226@
+2 PAGE Jakubczyk Anotni, Stępień Regina - akt małżeństwa; wpis nr 26
+2 OBJE @O0667@
+1 CHAN
+2 DATE 18 APR 2022
+3 TIME 07:41:31
+0 @I0527@ INDI
+1 NAME Franciszka //
+2 GIVN Franciszka
+1 SEX F
+1 DEAT
+2 DATE BEF NOV 1830
+2 SOUR @S0226@
+3 PAGE Jakubczyk Anotni, Stępień Regina - akt małżeństwa; wpis nr 26
+3 OBJE @O0667@
+1 FAMS @F0291@
+1 SOUR @S0226@
+2 PAGE Jakubczyk Anotni, Stępień Regina - akt małżeństwa; wpis nr 26
+2 OBJE @O0667@
+1 CHAN
+2 DATE 18 APR 2022
+3 TIME 07:43:06
+0 @I0528@ INDI
+1 NAME Maciej /Stępień/
+2 GIVN Maciej
+2 SURN Stępień
+1 SEX M
+1 FAMS @F0292@
+1 SOUR @S0226@
+2 PAGE Jakubczyk Anotni, Stępień Regina - akt małżeństwa; wpis nr 26
+2 OBJE @O0667@
+1 CHAN
+2 DATE 18 APR 2022
+3 TIME 07:48:45
+0 @I0529@ INDI
+1 NAME Agnieszka /Kałuża/
+2 GIVN Agnieszka
 2 SURN Kałuża
 1 SEX F
-1 FAMS @F0289@
-1 SOUR @S0224@
-2 PAGE Jakubczyk Anna - akt zgonu; rok 1902, wpis nr 46
-2 OBJE @O0663@
+1 FAMS @F0292@
+1 SOUR @S0226@
+2 PAGE Jakubczyk Anotni, Stępień Regina - akt małżeństwa; wpis nr 26
+2 OBJE @O0667@
 1 CHAN
-2 DATE 14 APR 2022
-3 TIME 20:15:41
+2 DATE 18 APR 2022
+3 TIME 07:48:45
+0 @I0530@ INDI
+1 NAME Józefa /Czech/
+2 GIVN Józefa
+2 SURN Czech
+1 SEX F
+1 BIRT
+2 DATE 9 OCT 1934
+2 SOUR @S0229@
+3 QUAY 2
+1 DEAT
+2 DATE 19 MAR 2003
+2 SOUR @S0229@
+3 QUAY 2
+1 FAMS @F0293@
+1 SOUR @S0229@
+2 QUAY 2
+1 CHAN
+2 DATE 17 JUN 2022
+3 TIME 19:52:08
+0 @I0531@ INDI
+1 NAME Magdalena /Juryssek/
+2 GIVN Magdalena
+2 SURN Juryssek
+1 SEX F
+1 BIRT
+2 DATE ABT 1800
+2 PLAC Lyski, Lyski, rybnicki, śląskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0232@
+1 FAMS @F0294@
+1 SOUR @S0232@
+1 CHAN
+2 DATE 20 JUN 2022
+3 TIME 16:57:09
 0 @I500004@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -10405,9 +10657,10 @@
 1 OBJE @O0455@
 1 OBJE @O0444@
 1 OBJE @O0456@
+1 OBJE @O0664@
 1 CHAN
-2 DATE 12 AUG 2020
-3 TIME 17:12:31
+2 DATE 20 JUN 2022
+3 TIME 19:52:11
 0 @I500012@ INDI
 1 NAME Łucja /Poloczek/
 2 GIVN Łucja
@@ -10422,23 +10675,22 @@
 1 FAMS @F500004@
 1 OBJE @O0104@
 1 OBJE @O0105@
+1 OBJE @O0664@
 1 CHAN
-2 DATE 11 AUG 2020
-3 TIME 15:40:18
+2 DATE 21 APR 2022
+3 TIME 19:28:02
 0 @I500013@ INDI
 1 NAME Ryszard /Kurpas/
 2 GIVN Ryszard
 2 SURN Kurpas
 1 SEX M
-1 FACT MH:I500013
-2 TYPE RIN
-1 _UID 5D28BF70AB4ABA410322B0E496A02339
 1 FAMS @F500004@
 1 OBJE @O0106@
 1 OBJE @O0107@
+1 OBJE @O0664@
 1 CHAN
-2 DATE 24 NOV 2020
-3 TIME 17:29:13
+2 DATE 21 APR 2022
+3 TIME 19:28:31
 0 @I500014@ INDI
 1 NAME Paweł Antoni /Poloczek/ Paul
 2 GIVN Paweł Antoni
@@ -10578,8 +10830,8 @@
 2 PEDI birth
 1 FAMS @F500008@
 1 CHAN
-2 DATE 24 JUL 2020
-3 TIME 19:33:19
+2 DATE 20 JUN 2022
+3 TIME 19:54:00
 0 @I500026@ INDI
 1 NAME Arthur /Kropp/
 2 GIVN Arthur
@@ -11036,9 +11288,10 @@
 1 FAMC @F0025@
 2 PEDI birth
 1 FAMS @F500022@
+1 OBJE @O0664@
 1 CHAN
-2 DATE 2 FEB 2020
-3 TIME 22:53:30
+2 DATE 20 JUN 2022
+3 TIME 19:53:20
 0 @I500068@ INDI
 1 NAME Ewa /Schaeffer/
 2 GIVN Ewa
@@ -12344,19 +12597,21 @@
 3 CITY Rybnik
 3 CTRY Polska
 2 SOUR @S0074@
+2 SOUR @S0232@
 1 FACT szewc (schuhmachermeister)
 2 TYPE Occupation
 1 FACT katolickie
 2 TYPE Wyznanie
 2 SOUR @S0074@
-1 FAMC @F0134@
+1 FAMC @F0294@
 2 PEDI birth
 1 FAMS @F500059@
 1 SOUR @S500003@
 2 QUAY 0
+1 SOUR @S0232@
 1 CHAN
-2 DATE 7 OCT 2020
-3 TIME 19:19:45
+2 DATE 20 JUN 2022
+3 TIME 16:57:09
 0 @I500165@ INDI
 1 NAME Emilie /Schulz/
 2 GIVN Emilie
@@ -12946,6 +13201,7 @@
 3 CTRY Polska
 2 SOUR @S0062@
 2 SOUR @S0058@
+1 DEAT Y
 1 RESI
 2 DATE 27 JAN 1906
 2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
@@ -13387,6 +13643,51 @@
 4 DATE about 1933
 3 OBJE @O0488@
 3 OBJE @O0489@
+2 SOUR @S0230@
+3 PAGE akt nr 206
+3 QUAY 3
+3 DATA
+4 DATE 6 FEB 1951
+3 OBJE @O0676@
+1 DEAT
+2 TYPE ul. Dworcowa 7, Bytom
+2 DATE 5 FEB 1951
+2 PLAC Bytom, Polska
+2 ADDR
+3 CITY Bytom
+3 CTRY Polska
+2 SOUR @S0229@
+3 QUAY 2
+2 SOUR @S0230@
+3 PAGE akt nr 206
+3 QUAY 3
+3 DATA
+4 DATE 6 FEB 1951
+3 OBJE @O0676@
+1 RESI
+2 DATE ABT 1933
+2 PLAC ul. Krótka 3, Zimna Woda, obwód lwowski, Ukraina
+2 ADDR
+3 CTRY Ukraina
+2 SOUR @S0122@
+3 PAGE Huńka Mieczysław; Szufladka HUBI-IDZI, skan nr 646-647
+3 DATA
+4 DATE about 1933
+3 OBJE @O0488@
+3 OBJE @O0489@
+1 EVEN Odznaczenie Krzyżem Niepodległości
+2 TYPE Przyznanie odznaczenia / nagrody
+2 DATE 9 NOV 1933
+2 SOUR @S0122@
+3 PAGE Huńka Mieczysław; Szufladka HUBI-IDZI, skan nr 646-647
+3 DATA
+4 DATE about 1933
+3 OBJE @O0488@
+3 OBJE @O0489@
+2 SOUR @S0123@
+3 PAGE str. 1
+2 SOUR @S0189@
+2 SOUR @S0188@
 1 RESI
 2 DATE 1918
 2 PLAC Barnauł, Kraj Ałtajski, Rosja
@@ -13440,27 +13741,35 @@
 1 SOUR @S0188@
 1 SOUR @S0189@
 1 SOUR @S0190@
+1 SOUR @S0229@
+2 QUAY 2
+1 SOUR @S0230@
+2 PAGE akt nr 206
+2 QUAY 3
+2 DATA
+3 DATE 6 FEB 1951
+2 OBJE @O0676@
 1 OBJE @O0576@
 1 OBJE @O0578@
 1 OBJE @O0582@
 1 OBJE @O0584@
 1 CHAN
-2 DATE 10 APR 2022
-3 TIME 19:13:41
+2 DATE 19 JUN 2022
+3 TIME 10:40:22
 0 @I500231@ INDI
-1 NAME Eugenia /Hamaryn/
+1 NAME Eugenia /Mamaryna/
 2 GIVN Eugenia
-2 SURN Hamaryn
+2 SURN Mamaryna
 1 NAME Eugenia /Huńka/
 2 TYPE married
 2 GIVN Eugenia
 2 SURN Huńka
-1 NAME Eugenia /Mamaryna/
+1 NAME Eugenia /Hamaryn/
 2 GIVN Eugenia
-2 SURN Mamaryna
+2 SURN Hamaryn
 1 SEX F
 1 BIRT
-2 DATE 1899
+2 DATE 21 DEC 1897
 2 PLAC Omsk, Rosja
 3 MAP
 4 LATI N54.983333
@@ -13474,9 +13783,25 @@
 4 DATE 26 AUG 1946
 3 OBJE @O0297@
 3 OBJE @O0298@
+2 SOUR @S0229@
+3 QUAY 2
+2 SOUR @S0233@
+1 DEAT
+2 TYPE prawdopodobnie zmarła w szpitalu (tam przyjęła ostatnie namaszczenie)
+2 DATE 17 MAR 1949
+2 SOUR @S0233@
 1 _MDCL
 2 TYPE Zachorowała na zapalenie stawów
 2 DATE 1939
+1 BURI
+2 DATE 21 MAR 1949
+2 PLAC Mater Dolorosa, Bytom, Polska
+2 ADDR
+3 CITY Bytom
+3 CTRY Polska
+2 SOUR @S0234@
+2 SOUR @S0229@
+3 QUAY 2
 1 NATI rosyjska
 1 FAMS @F500078@
 1 SOUR @S0000@
@@ -13484,10 +13809,19 @@
 1 SOUR @S0186@
 2 PAGE str.2
 1 SOUR @S0190@
+1 SOUR @S0229@
+2 QUAY 2
+1 SOUR @S0230@
+2 PAGE akt nr 206
+2 QUAY 3
+2 DATA
+3 DATE 6 FEB 1951
+2 OBJE @O0676@
+1 SOUR @S0233@
 1 OBJE @O0578@
 1 CHAN
-2 DATE 16 DEC 2021
-3 TIME 17:45:34
+2 DATE 21 JUN 2022
+3 TIME 21:21:14
 0 @I500232@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -14779,12 +15113,6 @@
 1 CHAN
 2 DATE 14 APR 2020
 3 TIME 19:29:34
-0 @F0134@ FAM
-1 HUSB @I0230@
-1 CHIL @I500164@
-1 CHAN
-2 DATE 3 MAY 2020
-3 TIME 18:13:08
 0 @F0135@ FAM
 1 HUSB @I0231@
 1 CHIL @I500165@
@@ -16148,10 +16476,67 @@
 0 @F0289@ FAM
 1 HUSB @I0523@
 1 WIFE @I0524@
+1 MARR
+2 DATE 4 NOV 1830
+2 PLAC Motkowice, Polska
+3 MAP
+4 LATI N50.602833
+4 LONG E20.489174
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0226@
+3 PAGE Jakubczyk Anotni, Stępień Regina - akt małżeństwa; wpis nr 26
+3 OBJE @O0667@
 1 CHIL @I0418@
+1 SOUR @S0226@
+2 PAGE Jakubczyk Anotni, Stępień Regina - akt małżeństwa; wpis nr 26
+2 OBJE @O0667@
 1 CHAN
-2 DATE 14 APR 2022
-3 TIME 20:15:41
+2 DATE 18 APR 2022
+3 TIME 07:39:28
+0 @F0290@ FAM
+1 HUSB @I0525@
+1 WIFE @I0526@
+1 CHIL @I0523@
+1 CHAN
+2 DATE 18 APR 2022
+3 TIME 07:41:31
+0 @F0291@ FAM
+1 HUSB @I0523@
+1 WIFE @I0527@
+1 MARR
+2 SOUR @S0226@
+3 PAGE Jakubczyk Anotni, Stępień Regina - akt małżeństwa; wpis nr 26
+3 OBJE @O0667@
+1 CHAN
+2 DATE 18 APR 2022
+3 TIME 07:43:06
+0 @F0292@ FAM
+1 HUSB @I0528@
+1 WIFE @I0529@
+1 CHIL @I0524@
+1 CHAN
+2 DATE 18 APR 2022
+3 TIME 07:48:45
+0 @F0293@ FAM
+1 WIFE @I0530@
+1 CHAN
+2 DATE 17 JUN 2022
+3 TIME 19:52:08
+0 @F0294@ FAM
+1 HUSB @I0230@
+1 WIFE @I0531@
+1 MARR
+2 DATE 6 AUG 1820
+2 PLAC Kościół pw. MB Bolesnej, Rybnik, Polska
+2 ADDR
+3 CITY Rybnik
+3 CTRY Polska
+2 SOUR @S0232@
+1 CHIL @I500164@
+1 CHAN
+2 DATE 20 JUN 2022
+3 TIME 16:57:09
 0 @F500004@ FAM
 1 HUSB @I500013@
 1 WIFE @I500012@
@@ -17017,16 +17402,29 @@
 1 WIFE @I500231@
 1 MARR
 2 DATE 1 FEB 1920
+2 PLAC Omsk, Rosja
+3 MAP
+4 LATI N54.983333
+4 LONG E73.366667
+2 ADDR
+3 CITY Omsk
+3 CTRY Rosja
 2 SOUR @S0186@
 3 PAGE str.2
+2 SOUR @S0230@
+3 PAGE akt nr 206
+3 QUAY 3
+3 DATA
+4 DATE 6 FEB 1951
+3 OBJE @O0676@
 1 FACT MH:F500078
 2 TYPE RIN
 1 _UID 5E07DD5B12A3EF676E847C4B9FCB5EC8
 1 CHIL @I0089@
 1 CHIL @I0415@
 1 CHAN
-2 DATE 14 SEP 2021
-3 TIME 07:51:27
+2 DATE 18 JUN 2022
+3 TIME 05:25:58
 0 @F500079@ FAM
 1 HUSB @I0346@
 1 WIFE @I0347@
@@ -18473,6 +18871,67 @@
 1 CHAN
 2 DATE 17 APR 2022
 3 TIME 08:31:13
+0 @S0226@ SOUR
+1 TITL Księga zaslubionych 1826-1833
+1 AUTH Parafia Rzymskokatolicka Imielno
+1 REPO @R0027@
+1 CHAN
+2 DATE 18 APR 2022
+3 TIME 07:31:07
+0 @S0227@ SOUR
+1 TITL Huńka Ryszard - koperta dowodowa
+1 REPO @R0006@
+1 CHAN
+2 DATE 18 APR 2022
+3 TIME 09:25:19
+0 @S0228@ SOUR
+1 TITL Huńka Mieczysław, Eugenia, Witold, Józefa - nagrobek
+1 OBJE @O0674@
+1 OBJE @O0675@
+1 REPO @R0035@
+2 CALN Pole 3 (idąc od wejścia, mija się krzyż i jest to pole po prawej), rz
+3 CONC ąd 11 (liczony od parkanu w stronę wejścia)
+3 MEDI Tombstone
+1 CHAN
+2 DATE 17 JUN 2022
+3 TIME 19:33:45
+0 @S0229@ SOUR
+1 TITL Huńka Mieczysław, Eugenia, Witold, Józefa - nagrobek
+1 OBJE @O0674@
+1 OBJE @O0675@
+1 REPO @R0035@
+2 CALN Pole 3 (idąc od wejścia, mija się krzyż i jest to pole po prawej), rz
+3 CONC ąd 11 (licząc od parkanu w stronę wejścia)
+3 MEDI Tombstone
+1 CHAN
+2 DATE 17 JUN 2022
+3 TIME 19:37:40
+0 @S0230@ SOUR
+1 TITL Księga zgonów 1951
+1 AUTH Urząd Stanu Cywilnego w Bytomiu
+1 REPO @R0036@
+1 CHAN
+2 DATE 17 JUN 2022
+3 TIME 19:57:49
+0 @S0232@ SOUR
+1 TITL Drzewo genealogiczne rodziny Chroszcz / Juryssek (Rybnik)
+1 AUTH Archiwum Archidiecezjalne w Katowicach
+1 OBJE @O0677@
+1 CHAN
+2 DATE 20 JUN 2022
+3 TIME 16:34:59
+0 @S0233@ SOUR
+1 TITL Księga zgonów 1949
+1 AUTH Parafia Rzymskokatolicka pw. Trójcy Św. w Bytomiu
+1 REPO @R0037@
+1 CHAN
+2 DATE 21 JUN 2022
+3 TIME 21:16:41
+0 @S0234@ SOUR
+1 TITL Księgi cmentarza Mater Dolorosa
+1 CHAN
+2 DATE 21 JUN 2022
+3 TIME 21:19:42
 0 @S500001@ SOUR
 1 TITL Brylewski Web Site
 1 AUTH Grzegorz Brylewski
@@ -18613,6 +19072,24 @@
 1 NAME Archiwum Państwowe Dokumentacji Osobowej i Płacowej w Milanówku
 0 @R0034@ REPO
 1 NAME Archiwum Państwowe w Łodzi
+0 @R0035@ REPO
+1 NAME Cmentarz Mater Dolorosa
+1 ADDR Piekarska 71
+2 CONT Bytom
+2 CONT Polska
+2 ADR1 Piekarska 71
+2 CITY Bytom
+2 CTRY Polska
+0 @R0036@ REPO
+1 NAME Urząd Stanu Cywilnego w Bytomiu
+1 ADDR Olejniczaka 22
+2 CONT Bytom
+2 CONT Polska
+2 ADR1 Olejniczaka 22
+2 CITY Bytom
+2 CTRY Polska
+0 @R0037@ REPO
+1 NAME Kościół pw. Trójcy Św. w Bytomiu
 0 @O0000@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/500018_83613838t5dbd58205l30l.jpg
 2 FORM jpg
@@ -23147,8 +23624,8 @@
 2 DATA
 3 DATE 7 OCT 1934
 1 CHAN
-2 DATE 17 APR 2022
-3 TIME 08:31:07
+2 DATE 21 APR 2022
+3 TIME 19:28:28
 0 @O0666@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/photos/Poloczek__Wincek/poloczek-teodor__wincek-weronika__wesele__verso.jpg
 2 FORM jpg
@@ -23156,4 +23633,95 @@
 1 CHAN
 2 DATE 17 APR 2022
 3 TIME 08:26:15
+0 @O0667@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Jakubczyk__Stępień/jakubczyk-antoni__stepien-regina__akt-malzenstwa.JPG
+2 FORM JPG
+2 TITL jakubczyk-antoni__stepien-regina__akt-malzenstwa
+1 CHAN
+2 DATE 18 APR 2022
+3 TIME 07:32:36
+0 @O0668@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Huńka__Sibińska/hunka-ryszard__koperta-dowodowa/Huńka Ryszard 2.pdf
+2 FORM pdf
+2 TITL Huńka Ryszard 2
+1 CHAN
+2 DATE 18 APR 2022
+3 TIME 09:24:29
+0 @O0669@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Huńka__Sibińska/hunka-ryszard__koperta-dowodowa/Huńka Ryszard 2 - zdjecie.jpg
+2 FORM jpg
+2 TITL Huńka Ryszard - 1946 r.
+1 SOUR @S0227@
+2 PAGE Zaświadczenie nr 867755 o przybyciu do Polski
+2 DATA
+3 DATE 26 MAY 1946
+2 OBJE @O0668@
+1 CHAN
+2 DATE 18 APR 2022
+3 TIME 15:19:19
+0 @O0670@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Huńka__Sibińska/hunka-ryszard__koperta-dowodowa/Huńka Ryszard 3.pdf
+2 FORM pdf
+2 TITL Huńka Ryszard 3
+1 CHAN
+2 DATE 18 APR 2022
+3 TIME 19:47:53
+0 @O0671@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Huńka__Sibińska/hunka-ryszard__koperta-dowodowa/Huńka Ryszard 3 - zdjęcie.jpg
+2 FORM jpg
+2 TITL Huńka Ryszard 1952 r.
+1 SOUR @S0227@
+2 PAGE Ankieta o wydanie dowodu osobistego
+2 DATA
+3 DATE 5 MAY 1952
+2 OBJE @O0670@
+1 CHAN
+2 DATE 18 APR 2022
+3 TIME 19:48:06
+0 @O0672@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Huńka__Sibińska/hunka-ryszard__koperta-dowodowa/Huńka Ryszard 4.pdf
+2 FORM pdf
+2 TITL Huńka Ryszard 4
+1 CHAN
+2 DATE 18 APR 2022
+3 TIME 19:49:58
+0 @O0673@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Huńka__Sibińska/hunka-ryszard__koperta-dowodowa/Huńka Ryszard 4 - zdjęcia.jpg
+2 FORM jpg
+2 TITL Huńka Ryszard - 2007 r.
+1 SOUR @S0227@
+2 PAGE Wniosek o wydanie dowodu osobistego
+2 DATA
+3 DATE 25 APR 2007
+2 OBJE @O0672@
+1 CHAN
+2 DATE 18 APR 2022
+3 TIME 19:50:01
+0 @O0674@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Hamaryn__Huńka/hunka-mieczyslaw-eugenia__nagrobek-1.jpg
+2 FORM jpg
+2 TITL hunka-mieczyslaw-eugenia__nagrobek-1
+1 CHAN
+2 DATE 17 JUN 2022
+3 TIME 19:37:30
+0 @O0675@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Hamaryn__Huńka/hunka-mieczyslaw-eugenia__nagrobek-2.jpg
+2 FORM jpg
+2 TITL hunka-mieczyslaw-eugenia__nagrobek-2
+1 CHAN
+2 DATE 17 JUN 2022
+3 TIME 19:37:39
+0 @O0676@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Hamaryn__Huńka/hunka-mieczyslaw__akt-zgonu.jpg
+2 FORM jpg
+2 TITL hunka-mieczyslaw__akt-zgonu
+1 CHAN
+2 DATE 17 JUN 2022
+3 TIME 19:59:30
+0 @O0677@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Chruszcz__Juryssek/drzewo-genealogiczne
+2 TITL drzewo-genealogiczne
+1 CHAN
+2 DATE 20 JUN 2022
+3 TIME 16:34:51
 0 TRLR
