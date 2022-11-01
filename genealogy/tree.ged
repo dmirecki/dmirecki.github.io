@@ -1,9 +1,9 @@
 0 HEAD
 1 SOUR Gramps
-2 VERS 5.1.2
+2 VERS 5.1.5
 2 NAME Gramps
-1 DATE 25 JUN 2022
-2 TIME 00:02:23
+1 DATE 1 NOV 2022
+2 TIME 08:21:46
 1 SUBM @SUBM@
 1 FILE /home/dmirecki/projects/dmirecki.github.io/genealogy/tree.ged
 1 COPR Copyright (c) 2022 Damian Mirecki.
@@ -14,7 +14,6 @@
 1 LANG English
 0 @SUBM@ SUBM
 1 NAME Damian Mirecki
-1 ADDR
 1 EMAIL dmirecki.dm@@gmail.com
 0 @I0002@ INDI
 1 NAME  /Private/
@@ -33,19 +32,19 @@
 2 PEDI birth
 1 FAMS @F0001@
 1 SOUR @S0135@
-2 PAGE Moczygemba Werner, Poloczek Beata - akt małżeństwa
-2 OBJE @O0504@
-2 OBJE @O0505@
 1 SOUR @S0216@
 2 PAGE str. 1
 2 DATA
 3 DATE 1980
+1 SOUR @S0235@
+2 PAGE Odpis zupełny aktu małżeństwa
+1 SOUR @S0245@
 1 OBJE @O0002@
 1 OBJE @O0003@
 1 OBJE @O0649@
 1 CHAN
-2 DATE 10 APR 2022
-3 TIME 18:42:54
+2 DATE 22 AUG 2022
+3 TIME 19:49:02
 0 @I0003@ INDI
 1 NAME  /Private/
 2 SURN Private
@@ -72,17 +71,25 @@
 2 PAGE Poloczek Beata - akt zgonu
 2 OBJE @O0502@
 1 SOUR @S0135@
-2 PAGE Moczygemba Werner, Poloczek Beata - akt małżeństwa
-2 OBJE @O0504@
-2 OBJE @O0505@
 1 SOUR @S0217@
 2 PAGE str. 1
+1 SOUR @S0235@
+2 PAGE Odpis zupełny aktu małżeństwa
+1 SOUR @S0242@
+2 DATA
+3 DATE 12 MAY 1942
+1 SOUR @S0243@
+2 DATA
+3 DATE 10 OCT 1961
+1 SOUR @S0244@
+2 DATA
+3 DATE 1 JUN 1954
 1 OBJE @O0004@
 1 OBJE @O0005@
 1 OBJE @O0654@
 1 CHAN
-2 DATE 16 APR 2022
-3 TIME 20:51:35
+2 DATE 22 AUG 2022
+3 TIME 19:33:59
 0 @I0004@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -92,8 +99,8 @@
 2 PEDI birth
 1 FAMS @F0002@
 1 CHAN
-2 DATE 31 JAN 2021
-3 TIME 20:35:32
+2 DATE 22 AUG 2022
+3 TIME 20:27:40
 0 @I0005@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -147,11 +154,17 @@
 2 PAGE str. 1
 1 SOUR @S0179@
 2 PAGE str. 1
+1 SOUR @S0246@
+2 DATA
+3 DATE EST 1941
+1 SOUR @S0250@
+1 OBJE @O0678@
 1 OBJE @O0012@
 1 OBJE @O0013@
+1 OBJE @O0681@
 1 CHAN
-2 DATE 18 APR 2022
-3 TIME 15:16:12
+2 DATE 31 OCT 2022
+3 TIME 22:01:43
 0 @I0008@ INDI
 1 NAME Luiza Klara /Solorz/
 2 GIVN Luiza Klara
@@ -181,11 +194,15 @@
 2 PAGE str. 2
 1 SOUR @S0178@
 2 PAGE str. 1
+1 SOUR @S0250@
+1 OBJE @O0679@
 1 OBJE @O0014@
 1 OBJE @O0015@
+1 OBJE @O0683@
+1 OBJE @O0684@
 1 CHAN
-2 DATE 10 APR 2022
-3 TIME 19:30:29
+2 DATE 31 OCT 2022
+3 TIME 22:02:01
 0 @I0009@ INDI
 1 NAME Teodor Augustyn /Poloczek/
 2 GIVN Teodor Augustyn
@@ -335,8 +352,8 @@
 1 FAMC @F0003@
 2 PEDI birth
 1 CHAN
-2 DATE 3 JUL 2021
-3 TIME 13:48:19
+2 DATE 17 AUG 2022
+3 TIME 17:01:59
 0 @I0013@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -353,15 +370,12 @@
 2 GIVN Piotr
 2 SURN Mirecki
 1 SEX M
-1 FACT MH:I14
-2 TYPE RIN
-1 _UID 5643B4ED600DD1853002683320142142
 1 FAMC @F0003@
 2 PEDI birth
 1 FAMS @F0007@
 1 CHAN
-2 DATE 2 FEB 2020
-3 TIME 22:52:18
+2 DATE 17 AUG 2022
+3 TIME 16:39:46
 0 @I0015@ INDI
 1 NAME Henryk /Matuszczyk/
 2 GIVN Henryk
@@ -667,29 +681,36 @@
 2 DATE 2 FEB 2020
 3 TIME 22:52:35
 0 @I0041@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Jolanta /Matuszczyk/
+2 GIVN Jolanta
+2 SURN Matuszczyk
 1 SEX F
+1 FACT MH:I41
+2 TYPE RIN
+1 _UID 5643B4ED6131A18F7002683320142142
 1 FAMS @F0019@
 1 CHAN
 2 DATE 23 JAN 2020
 3 TIME 20:02:10
 0 @I0042@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Bartosz /Matuszczyk/
+2 GIVN Bartosz
+2 SURN Matuszczyk
 1 SEX M
+1 FACT MH:I42
+2 TYPE RIN
+1 _UID 5643B4ED613BD18FD002683320142142
 1 FAMC @F0019@
 2 PEDI birth
 1 CHAN
 2 DATE 23 JAN 2020
 3 TIME 20:02:10
 0 @I0043@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME  //
 1 SEX M
+1 FACT MH:I43
+2 TYPE RIN
+1 _UID 5643B4ED6145E1903002683320142142
 1 FAMC @F0019@
 2 PEDI birth
 1 CHAN
@@ -901,7 +922,7 @@
 1 SOUR @S0048@
 2 QUAY 3
 2 DATA
-3 DATE EST AFT 30 MAY 1979
+3 DATE AFT 30 MAY 1979
 2 OBJE @O0370@
 1 OBJE @O0440@
 1 OBJE @O0076@
@@ -945,12 +966,16 @@
 2 DATE 21 APR 2022
 3 TIME 19:24:49
 0 @I0061@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Bernard /Kubica/ Bernd
+2 GIVN Bernard
+2 SURN Kubica
+2 NSFX Bernd
 1 SEX M
 1 FAMC @F0024@
 2 PEDI birth
+1 OBJE @O0082@
+1 OBJE @O0083@
+1 OBJE @O0664@
 1 CHAN
 2 DATE 21 APR 2022
 3 TIME 19:25:13
@@ -1011,13 +1036,22 @@
 2 GIVN Leon
 2 SURN Bara
 1 SEX M
-1 FACT MH:I65
-2 TYPE RIN
-1 _UID 5643B4ED6243B1993002683320142142
+1 BIRT
+2 DATE ABT 1902
+2 PLAC Nowy Bytom, Ruda Śląska, Polska
+2 ADDR
+3 CITY Ruda Śląska
+3 CTRY Polska
+1 DEAT
+2 DATE 22 DEC 1995
+2 PLAC Ruda Śląska, Polska
+2 ADDR
+3 CITY Ruda Śląska
+3 CTRY Polska
 1 FAMS @F0027@
 1 CHAN
-2 DATE 2 FEB 2020
-3 TIME 22:52:47
+2 DATE 17 AUG 2022
+3 TIME 16:39:13
 0 @I0066@ INDI
 1 NAME Josef /Brysch/
 2 GIVN Josef
@@ -1220,6 +1254,13 @@
 2 SOUR @S0194@
 3 PAGE Pełny odpis aktu chrztu Durschlag Krystyny; str. 168; nr 311
 3 OBJE @O0608@
+1 BURI
+2 TYPE Cmentarz w Rybniku, gdzie obecnie jest grób Elżbiety i Ryszarda Kołodzie
+3 CONC j
+2 PLAC Rybnik, Polska
+2 ADDR
+3 CITY Rybnik
+3 CTRY Polska
 1 FAMC @F500063@
 2 PEDI birth
 1 FAMS @F0029@
@@ -1230,9 +1271,11 @@
 1 SOUR @S0194@
 2 PAGE Pełny odpis aktu chrztu Durschlag Krystyny; str. 168; nr 311
 2 OBJE @O0608@
+1 OBJE @O0682@
+1 OBJE @O0685@
 1 CHAN
-2 DATE 9 DEC 2021
-3 TIME 20:06:50
+2 DATE 25 AUG 2022
+3 TIME 15:07:04
 0 @I0071@ INDI
 1 NAME Juliusz /Solorz/
 2 GIVN Juliusz
@@ -1250,6 +1293,13 @@
 2 SOUR @S0195@
 3 PAGE Pełny odpis aktu chrztu Solorz Juliusz; str. 441
 3 OBJE @O0609@
+1 BURI
+2 TYPE Cmentarz w Rybniku, gdzie obecnie jest grób Elżbiety i Ryszarda Kołodzie
+3 CONC j
+2 PLAC Rybnik, Polska
+2 ADDR
+3 CITY Rybnik
+3 CTRY Polska
 1 FAMC @F500073@
 2 PEDI birth
 1 FAMS @F0029@
@@ -1260,9 +1310,10 @@
 1 SOUR @S0195@
 2 PAGE Pełny odpis aktu chrztu Solorz Juliusz; str. 441
 2 OBJE @O0609@
+1 OBJE @O0680@
 1 CHAN
-2 DATE 9 DEC 2021
-3 TIME 20:16:59
+2 DATE 25 AUG 2022
+3 TIME 15:06:40
 0 @I0072@ INDI
 1 NAME Augustyn /Moczygemba/
 2 GIVN Augustyn
@@ -1323,8 +1374,8 @@
 2 PEDI birth
 1 FAMS @F0051@
 1 CHAN
-2 DATE 21 APR 2022
-3 TIME 20:32:27
+2 DATE 22 AUG 2022
+3 TIME 20:28:00
 0 @I0088@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -1435,8 +1486,8 @@
 1 OBJE @O0493@
 1 OBJE @O0673@
 1 CHAN
-2 DATE 18 JUN 2022
-3 TIME 05:25:58
+2 DATE 31 OCT 2022
+3 TIME 21:01:11
 0 @I0090@ INDI
 1 NAME Stefania /Sibińska/
 2 GIVN Stefania
@@ -2053,10 +2104,12 @@
 2 DATE 1 FEB 2020
 3 TIME 16:25:34
 0 @I0112@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Tadeusz //
+2 GIVN Tadeusz
 1 SEX M
+1 FACT MH:I500111
+2 TYPE RIN
+1 _UID 5DBC6779A98CEA1D0FB14191C31D3A63
 1 FAMS @F500041@
 1 CHAN
 2 DATE 1 FEB 2020
@@ -3958,8 +4011,8 @@
 1 SOUR @S0067@
 2 QUAY 1
 1 CHAN
-2 DATE 14 APR 2020
-3 TIME 19:29:34
+2 DATE 24 AUG 2022
+3 TIME 18:49:44
 0 @I0227@ INDI
 1 NAME Jan /Sibiński/
 2 GIVN Jan
@@ -4145,10 +4198,13 @@
 2 DATE 28 MAY 2020
 3 TIME 19:34:53
 0 @I0242@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Krystyna /Kopeć/
+2 GIVN Krystyna
+2 SURN Kopeć
 1 SEX F
+1 FACT MH:I500018
+2 TYPE RIN
+1 _UID 5DBC15FE999725C850FB7E803ADB93C3
 1 FAMC @F0143@
 2 PEDI birth
 1 CHAN
@@ -4336,10 +4392,17 @@
 2 DATE 30 DEC 2020
 3 TIME 19:59:20
 0 @I0258@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Agnieszka /Korotusz/
+2 GIVN Agnieszka
+2 SURN Korotusz
+1 NAME Agnieszka /Rozmarynowska/
+2 TYPE married
+2 GIVN Agnieszka
+2 SURN Rozmarynowska
 1 SEX F
+1 FACT MH:I500036
+2 TYPE RIN
+1 _UID 5DBC189CD5D779D826EF6A24E5A7CECF
 1 FAMC @F0164@
 2 PEDI birth
 1 FAMS @F0156@
@@ -4347,20 +4410,26 @@
 2 DATE 28 MAY 2020
 3 TIME 19:34:57
 0 @I0259@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Józef /Korotusz/
+2 GIVN Józef
+2 SURN Korotusz
 1 SEX M
+1 FACT MH:I500037
+2 TYPE RIN
+1 _UID 5DBC18B63F7974C6B3A9C2157DDDDE1F
 1 FAMC @F0164@
 2 PEDI birth
 1 CHAN
 2 DATE 28 MAY 2020
 3 TIME 19:34:58
 0 @I0260@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Antoni /Rozmarynowski/
+2 GIVN Antoni
+2 SURN Rozmarynowski
 1 SEX M
+1 FACT MH:I500038
+2 TYPE RIN
+1 _UID 5DBC198507F32D68AD96F2386356C41B
 1 FAMS @F0156@
 1 CHAN
 2 DATE 28 MAY 2020
@@ -4406,10 +4475,13 @@
 2 DATE 28 MAY 2020
 3 TIME 19:34:59
 0 @I0265@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Paweł /Rozmarynowski/
+2 GIVN Paweł
+2 SURN Rozmarynowski
 1 SEX M
+1 FACT MH:I500048
+2 TYPE RIN
+1 _UID 5DBC1B769ABC692191A45E1F0A5F778F
 1 FAMC @F500018@
 2 PEDI birth
 1 CHAN
@@ -4497,10 +4569,17 @@
 2 DATE 28 MAY 2020
 3 TIME 19:35:03
 0 @I0273@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Jadwiga /Wac/
+2 GIVN Jadwiga
+2 SURN Wac
+1 NAME Jadwiga /Cykowska/
+2 TYPE married
+2 GIVN Jadwiga
+2 SURN Cykowska
 1 SEX F
+1 FACT MH:I500062
+2 TYPE RIN
+1 _UID 5DBC2046EBA1B2BB7E29B392D842F1AC
 1 FAMC @F0162@
 2 PEDI birth
 1 FAMS @F0181@
@@ -4605,13 +4684,10 @@
 2 DATE 28 MAY 2020
 3 TIME 19:35:05
 0 @I0280@ INDI
-1 NAME Stefan /Rozmiarek/
-2 GIVN Stefan
-2 SURN Rozmiarek
+1 NAME [Private] /[Private]/
+2 GIVN [Private]
+2 SURN [Private]
 1 SEX M
-1 FACT MH:I500069
-2 TYPE RIN
-1 _UID 5DBC21054E01D94DF4D45CE184C75A08
 1 FAMS @F0184@
 1 CHAN
 2 DATE 28 MAY 2020
@@ -4676,10 +4752,17 @@
 2 DATE 28 MAY 2020
 3 TIME 19:35:06
 0 @I0287@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Janina /Chodaczek/
+2 GIVN Janina
+2 SURN Chodaczek
+1 NAME Janina /Wac/
+2 TYPE married
+2 GIVN Janina
+2 SURN Wac
 1 SEX F
+1 FACT MH:I500150
+2 TYPE RIN
+1 _UID 5DBD79FFDDB110612C27DC2297CDCA6F
 1 FAMS @F0177@
 1 CHAN
 2 DATE 28 MAY 2020
@@ -4734,10 +4817,13 @@
 2 DATE 28 MAY 2020
 3 TIME 19:35:08
 0 @I0293@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Jan /Zub/
+2 GIVN Jan
+2 SURN Zub
 1 SEX M
+1 FACT MH:I500156
+2 TYPE RIN
+1 _UID 5DBD7BBE885C8148F42726C2C26D03A4
 1 FAMS @F0178@
 1 CHAN
 2 DATE 28 MAY 2020
@@ -5022,12 +5108,10 @@
 2 DATE 28 MAY 2020
 3 TIME 19:48:07
 0 @I0320@ INDI
-1 NAME  /Ostrowski/
-2 SURN Ostrowski
+1 NAME [Private] /[Private]/
+2 GIVN [Private]
+2 SURN [Private]
 1 SEX M
-1 FACT MH:I500184
-2 TYPE RIN
-1 _UID 5DBD81074F1DE68B09FB5D26B3F50556
 1 FAMS @F0207@
 1 CHAN
 2 DATE 28 MAY 2020
@@ -5192,10 +5276,13 @@
 2 DATE 28 MAY 2020
 3 TIME 19:35:18
 0 @I0335@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Marek /Józefowicz/
+2 GIVN Marek
+2 SURN Józefowicz
 1 SEX M
+1 FACT MH:I500200
+2 TYPE RIN
+1 _UID 5DBD835A36C1817EEF70330609570A30
 1 FAMC @F0212@
 2 PEDI birth
 1 CHAN
@@ -7084,8 +7171,8 @@
 2 PEDI birth
 1 FAMS @F0240@
 1 CHAN
-2 DATE 18 JUN 2022
-3 TIME 05:25:58
+2 DATE 31 OCT 2022
+3 TIME 21:01:11
 0 @I0417@ INDI
 1 NAME Mikołaj /Suchanek/
 2 GIVN Mikołaj
@@ -10568,6 +10655,41 @@
 1 CHAN
 2 DATE 20 JUN 2022
 3 TIME 16:57:09
+0 @I0532@ INDI
+1 NAME Maksymilian /Mamaryn/
+2 GIVN Maksymilian
+2 SURN Mamaryn
+1 SEX M
+1 FACT Cieśla
+2 TYPE Occupation
+2 SOUR @S0248@
+3 PAGE Huńka Eugenia - akt zgonu; wpis nr 415
+3 DATA
+4 DATE 19 MAR 1949
+3 OBJE @O0696@
+1 FAMS @F0295@
+1 SOUR @S0248@
+2 PAGE Huńka Eugenia - akt zgonu; wpis nr 415
+2 DATA
+3 DATE 19 MAR 1949
+2 OBJE @O0696@
+1 CHAN
+2 DATE 31 OCT 2022
+3 TIME 20:55:27
+0 @I0533@ INDI
+1 NAME Maria /Odiniec/
+2 GIVN Maria
+2 SURN Odiniec
+1 SEX F
+1 FAMS @F0295@
+1 SOUR @S0248@
+2 PAGE Huńka Eugenia - akt zgonu; wpis nr 415
+2 DATA
+3 DATE 19 MAR 1949
+2 OBJE @O0696@
+1 CHAN
+2 DATE 31 OCT 2022
+3 TIME 20:54:15
 0 @I500004@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -10652,15 +10774,26 @@
 2 ADDR
 3 CITY Świętochłowice
 3 CTRY Polska
+1 BURI
+2 TYPE pole 6, rząd 11, miejsce 8
+2 PLAC Cmentarz Parafialny, Bykowina, Ruda Śląska, Polska
+3 MAP
+4 LATI N50.270323
+4 LONG E18.892658
+2 ADDR
+3 CITY Ruda Śląska
+3 CTRY Polska
+2 SOUR @S0249@
 1 FAMC @F0028@
 2 PEDI birth
+1 SOUR @S0249@
 1 OBJE @O0455@
 1 OBJE @O0444@
 1 OBJE @O0456@
 1 OBJE @O0664@
 1 CHAN
-2 DATE 20 JUN 2022
-3 TIME 19:52:11
+2 DATE 31 OCT 2022
+3 TIME 21:50:16
 0 @I500012@ INDI
 1 NAME Łucja /Poloczek/
 2 GIVN Łucja
@@ -10907,10 +11040,13 @@
 2 DATE 2 FEB 2020
 3 TIME 22:53:13
 0 @I500033@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Michał /Korotusz/
+2 GIVN Michał
+2 SURN Korotusz
 1 SEX M
+1 FACT MH:I500033
+2 TYPE RIN
+1 _UID 5DBC188393856F4D36D9625959A18CC5
 1 FAMC @F0164@
 2 PEDI birth
 1 FAMS @F0139@
@@ -11008,10 +11144,13 @@
 2 DATE 2 FEB 2020
 3 TIME 22:53:19
 0 @I500043@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Zygmunt /Prochera/
+2 GIVN Zygmunt
+2 SURN Prochera
 1 SEX M
+1 FACT MH:I500043
+2 TYPE RIN
+1 _UID 5DBC1AF0AC3780E1F2F6222A34243939
 1 FAMS @F0167@
 1 CHAN
 2 DATE 28 MAY 2020
@@ -11182,10 +11321,17 @@
 2 DATE 24 JUL 2020
 3 TIME 19:33:22
 0 @I500058@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Maria /Korotusz/
+2 GIVN Maria
+2 SURN Korotusz
+1 NAME Maria /Zub/
+2 TYPE married
+2 GIVN Maria
+2 SURN Zub
 1 SEX F
+1 FACT MH:I500058
+2 TYPE RIN
+1 _UID 5DBC1E3E62D495598DBA48530295F34A
 1 FAMC @F0164@
 2 PEDI birth
 1 FAMS @F0178@
@@ -11193,10 +11339,13 @@
 2 DATE 28 MAY 2020
 3 TIME 19:35:02
 0 @I500059@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Antoni /Wac/
+2 GIVN Antoni
+2 SURN Wac
 1 SEX M
+1 FACT MH:I500059
+2 TYPE RIN
+1 _UID 5DBC1E7BF269DEF893BAEA307AF8BFAC
 1 FAMC @F0162@
 2 PEDI birth
 1 FAMS @F0179@
@@ -11225,10 +11374,13 @@
 2 DATE 24 JUL 2020
 3 TIME 19:33:23
 0 @I500062@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Paweł /Jednicki/
+2 GIVN Paweł
+2 SURN Jednicki
 1 SEX M
+1 FACT MH:I500062
+2 TYPE RIN
+1 _UID 5D2900166D2562D82246530366FE9A47
 1 FAMS @F500019@
 1 CHAN
 2 DATE 2 FEB 2020
@@ -11382,10 +11534,13 @@
 2 DATE 24 JUL 2020
 3 TIME 19:33:24
 0 @I500075@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Piotr /Hajduk/
+2 GIVN Piotr
+2 SURN Hajduk
 1 SEX M
+1 FACT MH:I500075
+2 TYPE RIN
+1 _UID 5D290704F110A799E55A967282D7D39C
 1 FAMC @F500022@
 2 PEDI birth
 1 CHAN
@@ -11514,20 +11669,26 @@
 2 DATE 24 JUL 2020
 3 TIME 19:33:26
 0 @I500088@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Bernard /Hajduk/
+2 GIVN Bernard
+2 SURN Hajduk
 1 SEX M
+1 FACT MH:I500088
+2 TYPE RIN
+1 _UID 5D2913BDF09827307D5CD3581CFED7DE
 1 FAMC @F500022@
 2 PEDI birth
 1 CHAN
 2 DATE 2 FEB 2020
 3 TIME 22:53:44
 0 @I500089@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Joachim /Hajduk/
+2 GIVN Joachim
+2 SURN Hajduk
 1 SEX M
+1 FACT MH:I500089
+2 TYPE RIN
+1 _UID 5D2913CB2E9A5095F79D0B6CEACD8770
 1 FAMC @F500022@
 2 PEDI birth
 1 CHAN
@@ -11770,10 +11931,16 @@
 2 DATE 1 FEB 2020
 3 TIME 16:25:34
 0 @I500108@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Wanda //
+2 GIVN Wanda
+1 NAME Wanda /Podsiadło/
+2 TYPE married
+2 GIVN Wanda
+2 SURN Podsiadło
 1 SEX F
+1 FACT MH:I500108
+2 TYPE RIN
+1 _UID 5DBC6715C711458829113BF969DC8983
 1 FAMS @F0073@
 1 CHAN
 2 DATE 1 FEB 2020
@@ -11817,11 +11984,10 @@
 2 DATE 1 FEB 2020
 3 TIME 16:25:33
 0 @I500113@ INDI
-1 NAME  //
+1 NAME [Private] /[Private]/
+2 GIVN [Private]
+2 SURN [Private]
 1 SEX F
-1 FACT MH:I500113
-2 TYPE RIN
-1 _UID 5DBC67C51C80BFCFD641AF257ABE8CF6
 1 FAMS @F0069@
 1 CHAN
 2 DATE 1 FEB 2020
@@ -12132,10 +12298,12 @@
 2 DATE 2 FEB 2020
 3 TIME 22:54:06
 0 @I500140@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME  /Cichoń/
+2 SURN Cichoń
 1 SEX M
+1 FACT MH:I500140
+2 TYPE RIN
+1 _UID 5DBD7C761607D45BF582B1A10A809A87
 1 FAMS @F500047@
 1 CHAN
 2 DATE 2 FEB 2020
@@ -12634,8 +12802,8 @@
 2 PEDI birth
 1 FAMS @F500059@
 1 CHAN
-2 DATE 7 OCT 2020
-3 TIME 19:23:39
+2 DATE 31 OCT 2022
+3 TIME 21:42:51
 0 @I500166@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -12781,10 +12949,13 @@
 2 DATE 3 MAY 2020
 3 TIME 18:41:22
 0 @I500175@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Max /Magiera/
+2 GIVN Max
+2 SURN Magiera
 1 SEX M
+1 FACT MH:I500175
+2 TYPE RIN
+1 _UID 5E14F86FE3F43FD1E9F47E1F6134C127
 1 FAMC @F500061@
 2 PEDI birth
 1 FAMS @F500062@
@@ -12803,39 +12974,51 @@
 2 DATE 2 FEB 2020
 3 TIME 22:54:32
 0 @I500177@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Maria //
+2 GIVN Maria
+1 NAME Maria /Magiera/
+2 TYPE married
+2 GIVN Maria
+2 SURN Magiera
 1 SEX F
+1 FACT MH:I500177
+2 TYPE RIN
+1 _UID 5E14F94B35E65481640E424374E77DE9
 1 FAMS @F500062@
 1 CHAN
 2 DATE 2 FEB 2020
 3 TIME 22:54:32
 0 @I500178@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME  /Magiera/
+2 SURN Magiera
 1 SEX M
+1 FACT MH:I500178
+2 TYPE RIN
+1 _UID 5E14F98D40ABD6191AC01238A1366E0B
 1 FAMC @F500062@
 2 PEDI birth
 1 CHAN
 2 DATE 2 FEB 2020
 3 TIME 22:54:33
 0 @I500179@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME  /Magiera/
+2 SURN Magiera
 1 SEX M
+1 FACT MH:I500179
+2 TYPE RIN
+1 _UID 5E14F99BC6EAA7F0ECFF3B7E76B409F6
 1 FAMC @F500062@
 2 PEDI birth
 1 CHAN
 2 DATE 2 FEB 2020
 3 TIME 22:54:34
 0 @I500180@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME  /Magiera/
+2 SURN Magiera
 1 SEX F
+1 FACT MH:I500180
+2 TYPE RIN
+1 _UID 5E14F9AAEF272EFF1B28D253A04720A2
 1 FAMC @F500062@
 2 PEDI birth
 1 CHAN
@@ -12959,7 +13142,7 @@
 2 SURN Umlauf
 1 SEX M
 1 BIRT
-2 DATE EST FROM 1910 TO 1911
+2 DATE FROM 1910 TO 1911
 1 FACT MH:I500186
 2 TYPE RIN
 1 _UID 5E150033BF1A4E94BAE6471D4712CBDF
@@ -13394,10 +13577,12 @@
 2 DATE 2 FEB 2020
 3 TIME 22:54:53
 0 @I500213@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME  /Kalteis/
+2 SURN Kalteis
 1 SEX M
+1 FACT MH:I500213
+2 TYPE RIN
+1 _UID 5E1513D5945B99CF084FDFA9816F1E53
 1 FAMC @F500072@
 2 PEDI birth
 1 CHAN
@@ -13723,6 +13908,11 @@
 4 DATE about 1933
 3 OBJE @O0488@
 3 OBJE @O0489@
+2 SOUR @S0248@
+3 PAGE Huńka Eugenia - akt zgonu; wpis nr 415
+3 DATA
+4 DATE 19 MAR 1949
+3 OBJE @O0696@
 1 FAMC @F0239@
 2 PEDI birth
 1 FAMS @F500078@
@@ -13749,13 +13939,18 @@
 2 DATA
 3 DATE 6 FEB 1951
 2 OBJE @O0676@
+1 SOUR @S0248@
+2 PAGE Huńka Eugenia - akt zgonu; wpis nr 415
+2 DATA
+3 DATE 19 MAR 1949
+2 OBJE @O0696@
 1 OBJE @O0576@
 1 OBJE @O0578@
 1 OBJE @O0582@
 1 OBJE @O0584@
 1 CHAN
-2 DATE 19 JUN 2022
-3 TIME 10:40:22
+2 DATE 31 OCT 2022
+3 TIME 20:56:01
 0 @I500231@ INDI
 1 NAME Eugenia /Mamaryna/
 2 GIVN Eugenia
@@ -13770,12 +13965,12 @@
 1 SEX F
 1 BIRT
 2 DATE 21 DEC 1897
-2 PLAC Omsk, Rosja
+2 PLAC Barnauł, Kraj Ałtajski, Rosja
 3 MAP
-4 LATI N54.983333
-4 LONG E73.366667
+4 LATI N53.333333
+4 LONG E83.75
 2 ADDR
-3 CITY Omsk
+3 CITY Barnauł
 3 CTRY Rosja
 2 SOUR @S0000@
 3 PAGE Karta nr 317 - Huńka Ryszard
@@ -13786,10 +13981,24 @@
 2 SOUR @S0229@
 3 QUAY 2
 2 SOUR @S0233@
+2 SOUR @S0248@
+3 PAGE Huńka Eugenia - akt zgonu; wpis nr 415
+3 DATA
+4 DATE 19 MAR 1949
+3 OBJE @O0696@
 1 DEAT
-2 TYPE prawdopodobnie zmarła w szpitalu (tam przyjęła ostatnie namaszczenie)
+2 TYPE zmarła w szpitalu (tam też przyjęła ostatnie namaszczenie)
 2 DATE 17 MAR 1949
+2 PLAC Bytom, Polska
+2 ADDR
+3 CITY Bytom
+3 CTRY Polska
 2 SOUR @S0233@
+2 SOUR @S0248@
+3 PAGE Huńka Eugenia - akt zgonu; wpis nr 415
+3 DATA
+4 DATE 19 MAR 1949
+3 OBJE @O0696@
 1 _MDCL
 2 TYPE Zachorowała na zapalenie stawów
 2 DATE 1939
@@ -13803,6 +14012,8 @@
 2 SOUR @S0229@
 3 QUAY 2
 1 NATI rosyjska
+1 FAMC @F0295@
+2 PEDI birth
 1 FAMS @F500078@
 1 SOUR @S0000@
 2 QUAY 0
@@ -13818,10 +14029,15 @@
 3 DATE 6 FEB 1951
 2 OBJE @O0676@
 1 SOUR @S0233@
+1 SOUR @S0248@
+2 PAGE Huńka Eugenia - akt zgonu; wpis nr 415
+2 DATA
+3 DATE 19 MAR 1949
+2 OBJE @O0696@
 1 OBJE @O0578@
 1 CHAN
-2 DATE 21 JUN 2022
-3 TIME 21:21:14
+2 DATE 31 OCT 2022
+3 TIME 20:54:15
 0 @I500232@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -14106,11 +14322,10 @@
 2 DATE 1 FEB 2020
 3 TIME 16:24:46
 0 @I500243@ INDI
-1 NAME  //
+1 NAME [Private] /[Private]/
+2 GIVN [Private]
+2 SURN [Private]
 1 SEX F
-1 FACT MH:I500243
-2 TYPE RIN
-1 _UID 5E23499A2B276FE207A58D49A9E18863
 1 FAMS @F500082@
 1 CHAN
 2 DATE 1 FEB 2020
@@ -16537,6 +16752,13 @@
 1 CHAN
 2 DATE 20 JUN 2022
 3 TIME 16:57:09
+0 @F0295@ FAM
+1 HUSB @I0532@
+1 WIFE @I0533@
+1 CHIL @I500231@
+1 CHAN
+2 DATE 31 OCT 2022
+3 TIME 20:54:15
 0 @F500004@ FAM
 1 HUSB @I500013@
 1 WIFE @I500012@
@@ -17401,6 +17623,8 @@
 1 HUSB @I500230@
 1 WIFE @I500231@
 1 MARR
+2 TYPE Według aktu zgonu Eugenii, ślub brany we Lwowie: Urz. Parafialny, tom XI
+3 CONC V pag 113 916/19
 2 DATE 1 FEB 1920
 2 PLAC Omsk, Rosja
 3 MAP
@@ -17417,14 +17641,16 @@
 3 DATA
 4 DATE 6 FEB 1951
 3 OBJE @O0676@
-1 FACT MH:F500078
-2 TYPE RIN
-1 _UID 5E07DD5B12A3EF676E847C4B9FCB5EC8
+2 SOUR @S0248@
+3 PAGE Huńka Eugenia - akt zgonu; wpis nr 415
+3 DATA
+4 DATE 19 MAR 1949
+3 OBJE @O0696@
 1 CHIL @I0089@
 1 CHIL @I0415@
 1 CHAN
-2 DATE 18 JUN 2022
-3 TIME 05:25:58
+2 DATE 31 OCT 2022
+3 TIME 21:01:11
 0 @F500079@ FAM
 1 HUSB @I0346@
 1 WIFE @I0347@
@@ -17447,7 +17673,7 @@
 0 @F500081@ FAM
 1 HUSB @I500239@
 1 WIFE @I500240@
-1 MARC
+1 MARR
 2 DATE 10 NOV 1877
 2 PLAC Knyszyn, Polska
 3 MAP
@@ -18249,12 +18475,12 @@
 2 DATE 23 OCT 2020
 3 TIME 17:53:27
 0 @S0135@ SOUR
-1 TITL Księga małżeństw
+1 TITL Odpis skrócony aktu małżeństwa Moczygemba Werner, Poloczek Beata
 1 AUTH USC w Kędzierzynie-Koźlu
-1 REPO @R0005@
+1 OBJE @O0505@
 1 CHAN
-2 DATE 23 OCT 2020
-3 TIME 20:18:16
+2 DATE 17 AUG 2022
+3 TIME 16:47:53
 0 @S0136@ SOUR
 1 TITL Akta urodzeń, zgonów i małżeństw 1866
 1 AUTH Parafia Rzymskokatolicka Kije
@@ -18542,8 +18768,8 @@
 1 OBJE @O0568@
 1 REPO @R0030@
 1 CHAN
-2 DATE 3 JUL 2021
-3 TIME 18:24:25
+2 DATE 17 AUG 2022
+3 TIME 17:06:24
 0 @S0179@ SOUR
 1 TITL Moczygemba Augustyn - wyciąg z aktu zgonu
 1 OBJE @O0567@
@@ -18932,6 +19158,81 @@
 1 CHAN
 2 DATE 21 JUN 2022
 3 TIME 21:19:42
+0 @S0235@ SOUR
+1 TITL Książeczka Stanu Cywilnego Moczygemba Werner, Poloczek Beata
+1 AUTH USC w Kędzierzynie
+1 OBJE @O0504@
+1 CHAN
+2 DATE 17 AUG 2022
+3 TIME 16:46:34
+0 @S0236@ SOUR
+1 TITL Odpis zupełny aktu urodzenia Mirecki Bernard
+1 AUTH USC Rybnik
+1 CHAN
+2 DATE 17 AUG 2022
+3 TIME 16:51:18
+0 @S0238@ SOUR
+1 TITL Wywiad - Mirecki Andrzej
+1 AUTH Anna Korotusz-Mirecka
+1 CHAN
+2 DATE 21 AUG 2022
+3 TIME 19:49:35
+0 @S0242@ SOUR
+1 TITL Odpis aktu urodzenia - Poloczek Beata (Geburtsurkunde)
+1 OBJE @O0686@
+1 CHAN
+2 DATE 22 AUG 2022
+3 TIME 19:31:14
+0 @S0243@ SOUR
+1 TITL Świadectwo dojrzałości - technikum - Poloczek Beata
+1 OBJE @O0687@
+1 CHAN
+2 DATE 22 AUG 2022
+3 TIME 19:32:33
+0 @S0244@ SOUR
+1 TITL Świadectwo dojrzałości - liceum - Poloczek Beata
+1 OBJE @O0688@
+1 CHAN
+2 DATE 22 AUG 2022
+3 TIME 19:33:28
+0 @S0245@ SOUR
+1 TITL Mirecki Werner - odpisy aktów urodzenia na przestrzeni lat
+1 AUTH Mirecki Andrzej
+1 OBJE @O0689@
+1 CHAN
+2 DATE 22 AUG 2022
+3 TIME 19:48:45
+0 @S0246@ SOUR
+1 TITL Moczygemba Augustyn - dowód osobisty
+1 OBJE @O0695@
+1 CHAN
+2 DATE 25 AUG 2022
+3 TIME 15:16:53
+0 @S0247@ SOUR
+1 TITL Skrócony odpis aku urodzenia - Mirecki Andrzej
+1 AUTH USC Kędzierzyn
+1 CHAN
+2 DATE 25 AUG 2022
+3 TIME 15:23:37
+0 @S0248@ SOUR
+1 TITL Księga zgonów 1949 Bytom
+1 AUTH Urząd Stanu Cywilnego Bytom
+1 REPO @R0036@
+1 CHAN
+2 DATE 31 OCT 2022
+3 TIME 21:07:48
+0 @S0249@ SOUR
+1 TITL Poloczek Aniela - nagrobek
+1 OBJE @O0697@
+1 CHAN
+2 DATE 31 OCT 2022
+3 TIME 21:58:06
+0 @S0250@ SOUR
+1 TITL Moczygemba Augustyn, Solorz Luiza - nagrobek
+1 OBJE @O0698@
+1 CHAN
+2 DATE 31 OCT 2022
+3 TIME 22:01:35
 0 @S500001@ SOUR
 1 TITL Brylewski Web Site
 1 AUTH Grzegorz Brylewski
@@ -22442,15 +22743,15 @@
 2 FORM png
 2 TITL moczygemba-werner__poloczek-beata__akt-malzenstwa__zupelny
 1 CHAN
-2 DATE 23 OCT 2020
-3 TIME 20:16:38
+2 DATE 17 AUG 2022
+3 TIME 16:46:31
 0 @O0505@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/sources/Moczygemba__Poloczek/moczygemba-werner__mirecka-beata__akt-malzenstwa__skrocony.png
 2 FORM png
 2 TITL moczygemba-werner__mirecka-beata__akt-malzenstwa__skrocony
 1 CHAN
-2 DATE 23 OCT 2020
-3 TIME 20:16:46
+2 DATE 17 AUG 2022
+3 TIME 16:47:52
 0 @O0506@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/sources/Jakubczyk__Suchanek/suchanek-waleria__akt-urodzenia.JPG
 2 FORM JPG
@@ -23724,4 +24025,151 @@
 1 CHAN
 2 DATE 20 JUN 2022
 3 TIME 16:34:51
+0 @O0678@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Moczygemba__Solorz/augustyn_moczygemba__myheritage_enhanced.jpeg
+2 FORM jpeg
+2 TITL augustyn_moczygemba__myheritage_enhanced
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 05:59:39
+0 @O0679@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Moczygemba__Solorz/solorz_luiza__myheritage_enhanced.jpeg
+2 FORM jpeg
+2 TITL solorz_luiza__myheritage_enhanced
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 06:05:38
+0 @O0680@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Durschlag__Solorz/juliusz_solorz__myheritage_enhanced.jpeg
+2 FORM jpeg
+2 TITL juliusz_solorz__myheritage_enhanced
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 06:09:56
+0 @O0681@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Moczygemba__Solorz/moczygemba-augustyn.jpeg
+2 FORM jpeg
+2 TITL moczygemba-augustyn
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 06:11:46
+0 @O0682@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Durschlag__Solorz/krystyna_durschlag__enhanced.jpeg
+2 FORM jpeg
+2 TITL krystyna_durschlag__enhanced
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 06:25:14
+0 @O0683@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Moczygemba__Solorz/solorz-luiza__enhanced.png
+2 FORM png
+2 TITL solorz-luiza__enhanced
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 06:31:16
+0 @O0684@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Moczygemba__Solorz/solorz_luiza__2.jpeg
+2 FORM jpeg
+2 TITL solorz_luiza__2
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 06:38:37
+0 @O0685@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Durschlag__Solorz/krystyna_durschlag.jpeg
+2 FORM jpeg
+2 TITL krystyna_durschlag
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 06:40:16
+0 @O0686@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Poloczek__Wincek/poloczek-beata__odpis-aktu-urodzenia-1942.pdf
+2 FORM pdf
+2 TITL poloczek-beata__odpis-aktu-urodzenia-1942
+1 CHAN
+2 DATE 22 AUG 2022
+3 TIME 19:31:12
+0 @O0687@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Poloczek__Wincek/poloczek-beata__swiadectwo-dojrzalosci-technikum.pdf
+2 FORM pdf
+2 TITL poloczek-beata__swiadectwo-dojrzalosci-technikum
+1 CHAN
+2 DATE 22 AUG 2022
+3 TIME 19:31:55
+0 @O0688@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Poloczek__Wincek/poloczek-beata__swiadectwo-dojrzalosci-liceum.pdf
+2 FORM pdf
+2 TITL poloczek-beata__swiadectwo-dojrzalosci-liceum
+1 CHAN
+2 DATE 22 AUG 2022
+3 TIME 19:33:26
+0 @O0689@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Moczygemba__Poloczek/Odpisy-aktów-urodzenia-Wernera-Michała-Mireckiego-na-przełomie-lat.pdf
+2 FORM pdf
+2 TITL Odpisy-aktów-urodzenia-Wernera-Michała-Mireckiego-na-przełomie-lat
+1 CHAN
+2 DATE 22 AUG 2022
+3 TIME 19:48:10
+0 @O0690@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Moczygemba__Poloczek/mirecki-andrzej__wywiad.mp4
+2 FORM mp4
+2 TITL mirecki-andrzej__wywiad
+1 CHAN
+2 DATE 22 AUG 2022
+3 TIME 20:17:11
+0 @O0691@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Mirecki__Suchanek/mirecki-waldemar__wywiad.mp4
+2 FORM mp4
+2 TITL mirecki-waldemar__wywiad
+1 CHAN
+2 DATE 22 AUG 2022
+3 TIME 20:18:14
+0 @O0692@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Huńka__Suchanek/hunka-krystyna__wywiad-czesc-1.mp4
+2 FORM mp4
+2 TITL hunka-krystyna__wywiad-czesc-1
+1 CHAN
+2 DATE 22 AUG 2022
+3 TIME 20:26:47
+0 @O0693@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Huńka__Suchanek/hunka-krystyna__wywiad-czesc-2.mp4
+2 FORM mp4
+2 TITL hunka-krystyna__wywiad-czesc-2
+1 CHAN
+2 DATE 22 AUG 2022
+3 TIME 20:26:51
+0 @O0694@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Huńka__Suchanek/hunka-krystyna__wywiad-czesc-3.mp4
+2 FORM mp4
+2 TITL hunka-krystyna__wywiad-czesc-3
+1 CHAN
+2 DATE 22 AUG 2022
+3 TIME 20:26:55
+0 @O0695@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Moczygemba__Solorz/moczygemba-augustyn__dowod-osobisty.jpg
+2 FORM jpg
+2 TITL moczygemba-augustyn__dowod-osobisty
+1 CHAN
+2 DATE 25 AUG 2022
+3 TIME 15:16:45
+0 @O0696@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Hamaryn__Huńka/hunka-eugenia__akt-zgonu.jpg
+2 FORM jpg
+2 TITL hunka-eugenia__akt-zgonu
+1 CHAN
+2 DATE 31 OCT 2022
+3 TIME 21:07:38
+0 @O0697@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Halama__Poloczek/poloczek-aniela__nagrobek.jpg
+2 FORM jpg
+2 TITL poloczek-aniela__nagrobek
+1 CHAN
+2 DATE 31 OCT 2022
+3 TIME 21:58:04
+0 @O0698@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Moczygemba__Solorz/moczygemba-augustyn__solorz-luiza__nagrobek.jpg
+2 FORM jpg
+2 TITL moczygemba-augustyn__solorz-luiza__nagrobek
+1 CHAN
+2 DATE 31 OCT 2022
+3 TIME 22:01:33
 0 TRLR

@@ -34,9 +34,9 @@ ppl/5/2/e5e47fa4f952edb383bac559625.html|[Private]|[Private] /[Private]/|||||
 ppl/1/0/e5e47fa4fdb4026f613a6b19401.html|[Private]|[Private] /[Private]/|||||
 ppl/5/f/e5e47fa504861c33ec7b42ebcf5.html|[Private]|[Private] /[Private]/|||||
 ppl/2/6/e5e47fa5084742ed00cb26b1862.html|[Private]|[Private] /[Private]/|||||
-ppl/d/0/e5e47fa50fc4d1d3e556f27b80d.html|[Private]|[Private] /[Private]/|||||
-ppl/b/4/e5e47fa511a12857b7b2e9f504b.html|[Private]|[Private] /[Private]/|||||
-ppl/1/a/e5e47fa514242644fda9710aaa1.html|[Private]|[Private] /[Private]/|||||
+ppl/d/0/e5e47fa50fc4d1d3e556f27b80d.html|Matuszczyk|Jolanta /Matuszczyk/|||||
+ppl/b/4/e5e47fa511a12857b7b2e9f504b.html|Matuszczyk|Bartosz /Matuszczyk/|||||
+ppl/1/a/e5e47fa514242644fda9710aaa1.html|| //|||||
 ppl/3/6/e5e47fa516a2b38b16e34f0b563.html|Kolorz|Piotr Krzysztof /Kolorz/|||||
 ppl/0/e/e5e47fa51a61a0408a20155b1e0.html|[Private]|[Private] /[Private]/|||||
 ppl/2/a/e5e47fa523c648aca966aed68a2.html|[Private]|[Private] /[Private]/|||||
@@ -51,11 +51,11 @@ ppl/c/7/e5e47fa558e7ef87d6c33ab67c.html|[Private]|[Private] /[Private]/|||||
 ppl/3/4/e5e47fa562f6cb46888a4de8843.html|Wincek|Ernestyna Elżbieta /Wincek/|4 NOV 1900|Nowy Bytom, Ruda Śląska, Polska|||
 ppl/0/5/e5e47fa56e2529e4875a96e8a50.html|Wincek|Maria /Wincek/ Mitza|||||
 ppl/7/9/e5e47fa57285e97471f64d34d97.html|Kubica|Franciszek /Kubica/ Franz|||||
-ppl/b/8/e5e47fa57963e963fce16da268b.html|[Private]|[Private] /[Private]/|||||
+ppl/b/8/e5e47fa57963e963fce16da268b.html|Kubica|Bernard /Kubica/ Bernd|||||
 ppl/d/e/e5e47fa57d23b76b3344c418ed.html|Wincek|Aniela /Wincek/ Gela|||||
 ppl/d/b/e5e47fa585e22780a8465d297bd.html|Schaeffer|Pawel /Schaeffer/ Paul|||||
 ppl/8/3/e5e47fa589a4d4558c074b2a738.html|Wincek|Helena /Wincek/|5 JAN 1907||||
-ppl/1/2/e5e47fa58e037f11f5754dbda21.html|Bara|Leon /Bara/|||||
+ppl/1/2/e5e47fa58e037f11f5754dbda21.html|Bara|Leon /Bara/|ABT 1902|Nowy Bytom, Ruda Śląska, Polska|22 DEC 1995|Ruda Śląska, Polska|
 ppl/7/5/e5e47fa59456229f15ef4d43c57.html|Brysch|Josef /Brysch/|||||
 ppl/0/8/e5e47fa59945621bce301066880.html|Brysch|Brygida /Brysch/|||||
 ppl/b/6/e5e47fa59d06cf7f4444fd6216b.html|Polloczek|Johann /Polloczek/|25 JUL 1873|Wirek, Ruda Śląska, Polska|BET 1906 AND 1934||
@@ -107,23 +107,23 @@ ppl/2/c/e5e47fa681c3153efbe75372fc2.html|Bek|Józef /Bek/|15 SEP 1905||||
 ppl/d/3/e5e47fa684e236766d85422f73d.html|[Private]|[Private] /[Private]/|||||
 ppl/d/d/e5e47fa68d0679165a214dc5add.html|[Private]|[Private] /[Private]/|||||
 ppl/b/b/e5e47fa690c730830542430d3bb.html|[Private]|[Private] /[Private]/|||||
-ppl/4/6/e5e47fa696f9b5b05429341764.html|[Private]|[Private] /[Private]/|||||
+ppl/4/6/e5e47fa696f9b5b05429341764.html|Jednicki|Paweł /Jednicki/|||||
 ppl/5/4/e5e47fa698d33e74840acff4b45.html|[Private]|[Private] /[Private]/|||||
 ppl/c/9/e5e47fa69b51d7b3d9ca83d5c9c.html|[Private]|[Private] /[Private]/|||||
 ppl/1/8/e5e47fa6a3740bc7bf2da92f281.html|[Private]|[Private] /[Private]/|||||
 ppl/6/7/e5e47fa6a6967edc14c992d4676.html|[Private]|[Private] /[Private]/|||||
 ppl/5/4/e5e47fa6a877ca0cfcb0b134945.html|Schaeffer|Urszula /Schaeffer/|||||
 ppl/4/b/e5e47fa6ab9d335f4808763db4.html|Schaeffer|Ewa /Schaeffer/|||||
-ppl/d/2/e5e47fa6b3b60a3bd218569dc2d.html|[Private]|[Private] /[Private]/|||||
-ppl/c/5/e5e47fa6b4f11fef697b73dad5c.html|[Private]|[Private] /[Private]/|||||
+ppl/d/2/e5e47fa6b3b60a3bd218569dc2d.html|Hajduk| /Hajduk/|||||
+ppl/c/5/e5e47fa6b4f11fef697b73dad5c.html|Urbański|Ryszard /Urbański/|||||
 ppl/5/b/e5e47fa6bc875c647de70c9eb5.html|[Private]|[Private] /[Private]/|||||
 ppl/5/d/e5e47fa6c0431d198e4ecd7e3d5.html|[Private]|[Private] /[Private]/|||||
 ppl/f/6/e5e47fa6c71afcf93453523b6f.html|[Private]|[Private] /[Private]/|||||
-ppl/f/d/e5e47fa6cb7541c9a324a77cbdf.html|[Private]|[Private] /[Private]/|||||
+ppl/f/d/e5e47fa6cb7541c9a324a77cbdf.html|Hajduk|Piotr /Hajduk/|||||
 ppl/7/9/e5e47fa6cd5543dbb565d0c8a97.html|[Private]|[Private] /[Private]/|||||
 ppl/8/d/e5e47fa6d4d770824f32be949d8.html|[Private]|[Private] /[Private]/|||||
 ppl/a/4/e5e47fa6d7f2ed75506729e054a.html|[Private]|[Private] /[Private]/|||||
-ppl/b/3/e5e47fa6de372c556dd217ca23b.html|[Private]|[Private] /[Private]/|||||
+ppl/b/3/e5e47fa6de372c556dd217ca23b.html|Zawistowski|Adam /Zawistowski/|||||
 ppl/9/7/e5e47fa6e1f1ef327ada9021679.html|[Private]|[Private] /[Private]/|||||
 ppl/5/6/e5e47fa6e475e049adf4c4e9565.html|[Private]|[Private] /[Private]/|||||
 ppl/a/e/e5e47fa6ed43b68573c32c941ea.html|[Private]|[Private] /[Private]/|||||
@@ -132,8 +132,8 @@ ppl/1/b/e5e47fa6f8859b457b8a1d9e1b1.html|[Private]|[Private] /[Private]/|||||
 ppl/7/d/e5e47fa6fbb6a3bcf6083e359d7.html|[Private]|[Private] /[Private]/|||||
 ppl/5/d/e5e47fa703674019abf93b0a0d5.html|[Private]|[Private] /[Private]/|||||
 ppl/0/2/e5e47fa705e7842f0ec053e1d20.html|[Private]|[Private] /[Private]/|||||
-ppl/e/e/e5e47fa70cc2cebf6ff870824ee.html|[Private]|[Private] /[Private]/|||||
-ppl/0/1/e5e47fa70ea4cb9d9f695442e10.html|[Private]|[Private] /[Private]/|||||
+ppl/e/e/e5e47fa70cc2cebf6ff870824ee.html|Hajduk|Bernard /Hajduk/|||||
+ppl/0/1/e5e47fa70ea4cb9d9f695442e10.html|Hajduk|Joachim /Hajduk/|||||
 ppl/5/e/e5e47fa71084848a8cd4f7382e5.html|[Private]|[Private] /[Private]/|||||
 ppl/e/e/e5e47fa71445932e51b4a515fee.html|[Private]|[Private] /[Private]/|||||
 ppl/7/f/e5e47fa71a216bc43d7159329f7.html|[Private]|[Private] /[Private]/|||||
@@ -165,7 +165,7 @@ ppl/a/c/e5e47fa77936b7a6bf0debbcaca.html|[Private]|[Private] /[Private]/|||||
 ppl/7/8/e5e47fa77bb3479cab96a402d87.html|[Private]|[Private] /[Private]/|||||
 ppl/0/0/e5e47fa77d977a23c3484439b00.html|[Private]|[Private] /[Private]/|||||
 ppl/c/2/e5e47fa78151c50de891f25da2c.html|[Private]|[Private] /[Private]/|||||
-ppl/f/b/e5e47fa783d22c14f2ce0859abf.html|[Private]|[Private] /[Private]/|||||
+ppl/f/b/e5e47fa783d22c14f2ce0859abf.html|Cichoń| /Cichoń/|||||
 ppl/b/f/e5e47fa78983955ee68398d03fb.html|[Private]|[Private] /[Private]/|||||
 ppl/8/7/e5e47fa78c04b06c354aaa21578.html|[Private]|[Private] /[Private]/|||||
 ppl/e/0/e5e47fa78de3f55e5fdb94b360e.html|Bienia|Piotr /Bienia/|||||
@@ -200,12 +200,12 @@ ppl/0/4/e5e47fa7f8d15cd444dd8351240.html|Moczygemba| /Moczygemba/|||||
 ppl/4/f/e5e47fa7faa15261e189d5bc9f4.html|Moczygemba|Anton lub Alfred lub Alois lub Alfons /Moczygemba/|||||
 ppl/2/2/e5e47fa7fbe545357e976d0df22.html|Moczygemba| /Moczygemba/|||||
 ppl/f/b/e5e47fa7fdc31d13479feb59fbf.html|Chruszcz|Polde (od Leopolde?) /Chruszcz/ Tante|||||
-ppl/9/1/e5e47fa8018611046151aa16219.html|[Private]|[Private] /[Private]/|||||
+ppl/9/1/e5e47fa8018611046151aa16219.html|Magiera|Max /Magiera/|||||
 ppl/4/0/e5e47fa8036bf1720486594604.html|Magiera| /Magiera/|||||
-ppl/7/3/e5e47fa809b61963de31382c437.html|[Private]|[Private] /[Private]/|||||
-ppl/f/7/e5e47fa80af46a3ec772bc5b27f.html|[Private]|[Private] /[Private]/|||||
-ppl/6/4/e5e47fa80cd7b5d96e49fd9e046.html|[Private]|[Private] /[Private]/|||||
-ppl/5/f/e5e47fa80eb1ceefae7c82bcff5.html|[Private]|[Private] /[Private]/|||||
+ppl/7/3/e5e47fa809b61963de31382c437.html||Maria //|||||
+ppl/f/7/e5e47fa80af46a3ec772bc5b27f.html|Magiera| /Magiera/|||||
+ppl/6/4/e5e47fa80cd7b5d96e49fd9e046.html|Magiera| /Magiera/|||||
+ppl/5/f/e5e47fa80eb1ceefae7c82bcff5.html|Magiera| /Magiera/|||||
 ppl/d/d/e5e47fa81094f235d0b5c60fcdd.html|Durschlag|August /Durschlag/|25 AUG 1832|Rybnik, Polska|||
 ppl/0/6/e5e47fa8130cb044bb97197760.html|Malharczyk|Louise Franzisca /Malharczyk/|24 OCT 1836|Rybnik, Polska|||
 ppl/e/c/e5e47fa81943e1a75a34e9fa3ce.html|Solorz|August /Solorz/|1888||1918||
@@ -220,7 +220,7 @@ ppl/1/9/e5e47fa82f219f72965365ce91.html|Solorz|Albert /Solorz/|1895||1896||
 ppl/8/c/e5e47fa831a6cae74a4c10768c8.html|Aust|Georg /Aust/|||||
 ppl/8/1/e5e47fa837e272e878eaea08318.html|[Private]|[Private] /[Private]/|||||
 ppl/c/9/e5e47fa839c50894a40f3ba149c.html|[Private]|[Private] /[Private]/|||||
-ppl/7/0/e5e47fa83c412469f3eabc1607.html|[Private]|[Private] /[Private]/|||||
+ppl/7/0/e5e47fa83c412469f3eabc1607.html|Jürgens| /Jürgens/|||||
 ppl/f/6/e5e47fa83d857acd1ce8f3fcd6f.html|[Private]|[Private] /[Private]/|||||
 ppl/9/3/e5e47fa83f647d3bf857c72f939.html|Böhm|Georg /Böhm/|||||
 ppl/2/9/e5e47fa8414ff86e02e4d6f892.html|Böhm|Ruth /Böhm/|29 AUG 1920|Zabrze, Polska|||
@@ -229,18 +229,18 @@ ppl/8/8/e5e47fa84a03fc3a36da446d188.html|[Private]|[Private] /[Private]/|||||
 ppl/a/4/e5e47fa84be47e6593318ccd14a.html|Böhm|Lieselotte /Böhm/|||||
 ppl/9/5/e5e47fa84dc63915332fb775959.html|Solorz|Adelheid /Solorz/|1900||||
 ppl/f/9/e5e47fa8504fb140492ac0219f.html|Schmidt|Franz /Schmidt/|||||
-ppl/6/9/e5e47fa855457e3a15e57fff296.html|[Private]|[Private] /[Private]/|||||
+ppl/6/9/e5e47fa855457e3a15e57fff296.html|Schmidt|Christine /Schmidt/|||||
 ppl/4/5/e5e47fa857230c4349daf7ad954.html|[Private]|[Private] /[Private]/|||||
 ppl/a/6/e5e47fa85ae55affb7fb01f196a.html|Pietsch|Wolfgang /Pietsch/|||||
 ppl/0/0/e5e47fa85d6271dc65dcaa45200.html|Schmidt|Edeltraud /Schmidt/|||||
-ppl/2/e/e5e47fa85fe2eba70decda1e0e2.html|[Private]|[Private] /[Private]/|||||
-ppl/d/6/e5e47fa867526c7ed89042e106d.html|[Private]|[Private] /[Private]/|||||
+ppl/2/e/e5e47fa85fe2eba70decda1e0e2.html|Kalteis|Willi /Kalteis/|||||
+ppl/d/6/e5e47fa867526c7ed89042e106d.html|Kalteis| /Kalteis/|||||
 ppl/e/f/e5e47fa86931e2b6d8aef821dfe.html|Solorz|Albert /Solorz/|||||
 ppl/c/3/e5e47fa86bb235ce33633df4b3c.html|Buchalik|Louise /Buchalik/|||||
 ppl/b/a/e5e47fa86d93839196177b34bab.html|Solorz|Ryszard /Solorz/|||||
 ppl/8/f/e5e47fa86f710680279b22d82f8.html|Solorz|Emil Julius /Solorz/|1901||1901||
 ppl/9/4/e5e47fa87662eb1822fff0ed349.html|[Private]|[Private] /[Private]/|||||
-ppl/9/4/e5e47fa87844780a5895ab58049.html|[Private]|[Private] /[Private]/|||||
+ppl/9/4/e5e47fa87844780a5895ab58049.html|Solorz|Barbara /Solorz/|||||
 ppl/1/8/e5e47fa87987048d4d533d93c81.html|Solorz|Lutzian /Solorz/|||||
 ppl/e/6/e5e4936c07e7884a936c70ab16e.html|[Private]|[Private] /[Private]/|||||
 ppl/b/c/e5e4936c1096e5498847d4789cb.html|[Private]|[Private] /[Private]/|||||
@@ -274,12 +274,12 @@ ppl/1/6/e5e4936cd5e71c6db624ea6cf61.html|[Private]|[Private] /[Private]/|||||
 ppl/b/0/e5e4936cd7c63505411d63b40b.html||Maria //|||||
 ppl/d/b/e5e4936cd9017abbca73170a1bd.html|[Private]|[Private] /[Private]/|||||
 ppl/3/1/e5e4936cda434548731355ccc13.html|[Private]|[Private] /[Private]/|||||
-ppl/a/1/e5e4936cdfe63bff54601549b1a.html|[Private]|[Private] /[Private]/|||||
+ppl/a/1/e5e4936cdfe63bff54601549b1a.html||Wanda //|||||
 ppl/6/c/e5e4936ce12781094c2bc5f1ec6.html|[Private]|[Private] /[Private]/|||||
 ppl/8/0/e5e4936ce2651122f387cd25c08.html|[Private]|[Private] /[Private]/|||||
-ppl/2/2/e5e4936ce3a57c12a0f09c38a22.html|[Private]|[Private] /[Private]/|||||
+ppl/2/2/e5e4936ce3a57c12a0f09c38a22.html||Tadeusz //|||||
 ppl/1/0/e5e4936ce4462ddfedb9bb5d801.html|[Private]|[Private] /[Private]/|||||
-ppl/c/a/e5e4936ce9412ac910508cd9aac.html|| //|||||
+ppl/c/a/e5e4936ce9412ac910508cd9aac.html|[Private]|[Private] /[Private]/|||||
 ppl/5/d/e5e4936ce9e2d60d19c1f9cefd5.html|[Private]|[Private] /[Private]/|||||
 ppl/6/c/e5e4936ceb26126a2887a7878c6.html|[Private]|[Private] /[Private]/|||||
 ppl/d/c/e5e4936cec6eba69f089e9eacd.html|[Private]|[Private] /[Private]/|||||
@@ -333,7 +333,7 @@ ppl/c/f/e5e4936d64e50aa23272cf766fc.html|[Private]|[Private] /[Private]/|||||
 ppl/f/0/e5e4936d662545148efe82da20f.html|[Private]|[Private] /[Private]/|||||
 ppl/8/6/e5e4936d6bc391c8c0dd08a4c68.html|[Private]|[Private] /[Private]/|||||
 ppl/5/7/e5e4936d6ee210e2e0a14084975.html|Huńka|Mieczysław /Huńka/|6 SEP 1896|Lwów, Ukraina|5 FEB 1951|Bytom, Polska|
-ppl/d/2/e5e4936d70255fff87233f49e2d.html|Mamaryna|Eugenia /Mamaryna/|21 DEC 1897|Omsk, Rosja|17 MAR 1949||
+ppl/d/2/e5e4936d70255fff87233f49e2d.html|Mamaryna|Eugenia /Mamaryna/|21 DEC 1897|Barnauł, Kraj Ałtajski, Rosja|17 MAR 1949|Bytom, Polska|
 ppl/8/f/e5e4936d7b55dfe3f35343e0df8.html|Sibiński|Idzi /Sibiński/|2 SEP 1897||||
 ppl/0/d/e5e4936d7d315cd77df781037d0.html|Sibińska| /Sibińska/|||||
 ppl/a/e/e5e4936d7e72ab3258f3265faea.html|[Private]|[Private] /[Private]/|||||
@@ -342,7 +342,7 @@ ppl/f/9/e5e4936d84b45d1a7fbec1ee49f.html|Wentland|Johann Nepomuk /Wentland/|1 MA
 ppl/8/8/e5e4936d85521599040cc0dc88.html|Sklepik|Victoria /Sklepik/|29 NOV 1857|Imbierowo, Zielątkowo, Polska|||
 ppl/a/e/e5e4936d869c8d3e65d474faea.html|Wentladt| /Wentladt/|||||
 ppl/8/3/e5e4936d87d5b842f2792bc3838.html|[Private]|[Private] /[Private]/|||||
-ppl/3/a/e5e4936d8914d4a1a2c92ad20a3.html|| //|||||
+ppl/3/a/e5e4936d8914d4a1a2c92ad20a3.html|[Private]|[Private] /[Private]/|||||
 ppl/0/9/e5e4936d89b60517c7dc5bfe690.html|[Private]|[Private] /[Private]/|||||
 ppl/e/d/e601e869b4943e10d029620c0de.html|[Private]|[Private] /[Private]/|||||
 ppl/c/d/e601e920cbb76d1857773b9cadc.html|[Private]|[Private] /[Private]/|||||
@@ -431,7 +431,7 @@ ppl/1/f/e779f9690a312cbed03122366f1.html|Kopeć|Kazimierz /Kopeć/|2 JUN 1911|||
 ppl/1/9/e779f9690c228a16f3ac5f03b91.html|[Private]|[Private] /[Private]/|||||
 ppl/9/a/e779f9691011581391ae8ccc3a9.html|[Private]|[Private] /[Private]/|||||
 ppl/0/9/e779f9691084c816cfcacd81a90.html|Kopeć|Zygmunt /Kopeć/|||||
-ppl/2/5/e779f96911a79443ea35f335852.html|[Private]|[Private] /[Private]/|||||
+ppl/2/5/e779f96911a79443ea35f335852.html|Kopeć|Krystyna /Kopeć/|||||
 ppl/8/c/e779f969129289bfff99dffc9c8.html|[Private]|[Private] /[Private]/|||||
 ppl/9/f/e779f96914522c8539ad8a017f9.html|[Private]|[Private] /[Private]/|||||
 ppl/5/1/e779f96917f2b31542e81361615.html|[Private]|[Private] /[Private]/|||||
@@ -446,21 +446,21 @@ ppl/e/8/e779f96923b6e9d0bafe370958e.html|Kulik|Jan /Kulik/|16 APR 1898|Piasek Wi
 ppl/2/b/e779f9692521df680389a0a3bb2.html||Maria //|||||
 ppl/0/5/e779f96925d19a6834ea1ed9b50.html|[Private]|[Private] /[Private]/|||||
 ppl/8/9/e779f96926617f3307c67466598.html|[Private]|[Private] /[Private]/|||||
-ppl/4/6/e779f96927370673bc402a42264.html|[Private]|[Private] /[Private]/|||||
+ppl/4/6/e779f96927370673bc402a42264.html|Korotusz|Michał /Korotusz/|||||
 ppl/7/b/e779f969287b28339d876e28b7.html|Korotusz|Walenty /Korotusz/|||||
 ppl/f/9/e779f96929e55e519319355f29f.html|Pawłowicz|Barbara /Pawłowicz/|||||
-ppl/9/0/e779f9692aa69ba30d5f1cd5e09.html|[Private]|[Private] /[Private]/|||||
-ppl/b/6/e779f9692e774eb06f238583a6b.html|[Private]|[Private] /[Private]/|||||
-ppl/9/4/e779f9692f633cf49d49dfd8c49.html|[Private]|[Private] /[Private]/|||||
+ppl/9/0/e779f9692aa69ba30d5f1cd5e09.html|Korotusz|Agnieszka /Korotusz/|||||
+ppl/b/6/e779f9692e774eb06f238583a6b.html|Korotusz|Józef /Korotusz/|||||
+ppl/9/4/e779f9692f633cf49d49dfd8c49.html|Rozmarynowski|Antoni /Rozmarynowski/|||||
 ppl/b/c/e779f9693006f44862b01a06cb.html|[Private]|[Private] /[Private]/|||||
 ppl/8/3/e779f96930f2bf19ce452831238.html|[Private]|[Private] /[Private]/|||||
 ppl/6/6/e779f969316460e70a148dc5466.html|[Private]|[Private] /[Private]/|||||
-ppl/6/7/e779f9693282c1b1f28ead27576.html|[Private]|[Private] /[Private]/|||||
+ppl/6/7/e779f9693282c1b1f28ead27576.html|Prochera|Zygmunt /Prochera/|||||
 ppl/f/5/e779f96933739efedc750260d5f.html|[Private]|[Private] /[Private]/|||||
 ppl/8/b/e779f9693436647957670d289b8.html|[Private]|[Private] /[Private]/|||||
 ppl/0/7/e779f96937d7ed43e28eaa18470.html|[Private]|[Private] /[Private]/|||||
 ppl/8/f/e779f96938725ef05b028143cf8.html|[Private]|[Private] /[Private]/|||||
-ppl/9/8/e779f96938eb5873e81801c089.html|[Private]|[Private] /[Private]/|||||
+ppl/9/8/e779f96938eb5873e81801c089.html|Rozmarynowski|Paweł /Rozmarynowski/|||||
 ppl/9/9/e779f9693a22189046376df4199.html|[Private]|[Private] /[Private]/|||||
 ppl/b/8/e779f9693aa26c0eb2ab684c58b.html|[Private]|[Private] /[Private]/|||||
 ppl/0/8/e779f9693b83a8f29ad420f0580.html|[Private]|[Private] /[Private]/|||||
@@ -470,18 +470,18 @@ ppl/6/3/e779f9693e04b1b82bd3cab5636.html|[Private]|[Private] /[Private]/|||||
 ppl/4/9/e779f9693ea339eabd5a75e0594.html|Wac|Józef /Wac/|10 APR 1900|Czukiew, rejon samborski, obwód lwowski, Ukraina|||
 ppl/6/b/e779f9693f56194e0b8c75d8ab6.html|Sławik|Agnieszka /Sławik/|15 APR 1905|Czukiew, rejon samborski, obwód lwowski, Ukraina|||
 ppl/f/2/e779f9694323be0f87ed627a52f.html|[Private]|[Private] /[Private]/|||||
-ppl/1/1/e779f96943b28b81749942da611.html|[Private]|[Private] /[Private]/|||||
-ppl/2/2/e779f96944957e13325083fa022.html|[Private]|[Private] /[Private]/|||||
+ppl/1/1/e779f96943b28b81749942da611.html|Korotusz|Maria /Korotusz/|||||
+ppl/2/2/e779f96944957e13325083fa022.html|Wac|Antoni /Wac/|||||
 ppl/1/c/e779f969456558e3fa4189975c1.html|[Private]|[Private] /[Private]/|||||
 ppl/4/2/e779f9694617a04fec528bcc024.html|[Private]|[Private] /[Private]/|||||
-ppl/e/7/e779f9694687884feafc928e97e.html|[Private]|[Private] /[Private]/|||||
+ppl/e/7/e779f9694687884feafc928e97e.html|Wac|Jadwiga /Wac/|||||
 ppl/9/c/e779f96947a28babce54eb359c9.html|[Private]|[Private] /[Private]/|||||
 ppl/a/5/e779f969484777b54908bbf545a.html|Chudzicka|Julianna /Chudzicka/|||EST 1917||
 ppl/2/c/e779f9694cd17c040a0d0942dc2.html|Chudzicki|Piotr /Chudzicki/|22 JAN 1914|Zagorzany, Polska|||
 ppl/f/8/e779f9694ed6d49451d7072b28f.html|Chudzicka|Maria /Chudzicka/ Barbara|||||
 ppl/8/d/e779f9694fb358b7f5797fde8d8.html|Juszczyk|Marianna /Juszczyk/ Marysia|||||
 ppl/b/6/e779f96950615800604829be06b.html|[Private]|[Private] /[Private]/|||||
-ppl/6/6/e779f96952c19c5ca3c90455066.html|Rozmiarek|Stefan /Rozmiarek/|||||
+ppl/6/6/e779f96952c19c5ca3c90455066.html|[Private]|[Private] /[Private]/|||||
 ppl/b/6/e779f96953477eb0d88602fd56b.html|[Private]|[Private] /[Private]/|||||
 ppl/e/0/e779f96954269ab2afa2f44530e.html|[Private]|[Private] /[Private]/|||||
 ppl/d/4/e779f96957d1698d7975807854d.html|[Private]|[Private] /[Private]/|||||
@@ -489,13 +489,13 @@ ppl/9/2/e779f9695845c98496e0f4d2f29.html|[Private]|[Private] /[Private]/|||||
 ppl/2/a/e779f96958d391809b038cf86a2.html|[Private]|[Private] /[Private]/|||||
 ppl/4/c/e779f9695964b4c10b29e56d9c4.html|[Private]|[Private] /[Private]/|||||
 ppl/e/e/e779f9695a0f1f9046e42362ee.html|[Private]|[Private] /[Private]/|||||
-ppl/a/7/e779f9695aa601610234181e87a.html|[Private]|[Private] /[Private]/|||||
+ppl/a/7/e779f9695aa601610234181e87a.html|Chodaczek|Janina /Chodaczek/|||||
 ppl/b/5/e779f9695b54698d2728ce33c5b.html|[Private]|[Private] /[Private]/|||||
 ppl/f/3/e779f9695c5458f0335af07713f.html|[Private]|[Private] /[Private]/|||||
 ppl/a/2/e779f9695d221fab95ee7664a2a.html|[Private]|[Private] /[Private]/|||||
 ppl/8/b/e779f9695dc712347aaaf5c05b8.html|[Private]|[Private] /[Private]/|||||
 ppl/5/e/e779f9695e91af67f92118024e5.html|[Private]|[Private] /[Private]/|||||
-ppl/c/a/e779f9695f412e50f1a097210ac.html|[Private]|[Private] /[Private]/|||||
+ppl/c/a/e779f9695f412e50f1a097210ac.html|Zub|Jan /Zub/|||||
 ppl/5/c/e779f96962a1de6678ea81dbdc5.html|[Private]|[Private] /[Private]/|||||
 ppl/b/8/e779f96963456a888c2df44548b.html|[Private]|[Private] /[Private]/|||||
 ppl/2/3/e779f96963f2a442057f2898332.html|Sławik|Kazimierz /Sławik/|||||
@@ -522,7 +522,7 @@ ppl/7/2/e779f96981b1f24a4ae4d0a5e27.html|[Private]|[Private] /[Private]/|||||
 ppl/8/a/e779f96982265e14c0edbf78fa8.html|[Private]|[Private] /[Private]/|||||
 ppl/a/f/e779f96982b44a05aa46ff657fa.html|[Private]|[Private] /[Private]/|||||
 ppl/a/3/e779f969836793d61d7c669803a.html|Chudzicka|Maria /Chudzicka/ rududu|||||
-ppl/6/0/e779f96984210665ccde0d97806.html|Ostrowski| /Ostrowski/|||||
+ppl/6/0/e779f96984210665ccde0d97806.html|[Private]|[Private] /[Private]/|||||
 ppl/a/7/e779f96984914268bafb609017a.html|Chudzicka|Magda /Chudzicka/|1905||||
 ppl/f/6/e779f969862723e9c239b59106f.html|Ząbek|Stanisław /Ząbek/|||||
 ppl/6/5/e779f9698707f211553f8ab1e56.html|[Private]|[Private] /[Private]/|||||
@@ -538,7 +538,7 @@ ppl/f/1/e779f9698d522ead66767c3cb1f.html|[Private]|[Private] /[Private]/|||||
 ppl/c/2/e779f9698de30127f639451f2c.html|[Private]|[Private] /[Private]/|||||
 ppl/a/8/e779f9698e65895efe85b28be8a.html|[Private]|[Private] /[Private]/|||||
 ppl/c/1/e779f9698ec636ce7ea99a92c1c.html|[Private]|[Private] /[Private]/|||||
-ppl/f/1/e779f9698f8772419d9f960a71f.html|[Private]|[Private] /[Private]/|||||
+ppl/f/1/e779f9698f8772419d9f960a71f.html|Józefowicz|Marek /Józefowicz/|||||
 ppl/f/f/e779f9699048f013edb7a5cfff.html|[Private]|[Private] /[Private]/|||||
 ppl/3/1/e779f96990d1c17cb3a2721c13.html|Chudzicka|Katarzyna /Chudzicka/|||||
 ppl/8/8/e779f96991b19e249bfa3f3ca88.html|| //|||||
@@ -741,3 +741,5 @@ ppl/d/a/f02545db40323bb452f4f8e21ad.html|Stępień|Maciej /Stępień/|||||
 ppl/5/3/f0254634bb25d996e8e74b8ed35.html|Kałuża|Agnieszka /Kałuża/|||||
 ppl/e/3/f0e802bec487ee202763e2fff3e.html|Czech|Józefa /Czech/|9 OCT 1934||19 MAR 2003||
 ppl/c/2/f0f144ef82d7b28a2f5b1bf922c.html|Juryssek|Magdalena /Juryssek/|ABT 1800|Lyski, Lyski, rybnicki, śląskie, Polska|||
+ppl/3/9/f29de3350236fc474575474fa93.html|Mamaryn|Maksymilian /Mamaryn/|||||
+ppl/3/3/f29de38c2863cbda7b6c8199533.html|Odiniec|Maria /Odiniec/|||||
