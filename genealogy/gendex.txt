@@ -412,12 +412,12 @@ ppl/6/7/e6d5759d06c60f576d6ba830d76.html|Sibiński|Jan /Sibiński/|ABT 1802|Kolo
 ppl/5/c/e6d5769d7c8147f4a0fcb0037c5.html|Wyrębska|Barbara /Wyrębska/|ABT 1806|Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska|25 APR 1835|Pustkowie Sibińskie, Polska|
 ppl/9/7/e6d57c1f4e75e238ff39ed8679.html|Mielcarek|Jan /Mielcarek/|ABT 1807||BET 1840 AND 10 FEB 1862||
 ppl/3/8/e6d57ca37fc2af6a9f97af7cd83.html|Salamon|Antonina /Salamon/|ABT 1812||AFT 1862||
-ppl/6/7/e6dbe9d7e796945118ec5f3d676.html|Sibiński|Walenty /Sibiński/|||||
+ppl/6/7/e6dbe9d7e796945118ec5f3d676.html|Sibiński|Walenty /Sibiński/|21 FEB 1780|Giżyce, Grabów nad Prosną, ostrzeszowski, wielkopolskie, Polska|||
 ppl/8/6/e6dbea35ce46dfe71e9aa228568.html|Gaszta|Marianna /Gaszta/|||||
 ppl/6/4/e6dbec0879248501ae353069b46.html|Wyrębski|Piotr /Wyrębski/|ABT 1783|Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska|25 JAN 1844|Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska|
-ppl/4/8/e6dbec4bfa931ba79ca78308284.html|Sibińska|Antonina /Sibińska/|ABT 1793|Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska|26 FEB 1834|Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska|
-ppl/d/8/e6ec59d44913e7f455bad63018d.html|Sibiński|Jan /Sibiński/|||||
-ppl/e/2/e6ec5a13dcd36b44ac32a4eec2e.html|Sibińska|Helena /Sibińska/|||||
+ppl/4/8/e6dbec4bfa931ba79ca78308284.html|Sibińska|Antonina /Sibińska/|1787|Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska|26 FEB 1834|Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska|
+ppl/d/8/e6ec59d44913e7f455bad63018d.html|Sibiński vel Niedźwiedzki|Jan /Sibiński vel Niedźwiedzki/|ABT 1763||BET 1824 AND 1842||
+ppl/e/2/e6ec5a13dcd36b44ac32a4eec2e.html|Sibińska|Helena /Sibińska/|ABT 1766||BET 1824 AND 1842||
 ppl/9/e/e6f5d1be736274d093e01abe9e9.html|[Private]|[Private] /[Private]/|||||
 ppl/1/d/e72955a8e9f27ec7421ab5e3d1.html|Chruszcz|Joseph /Chruszcz/|ABT 1794|Marklowice, Marklowice, wodzisławski, śląskie, Polska|||
 ppl/2/8/e7295bf2dcc34634f2d57ac3b82.html|Schulz|Friedrich /Schulz/|||||
@@ -660,7 +660,7 @@ ppl/3/5/e9b1e8aeb6e363b1a34ba02e53.html|Fatyga|Magdalena /Fatyga/ de Pazis|19 MA
 ppl/4/8/e9b2079a8a47403f905b90b1384.html|Fatyga|Jakub /Fatyga/|2 JUL 1786|Kliszów, Kije, pińczowski, świętokrzyskie, Polska|||
 ppl/d/c/e9b27a08bbf367bc1d7e44ce3cd.html|Fatyga|Barbara /Fatyga/|30 NOV 1783|Kliszów, Kije, pińczowski, świętokrzyskie, Polska|||
 ppl/d/1/e9b27c7b94a383405d4a3ae981d.html|Fatyga|Tekla /Fatyga/|1 AUG 1787|Kliszów, Kije, pińczowski, świętokrzyskie, Polska|||
-ppl/2/f/e9bd118425d3100f93a85ea7cf2.html|[Private]|[Private] /[Private]/|||||
+ppl/2/f/e9bd118425d3100f93a85ea7cf2.html|Zurek|Stanisław /Zurek/|||||
 ppl/0/a/e9bd13012bc6433b2ca5d19f0a0.html|Mocydlarz|Tekla /Mocydlarz/|18 SEP 1888||||
 ppl/8/7/e9bd13d443f7d9a1c637e2b5c78.html|Zurek| /Zurek/|||||
 ppl/9/c/e9bd1b079d227c1198a3d1f5bc9.html|Matuszczyk|Franciszek /Matuszczyk/|||||
@@ -743,3 +743,17 @@ ppl/e/3/f0e802bec487ee202763e2fff3e.html|Czech|Józefa /Czech/|9 OCT 1934||19 MA
 ppl/c/2/f0f144ef82d7b28a2f5b1bf922c.html|Juryssek|Magdalena /Juryssek/|ABT 1800|Lyski, Lyski, rybnicki, śląskie, Polska|||
 ppl/3/9/f29de3350236fc474575474fa93.html|Mamaryn|Maksymilian /Mamaryn/|||||
 ppl/3/3/f29de38c2863cbda7b6c8199533.html|Odiniec|Maria /Odiniec/|||||
+ppl/3/b/f2b0987be581e0841410a0e9cb3.html|Schaeffer|Joachim /Schaeffer/|||||
+ppl/8/4/f2b098b0c795d4e8445e60bf748.html|Schaeffer|Leonard /Schaeffer/|||||
+ppl/f/3/f3b8fb844739667264e25c13f.html|Sibińska|Marianna /Sibińska/|1750||AFT 1791||
+ppl/9/5/f3b8fce2f9c4e3d3538f108de59.html|Sibiński|Szczepan /Sibiński/|1720||AFT 1791||
+ppl/a/5/f3b8fdd483e1d4c2ed9b6e05e5a.html|Sibińska|Marianna /Sibińska/|ABT 1704||AFT 1791||
+ppl/d/a/f3b8fee11f43d71211decdd55ad.html|Sibiński|Benedykt /Sibiński/|ABT 1774||||
+ppl/a/0/f3c2ac407847785c37434f1140a.html|Sibińska|Marianna /Sibińska/|ABT 1802||AFT 1849||
+ppl/2/7/f3c2b1e034355a8c4231f83872.html|Kałuża|Paweł /Kałuża/|||2 FEB 1849|Pustkowie Pipie, Polska|
+ppl/4/0/f3c2f298e9153a850a993006b04.html|Pipia|Wojciech /Pipia/|ABT 1781|Pustkowie Pipie, Polska|23 JUN 1841|Pustkowie Pipie, Polska|
+ppl/f/4/f3c2f3613c96bedb10169d98a4f.html|Sibiński|Mikołaj /Sibiński/|ABT 1800||||
+ppl/4/6/f3cfca4559356268d9936630a64.html|Kątkowska|Monika /Kątkowska/|1804||||
+ppl/f/1/f3d1eb383566e67641ed6a6a21f.html|Sibińska|Marianna /Sibińska/|2 FEB 1825||||
+ppl/a/1/f3d1fadf5b642462fabb302941a.html|Sibiński|Maciej /Sibiński/|ABT 1750||||
+ppl/6/a/f3d1fb5eeb734bfd76ade4284a6.html||Agata //|ABT 1763||||

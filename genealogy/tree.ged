@@ -2,11 +2,11 @@
 1 SOUR Gramps
 2 VERS 5.1.5
 2 NAME Gramps
-1 DATE 1 NOV 2022
-2 TIME 08:21:46
+1 DATE 5 FEB 2023
+2 TIME 00:01:19
 1 SUBM @SUBM@
 1 FILE /home/dmirecki/projects/dmirecki.github.io/genealogy/tree.ged
-1 COPR Copyright (c) 2022 Damian Mirecki.
+1 COPR Copyright (c) 2023 Damian Mirecki.
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
@@ -381,9 +381,6 @@
 2 GIVN Henryk
 2 SURN Matuszczyk
 1 SEX M
-1 FACT MH:I15
-2 TYPE RIN
-1 _UID 5643B4ED601861859002683320142142
 1 FAMC @F0253@
 2 PEDI birth
 1 FAMS @F0008@
@@ -398,8 +395,8 @@
 1 OBJE @O0024@
 1 OBJE @O0025@
 1 CHAN
-2 DATE 24 NOV 2020
-3 TIME 17:48:56
+2 DATE 6 NOV 2022
+3 TIME 16:26:57
 0 @I0016@ INDI
 1 NAME Gizela /Moczygemba/
 2 GIVN Gizela
@@ -422,14 +419,20 @@
 2 DATE 24 JUL 2020
 3 TIME 19:33:08
 0 @I0017@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Helena /Nowak/
+2 GIVN Helena
+2 SURN Nowak
+1 NAME Helena /Moczygemba/
+2 TYPE married
+2 GIVN Helena
+2 SURN Moczygemba
 1 SEX F
+1 DEAT
+2 DATE 14 SEP 2022
 1 FAMS @F0006@
 1 CHAN
-2 DATE 2 FEB 2020
-3 TIME 22:52:20
+2 DATE 6 NOV 2022
+3 TIME 14:13:46
 0 @I0018@ INDI
 1 NAME Anna /Michalska/
 2 GIVN Anna
@@ -522,16 +525,24 @@
 2 DATE 2 FEB 2020
 3 TIME 22:52:25
 0 @I0027@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Krystian /Mirecki/
+2 GIVN Krystian
+2 SURN Mirecki
 1 SEX M
+1 DEAT
+2 DATE 1 APR 2022
+2 PLAC Wodzisław Śląski, Polska
+2 ADDR
+3 CITY Wodzisław Śląski
+3 CTRY Polska
 1 FAMC @F0007@
 2 PEDI birth
 1 FAMS @F0011@
+1 OBJE @O0034@
+1 OBJE @O0035@
 1 CHAN
-2 DATE 18 APR 2022
-3 TIME 15:16:33
+2 DATE 6 NOV 2022
+3 TIME 14:19:31
 0 @I0028@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -1254,13 +1265,6 @@
 2 SOUR @S0194@
 3 PAGE Pełny odpis aktu chrztu Durschlag Krystyny; str. 168; nr 311
 3 OBJE @O0608@
-1 BURI
-2 TYPE Cmentarz w Rybniku, gdzie obecnie jest grób Elżbiety i Ryszarda Kołodzie
-3 CONC j
-2 PLAC Rybnik, Polska
-2 ADDR
-3 CITY Rybnik
-3 CTRY Polska
 1 FAMC @F500063@
 2 PEDI birth
 1 FAMS @F0029@
@@ -1293,13 +1297,6 @@
 2 SOUR @S0195@
 3 PAGE Pełny odpis aktu chrztu Solorz Juliusz; str. 441
 3 OBJE @O0609@
-1 BURI
-2 TYPE Cmentarz w Rybniku, gdzie obecnie jest grób Elżbiety i Ryszarda Kołodzie
-3 CONC j
-2 PLAC Rybnik, Polska
-2 ADDR
-3 CITY Rybnik
-3 CTRY Polska
 1 FAMC @F500073@
 2 PEDI birth
 1 FAMS @F0029@
@@ -1334,14 +1331,15 @@
 3 CITY Katowice
 3 CTRY Polska
 2 CAUS tragiczna - wypadek w hucie
+1 OCCU Maschinenwarter - Huttenplatzmesiter
 1 FAMC @F500054@
 2 PEDI birth
 1 FAMS @F0030@
 1 SOUR @S500003@
 2 QUAY 0
 1 CHAN
-2 DATE 7 OCT 2020
-3 TIME 19:11:04
+2 DATE 6 NOV 2022
+3 TIME 14:22:53
 0 @I0073@ INDI
 1 NAME Maria Anna /Chruszcz/ Oma
 2 GIVN Maria Anna
@@ -1667,9 +1665,10 @@
 2 OBJE @O0595@
 1 OBJE @O0260@
 1 OBJE @O0261@
+1 OBJE @O0251@
 1 CHAN
-2 DATE 15 SEP 2021
-3 TIME 19:34:41
+2 DATE 31 DEC 2022
+3 TIME 20:30:43
 0 @I0093@ INDI
 1 NAME Jadwiga Maria /Huńka/
 2 GIVN Jadwiga Maria
@@ -3867,12 +3866,26 @@
 2 GIVN Walenty
 2 SURN Sibiński
 1 SEX M
+1 BIRT
+2 DATE 21 FEB 1780
+2 PLAC Giżyce, Grabów nad Prosną, ostrzeszowski, wielkopolskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0255@
+3 PAGE Pipia Wojciech, Sibińska Marianna - akt małżeństwa; str. 4, wpis nr 6
+3 OBJE @O0702@
+2 SOUR @S0252@
+3 PAGE Miejscowość Głuszyna z przyległościami, dom nr 38
+2 SOUR @S0001@
+3 PAGE Sibiński Walenty - akt urodzenia; https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=15wp&rid=11673&search_lastname=sibi%C5%84ski&search_name=maciej&search_lastname2=&search_name2=agata&from_date=&to_date=
 1 RESI
 2 DATE 21 JAN 1826
 2 PLAC Kolonia Sibińskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0064@
+1 FAMC @F0301@
+2 PEDI birth
 1 FAMS @F0131@
 1 SOUR @S0064@
 1 SOUR @S0114@
@@ -3885,9 +3898,16 @@
 2 DATA
 3 DATE 9 MAY 1850
 2 OBJE @O0479@
+1 SOUR @S0255@
+2 PAGE Pipia Wojciech, Sibińska Marianna - akt małżeństwa; str. 4, wpis nr 6
+2 OBJE @O0702@
+1 SOUR @S0252@
+2 PAGE Miejscowość Głuszyna z przyległościami, dom nr 38
+1 SOUR @S0001@
+2 PAGE Sibiński Walenty - akt urodzenia; https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=15wp&rid=11673&search_lastname=sibi%C5%84ski&search_name=maciej&search_lastname2=&search_name2=agata&from_date=&to_date=
 1 CHAN
-2 DATE 31 JAN 2021
-3 TIME 20:16:53
+2 DATE 4 FEB 2023
+3 TIME 21:42:47
 0 @I0224@ INDI
 1 NAME Marianna /Gaszta/
 2 GIVN Marianna
@@ -3941,6 +3961,9 @@
 3 DATA
 4 DATE 26 JAN 1844
 3 OBJE @O0657@
+2 SOUR @S0255@
+3 PAGE Pipia Wojciech, Sibińska Marianna - akt małżeństwa; str. 4, wpis nr 6
+3 OBJE @O0702@
 1 DEAT
 2 DATE 25 JAN 1844
 2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
@@ -3973,9 +3996,12 @@
 2 DATA
 3 DATE 26 JAN 1844
 2 OBJE @O0657@
+1 SOUR @S0255@
+2 PAGE Pipia Wojciech, Sibińska Marianna - akt małżeństwa; str. 4, wpis nr 6
+2 OBJE @O0702@
 1 CHAN
-2 DATE 12 APR 2022
-3 TIME 19:21:48
+2 DATE 31 JAN 2023
+3 TIME 16:47:51
 0 @I0226@ INDI
 1 NAME Antonina /Sibińska/
 2 GIVN Antonina
@@ -3987,7 +4013,7 @@
 2 SURN Wyrębska
 1 SEX F
 1 BIRT
-2 DATE ABT 1793
+2 DATE 1787
 2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
 3 MAP
 4 LATI N51.499999
@@ -3995,6 +4021,11 @@
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0067@
+2 SOUR @S0252@
+3 PAGE Miejscowość: Głuszyna z przyległościami; dom nr 39
+3 QUAY 1
+3 DATA
+4 DATE FROM 1790 TO 1791
 1 DEAT
 2 DATE 26 FEB 1834
 2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
@@ -4010,33 +4041,117 @@
 1 SOUR @S0064@
 1 SOUR @S0067@
 2 QUAY 1
+1 SOUR @S0252@
+2 PAGE Miejscowość: Głuszyna z przyległościami; dom nr 39
+2 QUAY 1
+2 DATA
+3 DATE FROM 1790 TO 1791
 1 CHAN
-2 DATE 24 AUG 2022
-3 TIME 18:49:44
+2 DATE 30 JAN 2023
+3 TIME 22:26:11
 0 @I0227@ INDI
-1 NAME Jan /Sibiński/
+1 NAME Jan /Sibiński vel Niedźwiedzki/
 2 GIVN Jan
-2 SURN Sibiński
+2 SURN Sibiński vel, Niedźwiedzki
+2 SOUR @S0253@
+3 PAGE Kałuża Paweł, Sibińska Marianna - akt ślubu; str. 83, wpis nr 25
+3 DATA
+4 DATE 1842
+3 OBJE @O0700@
 1 SEX M
+1 BIRT
+2 DATE ABT 1763
+2 SOUR @S0252@
+3 PAGE Miejscowość: Głuszyna z przyległościami; dom nr 39
+3 QUAY 1
+3 DATA
+4 DATE FROM 1790 TO 1791
+1 DEAT
+2 DATE BET 1824 AND 1842
+2 SOUR @S0253@
+3 PAGE Kałuża Paweł, Sibińska Marianna - akt ślubu; str. 83, wpis nr 25
+3 DATA
+4 DATE 1842
+3 OBJE @O0700@
+2 SOUR @S0255@
+3 PAGE Pipia Wojciech, Sibińska Marianna - akt małżeństwa; str. 4, wpis nr 6
+3 OBJE @O0702@
+2 SOUR @S0256@
+3 PAGE Kątowska Monika, Niedźwiedzki Mikołaj; str. 30, wpis nr 24
+3 OBJE @O0704@
 1 FACT rolnik
 2 TYPE Occupation
 2 SOUR @S0067@
 1 FAMS @F0133@
 1 SOUR @S0067@
+1 SOUR @S0252@
+2 PAGE Miejscowość: Głuszyna z przyległościami; dom nr 39
+2 QUAY 1
+2 DATA
+3 DATE FROM 1790 TO 1791
+1 SOUR @S0253@
+2 PAGE Kałuża Paweł, Sibińska Marianna - akt ślubu; str. 83, wpis nr 25
+2 DATA
+3 DATE 1842
+2 OBJE @O0700@
+1 SOUR @S0255@
+2 PAGE Pipia Wojciech, Sibińska Marianna - akt małżeństwa; str. 4, wpis nr 6
+2 OBJE @O0702@
+1 SOUR @S0256@
+2 PAGE Kątowska Monika, Niedźwiedzki Mikołaj; str. 30, wpis nr 24
+2 OBJE @O0704@
 1 CHAN
-2 DATE 31 JAN 2021
-3 TIME 20:16:53
+2 DATE 3 FEB 2023
+3 TIME 21:58:53
 0 @I0228@ INDI
 1 NAME Helena /Sibińska/
 2 TYPE married
 2 GIVN Helena
 2 SURN Sibińska
 1 SEX F
+1 BIRT
+2 DATE ABT 1766
+2 SOUR @S0252@
+3 PAGE Miejscowość: Głuszyna z przyległościami; dom nr 39
+3 QUAY 1
+3 DATA
+4 DATE FROM 1790 TO 1791
+1 DEAT
+2 DATE BET 1824 AND 1842
+2 SOUR @S0255@
+3 PAGE Pipia Wojciech, Sibińska Marianna - akt małżeństwa; str. 4, wpis nr 6
+3 OBJE @O0702@
+2 SOUR @S0253@
+3 PAGE Kałuża Paweł, Sibińska Marianna - akt ślubu; str. 83, wpis nr 25
+3 DATA
+4 DATE 1842
+3 OBJE @O0700@
+2 SOUR @S0256@
+3 PAGE Kątowska Monika, Niedźwiedzki Mikołaj; str. 30, wpis nr 24
+3 OBJE @O0704@
+1 FAMC @F0296@
+2 PEDI birth
 1 FAMS @F0133@
 1 SOUR @S0067@
+1 SOUR @S0252@
+2 PAGE Miejscowość: Głuszyna z przyległościami; dom nr 39
+2 QUAY 1
+2 DATA
+3 DATE FROM 1790 TO 1791
+1 SOUR @S0253@
+2 PAGE Kałuża Paweł, Sibińska Marianna - akt ślubu; str. 83, wpis nr 25
+2 DATA
+3 DATE 1842
+2 OBJE @O0700@
+1 SOUR @S0255@
+2 PAGE Pipia Wojciech, Sibińska Marianna - akt małżeństwa; str. 4, wpis nr 6
+2 OBJE @O0702@
+1 SOUR @S0256@
+2 PAGE Kątowska Monika, Niedźwiedzki Mikołaj; str. 30, wpis nr 24
+2 OBJE @O0704@
 1 CHAN
-2 DATE 31 JAN 2021
-3 TIME 20:16:53
+2 DATE 3 FEB 2023
+3 TIME 21:58:14
 0 @I0229@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -5217,10 +5332,13 @@
 2 DATE 28 MAY 2020
 3 TIME 19:35:16
 0 @I0329@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Jan /Swatek/
+2 GIVN Jan
+2 SURN Swatek
 1 SEX M
+1 FACT MH:I500193
+2 TYPE RIN
+1 _UID 5DBD8269B2CA411C725A8A9F2ED7EFE1
 1 FAMS @F500069@
 1 CHAN
 2 DATE 28 MAY 2020
@@ -9699,8 +9817,8 @@
 2 DATA
 3 DATE 24 FEB 2022
 1 CHAN
-2 DATE 26 FEB 2022
-3 TIME 21:34:30
+2 DATE 23 DEC 2022
+3 TIME 12:05:55
 0 @I0498@ INDI
 1 NAME Jakub /Kudła/
 2 GIVN Jakub
@@ -10306,8 +10424,8 @@
 2 DATA
 3 DATE 24 FEB 2022
 1 CHAN
-2 DATE 26 FEB 2022
-3 TIME 21:34:32
+2 DATE 23 DEC 2022
+3 TIME 12:00:56
 0 @I0516@ INDI
 1 NAME Helena /Pipia/
 2 GIVN Helena
@@ -10690,6 +10808,356 @@
 1 CHAN
 2 DATE 31 OCT 2022
 3 TIME 20:54:15
+0 @I0534@ INDI
+1 NAME Joachim /Schaeffer/
+2 GIVN Joachim
+2 SURN Schaeffer
+1 SEX M
+1 FAMC @F0025@
+2 PEDI birth
+1 CHAN
+2 DATE 6 NOV 2022
+3 TIME 16:23:58
+0 @I0535@ INDI
+1 NAME Leonard /Schaeffer/
+2 GIVN Leonard
+2 SURN Schaeffer
+1 SEX M
+1 FAMC @F0025@
+2 PEDI birth
+1 CHAN
+2 DATE 6 NOV 2022
+3 TIME 16:23:58
+0 @I0536@ INDI
+1 NAME Marianna /Sibińska/
+2 TYPE married
+2 GIVN Marianna
+2 SURN Sibińska
+1 SEX F
+1 BIRT
+2 DATE 1750
+2 SOUR @S0252@
+3 PAGE Miejscowość: Głuszyna z przyległościami; dom nr 39
+3 QUAY 1
+3 DATA
+4 DATE FROM 1790 TO 1791
+1 DEAT
+2 DATE AFT 1791
+2 SOUR @S0252@
+3 PAGE Miejscowość: Głuszyna z przyległościami; dom nr 39
+3 QUAY 1
+3 DATA
+4 DATE FROM 1790 TO 1791
+1 FAMS @F0296@
+1 SOUR @S0252@
+2 PAGE Miejscowość: Głuszyna z przyległościami; dom nr 39
+2 QUAY 1
+2 DATA
+3 DATE FROM 1790 TO 1791
+1 CHAN
+2 DATE 31 JAN 2023
+3 TIME 16:56:29
+0 @I0537@ INDI
+1 NAME Szczepan /Sibiński/
+2 GIVN Szczepan
+2 SURN Sibiński
+1 SEX M
+1 BIRT
+2 DATE 1720
+2 SOUR @S0252@
+3 PAGE Miejscowość: Głuszyna z przyległościami; dom nr 39
+3 QUAY 1
+3 DATA
+4 DATE FROM 1790 TO 1791
+1 DEAT
+2 DATE AFT 1791
+2 SOUR @S0252@
+3 PAGE Miejscowość: Głuszyna z przyległościami; dom nr 39
+3 QUAY 1
+3 DATA
+4 DATE FROM 1790 TO 1791
+1 FAMC @F0297@
+2 _FREL Unknown
+2 _MREL birth
+1 FAMS @F0296@
+1 SOUR @S0252@
+2 PAGE Miejscowość: Głuszyna z przyległościami; dom nr 39
+2 QUAY 1
+2 DATA
+3 DATE FROM 1790 TO 1791
+1 CHAN
+2 DATE 31 JAN 2023
+3 TIME 16:55:57
+0 @I0538@ INDI
+1 NAME Marianna /Sibińska/
+2 TYPE married
+2 GIVN Marianna
+2 SURN Sibińska
+1 SEX F
+1 BIRT
+2 DATE ABT 1704
+2 SOUR @S0252@
+3 PAGE Miejscowość: Głuszyna z przyległościami; dom nr 39
+3 QUAY 1
+3 DATA
+4 DATE FROM 1790 TO 1791
+1 DEAT
+2 DATE AFT 1791
+2 SOUR @S0252@
+3 PAGE Miejscowość: Głuszyna z przyległościami; dom nr 39
+3 QUAY 1
+3 DATA
+4 DATE FROM 1790 TO 1791
+1 FAMS @F0297@
+1 SOUR @S0252@
+2 PAGE Miejscowość: Głuszyna z przyległościami; dom nr 39
+2 QUAY 1
+2 DATA
+3 DATE FROM 1790 TO 1791
+1 CHAN
+2 DATE 31 JAN 2023
+3 TIME 16:57:04
+0 @I0539@ INDI
+1 NAME Benedykt /Sibiński/
+2 GIVN Benedykt
+2 SURN Sibiński
+1 SEX M
+1 BIRT
+2 DATE ABT 1774
+2 SOUR @S0252@
+3 PAGE Miejscowość: Głuszyna z przyległościami; dom nr 39
+3 QUAY 1
+3 DATA
+4 DATE FROM 1790 TO 1791
+1 FAMC @F0296@
+2 PEDI birth
+1 SOUR @S0252@
+2 PAGE Miejscowość: Głuszyna z przyległościami; dom nr 39
+2 QUAY 1
+2 DATA
+3 DATE FROM 1790 TO 1791
+1 CHAN
+2 DATE 27 JAN 2023
+3 TIME 19:55:11
+0 @I0540@ INDI
+1 NAME Marianna /Sibińska/
+2 GIVN Marianna
+2 SURN Sibińska
+1 SEX F
+1 BIRT
+2 DATE ABT 1802
+2 SOUR @S0253@
+3 PAGE Kałuża Paweł, Sibińska Marianna - akt ślubu; str. 83, wpis nr 25
+3 DATA
+4 DATE 1842
+3 OBJE @O0700@
+1 DEAT
+2 DATE AFT 1849
+2 SOUR @S0258@
+3 PAGE Kałuża Paweł - akt zgonu; str. 40, wpis nr 35
+3 OBJE @O0705@
+1 FAMC @F0133@
+2 PEDI birth
+1 FAMS @F0298@
+1 FAMS @F0299@
+1 SOUR @S0253@
+2 PAGE Kałuża Paweł, Sibińska Marianna - akt ślubu; str. 83, wpis nr 25
+2 DATA
+3 DATE 1842
+2 OBJE @O0700@
+1 SOUR @S0254@
+2 PAGE Pipa Wojciech - akt zgonu; str 113, wpis nr 75
+2 OBJE @O0701@
+1 SOUR @S0255@
+2 PAGE Pipia Wojciech, Sibińska Marianna - akt małżeństwa; str. 4, wpis nr 6
+2 OBJE @O0702@
+1 SOUR @S0258@
+2 PAGE Kałuża Paweł - akt zgonu; str. 40, wpis nr 35
+2 OBJE @O0705@
+1 CHAN
+2 DATE 4 FEB 2023
+3 TIME 13:08:57
+0 @I0541@ INDI
+1 NAME Paweł /Kałuża/
+2 GIVN Paweł
+2 SURN Kałuża
+1 SEX M
+1 DEAT
+2 DATE 2 FEB 1849
+2 PLAC Pustkowie Pipie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0258@
+3 PAGE Kałuża Paweł - akt zgonu; str. 40, wpis nr 35
+3 OBJE @O0705@
+1 FAMS @F0298@
+1 SOUR @S0253@
+2 PAGE Kałuża Paweł, Sibińska Marianna - akt ślubu; str. 83, wpis nr 25
+2 DATA
+3 DATE 1842
+2 OBJE @O0700@
+1 SOUR @S0258@
+2 PAGE Kałuża Paweł - akt zgonu; str. 40, wpis nr 35
+2 OBJE @O0705@
+1 CHAN
+2 DATE 4 FEB 2023
+3 TIME 13:07:24
+0 @I0542@ INDI
+1 NAME Wojciech /Pipia/
+2 GIVN Wojciech
+2 SURN Pipia
+1 SEX M
+1 BIRT
+2 DATE ABT 1781
+2 PLAC Pustkowie Pipie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0254@
+3 PAGE Pipa Wojciech - akt zgonu; str 113, wpis nr 75
+3 OBJE @O0701@
+1 DEAT
+2 DATE 23 JUN 1841
+2 PLAC Pustkowie Pipie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0253@
+3 PAGE Kałuża Paweł, Sibińska Marianna - akt ślubu; str. 83, wpis nr 25
+3 DATA
+4 DATE 1842
+3 OBJE @O0700@
+2 SOUR @S0254@
+3 PAGE Pipa Wojciech - akt zgonu; str 113, wpis nr 75
+3 OBJE @O0701@
+1 FAMS @F0299@
+1 SOUR @S0253@
+2 PAGE Kałuża Paweł, Sibińska Marianna - akt ślubu; str. 83, wpis nr 25
+2 DATA
+3 DATE 1842
+2 OBJE @O0700@
+1 SOUR @S0254@
+2 PAGE Pipa Wojciech - akt zgonu; str 113, wpis nr 75
+2 OBJE @O0701@
+1 SOUR @S0255@
+2 PAGE Pipia Wojciech, Sibińska Marianna - akt małżeństwa; str. 4, wpis nr 6
+2 OBJE @O0702@
+1 CHAN
+2 DATE 31 JAN 2023
+3 TIME 16:22:25
+0 @I0543@ INDI
+1 NAME Mikołaj /Sibiński/
+2 GIVN Mikołaj
+2 SURN Sibiński
+1 SEX M
+1 BIRT
+2 DATE ABT 1800
+2 SOUR @S0253@
+3 PAGE Kałuża Paweł, Sibińska Marianna - akt ślubu; str. 83, wpis nr 25
+3 DATA
+4 DATE 1842
+3 OBJE @O0700@
+2 SOUR @S0256@
+3 PAGE Kątowska Monika, Niedźwiedzki Mikołaj; str. 30, wpis nr 24
+3 OBJE @O0704@
+2 SOUR @S0259@
+3 PAGE Sibińska Marianna - akt urodzenia; wpis nr 11
+3 OBJE @O0706@
+1 FAMC @F0133@
+2 PEDI birth
+1 FAMS @F0300@
+1 SOUR @S0253@
+2 PAGE Kałuża Paweł, Sibińska Marianna - akt ślubu; str. 83, wpis nr 25
+2 DATA
+3 DATE 1842
+2 OBJE @O0700@
+1 SOUR @S0257@
+2 PAGE Kątowksa Monika, Sibiński Mikołaj; prawa strona, wpis 3 od góry
+2 OBJE @O0703@
+1 SOUR @S0256@
+2 PAGE Kątowska Monika, Niedźwiedzki Mikołaj; str. 30, wpis nr 24
+2 OBJE @O0704@
+1 SOUR @S0259@
+2 PAGE Sibińska Marianna - akt urodzenia; wpis nr 11
+2 OBJE @O0706@
+1 CHAN
+2 DATE 4 FEB 2023
+3 TIME 13:49:33
+0 @I0544@ INDI
+1 NAME Monika /Kątkowska/
+2 GIVN Monika
+2 SURN Kątkowska
+1 SEX F
+1 BIRT
+2 DATE 1804
+2 SOUR @S0256@
+3 PAGE Kątowska Monika, Niedźwiedzki Mikołaj; str. 30, wpis nr 24
+3 OBJE @O0704@
+2 SOUR @S0259@
+3 PAGE Sibińska Marianna - akt urodzenia; wpis nr 11
+3 OBJE @O0706@
+1 FAMS @F0300@
+1 SOUR @S0257@
+2 PAGE Kątowksa Monika, Sibiński Mikołaj; prawa strona, wpis 3 od góry
+2 OBJE @O0703@
+1 SOUR @S0256@
+2 PAGE Kątowska Monika, Niedźwiedzki Mikołaj; str. 30, wpis nr 24
+2 OBJE @O0704@
+1 SOUR @S0259@
+2 PAGE Sibińska Marianna - akt urodzenia; wpis nr 11
+2 OBJE @O0706@
+1 CHAN
+2 DATE 4 FEB 2023
+3 TIME 13:49:46
+0 @I0545@ INDI
+1 NAME Marianna /Sibińska/
+2 GIVN Marianna
+2 SURN Sibińska
+1 SEX F
+1 BIRT
+2 DATE 2 FEB 1825
+2 SOUR @S0259@
+3 PAGE Sibińska Marianna - akt urodzenia; wpis nr 11
+3 OBJE @O0706@
+1 FAMC @F0300@
+2 PEDI birth
+1 SOUR @S0259@
+2 PAGE Sibińska Marianna - akt urodzenia; wpis nr 11
+2 OBJE @O0706@
+1 CHAN
+2 DATE 4 FEB 2023
+3 TIME 13:50:22
+0 @I0546@ INDI
+1 NAME Maciej /Sibiński/
+2 GIVN Maciej
+2 SURN Sibiński
+1 SEX M
+1 BIRT
+2 DATE ABT 1750
+2 SOUR @S0252@
+3 PAGE Miejscowość Głuszyna z przyległościami, dom nr 38
+1 FAMS @F0301@
+1 SOUR @S0252@
+2 PAGE Miejscowość Głuszyna z przyległościami, dom nr 38
+1 SOUR @S0001@
+2 PAGE Sibiński Walenty - akt urodzenia; https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=15wp&rid=11673&search_lastname=sibi%C5%84ski&search_name=maciej&search_lastname2=&search_name2=agata&from_date=&to_date=
+1 CHAN
+2 DATE 4 FEB 2023
+3 TIME 21:43:13
+0 @I0547@ INDI
+1 NAME Agata //
+2 GIVN Agata
+1 SEX F
+1 BIRT
+2 DATE ABT 1763
+2 SOUR @S0252@
+3 PAGE Miejscowość Głuszyna z przyległościami, dom nr 38
+1 FAMS @F0301@
+1 SOUR @S0252@
+2 PAGE Miejscowość Głuszyna z przyległościami, dom nr 38
+1 SOUR @S0001@
+2 PAGE Sibiński Walenty - akt urodzenia; https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=15wp&rid=11673&search_lastname=sibi%C5%84ski&search_name=maciej&search_lastname2=&search_name2=agata&from_date=&to_date=
+1 CHAN
+2 DATE 4 FEB 2023
+3 TIME 21:43:26
 0 @I500004@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -11434,16 +11902,13 @@
 2 GIVN Urszula
 2 SURN Hajduk
 1 SEX F
-1 FACT MH:I500067
-2 TYPE RIN
-1 _UID 5D2903FF0B7F7735F95899526755FE21
 1 FAMC @F0025@
 2 PEDI birth
 1 FAMS @F500022@
 1 OBJE @O0664@
 1 CHAN
-2 DATE 20 JUN 2022
-3 TIME 19:53:20
+2 DATE 6 NOV 2022
+3 TIME 16:23:58
 0 @I500068@ INDI
 1 NAME Ewa /Schaeffer/
 2 GIVN Ewa
@@ -11462,8 +11927,8 @@
 1 OBJE @O0165@
 1 OBJE @O0166@
 1 CHAN
-2 DATE 24 JUL 2020
-3 TIME 19:33:23
+2 DATE 6 NOV 2022
+3 TIME 16:23:58
 0 @I500069@ INDI
 1 NAME  /Hajduk/
 2 SURN Hajduk
@@ -11636,8 +12101,8 @@
 1 FAMC @F0011@
 2 PEDI birth
 1 CHAN
-2 DATE 24 JUL 2020
-3 TIME 19:33:25
+2 DATE 6 NOV 2022
+3 TIME 11:45:51
 0 @I500085@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -11871,8 +12336,8 @@
 1 FAMC @F500030@
 2 PEDI birth
 1 CHAN
-2 DATE 24 JUL 2020
-3 TIME 19:33:27
+2 DATE 6 NOV 2022
+3 TIME 16:31:50
 0 @I500103@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -12620,15 +13085,12 @@
 4 LONG E18.258611
 2 ADDR
 3 CTRY Polska
-1 FACT MH:I500156
-2 TYPE RIN
-1 _UID 5DE81F7F679E71040C48D4C3FD00361F
 1 FAMC @F500054@
 2 PEDI birth
 1 FAMS @F500055@
 1 CHAN
-2 DATE 16 FEB 2020
-3 TIME 12:13:54
+2 DATE 3 NOV 2022
+3 TIME 20:05:54
 0 @I500157@ INDI
 1 NAME Eduard /Musiol/
 2 GIVN Eduard
@@ -13728,8 +14190,8 @@
 1 FAMC @F500035@
 2 PEDI birth
 1 CHAN
-2 DATE 24 JUL 2020
-3 TIME 19:33:29
+2 DATE 31 DEC 2022
+3 TIME 20:29:40
 0 @I500224@ INDI
 1 NAME Matylda /Podsiadło/
 2 GIVN Matylda
@@ -14662,14 +15124,13 @@
 0 @F0025@ FAM
 1 HUSB @I0063@
 1 WIFE @I0062@
-1 FACT MH:F25
-2 TYPE RIN
-1 _UID 5643B4ED6306F1A08002683320142142
 1 CHIL @I500067@
 1 CHIL @I500068@
+1 CHIL @I0534@
+1 CHIL @I0535@
 1 CHAN
-2 DATE 23 JAN 2020
-3 TIME 20:02:10
+2 DATE 6 NOV 2022
+3 TIME 16:23:58
 0 @F0026@ FAM
 1 HUSB @I0066@
 1 WIFE @I0064@
@@ -15324,10 +15785,12 @@
 1 HUSB @I0227@
 1 WIFE @I0228@
 1 CHIL @I0226@
+1 CHIL @I0540@
+1 CHIL @I0543@
 1 SOUR @S0067@
 1 CHAN
-2 DATE 14 APR 2020
-3 TIME 19:29:34
+2 DATE 30 JAN 2023
+3 TIME 22:26:11
 0 @F0135@ FAM
 1 HUSB @I0231@
 1 CHIL @I500165@
@@ -16759,6 +17222,78 @@
 1 CHAN
 2 DATE 31 OCT 2022
 3 TIME 20:54:15
+0 @F0296@ FAM
+1 HUSB @I0537@
+1 WIFE @I0536@
+1 CHIL @I0228@
+1 CHIL @I0539@
+1 CHAN
+2 DATE 27 JAN 2023
+3 TIME 19:55:11
+0 @F0297@ FAM
+1 WIFE @I0538@
+1 CHIL @I0537@
+1 CHAN
+2 DATE 27 JAN 2023
+3 TIME 19:53:33
+0 @F0298@ FAM
+1 HUSB @I0541@
+1 WIFE @I0540@
+1 MARR
+2 DATE 18 MAY 1842
+2 PLAC Wojków, Polska
+3 MAP
+4 LATI N51.589807
+4 LONG E18.430852
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0253@
+3 PAGE Kałuża Paweł, Sibińska Marianna - akt ślubu; str. 83, wpis nr 25
+3 DATA
+4 DATE 1842
+3 OBJE @O0700@
+1 CHAN
+2 DATE 30 JAN 2023
+3 TIME 20:14:18
+0 @F0299@ FAM
+1 HUSB @I0542@
+1 WIFE @I0540@
+1 MARR
+2 DATE 11 JUL 1815
+2 PLAC Kraszewice, Polska
+3 MAP
+4 LATI N51.518034
+4 LONG E18.220324
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0255@
+3 PAGE Pipia Wojciech, Sibińska Marianna - akt małżeństwa; str. 4, wpis nr 6
+3 OBJE @O0702@
+1 CHAN
+2 DATE 31 JAN 2023
+3 TIME 16:22:37
+0 @F0300@ FAM
+1 HUSB @I0543@
+1 WIFE @I0544@
+1 MARR
+2 DATE 7 NOV 1824
+2 SOUR @S0257@
+3 PAGE Kątowksa Monika, Sibiński Mikołaj; prawa strona, wpis 3 od góry
+3 OBJE @O0703@
+2 SOUR @S0256@
+3 PAGE Kątowska Monika, Niedźwiedzki Mikołaj; str. 30, wpis nr 24
+3 OBJE @O0704@
+1 CHIL @I0545@
+1 CHAN
+2 DATE 4 FEB 2023
+3 TIME 13:50:22
+0 @F0301@ FAM
+1 HUSB @I0546@
+1 WIFE @I0547@
+1 CHIL @I0223@
+1 CHAN
+2 DATE 4 FEB 2023
+3 TIME 14:13:29
 0 @F500004@ FAM
 1 HUSB @I500013@
 1 WIFE @I500012@
@@ -17344,12 +17879,9 @@
 2 ADDR
 3 CITY Katowice
 3 CTRY Polska
-1 FACT MH:F500055
-2 TYPE RIN
-1 _UID 5DE8203E72E6C12E9CD9301055BC0FB3
 1 CHAN
-2 DATE 2 FEB 2020
-3 TIME 22:55:32
+2 DATE 3 NOV 2022
+3 TIME 20:05:53
 0 @F500056@ FAM
 1 HUSB @I500158@
 1 WIFE @I500159@
@@ -17755,8 +18287,8 @@
 0 @S0001@ SOUR
 1 TITL Geneteka
 1 CHAN
-2 DATE 1 NOV 2020
-3 TIME 14:56:04
+2 DATE 4 FEB 2023
+3 TIME 21:38:23
 0 @S0011@ SOUR
 1 TITL Włodarczak Stefania - akt zgonu
 1 OBJE @O0315@
@@ -19233,6 +19765,69 @@
 1 CHAN
 2 DATE 31 OCT 2022
 3 TIME 22:01:35
+0 @S0252@ SOUR
+1 TITL Opracowanie Spisu Ludności Parafii Kraszewice z lat 1790 oraz 1791
+1 AUTH Wojciech Gracz
+1 PUBL Opracowanie na podstawie: Regestr Ludności Chrześcijan w Parafii Kraszew
+2 CONC ickiej w Dekanacie Kaliskim w Województwie i Powiecie Sieradzkim, AGAD
+2 CONC , Akta Komisji Porządkowej Cywilno-Wojskowej ziemi wieluńskiej i powiat
+2 CONC u ostrzeszowskiego, mk.12359
+1 OBJE @O0699@
+1 CHAN
+2 DATE 29 JAN 2023
+3 TIME 21:50:30
+0 @S0253@ SOUR
+1 TITL Księga urodzeń, zaślubin i zejścia (duplikat) 1842
+1 AUTH Parafia Rzymskokatolicka Wojków
+1 REPO @R0034@
+1 CHAN
+2 DATE 4 FEB 2023
+3 TIME 13:01:44
+0 @S0254@ SOUR
+1 TITL Księga urodzeń, zaślubin i zejścia (duplikat) 1841
+1 AUTH Parafia Rzymskokatolicka Wojków
+1 REPO @R0034@
+1 CHAN
+2 DATE 30 JAN 2023
+3 TIME 22:17:41
+0 @S0255@ SOUR
+1 TITL Akta Stanu Cywilnego Małżeństw Parafii Kraszewickej 1815,1816
+1 AUTH Parafia Rzymskokatolicka Kraszewice
+1 REPO @R0038@
+1 CHAN
+2 DATE 31 JAN 2023
+3 TIME 13:35:31
+0 @S0256@ SOUR
+1 TITL Akta Urzędnika Stanu Cywilnego Urodzenia, Małżeństwa i Zejścia - Wojk
+2 CONC ów 1824
+1 AUTH Parafia Rzymskokatolicka Wojków
+1 REPO @R0034@
+2 CALN 1730d Akta stanu cywilnego Parafii Rzymskokatolickiej w Wojkowie
+3 MEDI Book
+1 CHAN
+2 DATE 31 JAN 2023
+3 TIME 21:09:19
+0 @S0257@ SOUR
+1 TITL Akta urodzeń 1820-1827, małżeństw 1823-1832 i zgonów 1817-1832
+1 AUTH Parafia Rzymskokatolicka Wojków
+1 REPO @R0039@
+1 CHAN
+2 DATE 31 JAN 2023
+3 TIME 21:20:51
+0 @S0258@ SOUR
+1 TITL Akta Urodzeń, Małżeństw i zgonów (duplikat) 1849
+1 AUTH Parafia Rzymskokatolicka Wojków
+1 REPO @R0034@
+1 CHAN
+2 DATE 4 FEB 2023
+3 TIME 13:03:32
+0 @S0259@ SOUR
+1 TITL USC Parafia Wojków 1825
+1 AUTH Parafia Rzymskokatolicka Wojków
+1 REPO @R0034@
+1 CHAN
+2 DATE 4 FEB 2023
+3 TIME 13:46:43
 0 @S500001@ SOUR
 1 TITL Brylewski Web Site
 1 AUTH Grzegorz Brylewski
@@ -19391,6 +19986,10 @@
 2 CTRY Polska
 0 @R0037@ REPO
 1 NAME Kościół pw. Trójcy Św. w Bytomiu
+0 @R0038@ REPO
+1 NAME Archiwum Państwowe w Kaliszu
+0 @R0039@ REPO
+1 NAME Familysearch
 0 @O0000@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/500018_83613838t5dbd58205l30l.jpg
 2 FORM jpg
@@ -24172,4 +24771,60 @@
 1 CHAN
 2 DATE 31 OCT 2022
 3 TIME 22:01:33
+0 @O0699@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/opracowanie-spisu-ludności-kraszewice.pdf
+2 FORM pdf
+2 TITL opracowanie-spisu-ludności-kraszewice
+1 CHAN
+2 DATE 29 JAN 2023
+3 TIME 21:50:23
+0 @O0700@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Kałuża__Sibińska/kaluza-pawel__sibinska-marianna__akt-malzenstwa.jpg
+2 FORM jpg
+2 TITL kaluza-pawel__sibinska-marianna__akt-malzenstwa
+1 CHAN
+2 DATE 30 JAN 2023
+3 TIME 20:11:49
+0 @O0701@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Pipia__Sibińska/pipa-wojciech__akt-zgonu.jpg
+2 FORM jpg
+2 TITL pipa-wojciech__akt-zgonu
+1 CHAN
+2 DATE 30 JAN 2023
+3 TIME 22:19:03
+0 @O0702@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Pipia__Sibińska/pipa-wojciech_sibinska-marianna__akt-malzenstwa.jpg
+2 FORM jpg
+2 TITL pipa-wojciech_sibinska-marianna__akt-malzenstwa
+1 CHAN
+2 DATE 31 JAN 2023
+3 TIME 13:35:14
+0 @O0703@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Kątkowska__Sibiński/katowska-monika_sibinski-mikolaj__akt-malzenstwa.jpg
+2 FORM jpg
+2 TITL katowska-monika_sibinski-mikolaj__akt-malzenstwa
+1 CHAN
+2 DATE 3 FEB 2023
+3 TIME 21:48:25
+0 @O0704@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Kątkowska__Sibiński/katowska-monika_niedzwiedzki-mikolaj__akt-malzenstwa.jpg
+2 FORM jpg
+2 TITL katowska-monika_niedzwiedzki-mikolaj__akt-malzenstwa
+1 CHAN
+2 DATE 3 FEB 2023
+3 TIME 21:54:41
+0 @O0705@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Kałuża__Sibińska/kaluza-pawel__akt-zgonu.jpg
+2 FORM jpg
+2 TITL kaluza-pawel__akt-zgonu
+1 CHAN
+2 DATE 4 FEB 2023
+3 TIME 13:04:35
+0 @O0706@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Kątkowska__Sibiński/sibinska-marianna__akt-urodzenia.jpg
+2 FORM jpg
+2 TITL sibinska-marianna__akt-urodzenia
+1 CHAN
+2 DATE 4 FEB 2023
+3 TIME 13:47:31
 0 TRLR
