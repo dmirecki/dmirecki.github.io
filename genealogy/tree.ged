@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 5.1.5
 2 NAME Gramps
-1 DATE 5 FEB 2023
-2 TIME 00:01:19
+1 DATE 7 MAY 2023
+2 TIME 13:20:38
 1 SUBM @SUBM@
 1 FILE /home/dmirecki/projects/dmirecki.github.io/genealogy/tree.ged
 1 COPR Copyright (c) 2023 Damian Mirecki.
@@ -352,8 +352,8 @@
 1 FAMC @F0003@
 2 PEDI birth
 1 CHAN
-2 DATE 17 AUG 2022
-3 TIME 17:01:59
+2 DATE 16 APR 2023
+3 TIME 15:34:19
 0 @I0013@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -1636,8 +1636,8 @@
 1 OBJE @O0588@
 1 OBJE @O0589@
 1 CHAN
-2 DATE 10 APR 2022
-3 TIME 19:21:17
+2 DATE 5 MAY 2023
+3 TIME 17:56:55
 0 @I0091@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -1725,8 +1725,8 @@
 2 SURN [Private]
 1 SEX M
 1 CHAN
-2 DATE 14 SEP 2021
-3 TIME 12:44:37
+2 DATE 7 MAY 2023
+3 TIME 11:17:04
 0 @I0097@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -1889,17 +1889,15 @@
 2 GIVN Wanda Maria
 2 SURN Olesińska
 1 SEX F
-1 FACT MH:I500093
-2 TYPE RIN
-1 _UID 5DBC63225DC1498267CADE72798F26B1
 1 FAMC @F0055@
 2 PEDI birth
 1 FAMS @F500035@
+1 SOUR @S0265@
 1 OBJE @O0272@
 1 OBJE @O0251@
 1 CHAN
-2 DATE 24 FEB 2021
-3 TIME 20:55:09
+2 DATE 2 MAY 2023
+3 TIME 20:49:07
 0 @I0103@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -2305,8 +2303,8 @@
 1 SOUR @S0032@
 2 QUAY 3
 1 CHAN
-2 DATE 10 FEB 2020
-3 TIME 21:21:41
+2 DATE 5 MAY 2023
+3 TIME 17:56:55
 0 @I0130@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -4205,8 +4203,8 @@
 2 PEDI birth
 1 FAMS @F0137@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:43:53
+2 DATE 18 APR 2023
+3 TIME 19:05:18
 0 @I0234@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -4233,15 +4231,14 @@
 2 GIVN Stanisław
 2 SURN Kulik
 1 SEX M
-1 FACT MH:I500011
-2 TYPE RIN
-1 _UID 5DBC14B5F1C1F2024A61C44C20D7C9AE
+1 FACT Czerniak złośliwy
+2 TYPE Przyczyna śmieci
 1 FAMC @F0145@
 2 PEDI birth
 1 FAMS @F0141@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:34:52
+2 DATE 18 APR 2023
+3 TIME 19:00:46
 0 @I0237@ INDI
 1 NAME Zyta /Chudzicka/
 2 GIVN Zyta
@@ -4260,8 +4257,8 @@
 2 PEDI birth
 1 FAMS @F0143@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:48:07
+2 DATE 2 MAY 2023
+3 TIME 20:34:14
 0 @I0238@ INDI
 1 NAME Kazimierz /Kopeć/
 2 GIVN Kazimierz
@@ -4269,15 +4266,12 @@
 1 SEX M
 1 BIRT
 2 DATE 2 JUN 1911
-1 FACT MH:I500013
-2 TYPE RIN
-1 _UID 5DBC15335BAFC0123C171D9556989566
 1 FAMC @F0149@
 2 PEDI birth
 1 FAMS @F0143@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:53:53
+2 DATE 2 MAY 2023
+3 TIME 19:54:08
 0 @I0239@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -4287,8 +4281,8 @@
 2 PEDI birth
 1 FAMS @F0151@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:34:53
+2 DATE 2 MAY 2023
+3 TIME 19:51:57
 0 @I0240@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -4310,8 +4304,8 @@
 2 PEDI birth
 1 FAMS @F500029@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:34:53
+2 DATE 2 MAY 2023
+3 TIME 19:51:57
 0 @I0242@ INDI
 1 NAME Krystyna /Kopeć/
 2 GIVN Krystyna
@@ -4323,8 +4317,8 @@
 1 FAMC @F0143@
 2 PEDI birth
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:34:53
+2 DATE 2 MAY 2023
+3 TIME 19:51:57
 0 @I0243@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -4427,15 +4421,18 @@
 2 PLAC Piasek Wielki, Polska
 2 ADDR
 3 CTRY Polska
-1 FACT MH:I500029
-2 TYPE RIN
-1 _UID 5DBC1852AD1104C68FAB549B8468DED8
+1 BURI
+2 PLAC Ostrowce, świętokrzyskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0261@
 1 FAMC @F500079@
 2 PEDI birth
 1 FAMS @F0145@
+1 SOUR @S0261@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:34:56
+2 DATE 2 MAY 2023
+3 TIME 20:09:53
 0 @I0253@ INDI
 1 NAME Maria //
 2 GIVN Maria
@@ -4456,14 +4453,24 @@
 2 GIVN Apolonia
 2 SURN Kulik
 1 SEX F
-1 FACT MH:I500031
-2 TYPE RIN
-1 _UID 5DBC1852D10EF4C98FAB549B8468DED8
+1 BIRT
+2 DATE ABT 1933
+2 SOUR @S0263@
+1 DEAT
+2 DATE 2 MAY 2021
+2 SOUR @S0263@
+1 BURI
+2 PLAC Ostrowce, świętokrzyskie, Polska
+2 ADDR
+3 CTRY Polska
 1 FAMC @F0145@
 2 PEDI birth
+1 FAMS @F0302@
+1 SOUR @S0263@
+1 OBJE @O0712@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:34:56
+2 DATE 2 MAY 2023
+3 TIME 20:29:35
 0 @I0255@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -4522,21 +4529,18 @@
 2 PEDI birth
 1 FAMS @F0156@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:34:57
+2 DATE 18 APR 2023
+3 TIME 19:02:57
 0 @I0259@ INDI
 1 NAME Józef /Korotusz/
 2 GIVN Józef
 2 SURN Korotusz
 1 SEX M
-1 FACT MH:I500037
-2 TYPE RIN
-1 _UID 5DBC18B63F7974C6B3A9C2157DDDDE1F
 1 FAMC @F0164@
 2 PEDI birth
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:34:58
+2 DATE 18 APR 2023
+3 TIME 19:02:57
 0 @I0260@ INDI
 1 NAME Antoni /Rozmarynowski/
 2 GIVN Antoni
@@ -4716,15 +4720,13 @@
 1 SEX F
 1 DEAT
 2 DATE EST 1917
-1 FACT MH:I500064
-2 TYPE RIN
-1 _UID 5DBC20BBC331CE22E34F7818DD3A7C31
 1 FAMC @F500076@
 2 PEDI birth
 1 FAMS @F0147@
+1 SOUR @S0264@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:35:04
+2 DATE 3 MAY 2023
+3 TIME 19:48:31
 0 @I0276@ INDI
 1 NAME Piotr /Chudzicki/
 2 GIVN Piotr
@@ -4735,15 +4737,12 @@
 2 PLAC Zagorzany, Polska
 2 ADDR
 3 CTRY Polska
-1 FACT MH:I500065
-2 TYPE RIN
-1 _UID 5DBC20BBD3DA2E24E34F7818DD3A7C31
 1 FAMC @F0147@
 2 PEDI birth
 1 FAMS @F0183@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:48:07
+2 DATE 3 MAY 2023
+3 TIME 19:48:53
 0 @I0277@ INDI
 1 NAME Maria /Chudzicka/ Barbara
 2 GIVN Maria
@@ -5078,8 +5077,8 @@
 2 PEDI birth
 1 FAMS @F0199@
 1 CHAN
-2 DATE 31 JAN 2021
-3 TIME 20:19:02
+2 DATE 2 MAY 2023
+3 TIME 20:34:14
 0 @I0307@ INDI
 1 NAME Anotni /Santor/
 2 GIVN Anotni
@@ -5220,8 +5219,8 @@
 2 PEDI birth
 1 FAMS @F0207@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:48:07
+2 DATE 2 MAY 2023
+3 TIME 20:34:14
 0 @I0320@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -5249,8 +5248,8 @@
 2 PEDI birth
 1 FAMS @F0208@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:48:07
+2 DATE 2 MAY 2023
+3 TIME 20:34:14
 0 @I0322@ INDI
 1 NAME Stanisław /Ząbek/
 2 GIVN Stanisław
@@ -5314,35 +5313,48 @@
 2 DATE 28 MAY 2020
 3 TIME 19:35:16
 0 @I0328@ INDI
-1 NAME Maria /Kopeć/
-2 GIVN Maria
+1 NAME Marianna /Kopeć/
+2 GIVN Marianna
 2 SURN Kopeć
 1 NAME Maria /Swatek/
 2 TYPE married
 2 GIVN Maria
 2 SURN Swatek
 1 SEX F
-1 FACT MH:I500192
-2 TYPE RIN
-1 _UID 5DBD8259BB403BB564620BF10BF1ACD3
+1 BURI
+2 PLAC Ostrowce, świętokrzyskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0262@
 1 FAMC @F0143@
 2 PEDI birth
 1 FAMS @F500069@
+1 SOUR @S0262@
+1 OBJE @O0709@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:35:16
+2 DATE 2 MAY 2023
+3 TIME 20:19:44
 0 @I0329@ INDI
 1 NAME Jan /Swatek/
 2 GIVN Jan
 2 SURN Swatek
 1 SEX M
-1 FACT MH:I500193
-2 TYPE RIN
-1 _UID 5DBD8269B2CA411C725A8A9F2ED7EFE1
+1 BIRT
+2 DATE ABT 1932
+2 SOUR @S0262@
+1 DEAT
+2 DATE 6 MAR 2013
+2 SOUR @S0262@
+1 BURI
+2 PLAC Ostrowce, świętokrzyskie, Polska
+2 ADDR
+3 CTRY Polska
 1 FAMS @F500069@
+1 SOUR @S0262@
+1 OBJE @O0710@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:35:16
+2 DATE 2 MAY 2023
+3 TIME 20:22:04
 0 @I0330@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -5647,8 +5659,8 @@
 1 FAMC @F0149@
 2 PEDI birth
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:53:53
+2 DATE 2 MAY 2023
+3 TIME 19:54:08
 0 @I0354@ INDI
 1 NAME Franciszek /Kopeć/
 2 GIVN Franciszek
@@ -5662,8 +5674,8 @@
 1 FAMC @F0149@
 2 PEDI birth
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:53:53
+2 DATE 2 MAY 2023
+3 TIME 19:54:08
 0 @I0355@ INDI
 1 NAME Maria /Kopeć/
 2 GIVN Maria
@@ -5680,8 +5692,8 @@
 2 PEDI birth
 1 FAMS @F500085@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:53:53
+2 DATE 2 MAY 2023
+3 TIME 19:54:08
 0 @I0356@ INDI
 1 NAME Helena /Kopeć/
 2 GIVN Helena
@@ -5693,8 +5705,8 @@
 1 FAMC @F0149@
 2 PEDI birth
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:53:53
+2 DATE 2 MAY 2023
+3 TIME 19:54:08
 0 @I0357@ INDI
 1 NAME Zofia /Kopeć/
 2 GIVN Zofia
@@ -5708,8 +5720,8 @@
 1 FAMC @F0149@
 2 PEDI birth
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:53:53
+2 DATE 2 MAY 2023
+3 TIME 19:54:08
 0 @I0358@ INDI
 1 NAME Wiktoria /Kopeć/
 2 GIVN Wiktoria
@@ -5721,8 +5733,8 @@
 1 FAMC @F0149@
 2 PEDI birth
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:53:53
+2 DATE 2 MAY 2023
+3 TIME 19:54:08
 0 @I0359@ INDI
 1 NAME Stanisława /Kopeć/
 2 GIVN Stanisława
@@ -5739,8 +5751,8 @@
 2 PEDI birth
 1 FAMS @F0220@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:53:53
+2 DATE 2 MAY 2023
+3 TIME 19:54:08
 0 @I0360@ INDI
 1 NAME Franciszek /Kurpiński/ babuńciu
 2 GIVN Franciszek
@@ -9936,8 +9948,8 @@
 2 PAGE Karasek Katarzyna - akt urodzenia; str 314, Jakubów
 2 OBJE @O0628@
 1 CHAN
-2 DATE 18 FEB 2022
-3 TIME 21:13:02
+2 DATE 5 MAY 2023
+3 TIME 19:17:50
 0 @I0502@ INDI
 1 NAME Wojciech /Kielesiński/
 2 GIVN Wojciech
@@ -10132,10 +10144,13 @@
 2 SURN Karasek
 1 SEX M
 1 BIRT
-2 DATE ABT 1742
+2 DATE ABT 1750
 2 SOUR @S0207@
 3 PAGE Karasek Marcin - akt zgonu; wpis nr 74
 3 OBJE @O0629@
+2 SOUR @S0266@
+3 PAGE Parafia Imielno, wieś Jakubów, wpis nr 33, str. 381
+3 OBJE @O0716@
 1 DEAT
 2 DATE 2 NOV 1812
 2 PLAC Jakubów, Imielno, jędrzejowski, świętokrzyskie, Polska
@@ -10160,9 +10175,12 @@
 1 SOUR @S0145@
 2 PAGE Ciszkoszczonka Katarzyna, Karasek Marcin - akt ślubu; rok 1786, str. 200, wpis nr 4
 2 OBJE @O0631@
+1 SOUR @S0266@
+2 PAGE Parafia Imielno, wieś Jakubów, wpis nr 33, str. 381
+2 OBJE @O0716@
 1 CHAN
-2 DATE 18 FEB 2022
-3 TIME 21:12:45
+2 DATE 5 MAY 2023
+3 TIME 19:15:28
 0 @I0508@ INDI
 1 NAME Katarzyna /Ciszkoszczonka/
 2 GIVN Katarzyna
@@ -10185,10 +10203,13 @@
 3 OBJE @O0630@
 1 SEX F
 1 BIRT
-2 DATE ABT 1760
+2 DATE ABT 1761
 2 SOUR @S0207@
 3 PAGE Karaskowa Katarzyna - akt zgonu; wpis nr 82
 3 OBJE @O0630@
+2 SOUR @S0266@
+3 PAGE Parafia Imielno, wieś Jakubów, wpis nr 33, str. 381
+3 OBJE @O0716@
 1 DEAT
 2 DATE 9 DEC 1812
 2 PLAC Jakubów, Imielno, jędrzejowski, świętokrzyskie, Polska
@@ -10213,9 +10234,12 @@
 1 SOUR @S0145@
 2 PAGE Ciszkoszczonka Katarzyna, Karasek Marcin - akt ślubu; rok 1786, str. 200, wpis nr 4
 2 OBJE @O0631@
+1 SOUR @S0266@
+2 PAGE Parafia Imielno, wieś Jakubów, wpis nr 33, str. 381
+2 OBJE @O0716@
 1 CHAN
-2 DATE 18 FEB 2022
-3 TIME 21:12:59
+2 DATE 5 MAY 2023
+3 TIME 19:16:45
 0 @I0509@ INDI
 1 NAME Michał /Suchanek/
 2 GIVN Michał
@@ -10270,9 +10294,12 @@
 1 SOUR @S0213@
 2 PAGE Suchanek Michał - odpis aktu chrztu; str. 3
 2 OBJE @O0640@
+1 SOUR @S0266@
+2 PAGE Parafia Imielno, wieś Motkowice, wpis nr 56, str. 400
+2 OBJE @O0715@
 1 CHAN
-2 DATE 13 APR 2022
-3 TIME 21:04:04
+2 DATE 5 MAY 2023
+3 TIME 19:04:05
 0 @I0510@ INDI
 1 NAME Elżbieta /Cieśla/
 2 GIVN Elżbieta
@@ -10366,7 +10393,7 @@
 2 SURN Suchanek
 1 SEX M
 1 BIRT
-2 DATE ABT 1743
+2 DATE ABT 1760
 2 SOUR @S0223@
 3 PAGE Suchanek Marcin - akt zgonu; wpis nr 5
 3 OBJE @O0660@
@@ -10391,14 +10418,27 @@
 1 SOUR @S0223@
 2 PAGE Suchanek Marcin - akt zgonu; wpis nr 5
 2 OBJE @O0660@
+1 SOUR @S0266@
+2 PAGE Parafia Imielno, wieś Motkowice, wpis nr 56, str. 400
+2 OBJE @O0715@
 1 CHAN
-2 DATE 13 APR 2022
-3 TIME 20:36:45
+2 DATE 5 MAY 2023
+3 TIME 18:59:16
 0 @I0514@ INDI
 1 NAME Jadwiga /Stępień/
 2 GIVN Jadwiga
 2 SURN Stępień
 1 SEX F
+1 BIRT
+2 DATE ABT 1762
+2 SOUR @S0266@
+3 PAGE Parafia Imielno, wieś Motkowice, wpis nr 56, str. 400
+3 OBJE @O0715@
+1 DEAT
+2 DATE AFT 1790
+2 SOUR @S0266@
+3 PAGE Parafia Imielno, wieś Motkowice, wpis nr 56, str. 400
+3 OBJE @O0715@
 1 FAMS @F0284@
 1 SOUR @S0213@
 2 PAGE Suchanek Michał - odpis aktu chrztu; str. 3
@@ -10406,9 +10446,12 @@
 1 SOUR @S0222@
 2 PAGE Suchanek Paweł - akt urodzenia; str. 377
 2 OBJE @O0659@
+1 SOUR @S0266@
+2 PAGE Parafia Imielno, wieś Motkowice, wpis nr 56, str. 400
+2 OBJE @O0715@
 1 CHAN
-2 DATE 13 APR 2022
-3 TIME 20:22:56
+2 DATE 5 MAY 2023
+3 TIME 19:00:38
 0 @I0515@ INDI
 1 NAME Marianna /Koch/
 2 GIVN Marianna
@@ -10614,16 +10657,19 @@
 1 SOUR @S0223@
 2 PAGE Suchanek Marcin - akt zgonu; wpis nr 5
 2 OBJE @O0660@
+1 SOUR @S0266@
+2 PAGE Parafia Imielno, wieś Motkowice, wpis nr 56, str. 400
+2 OBJE @O0715@
 1 CHAN
-2 DATE 13 APR 2022
-3 TIME 21:04:04
+2 DATE 5 MAY 2023
+3 TIME 19:04:05
 0 @I0523@ INDI
 1 NAME Antoni /Jakubczyk/
 2 GIVN Antoni
 2 SURN Jakubczyk
 1 SEX M
 1 BIRT
-2 DATE ABT 1783
+2 DATE ABT 1787
 2 PLAC Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
 3 MAP
 4 LATI N50.631869
@@ -10634,6 +10680,9 @@
 2 SOUR @S0226@
 3 PAGE Jakubczyk Anotni, Stępień Regina - akt małżeństwa; wpis nr 26
 3 OBJE @O0667@
+2 SOUR @S0266@
+3 PAGE Parafia Imielno, wieś Motkowice, wpis nr 16, str. 396
+3 OBJE @O0717@
 1 FAMC @F0290@
 2 PEDI birth
 1 FAMS @F0289@
@@ -10644,9 +10693,12 @@
 1 SOUR @S0226@
 2 PAGE Jakubczyk Anotni, Stępień Regina - akt małżeństwa; wpis nr 26
 2 OBJE @O0667@
+1 SOUR @S0266@
+2 PAGE Parafia Imielno, wieś Motkowice, wpis nr 16, str. 396
+2 OBJE @O0717@
 1 CHAN
-2 DATE 18 APR 2022
-3 TIME 07:43:06
+2 DATE 5 MAY 2023
+3 TIME 20:15:23
 0 @I0524@ INDI
 1 NAME Regina /Stępień/
 2 GIVN Regina
@@ -10680,24 +10732,50 @@
 2 GIVN Tomasz
 2 SURN Jakubczyk
 1 SEX M
+1 BIRT
+2 DATE ABT 1751
+2 SOUR @S0266@
+3 PAGE Parafia Imielno, wieś Motkowice, wpis nr 16, str. 396
+3 OBJE @O0717@
+1 DEAT
+2 DATE AFT 1790
+2 SOUR @S0266@
+3 PAGE Parafia Imielno, wieś Motkowice, wpis nr 16, str. 396
+3 OBJE @O0717@
 1 FAMS @F0290@
 1 SOUR @S0226@
 2 PAGE Jakubczyk Anotni, Stępień Regina - akt małżeństwa; wpis nr 26
 2 OBJE @O0667@
+1 SOUR @S0266@
+2 PAGE Parafia Imielno, wieś Motkowice, wpis nr 16, str. 396
+2 OBJE @O0717@
 1 CHAN
-2 DATE 18 APR 2022
-3 TIME 07:41:31
+2 DATE 5 MAY 2023
+3 TIME 20:13:26
 0 @I0526@ INDI
 1 NAME Jadwiga //
 2 GIVN Jadwiga
 1 SEX F
+1 BIRT
+2 DATE ABT 1757
+2 SOUR @S0266@
+3 PAGE Parafia Imielno, wieś Motkowice, wpis nr 16, str. 396
+3 OBJE @O0717@
+1 DEAT
+2 DATE AFT 1790
+2 SOUR @S0266@
+3 PAGE Parafia Imielno, wieś Motkowice, wpis nr 16, str. 396
+3 OBJE @O0717@
 1 FAMS @F0290@
 1 SOUR @S0226@
 2 PAGE Jakubczyk Anotni, Stępień Regina - akt małżeństwa; wpis nr 26
 2 OBJE @O0667@
+1 SOUR @S0266@
+2 PAGE Parafia Imielno, wieś Motkowice, wpis nr 16, str. 396
+2 OBJE @O0717@
 1 CHAN
-2 DATE 18 APR 2022
-3 TIME 07:41:31
+2 DATE 5 MAY 2023
+3 TIME 20:14:38
 0 @I0527@ INDI
 1 NAME Franciszka //
 2 GIVN Franciszka
@@ -11158,6 +11236,67 @@
 1 CHAN
 2 DATE 4 FEB 2023
 3 TIME 21:43:26
+0 @I0548@ INDI
+1 NAME Eugeniusz /Grabda/
+2 GIVN Eugeniusz
+2 SURN Grabda
+1 SEX M
+1 DEAT
+2 DATE 2 JUL 1993
+1 BURI
+2 PLAC Ostrowce, świętokrzyskie, Polska
+2 ADDR
+3 CTRY Polska
+1 FAMS @F0302@
+1 CHAN
+2 DATE 2 MAY 2023
+3 TIME 19:45:23
+0 @I0549@ INDI
+1 NAME Franciszka //
+2 GIVN Franciszka
+1 SEX F
+1 DEAT
+2 DATE ABT 1960
+1 FAMS @F0149@
+1 CHAN
+2 DATE 3 MAY 2023
+3 TIME 19:40:57
+0 @I0550@ INDI
+1 NAME Feliks /Suchanek/
+2 GIVN Feliks
+2 SURN Suchanek
+1 SEX M
+1 BIRT
+2 DATE ABT 1788
+2 SOUR @S0266@
+3 PAGE Parafia Imielno, wieś Motkowice, wpis nr 56, str. 400
+3 OBJE @O0715@
+1 FAMC @F0284@
+2 PEDI birth
+1 SOUR @S0266@
+2 PAGE Parafia Imielno, wieś Motkowice, wpis nr 56, str. 400
+2 OBJE @O0715@
+1 CHAN
+2 DATE 5 MAY 2023
+3 TIME 19:04:05
+0 @I0551@ INDI
+1 NAME Franciszka /Karasek/
+2 GIVN Franciszka
+2 SURN Karasek
+1 SEX F
+1 BIRT
+2 DATE ABT 1786
+2 SOUR @S0266@
+3 PAGE Parafia Imielno, wieś Jakubów, wpis nr 33, str. 381
+3 OBJE @O0716@
+1 FAMC @F0281@
+2 PEDI birth
+1 SOUR @S0266@
+2 PAGE Parafia Imielno, wieś Jakubów, wpis nr 33, str. 381
+2 OBJE @O0716@
+1 CHAN
+2 DATE 5 MAY 2023
+3 TIME 19:17:50
 0 @I500004@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -11228,8 +11367,8 @@
 2 PEDI birth
 1 FAMS @F0141@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:34:52
+2 DATE 2 MAY 2023
+3 TIME 19:51:57
 0 @I500011@ INDI
 1 NAME Aniela /Poloczek/
 2 GIVN Aniela
@@ -11512,15 +11651,14 @@
 2 GIVN Michał
 2 SURN Korotusz
 1 SEX M
-1 FACT MH:I500033
-2 TYPE RIN
-1 _UID 5DBC188393856F4D36D9625959A18CC5
+1 FACT Czerniak
+2 TYPE Przyczyna śmieci
 1 FAMC @F0164@
 2 PEDI birth
 1 FAMS @F0139@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:34:57
+2 DATE 18 APR 2023
+3 TIME 19:05:15
 0 @I500034@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -11710,8 +11848,8 @@
 2 PEDI birth
 1 FAMS @F0172@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:35:01
+2 DATE 18 APR 2023
+3 TIME 19:05:18
 0 @I500052@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -11804,8 +11942,8 @@
 2 PEDI birth
 1 FAMS @F0178@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:35:02
+2 DATE 18 APR 2023
+3 TIME 19:02:57
 0 @I500059@ INDI
 1 NAME Antoni /Wac/
 2 GIVN Antoni
@@ -12606,8 +12744,8 @@
 1 OBJE @O0372@
 1 OBJE @O0374@
 1 CHAN
-2 DATE 11 MAR 2020
-3 TIME 21:50:05
+2 DATE 5 MAY 2023
+3 TIME 17:56:55
 0 @I500130@ INDI
 1 NAME Stanisława /Sibińska/
 2 TYPE married
@@ -14501,14 +14639,16 @@
 2 DATE 31 OCT 2022
 3 TIME 20:54:15
 0 @I500232@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Wawrzyniec /Kopeć/
+2 GIVN Wawrzyniec
+2 SURN Kopeć
 1 SEX M
+1 DEAT
+2 DATE BEF 1939
 1 FAMS @F0149@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:35:23
+2 DATE 3 MAY 2023
+3 TIME 19:41:33
 0 @I500233@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -14529,8 +14669,8 @@
 2 PEDI birth
 1 FAMS @F500084@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:53:53
+2 DATE 2 MAY 2023
+3 TIME 19:54:08
 0 @I500235@ INDI
 1 NAME Idzi /Sibiński/
 2 GIVN Idzi
@@ -15813,14 +15953,11 @@
 0 @F0139@ FAM
 1 HUSB @I500033@
 1 WIFE @I0255@
-1 FACT MH:F500013
-2 TYPE RIN
-1 _UID 5DBC18750129377063448F918880A58D
 1 CHIL @I0233@
 1 CHIL @I500051@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:35:29
+2 DATE 18 APR 2023
+3 TIME 19:05:18
 0 @F0141@ FAM
 1 HUSB @I0236@
 1 WIFE @I500010@
@@ -15835,17 +15972,14 @@
 0 @F0143@ FAM
 1 HUSB @I0238@
 1 WIFE @I0237@
-1 FACT MH:F500007
-2 TYPE RIN
-1 _UID 5DBC152203014D49FEC60348E30C6AAD
 1 CHIL @I0328@
 1 CHIL @I500010@
 1 CHIL @I0241@
 1 CHIL @I0239@
 1 CHIL @I0242@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:35:27
+2 DATE 2 MAY 2023
+3 TIME 19:51:57
 0 @F0145@ FAM
 1 HUSB @I0252@
 1 WIFE @I0253@
@@ -15860,19 +15994,17 @@
 3 TIME 19:35:28
 0 @F0147@ FAM
 1 WIFE @I0275@
-1 FACT MH:F500024
-2 TYPE RIN
-1 _UID 5DBC20BBC94E3E23E34F7818DD3A7C31
 1 CHIL @I0321@
 1 CHIL @I0306@
 1 CHIL @I0237@
 1 CHIL @I0276@
 1 CHIL @I0319@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:48:07
+2 DATE 2 MAY 2023
+3 TIME 20:34:14
 0 @F0149@ FAM
 1 HUSB @I500232@
+1 WIFE @I0549@
 1 CHIL @I0354@
 1 CHIL @I0238@
 1 CHIL @I0357@
@@ -15883,8 +16015,8 @@
 1 CHIL @I500234@
 1 CHIL @I0353@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:53:53
+2 DATE 2 MAY 2023
+3 TIME 19:54:08
 0 @F0151@ FAM
 1 HUSB @I0240@
 1 WIFE @I0239@
@@ -15952,16 +16084,13 @@
 0 @F0164@ FAM
 1 HUSB @I0256@
 1 WIFE @I0257@
-1 FACT MH:F500014
-2 TYPE RIN
-1 _UID 5DBC189CC9C569D726EF6A24E5A7CECF
 1 CHIL @I500033@
 1 CHIL @I0258@
 1 CHIL @I0259@
 1 CHIL @I500058@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:35:29
+2 DATE 18 APR 2023
+3 TIME 19:02:57
 0 @F0167@ FAM
 1 HUSB @I500043@
 1 WIFE @I0262@
@@ -17054,9 +17183,10 @@
 3 PAGE Ciszkoszczonka Katarzyna, Karasek Marcin - akt ślubu; rok 1786, str. 200, wpis nr 4
 3 OBJE @O0631@
 1 CHIL @I0501@
+1 CHIL @I0551@
 1 CHAN
-2 DATE 18 FEB 2022
-3 TIME 21:13:02
+2 DATE 5 MAY 2023
+3 TIME 19:17:50
 0 @F0282@ FAM
 1 HUSB @I0509@
 1 WIFE @I0510@
@@ -17102,9 +17232,10 @@
 3 OBJE @O0662@
 1 CHIL @I0509@
 1 CHIL @I0522@
+1 CHIL @I0550@
 1 CHAN
-2 DATE 13 APR 2022
-3 TIME 21:04:04
+2 DATE 5 MAY 2023
+3 TIME 19:04:05
 0 @F0285@ FAM
 1 HUSB @I0225@
 1 WIFE @I0516@
@@ -17294,6 +17425,12 @@
 1 CHAN
 2 DATE 4 FEB 2023
 3 TIME 14:13:29
+0 @F0302@ FAM
+1 HUSB @I0548@
+1 WIFE @I0254@
+1 CHAN
+2 DATE 2 MAY 2023
+3 TIME 19:45:23
 0 @F500004@ FAM
 1 HUSB @I500013@
 1 WIFE @I500012@
@@ -17599,8 +17736,8 @@
 1 CHIL @I500129@
 1 CHIL @I0129@
 1 CHAN
-2 DATE 1 FEB 2020
-3 TIME 16:24:26
+2 DATE 5 MAY 2023
+3 TIME 17:56:55
 0 @F500034@ FAM
 1 HUSB @I500110@
 1 WIFE @I500111@
@@ -19828,6 +19965,51 @@
 1 CHAN
 2 DATE 4 FEB 2023
 3 TIME 13:46:43
+0 @S0261@ SOUR
+1 TITL Kulik Jan - nagrobek
+1 OBJE @O0707@
+1 REPO @R0040@
+1 CHAN
+2 DATE 2 MAY 2023
+3 TIME 20:22:37
+0 @S0262@ SOUR
+1 TITL Kopeć Marianna, Swatek Jan - nagrobek
+1 OBJE @O0708@
+1 OBJE @O0709@
+1 OBJE @O0710@
+1 REPO @R0040@
+1 CHAN
+2 DATE 2 MAY 2023
+3 TIME 20:20:54
+0 @S0263@ SOUR
+1 TITL Grabda Eugeniusz, Kulik Apolonia - nagrobek
+1 OBJE @O0711@
+1 OBJE @O0712@
+1 REPO @R0040@
+1 CHAN
+2 DATE 2 MAY 2023
+3 TIME 20:29:57
+0 @S0264@ SOUR
+1 TITL Chudzicka Julianna - nagrobek
+1 OBJE @O0713@
+1 REPO @R0040@
+1 CHAN
+2 DATE 2 MAY 2023
+3 TIME 20:33:50
+0 @S0265@ SOUR
+1 TITL Suchanek Wanda - nagrobek
+1 OBJE @O0714@
+1 REPO @R0041@
+1 CHAN
+2 DATE 2 MAY 2023
+3 TIME 20:48:18
+0 @S0266@ SOUR
+1 TITL Spisy ludności województwa krakowskiego z lat 1790-1791: Parafie powiat
+2 CONC u ksiąskiego na lit. C-K
+1 REPO @R0042@
+1 CHAN
+2 DATE 5 MAY 2023
+3 TIME 17:55:38
 0 @S500001@ SOUR
 1 TITL Brylewski Web Site
 1 AUTH Grzegorz Brylewski
@@ -19990,6 +20172,23 @@
 1 NAME Archiwum Państwowe w Kaliszu
 0 @R0039@ REPO
 1 NAME Familysearch
+0 @R0040@ REPO
+1 NAME Cmentarz parafialny w Ostrowcach, woj. świętokrzyskie
+1 ADDR
+2 CONT Ostrowce
+2 CONT Polska
+2 CITY Ostrowce
+2 CTRY Polska
+0 @R0041@ REPO
+1 NAME Cmentarz parafialny w Motkowicach, woj. świętokrzyskie
+1 ADDR
+2 CONT Motkowice
+2 CONT Polska
+2 CITY Motkowice
+2 CTRY Polska
+0 @R0042@ REPO
+1 NAME Archiwum Narodowe w Krakowie
+1 WWW https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/3406536
 0 @O0000@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/500018_83613838t5dbd58205l30l.jpg
 2 FORM jpg
@@ -24827,4 +25026,88 @@
 1 CHAN
 2 DATE 4 FEB 2023
 3 TIME 13:47:31
+0 @O0707@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Kulik__?/kulik-jan__nagrobek.jpg
+2 FORM jpg
+2 TITL kulik-jan__nagrobek
+1 CHAN
+2 DATE 2 MAY 2023
+3 TIME 20:08:34
+0 @O0708@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Kopeć__Swatek/kopeć-marianna_swatek-jan__nagrobek.jpg
+2 FORM jpg
+2 TITL kopeć-marianna_swatek-jan__nagrobek
+1 CHAN
+2 DATE 2 MAY 2023
+3 TIME 20:12:19
+0 @O0709@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Kopeć__Swatek/kopeć-marianna__zdjęcia-nagrobne.jpg
+2 FORM jpg
+2 TITL kopeć-marianna__zdjęcia-nagrobne
+1 CHAN
+2 DATE 2 MAY 2023
+3 TIME 20:20:25
+0 @O0710@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Kopeć__Swatek/swatek-jan__zdjęcie-nagrobne.jpg
+2 FORM jpg
+2 TITL swatek-jan__zdjęcie-nagrobne
+1 CHAN
+2 DATE 2 MAY 2023
+3 TIME 20:21:10
+0 @O0711@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Grabda__Kulik/grabda-eugeniusz__kulik-apolonia__nagrobek.jpg
+2 FORM jpg
+2 TITL grabda-eugeniusz__kulik-apolonia__nagrobek
+1 CHAN
+2 DATE 2 MAY 2023
+3 TIME 20:26:41
+0 @O0712@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Grabda__Kulik/kulik-apolonia__zdjecie-nagrobne.jpg
+2 FORM jpg
+2 TITL kulik-apolonia__zdjecie-nagrobne
+1 CHAN
+2 DATE 2 MAY 2023
+3 TIME 20:29:55
+0 @O0713@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Chudzicki__?/chudzicka-julianna__nagrobek.jpg
+2 FORM jpg
+2 TITL chudzicka-julianna__nagrobek
+1 CHAN
+2 DATE 2 MAY 2023
+3 TIME 20:33:48
+0 @O0714@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Olesinski__Suchanek/suchanek-wanda__nagrobek.jpg
+2 FORM jpg
+2 TITL suchanek-wanda__nagrobek
+1 CHAN
+2 DATE 2 MAY 2023
+3 TIME 20:47:28
+0 @O0715@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Stępień__Suchanek/suchanek-marcin__spis-ludnosci.jpg
+2 FORM jpg
+2 TITL suchanek-marcin__spis-ludnosci
+1 CHAN
+2 DATE 5 MAY 2023
+3 TIME 18:57:49
+0 @O0716@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Ciszkoszczonka__Karasek/karasek-marcin__spis-ludnosci.jpg
+2 FORM jpg
+2 TITL karasek-marcin__spis-ludnosci
+1 CHAN
+2 DATE 5 MAY 2023
+3 TIME 19:14:24
+0 @O0717@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Jakubczyk__?/jakubczyk-tomasz__spis-ludnosci.jpg
+2 FORM jpg
+2 TITL jakubczyk-tomasz__spis-ludnosci
+1 CHAN
+2 DATE 5 MAY 2023
+3 TIME 20:12:14
+0 @O0718@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Huńka__Rudnicka/hunka-andrzej.jpg
+2 FORM jpg
+2 TITL hunka-andrzej
+1 CHAN
+2 DATE 7 MAY 2023
+3 TIME 11:17:02
 0 TRLR

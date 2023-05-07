@@ -530,8 +530,8 @@ ppl/3/d/e779f96987a7565c28791f115d3.html|[Private]|[Private] /[Private]/|||||
 ppl/8/a/e779f96988a6a62adca3eb42ca8.html|[Private]|[Private] /[Private]/|||||
 ppl/3/b/e779f9698965e3f6115a0ccceb3.html|[Private]|[Private] /[Private]/|||||
 ppl/e/e/e779f96989f491aec59d1d4aeee.html|[Private]|[Private] /[Private]/|||||
-ppl/1/b/e779f9698aa5e408750386910b1.html|Kopeć|Maria /Kopeć/|||||
-ppl/1/a/e779f9698bb6fbef384f6c4fa1.html|[Private]|[Private] /[Private]/|||||
+ppl/1/b/e779f9698aa5e408750386910b1.html|Kopeć|Marianna /Kopeć/|||||
+ppl/1/a/e779f9698bb6fbef384f6c4fa1.html|Swatek|Jan /Swatek/|ABT 1932||6 MAR 2013||
 ppl/2/0/e779f9698c21642d6e2f737a602.html|[Private]|[Private] /[Private]/|||||
 ppl/c/9/e779f9698cb4f0a82d88113bb9c.html|[Private]|[Private] /[Private]/|||||
 ppl/f/1/e779f9698d522ead66767c3cb1f.html|[Private]|[Private] /[Private]/|||||
@@ -558,7 +558,7 @@ ppl/4/8/e779f9699c0344c71885425bc84.html|Gaweł|Jan /Gaweł/|10 FEB 1897||||
 ppl/3/9/e779f9699d0784d049e6c8ccf93.html|[Private]|[Private] /[Private]/|||||
 ppl/8/9/e779f9699d862c6ea60d165b498.html|| //|||||
 ppl/d/6/e779f9699e0b2b1204ec3ed56d.html|[Private]|[Private] /[Private]/|||||
-ppl/8/b/e779f9699e8190e7171570975b8.html|[Private]|[Private] /[Private]/|||||
+ppl/8/b/e779f9699e8190e7171570975b8.html|Kopeć|Wawrzyniec /Kopeć/|||BEF 1939||
 ppl/d/3/e779f9699ee247740a923e6743d.html|[Private]|[Private] /[Private]/|||||
 ppl/d/9/e779f9699f346c0214d1d3fb9d.html|Kopeć|Józef /Kopeć/|||||
 ppl/2/f/e779f9699fd2c1a56ffa534dff2.html|Kopeć|Stanisław /Kopeć/|||||
@@ -716,14 +716,14 @@ ppl/e/2/ef62b84fcef267b6119d78f9c2e.html|Gidek|Katarzyna /Gidek/|||AFT 12 JAN 18
 ppl/b/9/ef62cbfd83d754ce327684acf9b.html|Banaś|Tomasz /Banaś/||Rębów, Kije, pińczowski, świętokrzyskie, Polska|BET 13 NOV 1823 AND 18 JAN 1830||
 ppl/8/7/ef62cca338c540d8f9ab705a578.html|Rak|Magdalena /Rak/||Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska|BEF 18 JAN 1830||
 ppl/0/0/ef62cdf9807f31bc41f32afa00.html|Suchanek|Magdalena /Suchanek/|20 JUL 1806||15 DEC 1829|Motkowice, Polska|
-ppl/d/6/ef62cfaa18818831ee60954156d.html|Karasek|Marcin /Karasek/|ABT 1742||2 NOV 1812|Jakubów, Imielno, jędrzejowski, świętokrzyskie, Polska|
-ppl/5/7/ef62d13f0e26844ec0e68fec75.html|Ciszkoszczonka|Katarzyna /Ciszkoszczonka/|ABT 1760||9 DEC 1812|Jakubów, Imielno, jędrzejowski, świętokrzyskie, Polska|
+ppl/d/6/ef62cfaa18818831ee60954156d.html|Karasek|Marcin /Karasek/|ABT 1750||2 NOV 1812|Jakubów, Imielno, jędrzejowski, świętokrzyskie, Polska|
+ppl/5/7/ef62d13f0e26844ec0e68fec75.html|Ciszkoszczonka|Katarzyna /Ciszkoszczonka/|ABT 1761||9 DEC 1812|Jakubów, Imielno, jędrzejowski, świętokrzyskie, Polska|
 ppl/4/c/ef6fbf9990c4b721499455cb9c4.html|Suchanek|Michał /Suchanek/|ABT 28 SEP 1784|Motkowice, Polska|||
 ppl/e/a/ef6fc089fcf933175c578974ae.html|Cieśla|Elżbieta /Cieśla/|BEF 16 NOV 1791|Wólka, Jędrzejów, jędrzejowski, świętokrzyskie, Polska|||
 ppl/0/4/ef7622448e975f17a2c4170ce40.html|Cieśla|Franciszek /Cieśla/|ABT 1771||||
 ppl/1/e/ef762cae9056bcad98efa98a1e1.html|Cichoszczonka|Katarzyna /Cichoszczonka/|||||
-ppl/c/9/ef762f42074ba03d34554249c.html|Suchanek|Marcin /Suchanek/|ABT 1743||22 JAN 1814|Motkowice, Polska|
-ppl/e/d/ef762f753f044e7cdc9362851de.html|Stępień|Jadwiga /Stępień/|||||
+ppl/c/9/ef762f42074ba03d34554249c.html|Suchanek|Marcin /Suchanek/|ABT 1760||22 JAN 1814|Motkowice, Polska|
+ppl/e/d/ef762f753f044e7cdc9362851de.html|Stępień|Jadwiga /Stępień/|ABT 1762||AFT 1790||
 ppl/f/4/ef82f7dbc6e401bf544a4c6c4f.html|Koch|Marianna /Koch/|ABT 1782||||
 ppl/9/6/f00d4918c8b2a27cadde98adc69.html|Pipia|Helena /Pipia/|ABT 1804||||
 ppl/1/9/f00d4e4ab9f778fd3355ebf1291.html|Wyrębski|Wojciech /Wyrębski/|||BEF 1809||
@@ -732,10 +732,10 @@ ppl/a/3/f013803e1614e69dc967ccb633a.html|Wyrębski|Józef /Wyrębski/|ABT 1779||
 ppl/e/a/f01384224d176585c5c1d8dadae.html|Salamon|Tekla /Salamon/|||BEF 1809||
 ppl/7/7/f013872a89fe985fac88ee2c77.html|Grzesiek|Gertruda /Grzesiek/|ABT 1777||||
 ppl/9/6/f016c6cb3ec56eeaabbe0cd1969.html|Suchanek|Paweł /Suchanek/|23 JAN 1781|Motkowice, Polska|||
-ppl/c/d/f01a12342916e5cc6d140bb3bdc.html|Jakubczyk|Antoni /Jakubczyk/|ABT 1783|Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska|||
+ppl/c/d/f01a12342916e5cc6d140bb3bdc.html|Jakubczyk|Antoni /Jakubczyk/|ABT 1787|Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska|||
 ppl/b/c/f01a128809a7a4b0e65af9c01cb.html|Stępień|Regina /Stępień/|ABT 1807|Motkowice, Polska|||
-ppl/7/d/f02542862753d9ed4def693fbd7.html|Jakubczyk|Tomasz /Jakubczyk/|||||
-ppl/0/1/f02542ee02c3ee1374254c88d10.html||Jadwiga //|||||
+ppl/7/d/f02542862753d9ed4def693fbd7.html|Jakubczyk|Tomasz /Jakubczyk/|ABT 1751||AFT 1790||
+ppl/0/1/f02542ee02c3ee1374254c88d10.html||Jadwiga //|ABT 1757||AFT 1790||
 ppl/0/f/f025435e9df506c126d48aadbf0.html||Franciszka //|||BEF NOV 1830||
 ppl/d/a/f02545db40323bb452f4f8e21ad.html|Stępień|Maciej /Stępień/|||||
 ppl/5/3/f0254634bb25d996e8e74b8ed35.html|Kałuża|Agnieszka /Kałuża/|||||
@@ -757,3 +757,7 @@ ppl/4/6/f3cfca4559356268d9936630a64.html|Kątkowska|Monika /Kątkowska/|1804||||
 ppl/f/1/f3d1eb383566e67641ed6a6a21f.html|Sibińska|Marianna /Sibińska/|2 FEB 1825||||
 ppl/a/1/f3d1fadf5b642462fabb302941a.html|Sibiński|Maciej /Sibiński/|ABT 1750||||
 ppl/6/a/f3d1fb5eeb734bfd76ade4284a6.html||Agata //|ABT 1763||||
+ppl/3/8/f4eabf388157f8dcca988a4083.html|Grabda|Eugeniusz /Grabda/|||2 JUL 1993||
+ppl/d/4/f4eac4711a03000eb8e6f41e4d.html||Franciszka //|||ABT 1960||
+ppl/8/1/f4f44f4d3ea5905909fdd106518.html|Suchanek|Feliks /Suchanek/|ABT 1788||||
+ppl/1/a/f4f45762b262e8fb0012929a9a1.html|Karasek|Franciszka /Karasek/|ABT 1786||||
