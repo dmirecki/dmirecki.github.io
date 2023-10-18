@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 5.1.5
 2 NAME Gramps
-1 DATE 7 MAY 2023
-2 TIME 13:20:38
+1 DATE 18 OCT 2023
+2 TIME 07:31:59
 1 SUBM @SUBM@
 1 FILE /home/dmirecki/projects/dmirecki.github.io/genealogy/tree.ged
 1 COPR Copyright (c) 2023 Damian Mirecki.
@@ -42,9 +42,10 @@
 1 OBJE @O0002@
 1 OBJE @O0003@
 1 OBJE @O0649@
+1 OBJE @O0725@
 1 CHAN
-2 DATE 22 AUG 2022
-3 TIME 19:49:02
+2 DATE 5 JUL 2023
+3 TIME 20:15:36
 0 @I0003@ INDI
 1 NAME  /Private/
 2 SURN Private
@@ -87,9 +88,11 @@
 1 OBJE @O0004@
 1 OBJE @O0005@
 1 OBJE @O0654@
+1 OBJE @O0725@
+1 OBJE @O0728@
 1 CHAN
-2 DATE 22 AUG 2022
-3 TIME 19:33:59
+2 DATE 5 JUL 2023
+3 TIME 20:27:05
 0 @I0004@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -287,14 +290,19 @@
 2 DATA
 3 DATE 1951
 2 OBJE @O0607@
+1 SOUR @S0268@
+2 DATA
+3 DATE 15 JUN 1940
 1 OBJE @O0463@
 1 OBJE @O0469@
 1 OBJE @O0602@
 1 OBJE @O0605@
 1 OBJE @O0664@
+1 OBJE @O0724@
+1 OBJE @O0726@
 1 CHAN
-2 DATE 21 APR 2022
-3 TIME 19:17:45
+2 DATE 18 SEP 2023
+3 TIME 12:53:33
 0 @I0010@ INDI
 1 NAME Weronika Barbara /Wincek/
 2 GIVN Weronika Barbara
@@ -328,11 +336,20 @@
 1 SOUR @S0180@
 2 DATA
 3 DATE 25 MAR 1981
+1 SOUR @S0269@
+2 DATA
+3 DATE 2 MAY 1950
+1 SOUR @S0270@
+1 SOUR @S0271@
+1 SOUR @S0272@
 1 OBJE @O0464@
 1 OBJE @O0664@
+1 OBJE @O0724@
+1 OBJE @O0726@
+1 OBJE @O0727@
 1 CHAN
-2 DATE 21 APR 2022
-3 TIME 19:18:11
+2 DATE 18 SEP 2023
+3 TIME 13:11:17
 0 @I0011@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -563,8 +580,8 @@
 2 PEDI birth
 1 FAMS @F0005@
 1 CHAN
-2 DATE 12 AUG 2020
-3 TIME 18:10:20
+2 DATE 5 JUL 2023
+3 TIME 20:01:28
 0 @I0030@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -814,11 +831,17 @@
 2 PAGE Gruschka Josefa, Wincek Josef - akt małżeństwa; wpis nr 4
 2 OBJE @O0619@
 2 OBJE @O0620@
+1 SOUR @S0267@
+1 SOUR @S0269@
+2 DATA
+3 DATE 2 MAY 1950
 1 OBJE @O0067@
 1 OBJE @O0664@
+1 OBJE @O0729@
+1 OBJE @O0731@
 1 CHAN
-2 DATE 21 APR 2022
-3 TIME 19:19:10
+2 DATE 18 SEP 2023
+3 TIME 13:00:00
 0 @I0051@ INDI
 1 NAME Josefa /Gruschka/
 2 GIVN Josefa
@@ -848,11 +871,15 @@
 2 PAGE Gruschka Josefa, Wincek Josef - akt małżeństwa; wpis nr 4
 2 OBJE @O0619@
 2 OBJE @O0620@
+1 SOUR @S0269@
+2 DATA
+3 DATE 2 MAY 1950
 1 OBJE @O0071@
 1 OBJE @O0664@
+1 OBJE @O0730@
 1 CHAN
-2 DATE 21 APR 2022
-3 TIME 19:18:49
+2 DATE 18 SEP 2023
+3 TIME 13:00:25
 0 @I0052@ INDI
 1 NAME Agnieszka /Wincek/ Agnes
 2 GIVN Agnieszka
@@ -908,8 +935,8 @@
 1 OBJE @O0074@
 1 OBJE @O0075@
 1 CHAN
-2 DATE 24 JUL 2020
-3 TIME 19:33:12
+2 DATE 19 SEP 2023
+3 TIME 14:11:56
 0 @I0058@ INDI
 1 NAME Ernestyna Elżbieta /Wincek/
 2 GIVN Ernestyna Elżbieta
@@ -936,15 +963,15 @@
 3 DATE AFT 30 MAY 1979
 2 OBJE @O0370@
 1 OBJE @O0440@
-1 OBJE @O0076@
-1 OBJE @O0077@
+1 OBJE @O0722@
+1 OBJE @O0723@
 1 WWW http://siostrymisyjne.pl/
 1 WWW http://www.ssps.at/kloster-st-koloman.html
 1 WWW http://www.kanazawa-seirei.jp/
 1 WWW https://joseph-ssps.jp/
 1 CHAN
-2 DATE 7 JUL 2021
-3 TIME 18:04:30
+2 DATE 5 JUL 2023
+3 TIME 20:08:13
 0 @I0059@ INDI
 1 NAME Maria /Wincek/ Mitza
 2 GIVN Maria
@@ -1004,11 +1031,14 @@
 1 FAMC @F0021@
 2 PEDI birth
 1 FAMS @F0025@
+1 SOUR @S0273@
+2 DATA
+3 DATE 1951
 1 OBJE @O0085@
 1 OBJE @O0664@
 1 CHAN
-2 DATE 21 APR 2022
-3 TIME 19:26:08
+2 DATE 18 SEP 2023
+3 TIME 13:17:39
 0 @I0063@ INDI
 1 NAME Pawel /Schaeffer/ Paul
 2 GIVN Pawel
@@ -4725,8 +4755,8 @@
 1 FAMS @F0147@
 1 SOUR @S0264@
 1 CHAN
-2 DATE 3 MAY 2023
-3 TIME 19:48:31
+2 DATE 18 OCT 2023
+3 TIME 05:02:50
 0 @I0276@ INDI
 1 NAME Piotr /Chudzicki/
 2 GIVN Piotr
@@ -5443,28 +5473,66 @@
 1 FAMC @F500076@
 2 PEDI birth
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:35:18
+2 DATE 18 OCT 2023
+3 TIME 05:02:50
 0 @I0338@ INDI
-1 NAME  //
+1 NAME Michał /Chudzicki/
+2 GIVN Michał
+2 SURN Chudzicki
 1 SEX M
-1 FACT MH:I500215
-2 TYPE RIN
-1 _UID 5DD91BC345432178DB61F02B5A42FEDB
+1 BIRT
+2 DATE ABT 1836
+2 SOUR @S0277@
+3 PAGE Chudzicka Elżbieta - akt urodzenia; str. 24, wpis nr 93
+3 DATA
+4 DATE 1877
+3 OBJE @O0743@
+2 SOUR @S0278@
+3 PAGE Chudzicki Michał, Kałuża Franciszka - akt ślubu; str. 262, wpis nr 39
+3 OBJE @O0744@
+1 FAMC @F0305@
+2 PEDI birth
 1 FAMS @F500076@
+1 SOUR @S0277@
+2 PAGE Chudzicka Elżbieta - akt urodzenia; str. 24, wpis nr 93
+2 DATA
+3 DATE 1877
+2 OBJE @O0743@
+1 SOUR @S0278@
+2 PAGE Chudzicki Michał, Kałuża Franciszka - akt ślubu; str. 262, wpis nr 39
+2 OBJE @O0744@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:35:19
+2 DATE 18 OCT 2023
+3 TIME 05:22:55
 0 @I0339@ INDI
-1 NAME  //
+1 NAME Franciszka /Kałuża/
+2 GIVN Franciszka
+2 SURN Kałuża
 1 SEX F
-1 FACT MH:I500216
-2 TYPE RIN
-1 _UID 5DD91BC3676E5179DB61F02B5A42FEDB
+1 BIRT
+2 DATE ABT 1840
+2 SOUR @S0277@
+3 PAGE Chudzicka Elżbieta - akt urodzenia; str. 24, wpis nr 93
+3 DATA
+4 DATE 1877
+3 OBJE @O0743@
+2 SOUR @S0278@
+3 PAGE Chudzicki Michał, Kałuża Franciszka - akt ślubu; str. 262, wpis nr 39
+3 OBJE @O0744@
+1 FAMC @F0306@
+2 PEDI birth
 1 FAMS @F500076@
+1 SOUR @S0277@
+2 PAGE Chudzicka Elżbieta - akt urodzenia; str. 24, wpis nr 93
+2 DATA
+3 DATE 1877
+2 OBJE @O0743@
+1 SOUR @S0278@
+2 PAGE Chudzicki Michał, Kałuża Franciszka - akt ślubu; str. 262, wpis nr 39
+2 OBJE @O0744@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:35:19
+2 DATE 18 OCT 2023
+3 TIME 05:25:39
 0 @I0340@ INDI
 1 NAME Elżbieta /Chudzicka/
 2 GIVN Elżbieta
@@ -5474,15 +5542,27 @@
 2 GIVN Elżbieta
 2 SURN Czajkowska
 1 SEX F
-1 FACT MH:I500217
-2 TYPE RIN
-1 _UID 5DD91BD73E88456DE97B7659A9B9882C
+1 BIRT
+2 DATE 22 SEP 1877
+2 PLAC Zagorzany, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0277@
+3 PAGE Chudzicka Elżbieta - akt urodzenia; str. 24, wpis nr 93
+3 DATA
+4 DATE 1877
+3 OBJE @O0743@
 1 FAMC @F500076@
 2 PEDI birth
 1 FAMS @F500077@
+1 SOUR @S0277@
+2 PAGE Chudzicka Elżbieta - akt urodzenia; str. 24, wpis nr 93
+2 DATA
+3 DATE 1877
+2 OBJE @O0743@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:35:19
+2 DATE 18 OCT 2023
+3 TIME 05:02:50
 0 @I0341@ INDI
 1 NAME Józefa /Chudzicka/
 2 GIVN Józefa
@@ -5498,8 +5578,8 @@
 1 FAMC @F500076@
 2 PEDI birth
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:35:19
+2 DATE 18 OCT 2023
+3 TIME 05:02:50
 0 @I0342@ INDI
 1 NAME  /Chudzicka/
 2 SURN Chudzicka
@@ -5513,8 +5593,8 @@
 1 FAMC @F500076@
 2 PEDI birth
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:35:20
+2 DATE 18 OCT 2023
+3 TIME 05:02:50
 0 @I0343@ INDI
 1 NAME Wojciech /Chudzicki/
 2 GIVN Wojciech
@@ -5526,8 +5606,8 @@
 1 FAMC @F500076@
 2 PEDI birth
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:35:20
+2 DATE 18 OCT 2023
+3 TIME 05:02:50
 0 @I0344@ INDI
 1 NAME  //
 1 SEX F
@@ -9786,8 +9866,10 @@
 3 DATA
 4 DATE 14 DEC 2021
 2 SOUR @S0214@
+3 PAGE Wersja z dnia 2022-02-24
 3 DATA
 4 DATE 24 FEB 2022
+3 OBJE @O0641@
 1 DEAT Y
 1 FAMC @F0275@
 2 PEDI birth
@@ -9796,41 +9878,79 @@
 2 DATA
 3 DATE 14 DEC 2021
 1 SOUR @S0214@
+2 PAGE Wersja z dnia 2022-02-24
 2 DATA
 3 DATE 24 FEB 2022
+2 OBJE @O0641@
 1 CHAN
-2 DATE 26 FEB 2022
-3 TIME 21:34:32
+2 DATE 7 OCT 2023
+3 TIME 08:25:23
 0 @I0497@ INDI
 1 NAME Anton /Thomaschny/
 2 GIVN Anton
 2 SURN Thomaschny
 1 SEX M
 1 BIRT
-2 DATE ABT 1778
+2 DATE 11 JUN 1778
+2 PLAC Rybnik, Polska
+2 ADDR
+3 CITY Rybnik
+3 CTRY Polska
 2 SOUR @S0214@
+3 PAGE Wersja z dnia 2022-02-24
 3 DATA
 4 DATE 24 FEB 2022
+3 OBJE @O0641@
+2 SOUR @S0214@
+3 PAGE Wersja z dnia 2023-10-02
+3 DATA
+4 DATE 2 OCT 2023
+3 OBJE @O0741@
 1 DEAT
-2 DATE BEF 2 NOV 1835
+2 DATE 13 JUL 1825
+2 PLAC Rybnik, Polska
+2 ADDR
+3 CITY Rybnik
+3 CTRY Polska
 2 SOUR @S0200@
 3 DATA
 4 DATE 14 DEC 2021
+2 SOUR @S0214@
+3 PAGE Wersja z dnia 2023-10-02
+3 DATA
+4 DATE 2 OCT 2023
+3 OBJE @O0741@
 1 FACT Kościelny
 2 TYPE Occupation
 2 SOUR @S0200@
 3 DATA
 4 DATE 14 DEC 2021
+1 FACT Ceglarz
+2 TYPE Occupation
+2 SOUR @S0214@
+3 PAGE Wersja z dnia 2023-10-02
+3 DATA
+4 DATE 2 OCT 2023
+3 OBJE @O0741@
+1 FAMC @F0303@
+2 PEDI birth
 1 FAMS @F0275@
 1 SOUR @S0200@
 2 DATA
 3 DATE 14 DEC 2021
 1 SOUR @S0214@
+2 PAGE Wersja z dnia 2022-02-24
 2 DATA
 3 DATE 24 FEB 2022
+2 OBJE @O0641@
+1 SOUR @S0214@
+2 PAGE Wersja z dnia 2023-10-02
+2 DATA
+3 DATE 2 OCT 2023
+2 OBJE @O0741@
 1 CHAN
-2 DATE 23 DEC 2022
-3 TIME 12:05:55
+2 DATE 7 OCT 2023
+3 TIME 08:32:19
 0 @I0498@ INDI
 1 NAME Jakub /Kudła/
 2 GIVN Jakub
@@ -10460,12 +10580,16 @@
 1 BIRT
 2 DATE ABT 1782
 2 SOUR @S0214@
+3 PAGE Wersja z dnia 2022-02-24
 3 DATA
 4 DATE 24 FEB 2022
+3 OBJE @O0641@
 1 FAMS @F0275@
 1 SOUR @S0214@
+2 PAGE Wersja z dnia 2022-02-24
 2 DATA
 3 DATE 24 FEB 2022
+2 OBJE @O0641@
 1 CHAN
 2 DATE 23 DEC 2022
 3 TIME 12:00:56
@@ -11297,6 +11421,140 @@
 1 CHAN
 2 DATE 5 MAY 2023
 3 TIME 19:17:50
+0 @I0552@ INDI
+1 NAME Anna /Thomaschny/
+2 GIVN Anna
+2 SURN Thomaschny
+1 SEX F
+1 BIRT
+2 DATE 19 JUL 1807
+1 DEAT
+2 DATE 3 SEP 1926
+1 FAMC @F0275@
+2 PEDI birth
+1 SOUR @S0214@
+2 PAGE Wersja z dnia 2023-10-02
+2 DATA
+3 DATE 2 OCT 2023
+2 OBJE @O0741@
+1 CHAN
+2 DATE 7 OCT 2023
+3 TIME 08:25:23
+0 @I0553@ INDI
+1 NAME Johanna //
+2 GIVN Johanna
+1 SEX F
+1 FAMS @F0303@
+1 SOUR @S0214@
+2 PAGE Wersja z dnia 2023-10-02
+2 DATA
+3 DATE 2 OCT 2023
+2 OBJE @O0741@
+1 CHAN
+2 DATE 7 OCT 2023
+3 TIME 08:32:17
+0 @I0554@ INDI
+1 NAME Jacob /Thomaschny/
+2 GIVN Jacob
+2 SURN Thomaschny
+1 SEX M
+1 BIRT
+2 DATE ABT 1748
+2 SOUR @S0214@
+3 PAGE Wersja z dnia 2023-10-02
+3 DATA
+4 DATE 2 OCT 2023
+3 OBJE @O0741@
+1 DEAT
+2 DATE 12 SEP 1825
+2 PLAC Rybnik, Polska
+2 ADDR
+3 CITY Rybnik
+3 CTRY Polska
+2 SOUR @S0214@
+3 PAGE Wersja z dnia 2023-10-02
+3 DATA
+4 DATE 2 OCT 2023
+3 OBJE @O0741@
+1 FACT kościelny
+2 TYPE Occupation
+2 SOUR @S0214@
+3 PAGE Wersja z dnia 2023-10-02
+3 DATA
+4 DATE 2 OCT 2023
+3 OBJE @O0741@
+1 FAMS @F0303@
+1 FAMS @F0304@
+1 SOUR @S0214@
+2 PAGE Wersja z dnia 2023-10-02
+2 DATA
+3 DATE 2 OCT 2023
+2 OBJE @O0741@
+1 CHAN
+2 DATE 7 OCT 2023
+3 TIME 08:33:14
+0 @I0555@ INDI
+1 NAME Katarzyna /Kleczkowa/
+2 GIVN Katarzyna
+2 SURN Kleczkowa
+1 SEX F
+1 FAMS @F0304@
+1 SOUR @S0214@
+2 PAGE Wersja z dnia 2023-10-02
+2 DATA
+3 DATE 2 OCT 2023
+2 OBJE @O0741@
+1 CHAN
+2 DATE 7 OCT 2023
+3 TIME 08:33:14
+0 @I0556@ INDI
+1 NAME Józef /Chudzicki/
+2 GIVN Józef
+2 SURN Chudzicki
+1 SEX M
+1 FAMS @F0305@
+1 SOUR @S0278@
+2 PAGE Chudzicki Michał, Kałuża Franciszka - akt ślubu; str. 262, wpis nr 39
+2 OBJE @O0744@
+1 CHAN
+2 DATE 18 OCT 2023
+3 TIME 05:22:55
+0 @I0557@ INDI
+1 NAME Marianna /Wojtarowicz/
+2 GIVN Marianna
+2 SURN Wojtarowicz
+1 SEX F
+1 FAMS @F0305@
+1 SOUR @S0278@
+2 PAGE Chudzicki Michał, Kałuża Franciszka - akt ślubu; str. 262, wpis nr 39
+2 OBJE @O0744@
+1 CHAN
+2 DATE 18 OCT 2023
+3 TIME 05:22:55
+0 @I0558@ INDI
+1 NAME Andrzej /Kałuża/
+2 GIVN Andrzej
+2 SURN Kałuża
+1 SEX M
+1 FAMS @F0306@
+1 SOUR @S0278@
+2 PAGE Chudzicki Michał, Kałuża Franciszka - akt ślubu; str. 262, wpis nr 39
+2 OBJE @O0744@
+1 CHAN
+2 DATE 18 OCT 2023
+3 TIME 05:25:39
+0 @I0559@ INDI
+1 NAME Magdalena /Chmura/
+2 GIVN Magdalena
+2 SURN Chmura
+1 SEX F
+1 FAMS @F0306@
+1 SOUR @S0278@
+2 PAGE Chudzicki Michał, Kałuża Franciszka - akt ślubu; str. 262, wpis nr 39
+2 OBJE @O0744@
+1 CHAN
+2 DATE 18 OCT 2023
+3 TIME 05:25:39
 0 @I500004@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -11398,9 +11656,11 @@
 1 OBJE @O0444@
 1 OBJE @O0456@
 1 OBJE @O0664@
+1 OBJE @O0719@
+1 OBJE @O0720@
 1 CHAN
-2 DATE 31 OCT 2022
-3 TIME 21:50:16
+2 DATE 5 JUL 2023
+3 TIME 20:00:20
 0 @I500012@ INDI
 1 NAME Łucja /Poloczek/
 2 GIVN Łucja
@@ -11604,8 +11864,8 @@
 1 SEX M
 1 FAMS @F500009@
 1 CHAN
-2 DATE 24 JUL 2020
-3 TIME 19:33:20
+2 DATE 5 JUL 2023
+3 TIME 20:24:39
 0 @I500029@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -12357,8 +12617,8 @@
 1 FAMC @F0022@
 2 PEDI birth
 1 CHAN
-2 DATE 2 FEB 2020
-3 TIME 22:53:49
+2 DATE 19 SEP 2023
+3 TIME 14:11:56
 0 @I500096@ INDI
 1 NAME Hilda /Gaida/
 2 GIVN Hilda
@@ -12370,8 +12630,8 @@
 1 FAMC @F0022@
 2 PEDI birth
 1 CHAN
-2 DATE 2 FEB 2020
-3 TIME 22:53:50
+2 DATE 19 SEP 2023
+3 TIME 14:11:56
 0 @I500097@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -14306,8 +14566,8 @@
 2 PEDI birth
 1 FAMS @F0214@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:35:20
+2 DATE 18 OCT 2023
+3 TIME 05:02:50
 0 @I500222@ INDI
 1 NAME Andrzej /Czajkowski/
 2 GIVN Andrzej
@@ -14549,8 +14809,8 @@
 1 OBJE @O0582@
 1 OBJE @O0584@
 1 CHAN
-2 DATE 31 OCT 2022
-3 TIME 20:56:01
+2 DATE 6 JUN 2023
+3 TIME 21:06:01
 0 @I500231@ INDI
 1 NAME Eugenia /Mamaryna/
 2 GIVN Eugenia
@@ -14636,8 +14896,8 @@
 2 OBJE @O0696@
 1 OBJE @O0578@
 1 CHAN
-2 DATE 31 OCT 2022
-3 TIME 20:54:15
+2 DATE 6 JUN 2023
+3 TIME 21:06:16
 0 @I500232@ INDI
 1 NAME Wawrzyniec /Kopeć/
 2 GIVN Wawrzyniec
@@ -15242,15 +15502,15 @@
 0 @F0022@ FAM
 1 HUSB @I0053@
 1 WIFE @I0052@
-1 FACT MH:F22
-2 TYPE RIN
-1 _UID 5643B4ED630461A05002683320142142
+1 MARR
+2 DATE ABT JUN 1935
+2 SOUR @S0274@
 1 CHIL @I0055@
 1 CHIL @I500095@
 1 CHIL @I500096@
 1 CHAN
-2 DATE 23 JAN 2020
-3 TIME 20:02:11
+2 DATE 19 SEP 2023
+3 TIME 14:11:56
 0 @F0024@ FAM
 1 HUSB @I0060@
 1 WIFE @I0059@
@@ -17096,12 +17356,15 @@
 3 CITY Rybnik
 3 CTRY Polska
 2 SOUR @S0214@
+3 PAGE Wersja z dnia 2022-02-24
 3 DATA
 4 DATE 24 FEB 2022
+3 OBJE @O0641@
 1 CHIL @I0496@
+1 CHIL @I0552@
 1 CHAN
-2 DATE 26 FEB 2022
-3 TIME 21:34:32
+2 DATE 7 OCT 2023
+3 TIME 08:25:23
 0 @F0276@ FAM
 1 HUSB @I0498@
 1 WIFE @I0499@
@@ -17431,6 +17694,56 @@
 1 CHAN
 2 DATE 2 MAY 2023
 3 TIME 19:45:23
+0 @F0303@ FAM
+1 HUSB @I0554@
+1 WIFE @I0553@
+1 MARR
+2 DATE BEF 1778
+2 SOUR @S0214@
+3 PAGE Wersja z dnia 2023-10-02
+3 DATA
+4 DATE 2 OCT 2023
+3 OBJE @O0741@
+1 CHIL @I0497@
+1 CHAN
+2 DATE 7 OCT 2023
+3 TIME 08:32:19
+0 @F0304@ FAM
+1 HUSB @I0554@
+1 WIFE @I0555@
+1 MARR
+2 DATE 28 JAN 1812
+2 PLAC Bujaków, Mikołów, mikołowski, śląskie, Polska
+2 ADDR
+3 CITY Mikołów
+3 CTRY Polska
+2 SOUR @S0276@
+3 PAGE Skan nr 18_95_0_0_62_0004
+3 DATA
+4 DATE 1812
+3 OBJE @O0742@
+1 SOUR @S0214@
+2 PAGE Wersja z dnia 2023-10-02
+2 DATA
+3 DATE 2 OCT 2023
+2 OBJE @O0741@
+1 CHAN
+2 DATE 7 OCT 2023
+3 TIME 08:57:50
+0 @F0305@ FAM
+1 HUSB @I0556@
+1 WIFE @I0557@
+1 CHIL @I0338@
+1 CHAN
+2 DATE 18 OCT 2023
+3 TIME 05:22:55
+0 @F0306@ FAM
+1 HUSB @I0558@
+1 WIFE @I0559@
+1 CHIL @I0339@
+1 CHAN
+2 DATE 18 OCT 2023
+3 TIME 05:25:39
 0 @F500004@ FAM
 1 HUSB @I500013@
 1 WIFE @I500012@
@@ -18266,9 +18579,6 @@
 0 @F500076@ FAM
 1 HUSB @I0338@
 1 WIFE @I0339@
-1 FACT MH:F500076
-2 TYPE RIN
-1 _UID 5DD91BC38A42717ADB61F02B5A42FEDB
 1 CHIL @I500221@
 1 CHIL @I0342@
 1 CHIL @I0343@
@@ -18276,9 +18586,14 @@
 1 CHIL @I0337@
 1 CHIL @I0340@
 1 CHIL @I0341@
+1 SOUR @S0277@
+2 PAGE Chudzicka Elżbieta - akt urodzenia; str. 24, wpis nr 93
+2 DATA
+3 DATE 1877
+2 OBJE @O0743@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:35:36
+2 DATE 18 OCT 2023
+3 TIME 05:02:50
 0 @F500077@ FAM
 1 HUSB @I500222@
 1 WIFE @I0340@
@@ -19669,10 +19984,9 @@
 0 @S0214@ SOUR
 1 TITL Drzewo genealogiczne rodziny Koch / Thomashny (Rybnik)
 1 AUTH Archiwum Archidiecezjalne w Katowicach
-1 OBJE @O0641@
 1 CHAN
-2 DATE 26 FEB 2022
-3 TIME 21:27:04
+2 DATE 7 OCT 2023
+3 TIME 08:14:48
 0 @S0215@ SOUR
 1 TITL Huńka Ryszard - metryczka dowodowa
 1 AUTH KPMO Tarnobrzeg
@@ -20010,6 +20324,84 @@
 1 CHAN
 2 DATE 5 MAY 2023
 3 TIME 17:55:38
+0 @S0267@ SOUR
+1 TITL Pocztówka ze zdjęciem Wincek Wilhelma w mundurze z I Wojny Światowej
+1 OBJE @O0731@
+1 OBJE @O0732@
+1 CHAN
+2 DATE 5 JUL 2023
+3 TIME 20:39:02
+0 @S0268@ SOUR
+1 TITL Poloczek Teodor - odpis aktu urodzenia
+1 AUTH USC Chropaczów
+1 OBJE @O0733@
+1 CHAN
+2 DATE 18 SEP 2023
+3 TIME 12:52:42
+0 @S0269@ SOUR
+1 TITL Wincek Weronika - życiorys
+1 AUTH Wincek Weronika
+1 OBJE @O0734@
+1 CHAN
+2 DATE 18 SEP 2023
+3 TIME 12:55:58
+0 @S0270@ SOUR
+1 TITL Wincek Weronika - skierowanie do pracy Solice Zdrój
+1 OBJE @O0735@
+1 CHAN
+2 DATE 18 SEP 2023
+3 TIME 13:10:11
+0 @S0271@ SOUR
+1 TITL Wincek Weronika - skierowanie do pracy Pensjonat Stalingrad
+1 OBJE @O0736@
+1 CHAN
+2 DATE 18 SEP 2023
+3 TIME 13:10:38
+0 @S0272@ SOUR
+1 TITL Wincek Weronika - przyjęcie do pracy, Dolnośląskie Zakłady Przemysłu Węg
+2 CONC lowego
+1 OBJE @O0737@
+1 CHAN
+2 DATE 18 SEP 2023
+3 TIME 13:11:13
+0 @S0273@ SOUR
+1 TITL Wincek Aniela - klepsydra w przeglądzie katolickim w gazecie Gość Niedzi
+2 CONC elny
+1 OBJE @O0738@
+1 CHAN
+2 DATE 18 SEP 2023
+3 TIME 13:16:43
+0 @S0274@ SOUR
+1 TITL Gajda Jan, Wincek Agnieszka - życzenia ślubne
+1 OBJE @O0739@
+1 CHAN
+2 DATE 19 SEP 2023
+3 TIME 14:11:15
+0 @S0276@ SOUR
+1 TITL Księga ślubów
+1 AUTH Parafia Rzymskokatolicka Bujaków
+1 REPO @R0018@
+2 CALN https://siliusradicum.pl/ksiegi-metrykalne/asc-parafii-rzymskokatolickie
+3 CONC j-bujakow/
+3 MEDI Card
+1 CHAN
+2 DATE 7 OCT 2023
+3 TIME 08:54:12
+0 @S0277@ SOUR
+1 TITL Księga urodzeń, małżeństw i zgonów - parafia Ostrowce
+1 REPO @R0008@
+1 REPO @R0028@
+1 CHAN
+2 DATE 18 OCT 2023
+3 TIME 04:57:29
+0 @S0278@ SOUR
+1 TITL Księga zaślubionych  1797-1879
+1 AUTH Parafia Rzymskokatolicka Ostrowce
+1 REPO @R0027@
+1 REPO @R0028@
+1 CHAN
+2 DATE 18 OCT 2023
+3 TIME 05:19:24
 0 @S500001@ SOUR
 1 TITL Brylewski Web Site
 1 AUTH Grzegorz Brylewski
@@ -21046,8 +21438,8 @@
 2 FORM jpg
 2 TITL Brian Wilson
 1 CHAN
-2 DATE 26 JAN 2020
-3 TIME 16:34:16
+2 DATE 5 JUL 2023
+3 TIME 20:24:35
 0 @O0129@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/500064_790496ve48235gd4d8e2e6.jpg
 2 FORM jpg
@@ -24540,8 +24932,8 @@
 2 FORM png
 2 TITL koch__thomashny__drzewo-genealogiczne
 1 CHAN
-2 DATE 26 FEB 2022
-3 TIME 21:27:01
+2 DATE 7 OCT 2023
+3 TIME 08:14:37
 0 @O0642@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/sources/Huńka__Sibińska/hunka-ryszard__metryczka-dowodowa/Huńka_Ryszard_Bronisław_04-02-1922_Lwów_Mieczysław_Eugenia_72_3728_0_1_2930_A.jpg
 2 FORM jpg
@@ -25110,4 +25502,187 @@
 1 CHAN
 2 DATE 7 MAY 2023
 3 TIME 11:17:02
+0 @O0719@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Halama__Poloczek/Aniela_Poloczek_3.jpg
+2 FORM jpg
+2 TITL Aniela_Poloczek_3
+1 CHAN
+2 DATE 5 JUL 2023
+3 TIME 20:00:04
+0 @O0720@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Halama__Poloczek/Aniela_Poloczek_4.jpg
+2 FORM jpg
+2 TITL Aniela_Poloczek_4
+1 CHAN
+2 DATE 5 JUL 2023
+3 TIME 20:00:18
+0 @O0721@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Bek__Poloczek/Antoni_Bek_2.jpg
+2 FORM jpg
+2 TITL Antoni_Bek_2
+1 CHAN
+2 DATE 5 JUL 2023
+3 TIME 20:01:27
+0 @O0722@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Gruszka__Wincek/Ernestyna_Wincek.jpg
+2 FORM jpg
+2 TITL Ernestyna_Wincek
+1 CHAN
+2 DATE 5 JUL 2023
+3 TIME 20:08:04
+0 @O0723@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Gruszka__Wincek/Ernestyna_Wincek_2.jpg
+2 FORM jpg
+2 TITL Ernestyna_Wincek_2
+1 CHAN
+2 DATE 5 JUL 2023
+3 TIME 20:08:11
+0 @O0724@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Wincek_Weronika__Mirecki_Andrzej__Poloczek_Teodor.jpg
+2 FORM jpg
+2 TITL Wincek_Weronika__Mirecki_Andrzej__Poloczek_Teodor
+1 CHAN
+2 DATE 5 JUL 2023
+3 TIME 20:14:08
+0 @O0725@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Mirecki__Poloczek/Poloczek_Beata__Mirecki_Werner.jpg
+2 FORM jpg
+2 TITL Ślubne zdjęcie Poloczek Beata, Mirecki Werner
+1 CHAN
+2 DATE 5 JUL 2023
+3 TIME 20:16:22
+0 @O0726@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Poloczek__Wincek/wincek-weronika__poloczek-teodor__swieradow-zdroj.jpg
+2 FORM jpg
+2 TITL wincek-weronika__poloczek-teodor__swieradow-zdroj
+1 CHAN
+2 DATE 5 JUL 2023
+3 TIME 20:18:48
+0 @O0727@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Gruszka__Wincek/wincek-weronika__I-komunia.jpg
+2 FORM jpg
+2 TITL I komunia - Wincek Weronika
+1 CHAN
+2 DATE 5 JUL 2023
+3 TIME 20:23:28
+0 @O0728@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Mirecki__Poloczek/mirecki-andrzej__poloczek-beata.jpg
+2 FORM jpg
+2 TITL mirecki-andrzej__poloczek-beata
+1 CHAN
+2 DATE 5 JUL 2023
+3 TIME 20:27:03
+0 @O0729@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Gruszka__Wincek/gruszka-józefina__wincek-wilhelm.jpg
+2 FORM jpg
+2 TITL Wincek Wilhelm, Gruszka Józefina, Częstochowa
+1 CHAN
+2 DATE 5 JUL 2023
+3 TIME 20:29:46
+0 @O0730@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Gruszka__Wincek/gruszka-józefina__wincek-wilhelm.jpg
+2 FORM jpg
+2 TITL gruszka-józefina__wincek-wilhelm
+1 CHAN
+2 DATE 5 JUL 2023
+3 TIME 20:30:28
+0 @O0731@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Gruszka__Wincek/wincek-wilhelm__recto.jpg
+2 FORM jpg
+2 TITL Wincek Wilhelm w mundurze z I Wojny Światowej
+1 CHAN
+2 DATE 5 JUL 2023
+3 TIME 20:39:40
+0 @O0732@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Gruszka__Wincek/wincek-wilhelm__verso.jpg
+2 FORM jpg
+2 TITL Wincek Wilhelm w mundurze z I Wojny Światowej (verso)
+1 CHAN
+2 DATE 5 JUL 2023
+3 TIME 20:38:18
+0 @O0733@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Halama__Poloczek/poloczek-teodor__akt-urodzenia-odpis-1940.pdf
+2 FORM pdf
+2 TITL poloczek-teodor__akt-urodzenia-odpis-1940
+1 CHAN
+2 DATE 18 SEP 2023
+3 TIME 12:52:39
+0 @O0734@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Poloczek__Wincek/wincek-weronika__życiorys.pdf
+2 FORM pdf
+2 TITL wincek-weronika__życiorys
+1 CHAN
+2 DATE 18 SEP 2023
+3 TIME 12:55:54
+0 @O0735@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Poloczek__Wincek/wincek-weronika__skierowanie-do-pracy-solice-zdrój.pdf
+2 FORM pdf
+2 TITL wincek-weronika__skierowanie-do-pracy-solice-zdrój
+1 CHAN
+2 DATE 18 SEP 2023
+3 TIME 13:09:54
+0 @O0736@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Poloczek__Wincek/wincek-weronika__skierowanie-do-pracy-pensjonat-stalingrad.pdf
+2 FORM pdf
+2 TITL wincek-weronika__skierowanie-do-pracy-pensjonat-stalingrad
+1 CHAN
+2 DATE 18 SEP 2023
+3 TIME 13:10:22
+0 @O0737@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Poloczek__Wincek/wincek-weronika__przyjecie-do-pracy-dolnoslaskie-zaklady-przemyslu-weglowego.pdf
+2 FORM pdf
+2 TITL wincek-weronika__przyjecie-do-pracy-dolnoslaskie-zaklady-przemyslu-weglo
+3 CONC wego
+1 CHAN
+2 DATE 18 SEP 2023
+3 TIME 13:10:50
+0 @O0738@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Schaeffer__Wincek/wincek-aniela__klepsydra-w-gazecie.pdf
+2 FORM pdf
+2 TITL wincek-aniela__klepsydra-w-gazecie
+1 CHAN
+2 DATE 18 SEP 2023
+3 TIME 13:16:41
+0 @O0739@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Gajda__Wincek/gajda-jan__wincek-agnieszka__życzenia-ślubne.pdf
+2 FORM pdf
+2 TITL gajda-jan__wincek-agnieszka__życzenia-ślubne
+1 CHAN
+2 DATE 19 SEP 2023
+3 TIME 14:10:46
+0 @O0740@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Koch__Thomashny/koch__thomashny__drzewo-genealogiczne.png
+2 FORM png
+2 TITL koch__thomashny__drzewo-genealogiczne
+1 CHAN
+2 DATE 7 OCT 2023
+3 TIME 08:14:15
+0 @O0741@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Koch__Thomashny/koch__thomashny__drzewo-genealogiczne__2.png
+2 FORM png
+2 TITL koch__thomashny__drzewo-genealogiczne__2
+1 CHAN
+2 DATE 7 OCT 2023
+3 TIME 08:15:28
+0 @O0742@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Kleczka__Thomashny/kleczka-catharina__thomashny-jacob__akt-slubu.jpg
+2 FORM jpg
+2 TITL kleczka-catharina__thomashny-jacob__akt-slubu
+1 CHAN
+2 DATE 7 OCT 2023
+3 TIME 08:57:24
+0 @O0743@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Chudzicki__Kałuża/chudzicka-elżbieta__akt-urodzenia.jpg
+2 FORM jpg
+2 TITL chudzicka-elżbieta__akt-urodzenia
+1 CHAN
+2 DATE 18 OCT 2023
+3 TIME 04:55:31
+0 @O0744@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Chudzicki__Kałuża/chudzicki-michał__kałuża-franciszka__akt-ślubu.jpg
+2 FORM jpg
+2 TITL chudzicki-michał__kałuża-franciszka__akt-ślubu
+1 CHAN
+2 DATE 18 OCT 2023
+3 TIME 05:17:40
 0 TRLR

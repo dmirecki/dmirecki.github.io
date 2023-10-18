@@ -318,7 +318,7 @@ ppl/d/5/e5e4936d41ec945433c1aed65d.html|Sibiński|Józef /Sibiński/|ABT 1867|Sa
 ppl/b/a/e5e4936d4322fbfb42570dea9ab.html|Zielińska|Katarzyna /Zielińska/|10 SEP 1867|Lubocheń, Polska|||
 ppl/f/2/e5e4936d48276b10a1b8680cc2f.html|Sibińska|Helena /Sibińska/|||||
 ppl/c/9/e5e4936d4aa6d1e48c501f90f9c.html|Sibińska|Zofia /Sibińska/|16 APR 1898||||
-ppl/8/7/e5e4936d4be4ae4d15847278878.html|[Private]|[Private] /[Private]/|||||
+ppl/8/7/e5e4936d4be4ae4d15847278878.html|Sibińska|Marianna /Sibińska/|||||
 ppl/9/a/e5e4936d4dc296322dffd2d1ea9.html|Sibińska|Judyta /Sibińska/|||||
 ppl/b/e/e5e4936d4e61ad06dae2c5010eb.html|[Private]|[Private] /[Private]/|||||
 ppl/0/5/e5e4936d5401957c93e3da03c50.html||Zbigniew //|||||
@@ -541,9 +541,9 @@ ppl/c/1/e779f9698ec636ce7ea99a92c1c.html|[Private]|[Private] /[Private]/|||||
 ppl/f/1/e779f9698f8772419d9f960a71f.html|Józefowicz|Marek /Józefowicz/|||||
 ppl/f/f/e779f9699048f013edb7a5cfff.html|[Private]|[Private] /[Private]/|||||
 ppl/3/1/e779f96990d1c17cb3a2721c13.html|Chudzicka|Katarzyna /Chudzicka/|||||
-ppl/8/8/e779f96991b19e249bfa3f3ca88.html|| //|||||
-ppl/3/4/e779f96992455235d3b9cf4bc43.html|| //|||||
-ppl/f/7/e779f96992d6ef940929671cf7f.html|Chudzicka|Elżbieta /Chudzicka/|||||
+ppl/8/8/e779f96991b19e249bfa3f3ca88.html|Chudzicki|Michał /Chudzicki/|ABT 1836||||
+ppl/3/4/e779f96992455235d3b9cf4bc43.html|Kałuża|Franciszka /Kałuża/|ABT 1840||||
+ppl/f/7/e779f96992d6ef940929671cf7f.html|Chudzicka|Elżbieta /Chudzicka/|22 SEP 1877|Zagorzany, Polska|||
 ppl/e/5/e779f9699386ec951c5cddcdb5e.html|Chudzicka|Józefa /Chudzicka/|||||
 ppl/4/7/e779f9699431cf3b7b4f5d18374.html|Chudzicka| /Chudzicka/|||||
 ppl/f/d/e779f969950c795928c50f57df.html|Chudzicki|Wojciech /Chudzicki/|||||
@@ -706,7 +706,7 @@ ppl/9/6/ee94d2cfd722914fece315b9169.html|Durschlag|Aunton /Durschlag/|ABT 1793||
 ppl/e/7/ee94d4c4ffe2cf2e6c6d71df67e.html|Lanczek|Antonia /Lanczek/|ABT 1799||||
 ppl/e/a/ee94d6880af26a8dfecfdfb33ae.html|Malharczyk|Carl /Malharczyk/|ABT 1798|Pawłów, Pietrowice Wielkie, raciborski, śląskie, Polska|||
 ppl/4/2/ee94dad3684239efb54a8d62e24.html|Tomaschno|Johanna /Tomaschno/|21 MAR 1814|Rybnik, Polska|||
-ppl/f/9/ee94dbc5ab4718bef82c8b0919f.html|Thomaschny|Anton /Thomaschny/|ABT 1778||BEF 2 NOV 1835||
+ppl/f/9/ee94dbc5ab4718bef82c8b0919f.html|Thomaschny|Anton /Thomaschny/|11 JUN 1778|Rybnik, Polska|13 JUL 1825|Rybnik, Polska|
 ppl/c/e/eea39d7eaa97f7fd7386059b1ec.html|Kudła|Jakub /Kudła/|||||
 ppl/4/f/eea39df21aa407921b75faa4af4.html||Marianna //|||||
 ppl/f/a/ef62b28538626f99696fc56a5af.html|Banaś|Maciej /Banaś/|31 JAN 1798|Hajdaszek, Kije, pińczowski, świętokrzyskie, Polska|BEF 12 JAN 1857||
@@ -761,3 +761,11 @@ ppl/3/8/f4eabf388157f8dcca988a4083.html|Grabda|Eugeniusz /Grabda/|||2 JUL 1993||
 ppl/d/4/f4eac4711a03000eb8e6f41e4d.html||Franciszka //|||ABT 1960||
 ppl/8/1/f4f44f4d3ea5905909fdd106518.html|Suchanek|Feliks /Suchanek/|ABT 1788||||
 ppl/1/a/f4f45762b262e8fb0012929a9a1.html|Karasek|Franciszka /Karasek/|ABT 1786||||
+ppl/f/b/f6e5c4a761f5e082548d4a1f8bf.html|Thomaschny|Anna /Thomaschny/|19 JUL 1807||3 SEP 1926||
+ppl/b/1/f6e5c7048eb13264e7958a861b.html||Johanna //|||||
+ppl/3/0/f6e5c73d41b3a912f7d5cf89803.html|Thomaschny|Jacob /Thomaschny/|ABT 1748||12 SEP 1825|Rybnik, Polska|
+ppl/d/f/f6e5cab592d73c037b0e038f6fd.html|Kleczkowa|Katarzyna /Kleczkowa/|||||
+ppl/a/9/f708c4b31c259b3080ee4ea779a.html|Chudzicki|Józef /Chudzicki/|||||
+ppl/f/8/f708c4eb39176b49861206b548f.html|Wojtarowicz|Marianna /Wojtarowicz/|||||
+ppl/0/6/f708c63e34319f56844692e2760.html|Kałuża|Andrzej /Kałuża/|||||
+ppl/5/4/f708c663655db64efdee5cff45.html|Chmura|Magdalena /Chmura/|||||
