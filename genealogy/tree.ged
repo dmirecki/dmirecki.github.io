@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 5.1.5
 2 NAME Gramps
-1 DATE 18 OCT 2023
-2 TIME 07:31:59
+1 DATE 22 DEC 2023
+2 TIME 08:13:19
 1 SUBM @SUBM@
 1 FILE /home/dmirecki/projects/dmirecki.github.io/genealogy/tree.ged
 1 COPR Copyright (c) 2023 Damian Mirecki.
@@ -39,13 +39,18 @@
 1 SOUR @S0235@
 2 PAGE Odpis zupełny aktu małżeństwa
 1 SOUR @S0245@
+1 SOUR @S0279@
+2 DATA
+3 DATE 2011
 1 OBJE @O0002@
 1 OBJE @O0003@
 1 OBJE @O0649@
 1 OBJE @O0725@
+1 OBJE @O0747@
+1 OBJE @O0748@
 1 CHAN
-2 DATE 5 JUL 2023
-3 TIME 20:15:36
+2 DATE 25 OCT 2023
+3 TIME 20:01:16
 0 @I0003@ INDI
 1 NAME  /Private/
 2 SURN Private
@@ -113,8 +118,8 @@
 2 PEDI birth
 1 FAMS @F0002@
 1 CHAN
-2 DATE 21 OCT 2020
-3 TIME 18:49:54
+2 DATE 22 OCT 2023
+3 TIME 19:56:57
 0 @I0006@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -548,7 +553,7 @@
 1 SEX M
 1 DEAT
 2 DATE 1 APR 2022
-2 PLAC Wodzisław Śląski, Polska
+2 PLAC Wodzisław Śląski, wodzisławski, śląskie, Polska
 2 ADDR
 3 CITY Wodzisław Śląski
 3 CTRY Polska
@@ -614,11 +619,10 @@
 1 _UID 5643B4ED60D5618C1002683320142142
 1 FAMS @F0014@
 1 OBJE @O0040@
-1 OBJE @O0041@
 1 OBJE @O0042@
 1 CHAN
-2 DATE 24 JUL 2020
-3 TIME 19:33:09
+2 DATE 24 OCT 2023
+3 TIME 13:25:57
 0 @I0033@ INDI
 1 NAME Ludwika /Ambroz-Bek/
 2 TYPE married
@@ -1501,10 +1505,8 @@
 3 DATE 26 MAY 1946
 2 OBJE @O0668@
 1 OBJE @O0253@
-1 OBJE @O0254@
 1 OBJE @O0248@
 1 OBJE @O0255@
-1 OBJE @O0256@
 1 OBJE @O0485@
 1 OBJE @O0491@
 1 OBJE @O0669@
@@ -1514,8 +1516,8 @@
 1 OBJE @O0493@
 1 OBJE @O0673@
 1 CHAN
-2 DATE 31 OCT 2022
-3 TIME 21:01:11
+2 DATE 22 OCT 2023
+3 TIME 20:23:37
 0 @I0090@ INDI
 1 NAME Stefania /Sibińska/
 2 GIVN Stefania
@@ -1693,12 +1695,11 @@
 2 DATA
 3 DATE 3 JAN 1968
 2 OBJE @O0595@
-1 OBJE @O0260@
 1 OBJE @O0261@
 1 OBJE @O0251@
 1 CHAN
-2 DATE 31 DEC 2022
-3 TIME 20:30:43
+2 DATE 24 OCT 2023
+3 TIME 13:20:07
 0 @I0093@ INDI
 1 NAME Jadwiga Maria /Huńka/
 2 GIVN Jadwiga Maria
@@ -1904,12 +1905,11 @@
 1 SOUR @S0173@
 2 DATA
 3 DATE 1969
-1 OBJE @O0270@
 1 OBJE @O0271@
 1 OBJE @O0251@
 1 CHAN
-2 DATE 10 APR 2022
-3 TIME 19:16:51
+2 DATE 22 OCT 2023
+3 TIME 20:27:00
 0 @I0102@ INDI
 1 NAME Wanda Maria /Suchanek/
 2 GIVN Wanda Maria
@@ -3287,6 +3287,9 @@
 3 CTRY Polska
 2 SOUR @S0057@
 3 QUAY 1
+2 SOUR @S0282@
+3 PAGE Skowroński Petronella, Wentland Franciszek - akt małżeństwa; str. 160
+3 QUAY 3
 1 DEAT
 2 TYPE Przyczyna zgonu: tyfus
 2 DATE 29 MAY 1868
@@ -3328,9 +3331,12 @@
 1 SOUR @S0112@
 2 PAGE Wentland Franciszek - akt zgonu; wpis nr 39
 2 OBJE @O0476@
+1 SOUR @S0282@
+2 PAGE Skowroński Petronella, Wentland Franciszek - akt małżeństwa; str. 160
+2 QUAY 3
 1 CHAN
-2 DATE 4 SEP 2020
-3 TIME 17:47:25
+2 DATE 11 DEC 2023
+3 TIME 20:04:52
 0 @I0210@ INDI
 1 NAME Petronilla /Skowronski/
 2 GIVN Petronilla
@@ -3346,15 +3352,20 @@
 2 SURN Wentland
 1 SEX F
 1 BIRT
-2 DATE ABT 1812
-2 PLAC Kiączyn, Polska
+2 DATE 1821
+2 PLAC Witkowice, Kaźmierz, szamotulski, wielkopolskie, Polska
 3 MAP
-4 LATI N52.4979
-4 LONG E16.58655
+4 LATI N52.498654
+4 LONG E16.529983
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0057@
 3 QUAY 1
+2 SOUR @S0282@
+3 PAGE Skowroński Petronella, Wentland Franciszek - akt małżeństwa; str. 160
+3 QUAY 3
+2 SOUR @S0283@
+3 PAGE Skowroński Petronilla - akt chrztu; rok 1821, wpis nr 57
 1 RESI
 2 DATE 10 NOV 1877
 2 PLAC Ottowo, Polska
@@ -3376,9 +3387,17 @@
 1 SOUR @S0112@
 2 PAGE Wentland Franciszek - akt zgonu; wpis nr 39
 2 OBJE @O0476@
+1 SOUR @S0057@
+2 PAGE Skowroński Petronella, Wentland Franciszek - akt małżeństwa; str. 19, wpis nr 5
+2 OBJE @O0385@
+1 SOUR @S0282@
+2 PAGE Skowroński Petronella, Wentland Franciszek - akt małżeństwa; str. 160
+2 QUAY 3
+1 SOUR @S0283@
+2 PAGE Skowroński Petronilla - akt chrztu; rok 1821, wpis nr 57
 1 CHAN
-2 DATE 31 JAN 2021
-3 TIME 20:16:53
+2 DATE 13 DEC 2023
+3 TIME 19:51:03
 0 @I0211@ INDI
 1 NAME Walenty /Sklepik/
 2 GIVN Walenty
@@ -3413,9 +3432,11 @@
 1 SOUR @S0089@
 2 PAGE Kromolicka, Sklepik - akt małżeństwa; str. 13-14, wpis nr 12
 2 OBJE @O0424@
+1 SOUR @S0287@
+2 PAGE Kromolicka Regina, Sklepik Walenty - akt ślubu; rok 1849, str. 30, akt na samym dole
 1 CHAN
-2 DATE 31 JAN 2021
-3 TIME 20:16:53
+2 DATE 22 DEC 2023
+3 TIME 06:34:28
 0 @I0212@ INDI
 1 NAME Regina /Kromolicka/
 2 GIVN Regina
@@ -3452,34 +3473,93 @@
 1 SOUR @S0089@
 2 PAGE Kromolicka, Sklepik - akt małżeństwa; str. 13-14, wpis nr 12
 2 OBJE @O0424@
+1 SOUR @S0287@
+2 PAGE Kromolicka Regina, Sklepik Walenty - akt ślubu; rok 1849, str. 30, akt na samym dole
 1 CHAN
-2 DATE 31 JAN 2021
-3 TIME 20:16:53
+2 DATE 22 DEC 2023
+3 TIME 06:34:38
 0 @I0213@ INDI
 1 NAME Wojciech /Skowroński/
 2 GIVN Wojciech
 2 SURN Skowroński
 1 SEX M
+1 BIRT
+2 DATE 30 MAR 1788
+2 PLAC Komorowo, Kaźmierz, szamotulski, wielkopolskie, Polska
+3 MAP
+4 LATI N52.514857
+4 LONG E16.505376
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0285@
+3 PAGE Skowronek Adalbertus - akt chrztu
+2 SOUR @S0284@
+3 PAGE Skowrońki Adalbertus, Wąchowianka Marianna - akt ślubu; wpis nr 12
+3 OBJE @O0751@
+1 DEAT
+2 DATE 1845
+2 PLAC Kiączyn, Polska
+3 MAP
+4 LATI N52.4979
+4 LONG E16.58655
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0001@
+3 PAGE Skowronek Adalbertus - akt zgonu
+1 FAMC @F0307@
+2 PEDI birth
 1 FAMS @F0126@
 1 SOUR @S0057@
 2 PAGE Skowroński Petronella, Wentland Franciszek - akt małżeństwa; str. 19, wpis nr 5
 2 OBJE @O0385@
+1 SOUR @S0283@
+2 PAGE Skowroński Petronilla - akt chrztu; rok 1821, wpis nr 57
+1 SOUR @S0284@
+2 PAGE Skowrońki Adalbertus, Wąchowianka Marianna - akt ślubu; wpis nr 12
+2 OBJE @O0751@
+1 SOUR @S0285@
+2 PAGE Skowronek Adalbertus - akt chrztu
+1 SOUR @S0001@
+2 PAGE Skowronek Adalbertus - akt zgonu
 1 CHAN
-2 DATE 31 JAN 2021
-3 TIME 20:16:53
+2 DATE 13 DEC 2023
+3 TIME 20:51:52
 0 @I0214@ INDI
-1 NAME Marianna /Skowroński/
-2 TYPE married
+1 NAME Marianna /Wąchowianka/
 2 GIVN Marianna
-2 SURN Skowroński
+2 SURN Wąchowianka
 1 SEX F
+1 BIRT
+2 DATE 1797
+2 PLAC Witkowice, Kaźmierz, szamotulski, wielkopolskie, Polska
+3 MAP
+4 LATI N52.498654
+4 LONG E16.529983
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0286@
+3 PAGE Wachowiak Marianna - akt chrztu; rok 1797, wpis nr 14
+2 SOUR @S0284@
+3 PAGE Skowrońki Adalbertus, Wąchowianka Marianna - akt ślubu; wpis nr 12
+3 OBJE @O0751@
+1 FAMC @F0308@
+2 PEDI birth
 1 FAMS @F0126@
 1 SOUR @S0057@
 2 PAGE Skowroński Petronella, Wentland Franciszek - akt małżeństwa; str. 19, wpis nr 5
 2 OBJE @O0385@
+1 SOUR @S0283@
+2 PAGE Skowroński Petronilla - akt chrztu; rok 1821, wpis nr 57
+1 SOUR @S0284@
+2 PAGE Skowrońki Adalbertus, Wąchowianka Marianna - akt ślubu; wpis nr 12
+2 OBJE @O0751@
+1 SOUR @S0001@
+2 PAGE Skowronek Adalbertus - akt zgonu
+1 SOUR @S0286@
+2 PAGE Wachowiak Marianna - akt chrztu; rok 1797, wpis nr 14
 1 CHAN
-2 DATE 31 JAN 2021
-3 TIME 20:16:53
+2 DATE 13 DEC 2023
+3 TIME 21:01:31
 0 @I0215@ INDI
 1 NAME Kacper /Sibiński/
 2 GIVN Kacper
@@ -4202,6 +4282,16 @@
 3 CTRY Polska
 2 SOUR @S0074@
 2 SOUR @S0232@
+1 RESI
+2 DATE ABT 1820
+2 PLAC Zamysłów Wodzisławski, Wilchwy, Wodzisław Śląski, wodzisławski, śląskie, Polska
+3 MAP
+4 LATI N49.988907
+4 LONG E18.480027
+2 ADDR
+3 CITY Wodzisław Śląski
+3 CTRY Polska
+2 SOUR @S0232@
 1 FACT szewc (schuhmachermaister)
 2 TYPE Occupation
 2 SOUR @S0074@
@@ -4209,8 +4299,8 @@
 1 SOUR @S0074@
 1 SOUR @S0232@
 1 CHAN
-2 DATE 20 JUN 2022
-3 TIME 16:57:09
+2 DATE 23 NOV 2023
+3 TIME 20:43:11
 0 @I0231@ INDI
 1 NAME Friedrich /Schulz/
 2 GIVN Friedrich
@@ -4280,15 +4370,12 @@
 1 SEX F
 1 BIRT
 2 DATE 20 MAY 1911
-1 FACT MH:I500012
-2 TYPE RIN
-1 _UID 5DBC1521E7E1DD48FEC60348E30C6AAD
 1 FAMC @F0147@
 2 PEDI birth
 1 FAMS @F0143@
 1 CHAN
-2 DATE 2 MAY 2023
-3 TIME 20:34:14
+2 DATE 23 NOV 2023
+3 TIME 20:00:15
 0 @I0238@ INDI
 1 NAME Kazimierz /Kopeć/
 2 GIVN Kazimierz
@@ -4748,15 +4835,30 @@
 2 GIVN Julianna
 2 SURN Chudzicka
 1 SEX F
+1 BIRT
+2 DATE 15 MAY 1875
+2 PLAC Zagorzany, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0280@
+3 PAGE Chudzicka Julianna - akt urodzenia
+3 DATA
+4 DATE 16 MAY 1875
+3 OBJE @O0749@
 1 DEAT
 2 DATE EST 1917
 1 FAMC @F500076@
 2 PEDI birth
 1 FAMS @F0147@
 1 SOUR @S0264@
+1 SOUR @S0280@
+2 PAGE Chudzicka Julianna - akt urodzenia
+2 DATA
+3 DATE 16 MAY 1875
+2 OBJE @O0749@
 1 CHAN
-2 DATE 18 OCT 2023
-3 TIME 05:02:50
+2 DATE 30 OCT 2023
+3 TIME 16:15:30
 0 @I0276@ INDI
 1 NAME Piotr /Chudzicki/
 2 GIVN Piotr
@@ -5490,6 +5592,11 @@
 2 SOUR @S0278@
 3 PAGE Chudzicki Michał, Kałuża Franciszka - akt ślubu; str. 262, wpis nr 39
 3 OBJE @O0744@
+2 SOUR @S0280@
+3 PAGE Chudzicka Julianna - akt urodzenia
+3 DATA
+4 DATE 16 MAY 1875
+3 OBJE @O0749@
 1 FAMC @F0305@
 2 PEDI birth
 1 FAMS @F500076@
@@ -5501,9 +5608,14 @@
 1 SOUR @S0278@
 2 PAGE Chudzicki Michał, Kałuża Franciszka - akt ślubu; str. 262, wpis nr 39
 2 OBJE @O0744@
+1 SOUR @S0280@
+2 PAGE Chudzicka Julianna - akt urodzenia
+2 DATA
+3 DATE 16 MAY 1875
+2 OBJE @O0749@
 1 CHAN
-2 DATE 18 OCT 2023
-3 TIME 05:22:55
+2 DATE 30 OCT 2023
+3 TIME 16:16:09
 0 @I0339@ INDI
 1 NAME Franciszka /Kałuża/
 2 GIVN Franciszka
@@ -5519,6 +5631,11 @@
 2 SOUR @S0278@
 3 PAGE Chudzicki Michał, Kałuża Franciszka - akt ślubu; str. 262, wpis nr 39
 3 OBJE @O0744@
+2 SOUR @S0280@
+3 PAGE Chudzicka Julianna - akt urodzenia
+3 DATA
+4 DATE 16 MAY 1875
+3 OBJE @O0749@
 1 FAMC @F0306@
 2 PEDI birth
 1 FAMS @F500076@
@@ -5530,9 +5647,14 @@
 1 SOUR @S0278@
 2 PAGE Chudzicki Michał, Kałuża Franciszka - akt ślubu; str. 262, wpis nr 39
 2 OBJE @O0744@
+1 SOUR @S0280@
+2 PAGE Chudzicka Julianna - akt urodzenia
+2 DATA
+3 DATE 16 MAY 1875
+2 OBJE @O0749@
 1 CHAN
-2 DATE 18 OCT 2023
-3 TIME 05:25:39
+2 DATE 30 OCT 2023
+3 TIME 16:16:52
 0 @I0340@ INDI
 1 NAME Elżbieta /Chudzicka/
 2 GIVN Elżbieta
@@ -7338,9 +7460,13 @@
 2 DATA
 3 DATE 6 FEB 1951
 2 OBJE @O0676@
+1 SOUR @S0281@
+2 PAGE Huńka Mieczysław, Mamaryna Eugenia - akt małżeństwa
+2 QUAY 2
+2 OBJE @O0750@
 1 CHAN
-2 DATE 19 JUN 2022
-3 TIME 10:41:18
+2 DATE 23 NOV 2023
+3 TIME 19:54:24
 0 @I0413@ INDI
 1 NAME Maria /Martynak/
 2 TYPE married
@@ -7369,9 +7495,13 @@
 2 DATA
 3 DATE 6 FEB 1951
 2 OBJE @O0676@
+1 SOUR @S0281@
+2 PAGE Huńka Mieczysław, Mamaryna Eugenia - akt małżeństwa
+2 QUAY 2
+2 OBJE @O0750@
 1 CHAN
-2 DATE 18 JUN 2022
-3 TIME 05:24:38
+2 DATE 21 NOV 2023
+3 TIME 19:34:10
 0 @I0415@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -10993,9 +11123,13 @@
 2 DATA
 3 DATE 19 MAR 1949
 2 OBJE @O0696@
+1 SOUR @S0281@
+2 PAGE Huńka Mieczysław, Mamaryna Eugenia - akt małżeństwa
+2 QUAY 2
+2 OBJE @O0750@
 1 CHAN
-2 DATE 31 OCT 2022
-3 TIME 20:55:27
+2 DATE 21 NOV 2023
+3 TIME 19:34:39
 0 @I0533@ INDI
 1 NAME Maria /Odiniec/
 2 GIVN Maria
@@ -11007,9 +11141,13 @@
 2 DATA
 3 DATE 19 MAR 1949
 2 OBJE @O0696@
+1 SOUR @S0281@
+2 PAGE Huńka Mieczysław, Mamaryna Eugenia - akt małżeństwa
+2 QUAY 2
+2 OBJE @O0750@
 1 CHAN
-2 DATE 31 OCT 2022
-3 TIME 20:54:15
+2 DATE 21 NOV 2023
+3 TIME 19:34:59
 0 @I0534@ INDI
 1 NAME Joachim /Schaeffer/
 2 GIVN Joachim
@@ -11555,6 +11693,52 @@
 1 CHAN
 2 DATE 18 OCT 2023
 3 TIME 05:25:39
+0 @I0560@ INDI
+1 NAME Anna /Skowronek/
+2 TYPE married
+2 GIVN Anna
+2 SURN Skowronek
+1 SEX F
+1 FAMS @F0307@
+1 SOUR @S0285@
+2 PAGE Skowronek Adalbertus - akt chrztu
+1 CHAN
+2 DATE 13 DEC 2023
+3 TIME 20:43:40
+0 @I0561@ INDI
+1 NAME Adalbertus /Skowronek/
+2 GIVN Adalbertus
+2 SURN Skowronek
+1 SEX M
+1 FAMS @F0307@
+1 SOUR @S0285@
+2 PAGE Skowronek Adalbertus - akt chrztu
+1 CHAN
+2 DATE 13 DEC 2023
+3 TIME 20:43:40
+0 @I0562@ INDI
+1 NAME Magdalena /Wachowiak/
+2 TYPE married
+2 GIVN Magdalena
+2 SURN Wachowiak
+1 SEX F
+1 FAMS @F0308@
+1 SOUR @S0286@
+2 PAGE Wachowiak Marianna - akt chrztu; rok 1797, wpis nr 14
+1 CHAN
+2 DATE 13 DEC 2023
+3 TIME 21:01:31
+0 @I0563@ INDI
+1 NAME Matheus /Wachowiak/
+2 GIVN Matheus
+2 SURN Wachowiak
+1 SEX M
+1 FAMS @F0308@
+1 SOUR @S0286@
+2 PAGE Wachowiak Marianna - akt chrztu; rok 1797, wpis nr 14
+1 CHAN
+2 DATE 13 DEC 2023
+3 TIME 21:01:31
 0 @I500004@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -11788,8 +11972,8 @@
 2 PEDI birth
 1 FAMS @F500006@
 1 CHAN
-2 DATE 24 JUL 2020
-3 TIME 19:33:19
+2 DATE 24 OCT 2023
+3 TIME 18:25:32
 0 @I500022@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -11885,8 +12069,8 @@
 1 FAMC @F500009@
 2 PEDI birth
 1 CHAN
-2 DATE 24 JUL 2020
-3 TIME 19:33:20
+2 DATE 24 OCT 2023
+3 TIME 13:44:33
 0 @I500031@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -12128,8 +12312,8 @@
 1 SEX M
 1 FAMS @F500017@
 1 CHAN
-2 DATE 24 JUL 2020
-3 TIME 19:33:22
+2 DATE 24 OCT 2023
+3 TIME 13:17:36
 0 @I500054@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -12280,8 +12464,8 @@
 1 SEX F
 1 FAMS @F500020@
 1 CHAN
-2 DATE 24 JUL 2020
-3 TIME 19:33:23
+2 DATE 24 OCT 2023
+3 TIME 13:45:10
 0 @I500066@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -12902,8 +13086,8 @@
 1 SEX M
 1 FAMS @F500037@
 1 CHAN
-2 DATE 24 JUL 2020
-3 TIME 19:33:28
+2 DATE 24 OCT 2023
+3 TIME 13:13:26
 0 @I500119@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -13439,8 +13623,8 @@
 1 SOUR @S500006@
 2 QUAY 0
 1 CHAN
-2 DATE 12 OCT 2020
-3 TIME 18:34:45
+2 DATE 29 NOV 2023
+3 TIME 16:10:15
 0 @I500155@ INDI
 1 NAME Johanna /Nagel/
 2 GIVN Johanna
@@ -14694,6 +14878,10 @@
 3 DATA
 4 DATE 6 FEB 1951
 3 OBJE @O0676@
+2 SOUR @S0281@
+3 PAGE Huńka Mieczysław, Mamaryna Eugenia - akt małżeństwa
+3 QUAY 2
+3 OBJE @O0750@
 1 DEAT
 2 TYPE ul. Dworcowa 7, Bytom
 2 DATE 5 FEB 1951
@@ -14773,6 +14961,16 @@
 3 DATA
 4 DATE 19 MAR 1949
 3 OBJE @O0696@
+2 SOUR @S0281@
+3 PAGE Huńka Mieczysław, Mamaryna Eugenia - akt małżeństwa
+3 QUAY 2
+3 OBJE @O0750@
+1 FACT rzymskokatolickie
+2 TYPE Wyznanie
+2 SOUR @S0281@
+3 PAGE Huńka Mieczysław, Mamaryna Eugenia - akt małżeństwa
+3 QUAY 2
+3 OBJE @O0750@
 1 FAMC @F0239@
 2 PEDI birth
 1 FAMS @F500078@
@@ -14804,13 +15002,17 @@
 2 DATA
 3 DATE 19 MAR 1949
 2 OBJE @O0696@
+1 SOUR @S0281@
+2 PAGE Huńka Mieczysław, Mamaryna Eugenia - akt małżeństwa
+2 QUAY 2
+2 OBJE @O0750@
 1 OBJE @O0576@
 1 OBJE @O0578@
 1 OBJE @O0582@
 1 OBJE @O0584@
 1 CHAN
-2 DATE 6 JUN 2023
-3 TIME 21:06:01
+2 DATE 22 DEC 2023
+3 TIME 07:10:35
 0 @I500231@ INDI
 1 NAME Eugenia /Mamaryna/
 2 GIVN Eugenia
@@ -14846,6 +15048,10 @@
 3 DATA
 4 DATE 19 MAR 1949
 3 OBJE @O0696@
+2 SOUR @S0281@
+3 PAGE Huńka Mieczysław, Mamaryna Eugenia - akt małżeństwa
+3 QUAY 2
+3 OBJE @O0750@
 1 DEAT
 2 TYPE zmarła w szpitalu (tam też przyjęła ostatnie namaszczenie)
 2 DATE 17 MAR 1949
@@ -14894,10 +15100,14 @@
 2 DATA
 3 DATE 19 MAR 1949
 2 OBJE @O0696@
+1 SOUR @S0281@
+2 PAGE Huńka Mieczysław, Mamaryna Eugenia - akt małżeństwa
+2 QUAY 2
+2 OBJE @O0750@
 1 OBJE @O0578@
 1 CHAN
-2 DATE 6 JUN 2023
-3 TIME 21:06:16
+2 DATE 21 NOV 2023
+3 TIME 19:30:42
 0 @I500232@ INDI
 1 NAME Wawrzyniec /Kopeć/
 2 GIVN Wawrzyniec
@@ -16068,6 +16278,8 @@
 2 SOUR @S0089@
 3 PAGE Kromolicka, Sklepik - akt małżeństwa; str. 13-14, wpis nr 12
 3 OBJE @O0424@
+2 SOUR @S0287@
+3 PAGE Kromolicka Regina, Sklepik Walenty - akt ślubu; rok 1849, str. 30, akt na samym dole
 1 EVEN
 2 TYPE Residence
 2 DATE 4 NOV 1849
@@ -16087,10 +16299,22 @@
 0 @F0126@ FAM
 1 HUSB @I0213@
 1 WIFE @I0214@
+1 MARR
+2 TYPE on - 32 lata, wdowiec; ona - 23 lata
+2 DATE 1820
+2 PLAC Witkowice, Kaźmierz, szamotulski, wielkopolskie, Polska
+3 MAP
+4 LATI N52.498654
+4 LONG E16.529983
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0284@
+3 PAGE Skowrońki Adalbertus, Wąchowianka Marianna - akt ślubu; wpis nr 12
+3 OBJE @O0751@
 1 CHIL @I0210@
 1 CHAN
-2 DATE 3 SEP 2020
-3 TIME 13:04:30
+2 DATE 13 DEC 2023
+3 TIME 19:51:03
 0 @F0127@ FAM
 1 HUSB @I0215@
 1 WIFE @I0216@
@@ -17744,6 +17968,20 @@
 1 CHAN
 2 DATE 18 OCT 2023
 3 TIME 05:25:39
+0 @F0307@ FAM
+1 HUSB @I0561@
+1 WIFE @I0560@
+1 CHIL @I0213@
+1 CHAN
+2 DATE 13 DEC 2023
+3 TIME 20:43:40
+0 @F0308@ FAM
+1 HUSB @I0563@
+1 WIFE @I0562@
+1 CHIL @I0214@
+1 CHAN
+2 DATE 13 DEC 2023
+3 TIME 21:01:31
 0 @F500004@ FAM
 1 HUSB @I500013@
 1 WIFE @I500012@
@@ -18607,16 +18845,14 @@
 1 HUSB @I500230@
 1 WIFE @I500231@
 1 MARR
-2 TYPE Według aktu zgonu Eugenii, ślub brany we Lwowie: Urz. Parafialny, tom XI
-3 CONC V pag 113 916/19
-2 DATE 1 FEB 1920
-2 PLAC Omsk, Rosja
+2 TYPE Kościół św. Mikołaja we Lwowie
+2 DATE 20 SEP 1919
+2 PLAC Lwów, Ukraina
 3 MAP
-4 LATI N54.983333
-4 LONG E73.366667
+4 LATI N49.832668
+4 LONG E23.942196
 2 ADDR
-3 CITY Omsk
-3 CTRY Rosja
+3 CTRY Ukraina
 2 SOUR @S0186@
 3 PAGE str.2
 2 SOUR @S0230@
@@ -18630,6 +18866,10 @@
 3 DATA
 4 DATE 19 MAR 1949
 3 OBJE @O0696@
+2 SOUR @S0281@
+3 PAGE Huńka Mieczysław, Mamaryna Eugenia - akt małżeństwa
+3 QUAY 2
+3 OBJE @O0750@
 1 CHIL @I0089@
 1 CHIL @I0415@
 1 CHAN
@@ -19184,18 +19424,15 @@
 2 DATE 14 JUN 2020
 3 TIME 18:47:07
 0 @S0089@ SOUR
-1 TITL Księga małżeństw
+1 TITL Księga małżeństw (duplikat)
 1 AUTH Parafia Rzymskokatolicka w Sobocie (pow. poznański)
 1 REPO @R0014@
 2 CALN 12/1849
 3 MEDI Book
-1 REPO @R0023@
-2 CALN 9/1849
-3 MEDI Book
 1 REPO @R0021@
 1 CHAN
-2 DATE 25 JUL 2020
-3 TIME 19:22:38
+2 DATE 22 DEC 2023
+3 TIME 06:30:26
 0 @S0090@ SOUR
 1 TITL Zieliński Andreas - akt urodzenia
 1 REPO @R0022@
@@ -19344,8 +19581,8 @@
 2 CALN 53/3333/0/6.1/47
 3 MEDI Book
 1 CHAN
-2 DATE 4 SEP 2020
-3 TIME 11:18:00
+2 DATE 11 DEC 2023
+3 TIME 19:54:53
 0 @S0113@ SOUR
 1 TITL Księga chrztów, małżeństw i zgonów 1833 (duplikat)
 1 AUTH Parafia rzymskokatolicka Kraszewice
@@ -20402,6 +20639,68 @@
 1 CHAN
 2 DATE 18 OCT 2023
 3 TIME 05:19:24
+0 @S0279@ SOUR
+1 TITL Mirecki Werner - skrócony odpis aktu zgonu
+1 AUTH US Kędzierzyn-Koźle
+1 OBJE @O0745@
+1 CHAN
+2 DATE 22 OCT 2023
+3 TIME 17:53:37
+0 @S0280@ SOUR
+1 TITL Księga urodzeń 1875
+1 REPO @R0008@
+1 CHAN
+2 DATE 30 OCT 2023
+3 TIME 16:12:53
+0 @S0281@ SOUR
+1 TITL Księga małżeństw 1918-1921
+1 AUTH Parafia Rzymskokatolicka św. Mikołaja we Lwowie
+1 REPO @R0043@
+1 CHAN
+2 DATE 21 NOV 2023
+3 TIME 19:23:25
+0 @S0282@ SOUR
+1 TITL Księga zaślubionych 1833-1842 (pierwopis)
+1 AUTH Parafia Rzymskokatolicka pw. Narodzenia NMP Kaźmierz
+1 REPO @R0023@
+1 CHAN
+2 DATE 11 DEC 2023
+3 TIME 19:59:16
+0 @S0283@ SOUR
+1 TITL Księga ochrzczonych 1817-1823 (pierwopis)
+1 AUTH Parafia Rzymskokatolicka pw. Narodzenia NMP Kaźmierz
+1 REPO @R0023@
+1 CHAN
+2 DATE 11 DEC 2023
+3 TIME 20:15:48
+0 @S0284@ SOUR
+1 TITL Duplikat Chrztów, Ślubów i Zgonów 1820
+1 AUTH Parafia Rzymskokatolicka Kaźmierz
+1 REPO @R0014@
+1 CHAN
+2 DATE 13 DEC 2023
+3 TIME 19:49:16
+0 @S0285@ SOUR
+1 TITL Księga ochrzczonych 1780-1795 (pierwopis)
+1 AUTH Parafia Rzymskokatolicka Kaźmierz
+1 REPO @R0023@
+1 CHAN
+2 DATE 13 DEC 2023
+3 TIME 20:39:52
+0 @S0286@ SOUR
+1 TITL Księga ochrzczonych 1795-1817 (pierwopis)
+1 AUTH Parafia Rzymskokatolicka Kaźmierz
+1 REPO @R0023@
+1 CHAN
+2 DATE 13 DEC 2023
+3 TIME 20:59:35
+0 @S0287@ SOUR
+1 TITL Księga zaślubionych 1837-1874 (pierwopis)
+1 AUTH Parafia Rzymskokatolicka Sobota
+1 REPO @R0023@
+1 CHAN
+2 DATE 22 DEC 2023
+3 TIME 06:31:23
 0 @S500001@ SOUR
 1 TITL Brylewski Web Site
 1 AUTH Grzegorz Brylewski
@@ -20581,6 +20880,9 @@
 0 @R0042@ REPO
 1 NAME Archiwum Narodowe w Krakowie
 1 WWW https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/3406536
+0 @R0043@ REPO
+1 NAME Archiwum Ukrainy we Lwowie
+1 WWW https://tsdial.archives.gov.ua/
 0 @O0000@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/500018_83613838t5dbd58205l30l.jpg
 2 FORM jpg
@@ -20639,20 +20941,13 @@
 2 FORM jpg
 2 TITL waldek i beata
 1 CHAN
-2 DATE 26 JAN 2020
-3 TIME 16:34:16
+2 DATE 22 OCT 2023
+3 TIME 19:56:57
 0 @O0008@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/500092_921218bd3421a8z25fp7x1.jpg
 2 FORM jpg
 2 TITL https://www.myheritageimages.com/V/storage/site141336311/files/50/00/92/
 3 CONC 500092_921218bd3421a8z25fp7x1.jpg
-1 CHAN
-2 DATE 26 JAN 2020
-3 TIME 16:34:16
-0 @O0009@ OBJE
-1 FILE /home/dmirecki/projects/gramps/media/500091_106308d2afb1254b87csdk.jpg
-2 FORM jpg
-2 TITL waldek i beata
 1 CHAN
 2 DATE 26 JAN 2020
 3 TIME 16:34:16
@@ -20859,20 +21154,13 @@
 1 CHAN
 2 DATE 26 JAN 2020
 3 TIME 16:34:16
-0 @O0041@ OBJE
-1 FILE /home/dmirecki/projects/gramps/media/500107_5307188ddf5424i6ryk0c0.jpg
-2 FORM jpg
-2 TITL wzamczewski
-1 CHAN
-2 DATE 26 JAN 2020
-3 TIME 16:34:16
 0 @O0042@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/500105_605874vc2fi8d541d82755.jpg
 2 FORM jpg
 2 TITL wzamczewski
 1 CHAN
-2 DATE 26 JAN 2020
-3 TIME 16:34:16
+2 DATE 24 OCT 2023
+3 TIME 13:25:57
 0 @O0043@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/500098_197082d2d265n55wdyfl78.jpg
 2 FORM jpg
@@ -22105,14 +22393,6 @@
 1 CHAN
 2 DATE 3 FEB 2020
 3 TIME 20:00:47
-0 @O0218@ OBJE
-1 FILE /home/dmirecki/projects/gramps/media/500228_139768jdb2be5ag594978z.jpg
-2 FORM jpg
-2 TITL https://www.myheritageimages.com/F/storage/site141336311/files/50/02/28/
-3 CONC 500228_139768jdb2be5ag594978z.jpg
-1 CHAN
-2 DATE 26 JAN 2020
-3 TIME 16:34:16
 0 @O0219@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/500227_492522b426bz5d1e5c9b9k.jpg
 2 FORM jpg
@@ -22247,26 +22527,12 @@
 2 TITL https://www.myheritageimages.com/V/storage/site674338281/files/50/00/49/
 3 CONC 500049_407859ce3ol0f9yn559c81.jpg
 1 CHAN
-2 DATE 3 FEB 2020
-3 TIME 20:00:47
-0 @O0254@ OBJE
-1 FILE /home/dmirecki/projects/gramps/media/500048_3304599wb9f0m8y5et5k35.jpg
-2 FORM jpg
-2 TITL new.jpg
-1 CHAN
-2 DATE 3 FEB 2020
-3 TIME 20:00:47
+2 DATE 22 OCT 2023
+3 TIME 20:23:37
 0 @O0255@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/500046_6189660pe85ct3e90bz965.jpg
 2 FORM jpg
 2 TITL Ryszard Huńka w Londynie
-1 CHAN
-2 DATE 3 FEB 2020
-3 TIME 20:00:47
-0 @O0256@ OBJE
-1 FILE /home/dmirecki/projects/gramps/media/500047_1374303055r5vf9zf0x68e.jpg
-2 FORM jpg
-2 TITL new.jpg
 1 CHAN
 2 DATE 3 FEB 2020
 3 TIME 20:00:47
@@ -22370,21 +22636,13 @@
 1 CHAN
 2 DATE 3 FEB 2020
 3 TIME 20:00:47
-0 @O0270@ OBJE
-1 FILE /home/dmirecki/projects/gramps/media/500006_40697771c4e25024511e20.jpg
-2 FORM jpg
-2 TITL https://www.myheritageimages.com/V/storage/site674338281/files/50/00/06/
-3 CONC 500006_40697771c4e25024511e20.jpg
-1 CHAN
-2 DATE 3 FEB 2020
-3 TIME 20:00:47
 0 @O0271@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/500005_714864e11r51uma1710220.jpg
 2 FORM jpg
 2 TITL new.jpg
 1 CHAN
-2 DATE 3 FEB 2020
-3 TIME 20:00:47
+2 DATE 22 OCT 2023
+3 TIME 20:27:00
 0 @O0272@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/500038_9235380z008re182j5yv62.jpg
 2 FORM jpg
@@ -25685,4 +25943,53 @@
 1 CHAN
 2 DATE 18 OCT 2023
 3 TIME 05:17:40
+0 @O0745@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Moczygemba__Poloczek/moczygemba-werner__odpis-aktu-zgonu.pdf
+2 FORM pdf
+2 TITL moczygemba-werner__odpis-aktu-zgonu
+1 CHAN
+2 DATE 22 OCT 2023
+3 TIME 17:52:44
+0 @O0746@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Moczygemba__Poloczek/moczygemba_romek_bernard_werner_beata.jpeg
+2 FORM jpeg
+2 TITL Ostatnie spotkanie braci przed śmiercią Wernera
+1 CHAN
+2 DATE 22 OCT 2023
+3 TIME 17:56:35
+0 @O0747@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Moczygemba__Poloczek/moczygemba_romek_bernard_werner_beata.jpeg
+2 FORM jpeg
+2 TITL moczygemba_romek_bernard_werner_beata
+1 CHAN
+2 DATE 24 OCT 2023
+3 TIME 13:21:03
+0 @O0748@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Mirecki__Poloczek/mirecki-werner.bmp
+2 FORM bmp
+2 TITL mirecki-werner
+1 CHAN
+2 DATE 25 OCT 2023
+3 TIME 20:01:09
+0 @O0749@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Chudzicki__Kałuża/chudzicka-julianna__akt-urodzenia.jpg
+2 FORM jpg
+2 TITL chudzicka-julianna__akt-urodzenia
+1 CHAN
+2 DATE 30 OCT 2023
+3 TIME 16:13:12
+0 @O0750@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Hamaryn__Huńka/huńka-mieczysław__mamaryna-eugenia__akt-małżeństwa.pdf
+2 FORM pdf
+2 TITL huńka-mieczysław__mamaryna-eugenia__akt-małżeństwa
+1 CHAN
+2 DATE 21 NOV 2023
+3 TIME 19:36:51
+0 @O0751@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Skowroński__Wąchowianka/skowroński-adalbertus__wąchowianka-marianna__akt-ślubu.jpg
+2 FORM jpg
+2 TITL skowroński-adalbertus__wąchowianka-marianna__akt-ślubu
+1 CHAN
+2 DATE 13 DEC 2023
+3 TIME 19:49:39
 0 TRLR

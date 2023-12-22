@@ -26,7 +26,7 @@ ppl/2/9/e5e47fa4ccc2417528fd5293592.html|[Private]|[Private] /[Private]/|||||
 ppl/a/9/e5e47fa4d12168c95673b4be19a.html|[Private]|[Private] /[Private]/|||||
 ppl/5/c/e5e47fa4d3a66abf407c107b2c5.html|[Private]|[Private] /[Private]/|||||
 ppl/9/4/e5e47fa4dd1487742d0bc5dbf49.html|[Private]|[Private] /[Private]/|||||
-ppl/7/4/e5e47fa4def4217549f68e9047.html|[Private]|[Private] /[Private]/|||||
+ppl/7/4/e5e47fa4def4217549f68e9047.html|Zamczewski|Waldemar /Zamczewski/|||||
 ppl/3/d/e5e47fa4e7b221403061b9640d3.html|[Private]|[Private] /[Private]/|||||
 ppl/d/5/e5e47fa4ed522c1354acabda75d.html|Bek|Katarzyna /Bek/|24 NOV 1912||||
 ppl/8/a/e5e47fa4efd584b37ca838435a8.html|[Private]|[Private] /[Private]/|||||
@@ -324,7 +324,7 @@ ppl/b/e/e5e4936d4e61ad06dae2c5010eb.html|[Private]|[Private] /[Private]/|||||
 ppl/0/5/e5e4936d5401957c93e3da03c50.html||Zbigniew //|||||
 ppl/8/3/e5e4936d5546b6001a81b50cd38.html|[Private]|[Private] /[Private]/|||||
 ppl/a/2/e5e4936d55e4c33eaa8a9d7342a.html|[Private]|[Private] /[Private]/|||||
-ppl/7/9/e5e4936d57247c764129bb54697.html|[Private]|[Private] /[Private]/|||||
+ppl/7/9/e5e4936d57247c764129bb54697.html|Cygan|Mieczysław /Cygan/|||||
 ppl/0/3/e5e4936d5906d619396ce6fcf30.html|[Private]|[Private] /[Private]/|||||
 ppl/2/b/e5e4936d5ea631c242c2e0b27b2.html|Podsiadło|Matylda /Podsiadło/|||||
 ppl/c/8/e5e4936d6124f4e45d9ad3d2b8c.html|Podsiadło|Mieczysław /Podsiadło/|ABT MAY 1919||12 NOV 1920|Motkowice, Polska|
@@ -399,11 +399,11 @@ ppl/1/7/e67eebbb610384a14164be5e671.html|[Private]|[Private] /[Private]/|||||
 ppl/1/0/e67eec700114baabba42714ad01.html|[Private]|[Private] /[Private]/|||||
 ppl/4/c/e67eec8e40c2d4aaf8c8141dfc4.html|[Private]|[Private] /[Private]/|||||
 ppl/4/5/e688f805ccf2d53e8f17501d454.html|Wentland|Franciszek /Wentland/|ABT 1810|Kiączyn, Polska|29 MAY 1868|Stare, Polska|
-ppl/6/6/e688f85b958ddbdd1ba4299866.html|Skowronski|Petronilla /Skowronski/|ABT 1812|Kiączyn, Polska|||
+ppl/6/6/e688f85b958ddbdd1ba4299866.html|Skowronski|Petronilla /Skowronski/|1821|Witkowice, Kaźmierz, szamotulski, wielkopolskie, Polska|||
 ppl/b/4/e6890164e6627654be5b44ff04b.html|Sklepik|Walenty /Sklepik/|||||
 ppl/c/a/e68901afe8e28b7f62bd00c2ac.html|Kromolicka|Regina /Kromolicka/|ABT 1827||||
-ppl/7/f/e68a943ebca3fb71fa854eadbf7.html|Skowroński|Wojciech /Skowroński/|||||
-ppl/9/e/e68a9485d922cc0daaa949879e9.html|Skowroński|Marianna /Skowroński/|||||
+ppl/7/f/e68a943ebca3fb71fa854eadbf7.html|Skowroński|Wojciech /Skowroński/|30 MAR 1788|Komorowo, Kaźmierz, szamotulski, wielkopolskie, Polska|1845|Kiączyn, Polska|
+ppl/9/e/e68a9485d922cc0daaa949879e9.html|Wąchowianka|Marianna /Wąchowianka/|1797|Witkowice, Kaźmierz, szamotulski, wielkopolskie, Polska|||
 ppl/d/a/e6d5237fde25544ba636c22b9ad.html|Sibiński|Kacper /Sibiński/|30 DEC 1832|Dom nr 36, Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska|13 DEC 1878|Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska|
 ppl/f/0/e6d525a4b885352ac89e5991c0f.html|Mielcarek|Marianna /Mielcarek/|17 JAN 1840|Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska|AFT 13 DEC 1878||
 ppl/4/8/e6d52cb3c20699f9249af3b5484.html|Zieliński|Mateusz /Zieliński/|ABT 1828||BET 24 APR 1881 AND 7 JAN 1894||
@@ -476,7 +476,7 @@ ppl/1/c/e779f969456558e3fa4189975c1.html|[Private]|[Private] /[Private]/|||||
 ppl/4/2/e779f9694617a04fec528bcc024.html|[Private]|[Private] /[Private]/|||||
 ppl/e/7/e779f9694687884feafc928e97e.html|Wac|Jadwiga /Wac/|||||
 ppl/9/c/e779f96947a28babce54eb359c9.html|[Private]|[Private] /[Private]/|||||
-ppl/a/5/e779f969484777b54908bbf545a.html|Chudzicka|Julianna /Chudzicka/|||EST 1917||
+ppl/a/5/e779f969484777b54908bbf545a.html|Chudzicka|Julianna /Chudzicka/|15 MAY 1875|Zagorzany, Polska|EST 1917||
 ppl/2/c/e779f9694cd17c040a0d0942dc2.html|Chudzicki|Piotr /Chudzicki/|22 JAN 1914|Zagorzany, Polska|||
 ppl/f/8/e779f9694ed6d49451d7072b28f.html|Chudzicka|Maria /Chudzicka/ Barbara|||||
 ppl/8/d/e779f9694fb358b7f5797fde8d8.html|Juszczyk|Marianna /Juszczyk/ Marysia|||||
@@ -769,3 +769,7 @@ ppl/a/9/f708c4b31c259b3080ee4ea779a.html|Chudzicki|Józef /Chudzicki/|||||
 ppl/f/8/f708c4eb39176b49861206b548f.html|Wojtarowicz|Marianna /Wojtarowicz/|||||
 ppl/0/6/f708c63e34319f56844692e2760.html|Kałuża|Andrzej /Kałuża/|||||
 ppl/5/4/f708c663655db64efdee5cff45.html|Chmura|Magdalena /Chmura/|||||
+ppl/5/1/f7bf12ba080105b107cad2dd515.html|Skowronek|Anna /Skowronek/|||||
+ppl/e/9/f7bf130bb1063b7b95b5b457e9e.html|Skowronek|Adalbertus /Skowronek/|||||
+ppl/5/a/f7bf1cfbb4f43e06e0ee1360ba5.html|Wachowiak|Magdalena /Wachowiak/|||||
+ppl/1/1/f7bf1d488875dd41ebe69d73411.html|Wachowiak|Matheus /Wachowiak/|||||
