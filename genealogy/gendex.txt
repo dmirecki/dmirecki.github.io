@@ -623,8 +623,8 @@ ppl/d/8/e8df60823cc39bac678eb5b3f8d.html|Kielesińska|Marianna /Kielesińska/|AB
 ppl/a/5/e8df639329021118374fb47425a.html|Dudała|Antoni /Dudała/|15 JAN 1865|Motkowice, Polska|||
 ppl/3/8/e8df63e057f30f99aa71cc88c83.html|Banaś|Marcjanna /Banaś/|6 JAN 1865|Motkowice, Polska|||
 ppl/5/a/e8ee9f20534625b097da0d44ca5.html|Podsiadło|Antoni /Podsiadło/|9 JUN 1908|Motkowice, Polska|21 SEP 1908|Motkowice, Polska|
-ppl/d/4/e902a4b70c5513b7654b7f3ee4d.html|Huńka|Jan /Huńka/|||1938|Zimna Woda, obwód lwowski, Ukraina|
-ppl/8/7/e902a4e681135a1315282e1f478.html|Martynak|Maria /Martynak/|||||
+ppl/d/4/e902a4b70c5513b7654b7f3ee4d.html|Huńka|Jan /Huńka/|11 APR 1871|Polana, obwód lwowski, Ukraina|1938|Zimna Woda, obwód lwowski, Ukraina|
+ppl/8/7/e902a4e681135a1315282e1f478.html|Martyniak|Maria /Martyniak/|1 NOV 1875|Żurawnik, przemyślański, Królewstwo Galicji i Lodomerii|||
 ppl/9/1/e912e9c05643e0579d2b5c65a19.html|[Private]|[Private] /[Private]/|||||
 ppl/9/e/e941f9e0b552e637e628e462ee9.html|Suchanek|Mikołaj /Suchanek/|11 NOV 1820|Motkowice, Polska|BEF 18 APR 1900||
 ppl/0/3/e941fa95831321abc99bf0abc30.html|Jakubczyk|Anna /Jakubczyk/|ABT 1843|Motkowice, Polska|14 APR 1902|Motkowice, Polska|
@@ -773,3 +773,6 @@ ppl/5/1/f7bf12ba080105b107cad2dd515.html|Skowronek|Anna /Skowronek/|||||
 ppl/e/9/f7bf130bb1063b7b95b5b457e9e.html|Skowronek|Adalbertus /Skowronek/|||||
 ppl/5/a/f7bf1cfbb4f43e06e0ee1360ba5.html|Wachowiak|Magdalena /Wachowiak/|||||
 ppl/1/1/f7bf1d488875dd41ebe69d73411.html|Wachowiak|Matheus /Wachowiak/|||||
+ppl/d/b/f8a375e0f464e6efe9f613fdbd.html|Martyniak|Anna /Martyniak/|||||
+ppl/4/1/f8a3777fd5ff1d4576db183314.html|Huńka|Bazyli /Huńka/|||||
+ppl/7/1/f8a377aa55f430bf45c4f083a17.html|Hawrylak|Anna /Hawrylak/|||||

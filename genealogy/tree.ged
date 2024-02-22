@@ -2,11 +2,11 @@
 1 SOUR Gramps
 2 VERS 5.1.5
 2 NAME Gramps
-1 DATE 22 DEC 2023
-2 TIME 08:13:19
+1 DATE 22 FEB 2024
+2 TIME 21:10:28
 1 SUBM @SUBM@
 1 FILE /home/dmirecki/projects/dmirecki.github.io/genealogy/tree.ged
-1 COPR Copyright (c) 2023 Damian Mirecki.
+1 COPR Copyright (c) 2024 Damian Mirecki.
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
@@ -306,8 +306,8 @@
 1 OBJE @O0724@
 1 OBJE @O0726@
 1 CHAN
-2 DATE 18 SEP 2023
-3 TIME 12:53:33
+2 DATE 14 JAN 2024
+3 TIME 19:40:20
 0 @I0010@ INDI
 1 NAME Weronika Barbara /Wincek/
 2 GIVN Weronika Barbara
@@ -1879,8 +1879,8 @@
 1 OBJE @O0269@
 1 OBJE @O0251@
 1 CHAN
-2 DATE 10 APR 2022
-3 TIME 19:17:13
+2 DATE 28 JAN 2024
+3 TIME 12:07:20
 0 @I0101@ INDI
 1 NAME Mieczysław /Suchanek/
 2 GIVN Mieczysław
@@ -2005,8 +2005,8 @@
 3 DATE 10 JUN 1908
 2 OBJE @O0483@
 1 CHAN
-2 DATE 10 APR 2022
-3 TIME 19:19:47
+2 DATE 28 JAN 2024
+3 TIME 12:07:53
 0 @I0105@ INDI
 1 NAME Marianna /Dudała/
 2 GIVN Marianna
@@ -7429,6 +7429,17 @@
 2 GIVN Jan
 2 SURN Huńka
 1 SEX M
+1 BIRT
+2 DATE 11 APR 1871
+2 PLAC Polana, obwód lwowski, Ukraina
+3 MAP
+4 LATI N49.5892
+4 LONG E24.061216
+2 ADDR
+3 CTRY Ukraina
+2 SOUR @S0289@
+3 PAGE Huńka Jan, Martyniak Maria - akt małżeństwa; str 511, wpis nr 20
+3 OBJE @O0752@
 1 DEAT
 2 DATE 1938
 2 PLAC Zimna Woda, obwód lwowski, Ukraina
@@ -7447,6 +7458,29 @@
 3 CTRY Ukraina
 1 FACT Fiakier
 2 TYPE Occupation
+1 FACT rezerwista
+2 TYPE Occupation
+2 SOUR @S0289@
+3 PAGE Huńka Jan, Martyniak Maria - akt małżeństwa; str 511, wpis nr 20
+3 OBJE @O0752@
+1 FACT greckokatolickie
+2 TYPE Wyznanie
+2 SOUR @S0289@
+3 PAGE Huńka Jan, Martyniak Maria - akt małżeństwa; str 511, wpis nr 20
+3 OBJE @O0752@
+1 FACT woźnica
+2 TYPE Occupation
+2 SOUR @S0289@
+3 PAGE Huńka Jan, Martyniak Maria - akt małżeństwa; str 511, wpis nr 20
+3 OBJE @O0752@
+1 FACT Parafia gr. kat. św. Jerzego Męczennika, prawdopodobnie w miejscowości K
+2 CONC ahujów
+2 TYPE Parafia
+2 SOUR @S0289@
+3 PAGE Huńka Jan, Martyniak Maria - akt małżeństwa; str 511, wpis nr 20
+3 OBJE @O0752@
+1 FAMC @F0310@
+2 PEDI birth
 1 FAMS @F0239@
 1 SOUR @S0122@
 2 PAGE Huńka Mieczysław; Szufladka HUBI-IDZI, skan nr 646-647
@@ -7464,14 +7498,16 @@
 2 PAGE Huńka Mieczysław, Mamaryna Eugenia - akt małżeństwa
 2 QUAY 2
 2 OBJE @O0750@
+1 SOUR @S0289@
+2 PAGE Huńka Jan, Martyniak Maria - akt małżeństwa; str 511, wpis nr 20
+2 OBJE @O0752@
 1 CHAN
-2 DATE 23 NOV 2023
-3 TIME 19:54:24
+2 DATE 22 FEB 2024
+3 TIME 20:05:04
 0 @I0413@ INDI
-1 NAME Maria /Martynak/
-2 TYPE married
+1 NAME Maria /Martyniak/
 2 GIVN Maria
-2 SURN Martynak
+2 SURN Martyniak
 2 SOUR @S0230@
 3 PAGE akt nr 206
 3 QUAY 3
@@ -7479,9 +7515,26 @@
 4 DATE 6 FEB 1951
 3 OBJE @O0676@
 1 SEX F
+1 BIRT
+2 DATE 1 NOV 1875
+2 PLAC Żurawnik, przemyślański, Królewstwo Galicji i Lodomerii
+3 MAP
+4 LATI N49.812646
+4 LONG E24.392648
+2 SOUR @S0289@
+3 PAGE Huńka Jan, Martyniak Maria - akt małżeństwa; str 511, wpis nr 20
+3 OBJE @O0752@
 1 DEAT
 2 TYPE Estimated death date
 2 SOUR @S0164@
+1 FACT rzymsko-katolickie
+2 TYPE Wyznanie
+2 SOUR @S0289@
+3 PAGE Huńka Jan, Martyniak Maria - akt małżeństwa; str 511, wpis nr 20
+3 OBJE @O0752@
+1 FAMC @F0309@
+2 _FREL Unknown
+2 _MREL birth
 1 FAMS @F0239@
 1 SOUR @S0122@
 2 PAGE Huńka Mieczysław; Szufladka HUBI-IDZI, skan nr 646-647
@@ -7499,9 +7552,12 @@
 2 PAGE Huńka Mieczysław, Mamaryna Eugenia - akt małżeństwa
 2 QUAY 2
 2 OBJE @O0750@
+1 SOUR @S0289@
+2 PAGE Huńka Jan, Martyniak Maria - akt małżeństwa; str 511, wpis nr 20
+2 OBJE @O0752@
 1 CHAN
-2 DATE 21 NOV 2023
-3 TIME 19:34:10
+2 DATE 22 FEB 2024
+3 TIME 19:42:34
 0 @I0415@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -11739,6 +11795,42 @@
 1 CHAN
 2 DATE 13 DEC 2023
 3 TIME 21:01:31
+0 @I0564@ INDI
+1 NAME Anna /Martyniak/
+2 GIVN Anna
+2 SURN Martyniak
+1 SEX F
+1 FAMS @F0309@
+1 SOUR @S0289@
+2 PAGE Huńka Jan, Martyniak Maria - akt małżeństwa; str 511, wpis nr 20
+2 OBJE @O0752@
+1 CHAN
+2 DATE 22 FEB 2024
+3 TIME 19:42:34
+0 @I0565@ INDI
+1 NAME Bazyli /Huńka/
+2 GIVN Bazyli
+2 SURN Huńka
+1 SEX M
+1 FAMS @F0310@
+1 SOUR @S0289@
+2 PAGE Huńka Jan, Martyniak Maria - akt małżeństwa; str 511, wpis nr 20
+2 OBJE @O0752@
+1 CHAN
+2 DATE 22 FEB 2024
+3 TIME 19:44:59
+0 @I0566@ INDI
+1 NAME Anna /Hawrylak/
+2 GIVN Anna
+2 SURN Hawrylak
+1 SEX F
+1 FAMS @F0310@
+1 SOUR @S0289@
+2 PAGE Huńka Jan, Martyniak Maria - akt małżeństwa; str 511, wpis nr 20
+2 OBJE @O0752@
+1 CHAN
+2 DATE 22 FEB 2024
+3 TIME 19:44:59
 0 @I500004@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -15011,8 +15103,8 @@
 1 OBJE @O0582@
 1 OBJE @O0584@
 1 CHAN
-2 DATE 22 DEC 2023
-3 TIME 07:10:35
+2 DATE 22 FEB 2024
+3 TIME 19:59:35
 0 @I500231@ INDI
 1 NAME Eugenia /Mamaryna/
 2 GIVN Eugenia
@@ -17103,10 +17195,21 @@
 0 @F0239@ FAM
 1 HUSB @I0412@
 1 WIFE @I0413@
+1 MARR
+2 DATE 9 FEB 1896
+2 PLAC Lwów, Ukraina
+3 MAP
+4 LATI N49.832668
+4 LONG E23.942196
+2 ADDR
+3 CTRY Ukraina
+2 SOUR @S0289@
+3 PAGE Huńka Jan, Martyniak Maria - akt małżeństwa; str 511, wpis nr 20
+3 OBJE @O0752@
 1 CHIL @I500230@
 1 CHAN
-2 DATE 27 SEP 2020
-3 TIME 19:26:59
+2 DATE 22 FEB 2024
+3 TIME 19:59:35
 0 @F0240@ FAM
 1 HUSB @I0415@
 1 CHIL @I0479@
@@ -17982,6 +18085,22 @@
 1 CHAN
 2 DATE 13 DEC 2023
 3 TIME 21:01:31
+0 @F0309@ FAM
+1 WIFE @I0564@
+1 CHIL @I0413@
+1 CHAN
+2 DATE 22 FEB 2024
+3 TIME 19:42:34
+0 @F0310@ FAM
+1 HUSB @I0565@
+1 WIFE @I0566@
+1 CHIL @I0412@
+1 SOUR @S0289@
+2 PAGE Huńka Jan, Martyniak Maria - akt małżeństwa; str 511, wpis nr 20
+2 OBJE @O0752@
+1 CHAN
+2 DATE 22 FEB 2024
+3 TIME 19:44:59
 0 @F500004@ FAM
 1 HUSB @I500013@
 1 WIFE @I500012@
@@ -20701,6 +20820,15 @@
 1 CHAN
 2 DATE 22 DEC 2023
 3 TIME 06:31:23
+0 @S0289@ SOUR
+1 TITL Księga metrykalna parafii wyznania rzym. kat. z archidiecezji lwowskiej
+2 CONC , Parafia Lwów - św. Marii Magdaleny, urodzenia, śluby, zgony
+1 REPO @R0044@
+2 CALN 1623
+3 MEDI Electronic
+1 CHAN
+2 DATE 22 FEB 2024
+3 TIME 19:14:12
 0 @S500001@ SOUR
 1 TITL Brylewski Web Site
 1 AUTH Grzegorz Brylewski
@@ -20883,6 +21011,8 @@
 0 @R0043@ REPO
 1 NAME Archiwum Ukrainy we Lwowie
 1 WWW https://tsdial.archives.gov.ua/
+0 @R0044@ REPO
+1 NAME Archiwum Główne Akt Dawnych (AGAD)
 0 @O0000@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/500018_83613838t5dbd58205l30l.jpg
 2 FORM jpg
@@ -25992,4 +26122,11 @@
 1 CHAN
 2 DATE 13 DEC 2023
 3 TIME 19:49:39
+0 @O0752@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Huńka__Martyniak/hunka-jan__martyniak-maria__akt-malzenstwa.jpg
+2 FORM jpg
+2 TITL hunka-jan__martyniak-maria__akt-malzenstwa
+1 CHAN
+2 DATE 22 FEB 2024
+3 TIME 19:10:15
 0 TRLR
