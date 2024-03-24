@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 5.1.5
 2 NAME Gramps
-1 DATE 22 FEB 2024
-2 TIME 21:10:28
+1 DATE 24 MAR 2024
+2 TIME 07:57:13
 1 SUBM @SUBM@
 1 FILE /home/dmirecki/projects/dmirecki.github.io/genealogy/tree.ged
 1 COPR Copyright (c) 2024 Damian Mirecki.
@@ -46,11 +46,12 @@
 1 OBJE @O0003@
 1 OBJE @O0649@
 1 OBJE @O0725@
-1 OBJE @O0747@
+1 OBJE @O0746@
 1 OBJE @O0748@
+1 OBJE @O0760@
 1 CHAN
-2 DATE 25 OCT 2023
-3 TIME 20:01:16
+2 DATE 17 MAR 2024
+3 TIME 17:29:53
 0 @I0003@ INDI
 1 NAME  /Private/
 2 SURN Private
@@ -95,9 +96,12 @@
 1 OBJE @O0654@
 1 OBJE @O0725@
 1 OBJE @O0728@
+1 OBJE @O0746@
+1 OBJE @O0760@
+1 OBJE @O0761@
 1 CHAN
-2 DATE 5 JUL 2023
-3 TIME 20:27:05
+2 DATE 17 MAR 2024
+3 TIME 17:35:50
 0 @I0004@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -107,8 +111,8 @@
 2 PEDI birth
 1 FAMS @F0002@
 1 CHAN
-2 DATE 22 AUG 2022
-3 TIME 20:27:40
+2 DATE 10 MAR 2024
+3 TIME 20:02:36
 0 @I0005@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -118,8 +122,8 @@
 2 PEDI birth
 1 FAMS @F0002@
 1 CHAN
-2 DATE 22 OCT 2023
-3 TIME 19:56:57
+2 DATE 10 MAR 2024
+3 TIME 20:02:32
 0 @I0006@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -138,7 +142,7 @@
 1 SEX M
 1 BIRT
 2 DATE 27 FEB 1898
-2 PLAC Józefowiec, Katowice, Polska
+2 PLAC Józefowiec, Katowice, woj. śląskie, Polska
 2 ADDR
 3 CITY Katowice
 3 CTRY Polska
@@ -147,7 +151,7 @@
 2 DATE FROM MAR 1917 TO 1918
 1 OCCU Kierownik tartaku w firmie Zygmunt i Richter
 2 DATE FROM 1918 TO 1922
-2 PLAC Rybnik, Polska
+2 PLAC Rybnik, rybnicki, woj. śląskie, Polska
 2 ADDR
 3 CITY Rybnik
 3 CTRY Polska
@@ -186,7 +190,7 @@
 1 SEX F
 1 BIRT
 2 DATE 7 MAR 1905
-2 PLAC Rybnik, Polska
+2 PLAC Rybnik, rybnicki, woj. śląskie, Polska
 2 ADDR
 3 CITY Rybnik
 3 CTRY Polska
@@ -305,9 +309,12 @@
 1 OBJE @O0664@
 1 OBJE @O0724@
 1 OBJE @O0726@
+1 OBJE @O0759@
+1 OBJE @O0760@
+1 OBJE @O0761@
 1 CHAN
-2 DATE 14 JAN 2024
-3 TIME 19:40:20
+2 DATE 17 MAR 2024
+3 TIME 17:36:18
 0 @I0010@ INDI
 1 NAME Weronika Barbara /Wincek/
 2 GIVN Weronika Barbara
@@ -352,9 +359,12 @@
 1 OBJE @O0724@
 1 OBJE @O0726@
 1 OBJE @O0727@
+1 OBJE @O0759@
+1 OBJE @O0760@
+1 OBJE @O0761@
 1 CHAN
-2 DATE 18 SEP 2023
-3 TIME 13:11:17
+2 DATE 17 MAR 2024
+3 TIME 17:36:05
 0 @I0011@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -364,8 +374,8 @@
 2 PEDI birth
 1 FAMS @F0005@
 1 CHAN
-2 DATE 16 APR 2022
-3 TIME 20:51:35
+2 DATE 17 MAR 2024
+3 TIME 17:30:17
 0 @I0012@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -374,8 +384,8 @@
 1 FAMC @F0003@
 2 PEDI birth
 1 CHAN
-2 DATE 16 APR 2023
-3 TIME 15:34:19
+2 DATE 10 MAR 2024
+3 TIME 20:03:10
 0 @I0013@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -385,8 +395,8 @@
 2 PEDI birth
 1 FAMS @F0006@
 1 CHAN
-2 DATE 16 DEC 2021
-3 TIME 20:46:19
+2 DATE 10 MAR 2024
+3 TIME 20:03:10
 0 @I0014@ INDI
 1 NAME Piotr /Mirecki/
 2 GIVN Piotr
@@ -553,7 +563,7 @@
 1 SEX M
 1 DEAT
 2 DATE 1 APR 2022
-2 PLAC Wodzisław Śląski, wodzisławski, śląskie, Polska
+2 PLAC Wodzisław Śląski, wodzisławski, woj. śląskie, Polska
 2 ADDR
 3 CITY Wodzisław Śląski
 3 CTRY Polska
@@ -821,7 +831,7 @@
 1 SEX M
 1 BIRT
 2 DATE 22 MAR 1871
-2 PLAC Nowy Bytom, Ruda Śląska, Polska
+2 PLAC Nowy Bytom, Ruda Śląska, woj. śląskie, Polska
 2 ADDR
 3 CITY Ruda Śląska
 3 CTRY Polska
@@ -843,9 +853,10 @@
 1 OBJE @O0664@
 1 OBJE @O0729@
 1 OBJE @O0731@
+1 OBJE @O0757@
 1 CHAN
-2 DATE 18 SEP 2023
-3 TIME 13:00:00
+2 DATE 10 MAR 2024
+3 TIME 20:35:07
 0 @I0051@ INDI
 1 NAME Josefa /Gruschka/
 2 GIVN Josefa
@@ -858,7 +869,7 @@
 1 SEX F
 1 BIRT
 2 DATE 30 OCT 1872
-2 PLAC Ignatzdorf, Katowice, Polska
+2 PLAC Ignatzdorf, Katowice, woj. śląskie, Polska
 3 MAP
 4 LATI N50.284374
 4 LONG E19.010532
@@ -880,10 +891,10 @@
 3 DATE 2 MAY 1950
 1 OBJE @O0071@
 1 OBJE @O0664@
-1 OBJE @O0730@
+1 OBJE @O0729@
 1 CHAN
-2 DATE 18 SEP 2023
-3 TIME 13:00:25
+2 DATE 10 MAR 2024
+3 TIME 20:08:04
 0 @I0052@ INDI
 1 NAME Agnieszka /Wincek/ Agnes
 2 GIVN Agnieszka
@@ -950,7 +961,7 @@
 1 SEX F
 1 BIRT
 2 DATE 4 NOV 1900
-2 PLAC Nowy Bytom, Ruda Śląska, Polska
+2 PLAC Nowy Bytom, Ruda Śląska, woj. śląskie, Polska
 2 ADDR
 3 CITY Ruda Śląska
 3 CTRY Polska
@@ -1073,9 +1084,10 @@
 1 FAMS @F0027@
 1 OBJE @O0339@
 1 OBJE @O0664@
+1 OBJE @O0761@
 1 CHAN
-2 DATE 21 APR 2022
-3 TIME 19:21:28
+2 DATE 17 MAR 2024
+3 TIME 17:35:34
 0 @I0065@ INDI
 1 NAME Leon /Bara/
 2 GIVN Leon
@@ -1083,13 +1095,13 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1902
-2 PLAC Nowy Bytom, Ruda Śląska, Polska
+2 PLAC Nowy Bytom, Ruda Śląska, woj. śląskie, Polska
 2 ADDR
 3 CITY Ruda Śląska
 3 CTRY Polska
 1 DEAT
 2 DATE 22 DEC 1995
-2 PLAC Ruda Śląska, Polska
+2 PLAC Ruda Śląska, woj. śląskie, Polska
 2 ADDR
 3 CITY Ruda Śląska
 3 CTRY Polska
@@ -1121,9 +1133,10 @@
 2 PEDI birth
 1 FAMS @F500019@
 1 OBJE @O0338@
+1 OBJE @O0337@
 1 CHAN
-2 DATE 21 JAN 2022
-3 TIME 19:58:22
+2 DATE 10 MAR 2024
+3 TIME 20:14:54
 0 @I0068@ INDI
 1 NAME Johann /Polloczek/
 2 TYPE aka
@@ -1148,7 +1161,7 @@
 1 SEX M
 1 BIRT
 2 DATE 25 JUL 1873
-2 PLAC Wirek, Ruda Śląska, Polska
+2 PLAC Wirek, Ruda Śląska, woj. śląskie, Polska
 3 MAP
 4 LATI N50.274444
 4 LONG E18.864167
@@ -1169,7 +1182,7 @@
 2 DATE BET 1906 AND 1934
 1 CHR
 2 DATE 27 JUL 1873
-2 PLAC Kościół pw. św. Wawrzyńca, Wirek, Ruda Śląska, Polska
+2 PLAC Kościół pw. św. Wawrzyńca, Wirek, Ruda Śląska, woj. śląskie, Polska
 2 ADDR
 3 CITY Ruda Śląska
 3 CTRY Polska
@@ -1292,7 +1305,7 @@
 1 SEX F
 1 BIRT
 2 DATE 22 JUL 1864
-2 PLAC Rybnik, Polska
+2 PLAC Rybnik, rybnicki, woj. śląskie, Polska
 2 ADDR
 3 CITY Rybnik
 3 CTRY Polska
@@ -1321,7 +1334,7 @@
 1 SEX M
 1 BIRT
 2 DATE 20 DEC 1860
-2 PLAC Paruszowiec, Rybnik, Polska
+2 PLAC Paruszowiec, Rybnik, rybnicki, woj. śląskie, Polska
 3 MAP
 4 LATI N50.099875
 4 LONG E18.569825
@@ -1352,7 +1365,7 @@
 1 SEX M
 1 BIRT
 2 DATE 28 AUG 1863
-2 PLAC Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, Polska
+2 PLAC Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, woj. opolskie, Polska
 3 MAP
 4 LATI N50.354722
 4 LONG E18.258611
@@ -1360,7 +1373,7 @@
 3 CTRY Polska
 1 DEAT
 2 DATE 1 NOV 1903
-2 PLAC Józefowiec, Katowice, Polska
+2 PLAC Józefowiec, Katowice, woj. śląskie, Polska
 2 ADDR
 3 CITY Katowice
 3 CTRY Polska
@@ -1387,7 +1400,7 @@
 1 SEX F
 1 BIRT
 2 DATE 18 SEP 1864
-2 PLAC Rybnik, Polska
+2 PLAC Rybnik, rybnicki, woj. śląskie, Polska
 2 ADDR
 3 CITY Rybnik
 3 CTRY Polska
@@ -1573,7 +1586,7 @@
 3 OBJE @O0598@
 1 DEAT
 2 DATE 23 APR 1979
-2 PLAC Kędzierzyn-Koźle, Polska
+2 PLAC Kędzierzyn-Koźle, woj. opolskie, Polska
 3 MAP
 4 LATI N50.345262
 4 LONG E18.105965
@@ -1668,8 +1681,8 @@
 1 OBJE @O0588@
 1 OBJE @O0589@
 1 CHAN
-2 DATE 5 MAY 2023
-3 TIME 17:56:55
+2 DATE 10 MAR 2024
+3 TIME 20:20:57
 0 @I0091@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -1798,8 +1811,8 @@
 1 OBJE @O0252@
 1 OBJE @O0373@
 1 CHAN
-2 DATE 10 APR 2022
-3 TIME 19:20:18
+2 DATE 10 MAR 2024
+3 TIME 20:20:42
 0 @I0099@ INDI
 1 NAME Stanisław /Sibiński/
 2 GIVN Stanisław
@@ -1808,7 +1821,7 @@
 1 BIRT
 2 DATE 27 JAN 1906
 3 TIME 22:00
-2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+2 PLAC Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska
 3 MAP
 4 LATI N51.499999
 4 LONG E18.357912
@@ -1839,8 +1852,8 @@
 1 OBJE @O0376@
 1 OBJE @O0379@
 1 CHAN
-2 DATE 10 APR 2022
-3 TIME 19:16:36
+2 DATE 10 MAR 2024
+3 TIME 20:20:54
 0 @I0100@ INDI
 1 NAME Stanisława /Podsiadło/ babka Suchankowa
 2 GIVN Stanisława
@@ -1969,7 +1982,7 @@
 3 OBJE @O0482@
 1 CHR
 2 DATE 1 NOV 1880
-2 PLAC Kościół św. Mikołaja, Imielno, Polska
+2 PLAC Kościół św. Mikołaja, Imielno, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.584722
 4 LONG E20.444722
@@ -2912,7 +2925,7 @@
 1 CHR
 2 DATE 20 MAR 1875
 3 TIME 11:00
-2 PLAC Kościół św. Mikołaja, Imielno, Polska
+2 PLAC Kościół św. Mikołaja, Imielno, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.584722
 4 LONG E20.444722
@@ -2969,7 +2982,7 @@
 3 OBJE @O0499@
 1 CHR
 2 DATE 10 FEB 1903
-2 PLAC Kościół św. Mikołaja, Imielno, Polska
+2 PLAC Kościół św. Mikołaja, Imielno, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.584722
 4 LONG E20.444722
@@ -3105,9 +3118,10 @@
 1 SEX M
 1 FAMC @F500083@
 2 PEDI birth
+1 FAMS @F0312@
 1 CHAN
-2 DATE 3 FEB 2020
-3 TIME 20:05:08
+2 DATE 17 MAR 2024
+3 TIME 17:06:32
 0 @I0197@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -3116,8 +3130,8 @@
 1 FAMC @F500083@
 2 PEDI birth
 1 CHAN
-2 DATE 3 FEB 2020
-3 TIME 20:05:08
+2 DATE 17 MAR 2024
+3 TIME 17:04:26
 0 @I0198@ INDI
 1 NAME Joseph /Moczygemba/
 2 GIVN Joseph
@@ -3182,7 +3196,7 @@
 1 SEX F
 1 BIRT
 2 DATE 12 FEB 1834
-2 PLAC Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, Polska
+2 PLAC Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, woj. opolskie, Polska
 3 MAP
 4 LATI N50.354722
 4 LONG E18.258611
@@ -3353,7 +3367,7 @@
 1 SEX F
 1 BIRT
 2 DATE 1821
-2 PLAC Witkowice, Kaźmierz, szamotulski, wielkopolskie, Polska
+2 PLAC Witkowice, Kaźmierz, szamotulski, woj. wielkopolskie, Polska
 3 MAP
 4 LATI N52.498654
 4 LONG E16.529983
@@ -3485,7 +3499,7 @@
 1 SEX M
 1 BIRT
 2 DATE 30 MAR 1788
-2 PLAC Komorowo, Kaźmierz, szamotulski, wielkopolskie, Polska
+2 PLAC Komorowo, Kaźmierz, szamotulski, woj. wielkopolskie, Polska
 3 MAP
 4 LATI N52.514857
 4 LONG E16.505376
@@ -3531,7 +3545,7 @@
 1 SEX F
 1 BIRT
 2 DATE 1797
-2 PLAC Witkowice, Kaźmierz, szamotulski, wielkopolskie, Polska
+2 PLAC Witkowice, Kaźmierz, szamotulski, woj. wielkopolskie, Polska
 3 MAP
 4 LATI N52.498654
 4 LONG E16.529983
@@ -3568,7 +3582,7 @@
 1 BIRT
 2 DATE 30 DEC 1832
 3 TIME 1:00
-2 PLAC Dom nr 36, Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+2 PLAC Dom nr 36, Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0063@
@@ -3579,7 +3593,7 @@
 3 OBJE @O0477@
 1 DEAT
 2 DATE 13 DEC 1878
-2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+2 PLAC Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska
 3 MAP
 4 LATI N51.499999
 4 LONG E18.357912
@@ -3637,7 +3651,7 @@
 1 BIRT
 2 DATE 17 JAN 1840
 3 TIME 14:00
-2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+2 PLAC Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska
 3 MAP
 4 LATI N51.499999
 4 LONG E18.357912
@@ -3717,7 +3731,7 @@
 1 SEX F
 1 BIRT
 2 DATE 19 OCT 1834
-2 PLAC Sulnówko, Świecie, świecki, kujawsko-pomorskie, Polska
+2 PLAC Sulnówko, Świecie, świecki, woj. kujawsko-pomorskie, Polska
 3 MAP
 4 LATI N53.4307
 4 LONG E18.421912
@@ -3732,7 +3746,7 @@
 3 OBJE @O0573@
 1 DEAT
 2 DATE 24 APR 1881
-2 PLAC Osie, Osie, świecki, kujawsko-pomorskie, Polska
+2 PLAC Osie, Osie, świecki, woj. kujawsko-pomorskie, Polska
 2 ADDR
 3 CTRY Polska
 2 CAUS Puchlina Wodna
@@ -3741,7 +3755,7 @@
 3 OBJE @O0575@
 1 BAPM
 2 DATE 26 OCT 1834
-2 PLAC Świecie, Świecie, świecki, kujawsko-pomorskie, Polska
+2 PLAC Świecie, Świecie, świecki, woj. kujawsko-pomorskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0182@
@@ -3804,7 +3818,7 @@
 2 SOUR @S0064@
 1 RESI
 2 DATE 1 JAN 1833
-2 PLAC Dom nr 36, Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+2 PLAC Dom nr 36, Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0113@
@@ -3869,7 +3883,7 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1806
-2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+2 PLAC Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska
 3 MAP
 4 LATI N51.499999
 4 LONG E18.357912
@@ -3896,7 +3910,7 @@
 2 SOUR @S0065@
 1 RESI
 2 DATE 1 JAN 1833
-2 PLAC Dom nr 36, Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+2 PLAC Dom nr 36, Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0113@
@@ -3976,7 +3990,7 @@
 1 SEX M
 1 BIRT
 2 DATE 21 FEB 1780
-2 PLAC Giżyce, Grabów nad Prosną, ostrzeszowski, wielkopolskie, Polska
+2 PLAC Giżyce, Grabów nad Prosną, ostrzeszowski, woj. wielkopolskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0255@
@@ -4052,7 +4066,7 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1783
-2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+2 PLAC Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska
 3 MAP
 4 LATI N51.499999
 4 LONG E18.357912
@@ -4074,7 +4088,7 @@
 3 OBJE @O0702@
 1 DEAT
 2 DATE 25 JAN 1844
-2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+2 PLAC Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska
 3 MAP
 4 LATI N51.499999
 4 LONG E18.357912
@@ -4122,7 +4136,7 @@
 1 SEX F
 1 BIRT
 2 DATE 1787
-2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+2 PLAC Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska
 3 MAP
 4 LATI N51.499999
 4 LONG E18.357912
@@ -4136,7 +4150,7 @@
 4 DATE FROM 1790 TO 1791
 1 DEAT
 2 DATE 26 FEB 1834
-2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+2 PLAC Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska
 3 MAP
 4 LATI N51.499999
 4 LONG E18.357912
@@ -4277,14 +4291,14 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1794
-2 PLAC Marklowice, Marklowice, wodzisławski, śląskie, Polska
+2 PLAC Marklowice, Marklowice, wodzisławski, woj. śląskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0074@
 2 SOUR @S0232@
 1 RESI
 2 DATE ABT 1820
-2 PLAC Zamysłów Wodzisławski, Wilchwy, Wodzisław Śląski, wodzisławski, śląskie, Polska
+2 PLAC Zamysłów Wodzisławski, Wilchwy, Wodzisław Śląski, wodzisławski, woj. śląskie, Polska
 3 MAP
 4 LATI N49.988907
 4 LONG E18.480027
@@ -4323,8 +4337,8 @@
 2 PEDI birth
 1 FAMS @F0137@
 1 CHAN
-2 DATE 18 APR 2023
-3 TIME 19:05:18
+2 DATE 21 MAR 2024
+3 TIME 20:34:54
 0 @I0234@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -4356,9 +4370,10 @@
 1 FAMC @F0145@
 2 PEDI birth
 1 FAMS @F0141@
+1 OBJE @O0755@
 1 CHAN
-2 DATE 18 APR 2023
-3 TIME 19:00:46
+2 DATE 10 MAR 2024
+3 TIME 19:12:39
 0 @I0237@ INDI
 1 NAME Zyta /Chudzicka/
 2 GIVN Zyta
@@ -4539,7 +4554,7 @@
 2 ADDR
 3 CTRY Polska
 1 BURI
-2 PLAC Ostrowce, świętokrzyskie, Polska
+2 PLAC Ostrowce, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0261@
@@ -4577,7 +4592,7 @@
 2 DATE 2 MAY 2021
 2 SOUR @S0263@
 1 BURI
-2 PLAC Ostrowce, świętokrzyskie, Polska
+2 PLAC Ostrowce, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 1 FAMC @F0145@
@@ -4597,21 +4612,37 @@
 2 PEDI birth
 1 FAMS @F0139@
 1 CHAN
-2 DATE 30 DEC 2020
-3 TIME 19:01:39
+2 DATE 21 MAR 2024
+3 TIME 20:39:06
 0 @I0256@ INDI
 1 NAME Walenty /Korotusz/
 2 GIVN Walenty
 2 SURN Korotusz
 1 SEX M
+1 BIRT
+2 DATE 7 OCT 1894
+2 PLAC Czukiew, rejon samborski, obwód lwowski, Ukraina
+2 ADDR
+3 CTRY Ukraina
+2 SOUR @S0001@
+3 PAGE Korotusz Walenty, Pawłowicz Barbara - indeks aktu małżeństwa
+2 SOUR @S0295@
+3 PAGE Korotusz Walenty - akt urodzenia; wpis nr 59, str. 114
+3 OBJE @O0770@
 1 NATI austro-węgierska,polska
-1 FACT MH:I500034
-2 TYPE RIN
-1 _UID 5DBC189CB59129D526EF6A24E5A7CECF
+1 FAMC @F0313@
+2 PEDI birth
 1 FAMS @F0164@
+1 SOUR @S0290@
+2 PAGE Karta repatriacyjna - str. 2
+1 SOUR @S0001@
+2 PAGE Korotusz Walenty, Pawłowicz Barbara - indeks aktu małżeństwa
+1 SOUR @S0295@
+2 PAGE Korotusz Walenty - akt urodzenia; wpis nr 59, str. 114
+2 OBJE @O0770@
 1 CHAN
-2 DATE 28 MAY 2020
-3 TIME 19:34:57
+2 DATE 23 MAR 2024
+3 TIME 19:50:44
 0 @I0257@ INDI
 1 NAME Barbara /Pawłowicz/
 2 GIVN Barbara
@@ -4621,15 +4652,18 @@
 2 GIVN Barbara
 2 SURN Korotusz
 1 SEX F
-1 FACT MH:I500035
-2 TYPE RIN
-1 _UID 5DBC189CC23B19D626EF6A24E5A7CECF
+1 BIRT
+2 DATE 4 APR 1906
+2 SOUR @S0001@
+3 PAGE Korotusz Walenty, Pawłowicz Barbara - indeks aktu małżeństwa
 1 FAMC @F0263@
 2 PEDI birth
 1 FAMS @F0164@
+1 SOUR @S0290@
+2 PAGE Karta repatriacyjna - str. 2
 1 CHAN
-2 DATE 30 DEC 2020
-3 TIME 19:59:20
+2 DATE 23 MAR 2024
+3 TIME 11:07:10
 0 @I0258@ INDI
 1 NAME Agnieszka /Korotusz/
 2 GIVN Agnieszka
@@ -4646,18 +4680,24 @@
 2 PEDI birth
 1 FAMS @F0156@
 1 CHAN
-2 DATE 18 APR 2023
-3 TIME 19:02:57
+2 DATE 23 MAR 2024
+3 TIME 11:03:21
 0 @I0259@ INDI
 1 NAME Józef /Korotusz/
 2 GIVN Józef
 2 SURN Korotusz
 1 SEX M
+1 BURI
+2 PLAC Cmentarz osobowicki, Wrocław, woj. dolnośląskie, Polska
+2 ADDR
+3 CITY Wrocław
+3 CTRY Polska
 1 FAMC @F0164@
 2 PEDI birth
+1 OBJE @O0756@
 1 CHAN
-2 DATE 18 APR 2023
-3 TIME 19:02:57
+2 DATE 23 MAR 2024
+3 TIME 11:03:21
 0 @I0260@ INDI
 1 NAME Antoni /Rozmarynowski/
 2 GIVN Antoni
@@ -4774,10 +4814,13 @@
 2 DATE 30 DEC 2020
 3 TIME 20:45:17
 0 @I0270@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Walenty /Wac/
+2 GIVN Walenty
+2 SURN Wac
 1 SEX M
+1 FACT MH:I500057
+2 TYPE RIN
+1 _UID 5DBC1CCAA01E2C1795D27B3B14EA7CBD
 1 FAMC @F0162@
 2 PEDI birth
 1 FAMS @F0177@
@@ -5454,7 +5497,7 @@
 2 SURN Swatek
 1 SEX F
 1 BURI
-2 PLAC Ostrowce, świętokrzyskie, Polska
+2 PLAC Ostrowce, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0262@
@@ -5478,7 +5521,7 @@
 2 DATE 6 MAR 2013
 2 SOUR @S0262@
 1 BURI
-2 PLAC Ostrowce, świętokrzyskie, Polska
+2 PLAC Ostrowce, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 1 FAMS @F500069@
@@ -6000,7 +6043,7 @@
 3 OBJE @O0415@
 1 DEAT
 2 DATE 24 JUN 1870
-2 PLAC Nowy Bytom, Ruda Śląska, Polska
+2 PLAC Nowy Bytom, Ruda Śląska, woj. śląskie, Polska
 2 ADDR
 3 CITY Ruda Śląska
 3 CTRY Polska
@@ -6296,17 +6339,18 @@
 2 DATE 31 JAN 2021
 3 TIME 20:16:53
 0 @I0377@ INDI
-1 NAME Iwan /Wac/
-2 GIVN Iwan
+1 NAME Jan /Wac/
+2 GIVN Jan
 2 SURN Wac
 1 SEX M
 1 NATI polskie
 1 FAMC @F0266@
 2 PEDI birth
 1 FAMS @F0228@
+1 SOUR @S0293@
 1 CHAN
-2 DATE 31 JAN 2021
-3 TIME 20:16:53
+2 DATE 21 MAR 2024
+3 TIME 20:12:03
 0 @I0379@ INDI
 1 NAME Andreas /Zieliński/
 2 GIVN Andreas
@@ -6424,7 +6468,7 @@
 3 OBJE @O0419@
 1 DEAT
 2 DATE 28 SEP 1852
-2 PLAC Ignatzdorf, Katowice, Polska
+2 PLAC Ignatzdorf, Katowice, woj. śląskie, Polska
 3 MAP
 4 LATI N50.284374
 4 LONG E19.010532
@@ -6531,7 +6575,7 @@
 3 OBJE @O0429@
 1 RESI
 2 DATE 5 FEB 1898
-2 PLAC Wirek, Ruda Śląska, Polska
+2 PLAC Wirek, Ruda Śląska, woj. śląskie, Polska
 3 MAP
 4 LATI N50.274444
 4 LONG E18.864167
@@ -6604,7 +6648,7 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1842
-2 PLAC Bielszowice, Ruda Śląska, Polska
+2 PLAC Bielszowice, Ruda Śląska, woj. śląskie, Polska
 2 ADDR
 3 CITY Ruda Śląska
 3 POST 41-711
@@ -6787,7 +6831,7 @@
 1 SEX F
 1 BIRT
 2 DATE 13 JAN 1869
-2 PLAC Wirek, Ruda Śląska, Polska
+2 PLAC Wirek, Ruda Śląska, woj. śląskie, Polska
 3 MAP
 4 LATI N50.274444
 4 LONG E18.864167
@@ -6800,7 +6844,7 @@
 3 OBJE @O0433@
 1 CHR
 2 DATE 17 JAN 1869
-2 PLAC Kościół pw. św. Wawrzyńca, Wirek, Ruda Śląska, Polska
+2 PLAC Kościół pw. św. Wawrzyńca, Wirek, Ruda Śląska, woj. śląskie, Polska
 2 ADDR
 3 CITY Ruda Śląska
 3 CTRY Polska
@@ -6822,7 +6866,7 @@
 1 SEX M
 1 BIRT
 2 DATE 26 APR 1825
-2 PLAC Ignatzdorf, Katowice, Polska
+2 PLAC Ignatzdorf, Katowice, woj. śląskie, Polska
 2 ADDR
 3 CITY Katowice
 3 CTRY Polska
@@ -6848,7 +6892,7 @@
 1 SEX F
 1 BIRT
 2 DATE 27 APR 1871
-2 PLAC Wirek, Ruda Śląska, Polska
+2 PLAC Wirek, Ruda Śląska, woj. śląskie, Polska
 3 MAP
 4 LATI N50.274444
 4 LONG E18.864167
@@ -6861,7 +6905,7 @@
 3 OBJE @O0435@
 1 DEAT
 2 DATE 19 JAN 1873
-2 PLAC Wirek, Ruda Śląska, Polska
+2 PLAC Wirek, Ruda Śląska, woj. śląskie, Polska
 3 MAP
 4 LATI N50.274444
 4 LONG E18.864167
@@ -6874,7 +6918,7 @@
 3 OBJE @O0436@
 1 CHR
 2 DATE 30 APR 1871
-2 PLAC Kościół pw. św. Wawrzyńca, Wirek, Ruda Śląska, Polska
+2 PLAC Kościół pw. św. Wawrzyńca, Wirek, Ruda Śląska, woj. śląskie, Polska
 2 ADDR
 3 CITY Ruda Śląska
 3 CTRY Polska
@@ -6884,7 +6928,7 @@
 1 EVEN przyczna zgonu: wychudzenie lub wycieńczenie (niem. Auszehrung)
 2 TYPE Cause Of Death
 2 DATE 19 JAN 1873
-2 PLAC Wirek, Ruda Śląska, Polska
+2 PLAC Wirek, Ruda Śląska, woj. śląskie, Polska
 3 MAP
 4 LATI N50.274444
 4 LONG E18.864167
@@ -6958,7 +7002,7 @@
 1 SEX F
 1 BIRT
 2 DATE 28 MAY 1830
-2 PLAC Ignatzdorf, Katowice, Polska
+2 PLAC Ignatzdorf, Katowice, woj. śląskie, Polska
 2 ADDR
 3 CITY Katowice
 3 CTRY Polska
@@ -6967,7 +7011,7 @@
 3 OBJE @O0472@
 1 CHR
 2 DATE 30 MAY 1830
-2 PLAC Kościół pw. św. Michała Archanioła, Ignatzdorf, Katowice, Polska
+2 PLAC Kościół pw. św. Michała Archanioła, Ignatzdorf, Katowice, woj. śląskie, Polska
 2 ADDR
 3 CITY Katowice
 3 CTRY Polska
@@ -6989,7 +7033,7 @@
 1 SEX M
 1 BIRT
 2 DATE 30 SEP 1832
-2 PLAC Ignatzdorf, Katowice, Polska
+2 PLAC Ignatzdorf, Katowice, woj. śląskie, Polska
 2 ADDR
 3 CITY Katowice
 3 CTRY Polska
@@ -6998,7 +7042,7 @@
 3 OBJE @O0473@
 1 CHR
 2 DATE 30 SEP 1832
-2 PLAC Kościół pw. św. Michała Archanioła, Ignatzdorf, Katowice, Polska
+2 PLAC Kościół pw. św. Michała Archanioła, Ignatzdorf, Katowice, woj. śląskie, Polska
 2 ADDR
 3 CITY Katowice
 3 CTRY Polska
@@ -7145,7 +7189,7 @@
 1 SEX M
 1 BIRT
 2 DATE 14 MAY 1844
-2 PLAC Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 PLAC Borszowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.631869
 4 LONG E20.486976
@@ -7164,7 +7208,7 @@
 3 OBJE @O0508@
 1 CHR
 2 DATE 15 MAY 1844
-2 PLAC Kościół św. Mikołaja, Imielno, Polska
+2 PLAC Kościół św. Mikołaja, Imielno, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.584722
 4 LONG E20.444722
@@ -7709,7 +7753,7 @@
 1 SEX F
 1 BIRT
 2 DATE 4 JUN 1866
-2 PLAC Wierzbica, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Wierzbica, Kije, pińczowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.630329
 4 LONG E20.563648
@@ -7738,7 +7782,7 @@
 1 SEX F
 1 BIRT
 2 DATE 13 NOV 1869
-2 PLAC Lipnik, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Lipnik, Kije, pińczowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.607046
 4 LONG E20.584863
@@ -7793,7 +7837,7 @@
 1 SEX M
 1 BIRT
 2 DATE 16 OCT 1807
-2 PLAC Dom nr 23, Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 PLAC Dom nr 23, Borszowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0139@
@@ -7811,7 +7855,7 @@
 3 OBJE @O0548@
 1 RESI
 2 DATE 1844
-2 PLAC Dom nr 17, Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 PLAC Dom nr 17, Borszowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0139@
@@ -7821,7 +7865,7 @@
 3 OBJE @O0508@
 1 RESI
 2 DATE 18 FEB 1828
-2 PLAC Dom nr 24, Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 PLAC Dom nr 24, Borszowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0141@
@@ -7874,7 +7918,7 @@
 1 SEX F
 1 BIRT
 2 DATE 24 NOV 1809
-2 PLAC Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 PLAC Borszowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.631869
 4 LONG E20.486976
@@ -7896,7 +7940,7 @@
 3 OBJE @O0510@
 1 RESI
 2 DATE 18 FEB 1828
-2 PLAC Dom nr 11, Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 PLAC Dom nr 11, Borszowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0141@
@@ -7959,7 +8003,7 @@
 3 OBJE @O0549@
 1 RESI
 2 DATE 18 FEB 1828
-2 PLAC Dom nr 24, Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 PLAC Dom nr 24, Borszowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0141@
@@ -7999,7 +8043,7 @@
 3 OBJE @O0549@
 1 DEAT
 2 DATE 5 OCT 1830
-2 PLAC Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 PLAC Borszowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.631869
 4 LONG E20.486976
@@ -8017,7 +8061,7 @@
 3 OBJE @O0549@
 1 RESI
 2 DATE 18 FEB 1828
-2 PLAC Dom nr 24, Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 PLAC Dom nr 24, Borszowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0141@
@@ -8055,7 +8099,7 @@
 3 OBJE @O0509@
 1 RESI
 2 DATE 18 FEB 1828
-2 PLAC Dom nr 11, Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 PLAC Dom nr 11, Borszowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0141@
@@ -8092,7 +8136,7 @@
 3 OBJE @O0509@
 1 RESI
 2 DATE 18 FEB 1828
-2 PLAC Dom nr 11, Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 PLAC Dom nr 11, Borszowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0141@
@@ -8119,7 +8163,7 @@
 1 SEX M
 1 BIRT
 2 DATE 28 MAR 1817
-2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.616498
 4 LONG E20.52293
@@ -8196,7 +8240,7 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1813
-2 PLAC Rębów, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Rębów, Kije, pińczowski, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0176@
@@ -8409,7 +8453,7 @@
 1 SEX M
 1 BIRT
 2 DATE 4 APR 1777
-2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.616498
 4 LONG E20.52293
@@ -8460,7 +8504,7 @@
 1 SEX F
 1 BIRT
 2 DATE 19 JAN 1785
-2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.616498
 4 LONG E20.52293
@@ -8530,7 +8574,7 @@
 1 SEX F
 1 BIRT
 2 DATE 11 APR 1772
-2 PLAC Kokot, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Kokot, Kije, pińczowski, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0149@
@@ -8557,7 +8601,7 @@
 1 SEX F
 1 BIRT
 2 DATE 8 OCT 1819
-2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.616498
 4 LONG E20.52293
@@ -8590,7 +8634,7 @@
 3 OBJE @O0513@
 1 DEAT
 2 DATE 9 JAN 1814
-2 PLAC Dom nr 9, Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Dom nr 9, Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0146@
@@ -8695,7 +8739,7 @@
 3 OBJE @O0518@
 1 DEAT
 2 DATE 23 AUG 1794
-2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.616498
 4 LONG E20.52293
@@ -8757,7 +8801,7 @@
 3 OBJE @O0519@
 1 DEAT
 2 DATE 15 MAY 1797
-2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.616498
 4 LONG E20.52293
@@ -8813,7 +8857,7 @@
 1 SEX M
 1 BIRT
 2 DATE 7 DEC 1767
-2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.616498
 4 LONG E20.52293
@@ -8837,7 +8881,7 @@
 1 SEX M
 1 BIRT
 2 DATE 20 MAR 1770
-2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.616498
 4 LONG E20.52293
@@ -8861,7 +8905,7 @@
 1 SEX M
 1 BIRT
 2 DATE 3 NOV 1772
-2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.616498
 4 LONG E20.52293
@@ -8885,7 +8929,7 @@
 1 SEX M
 1 BIRT
 2 DATE 1 OCT 1773
-2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.616498
 4 LONG E20.52293
@@ -8909,7 +8953,7 @@
 1 SEX F
 1 BIRT
 2 DATE 9 APR 1779
-2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.616498
 4 LONG E20.52293
@@ -8934,7 +8978,7 @@
 1 SEX F
 1 BIRT
 2 DATE 19 MAY 1781
-2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.616498
 4 LONG E20.52293
@@ -8958,7 +9002,7 @@
 1 SEX M
 1 BIRT
 2 DATE 2 JUL 1786
-2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.616498
 4 LONG E20.52293
@@ -8982,7 +9026,7 @@
 1 SEX F
 1 BIRT
 2 DATE 30 NOV 1783
-2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.616498
 4 LONG E20.52293
@@ -9006,7 +9050,7 @@
 1 SEX F
 1 BIRT
 2 DATE 1 AUG 1787
-2 PLAC Kliszów, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.616498
 4 LONG E20.52293
@@ -9215,7 +9259,7 @@
 1 SEX M
 1 BIRT
 2 DATE 1756
-2 PLAC Chroberz, Złota, pińczowski, świętokrzyskie, Polska
+2 PLAC Chroberz, Złota, pińczowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.41699
 4 LONG E20.549983
@@ -9367,7 +9411,7 @@
 1 SEX F
 1 BIRT
 2 DATE 25 MAY 1792
-2 PLAC Rębów, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Rębów, Kije, pińczowski, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0157@
@@ -9490,7 +9534,7 @@
 3 OBJE @O0546@
 1 DEAT
 2 DATE 30 OCT 1798
-2 PLAC Rębów, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Rębów, Kije, pińczowski, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0158@
@@ -9529,7 +9573,7 @@
 3 OBJE @O0546@
 1 DEAT
 2 DATE 3 DEC 1811
-2 PLAC Rębów, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Rębów, Kije, pińczowski, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0158@
@@ -9554,23 +9598,26 @@
 2 DATE 27 DEC 2020
 3 TIME 20:51:52
 0 @I0471@ INDI
-1 NAME [Private] /[Private]/
-2 GIVN [Private]
-2 SURN [Private]
+1 NAME Michał /Pawłowicz/
+2 GIVN Michał
+2 SURN Pawłowicz
 1 SEX M
 1 FAMC @F0263@
 2 PEDI birth
 1 CHAN
-2 DATE 30 DEC 2020
-3 TIME 19:59:20
+2 DATE 23 MAR 2024
+3 TIME 11:06:40
 0 @I0472@ INDI
-1 NAME  /Pawłowicz/
+1 NAME Andrzej /Pawłowicz/
+2 GIVN Andrzej
 2 SURN Pawłowicz
 1 SEX M
 1 FAMS @F0263@
+1 SOUR @S0001@
+2 PAGE Korotusz Walenty, Pawłowicz Barbara - indeks aktu małżeństwa
 1 CHAN
-2 DATE 30 DEC 2020
-3 TIME 19:59:20
+2 DATE 23 MAR 2024
+3 TIME 11:06:19
 0 @I0473@ INDI
 1 NAME Maria /Sławik/
 2 TYPE married
@@ -10015,7 +10062,7 @@
 1 BIRT
 2 TYPE parafia Stara Wieś
 2 DATE ABT 1798
-2 PLAC Pawłów, Pietrowice Wielkie, raciborski, śląskie, Polska
+2 PLAC Pawłów, Pietrowice Wielkie, raciborski, woj. śląskie, Polska
 3 MAP
 4 LATI N50.1
 4 LONG E18.13
@@ -10044,7 +10091,7 @@
 1 SEX F
 1 BIRT
 2 DATE 21 MAR 1814
-2 PLAC Rybnik, Polska
+2 PLAC Rybnik, rybnicki, woj. śląskie, Polska
 2 ADDR
 3 CITY Rybnik
 3 CTRY Polska
@@ -10078,7 +10125,7 @@
 1 SEX M
 1 BIRT
 2 DATE 11 JUN 1778
-2 PLAC Rybnik, Polska
+2 PLAC Rybnik, rybnicki, woj. śląskie, Polska
 2 ADDR
 3 CITY Rybnik
 3 CTRY Polska
@@ -10094,7 +10141,7 @@
 3 OBJE @O0741@
 1 DEAT
 2 DATE 13 JUL 1825
-2 PLAC Rybnik, Polska
+2 PLAC Rybnik, rybnicki, woj. śląskie, Polska
 2 ADDR
 3 CITY Rybnik
 3 CTRY Polska
@@ -10167,7 +10214,7 @@
 1 SEX M
 1 BIRT
 2 DATE 31 JAN 1798
-2 PLAC Hajdaszek, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Hajdaszek, Kije, pińczowski, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0155@
@@ -10223,7 +10270,7 @@
 1 SEX F
 1 BIRT
 2 DATE 16 NOV 1801
-2 PLAC Jakubów, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 PLAC Jakubów, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0155@
@@ -10304,7 +10351,7 @@
 2 SURN Banaś
 1 SEX M
 1 BIRT
-2 PLAC Rębów, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Rębów, Kije, pińczowski, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0145@
@@ -10362,7 +10409,7 @@
 3 OBJE @O0634@
 1 SEX F
 1 BIRT
-2 PLAC Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 PLAC Borszowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.631869
 4 LONG E20.486976
@@ -10459,7 +10506,7 @@
 3 OBJE @O0716@
 1 DEAT
 2 DATE 2 NOV 1812
-2 PLAC Jakubów, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 PLAC Jakubów, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0155@
@@ -10518,7 +10565,7 @@
 3 OBJE @O0716@
 1 DEAT
 2 DATE 9 DEC 1812
-2 PLAC Jakubów, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 PLAC Jakubów, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0155@
@@ -10575,7 +10622,7 @@
 1 DEAT Y
 1 CHR
 2 DATE 28 SEP 1784
-2 PLAC Imielno, Polska
+2 PLAC Imielno, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.584722
 4 LONG E20.444722
@@ -10613,7 +10660,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 16 NOV 1791
-2 PLAC Wólka, Jędrzejów, jędrzejowski, świętokrzyskie, Polska
+2 PLAC Wólka, Jędrzejów, jędrzejowski, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0213@
@@ -10621,7 +10668,7 @@
 3 OBJE @O0639@
 1 CHR
 2 DATE 16 NOV 1791
-2 PLAC Imielno, Polska
+2 PLAC Imielno, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.584722
 4 LONG E20.444722
@@ -10980,7 +11027,7 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1787
-2 PLAC Borszowice, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 PLAC Borszowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.631869
 4 LONG E20.486976
@@ -11152,7 +11199,7 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1800
-2 PLAC Lyski, Lyski, rybnicki, śląskie, Polska
+2 PLAC Lyski, Lyski, rybnicki, woj. śląskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0232@
@@ -11562,7 +11609,7 @@
 1 DEAT
 2 DATE 2 JUL 1993
 1 BURI
-2 PLAC Ostrowce, świętokrzyskie, Polska
+2 PLAC Ostrowce, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 1 FAMS @F0302@
@@ -11653,15 +11700,24 @@
 2 SURN Thomaschny
 1 SEX M
 1 BIRT
-2 DATE ABT 1748
+2 DATE 28 APR 1749
+2 PLAC Rybnik, rybnicki, woj. śląskie, Polska
+2 ADDR
+3 CITY Rybnik
+3 CTRY Polska
 2 SOUR @S0214@
 3 PAGE Wersja z dnia 2023-10-02
 3 DATA
 4 DATE 2 OCT 2023
 3 OBJE @O0741@
+2 SOUR @S0214@
+3 PAGE Wersja z dnia 2022-02-24
+3 DATA
+4 DATE 24 FEB 2022
+3 OBJE @O0641@
 1 DEAT
 2 DATE 12 SEP 1825
-2 PLAC Rybnik, Polska
+2 PLAC Rybnik, rybnicki, woj. śląskie, Polska
 2 ADDR
 3 CITY Rybnik
 3 CTRY Polska
@@ -11677,6 +11733,8 @@
 3 DATA
 4 DATE 2 OCT 2023
 3 OBJE @O0741@
+1 FAMC @F0311@
+2 PEDI birth
 1 FAMS @F0303@
 1 FAMS @F0304@
 1 SOUR @S0214@
@@ -11684,9 +11742,14 @@
 2 DATA
 3 DATE 2 OCT 2023
 2 OBJE @O0741@
+1 SOUR @S0214@
+2 PAGE Wersja z dnia 2024-03-06
+2 DATA
+3 DATE 6 MAR 2024
+2 OBJE @O0753@
 1 CHAN
-2 DATE 7 OCT 2023
-3 TIME 08:33:14
+2 DATE 9 MAR 2024
+3 TIME 07:57:33
 0 @I0555@ INDI
 1 NAME Katarzyna /Kleczkowa/
 2 GIVN Katarzyna
@@ -11831,6 +11894,188 @@
 1 CHAN
 2 DATE 22 FEB 2024
 3 TIME 19:44:59
+0 @I0567@ INDI
+1 NAME Paulus /Thomaschny/
+2 GIVN Paulus
+2 SURN Thomaschny
+1 SEX M
+1 FAMS @F0311@
+1 SOUR @S0214@
+2 PAGE Wersja z dnia 2024-03-06
+2 DATA
+3 DATE 6 MAR 2024
+2 OBJE @O0753@
+1 CHAN
+2 DATE 9 MAR 2024
+3 TIME 07:56:46
+0 @I0568@ INDI
+1 NAME Dorothaea //
+2 GIVN Dorothaea
+1 SEX F
+1 FAMS @F0311@
+1 SOUR @S0214@
+2 PAGE Wersja z dnia 2024-03-06
+2 DATA
+3 DATE 6 MAR 2024
+2 OBJE @O0753@
+1 CHAN
+2 DATE 9 MAR 2024
+3 TIME 07:57:06
+0 @I0569@ INDI
+1 NAME [Private] /[Private]/
+2 GIVN [Private]
+2 SURN [Private]
+1 SEX F
+1 FAMC @F0312@
+2 PEDI birth
+1 CHAN
+2 DATE 17 MAR 2024
+3 TIME 17:06:32
+0 @I0570@ INDI
+1 NAME [Private] /[Private]/
+2 TYPE married
+2 GIVN [Private]
+2 SURN [Private]
+1 SEX F
+1 FAMS @F0312@
+1 CHAN
+2 DATE 17 MAR 2024
+3 TIME 17:06:32
+0 @I0571@ INDI
+1 NAME [Private] /[Private]/
+2 GIVN [Private]
+2 SURN [Private]
+1 SEX M
+1 FAMC @F500010@
+2 PEDI birth
+1 CHAN
+2 DATE 17 MAR 2024
+3 TIME 17:09:20
+0 @I0572@ INDI
+1 NAME [Private] /[Private]/
+2 GIVN [Private]
+2 SURN [Private]
+1 SEX M
+1 FAMC @F500014@
+2 PEDI birth
+1 CHAN
+2 DATE 17 MAR 2024
+3 TIME 17:11:11
+0 @I0573@ INDI
+1 NAME [Private] /[Private]/
+2 GIVN [Private]
+2 SURN [Private]
+1 SEX F
+1 FAMC @F500017@
+2 PEDI birth
+1 CHAN
+2 DATE 17 MAR 2024
+3 TIME 17:11:39
+0 @I0574@ INDI
+1 NAME Michał /Korotusz/
+2 GIVN Michał
+2 SURN Korotusz
+1 SEX M
+1 FAMC @F0316@
+2 PEDI birth
+1 FAMS @F0313@
+1 SOUR @S0001@
+2 PAGE Korotusz Walenty, Pawłowicz Barbara - indeks aktu małżeństwa
+1 SOUR @S0295@
+2 PAGE Korotusz Walenty - akt urodzenia; wpis nr 59, str. 114
+2 OBJE @O0770@
+1 CHAN
+2 DATE 23 MAR 2024
+3 TIME 19:53:10
+0 @I0575@ INDI
+1 NAME Barbara /Wac/
+2 GIVN Barbara
+2 SURN Wac
+1 SEX F
+1 FAMC @F0314@
+2 PEDI birth
+1 FAMS @F0313@
+1 SOUR @S0001@
+2 PAGE Korotusz Walenty, Pawłowicz Barbara - indeks aktu małżeństwa
+1 SOUR @S0295@
+2 PAGE Korotusz Walenty - akt urodzenia; wpis nr 59, str. 114
+2 OBJE @O0770@
+1 CHAN
+2 DATE 23 MAR 2024
+3 TIME 19:54:12
+0 @I0576@ INDI
+1 NAME Magdalena /Kisiel/
+2 GIVN Magdalena
+2 SURN Kisiel
+1 SEX F
+1 FAMC @F0315@
+2 PEDI birth
+1 FAMS @F0263@
+1 SOUR @S0001@
+2 PAGE Korotusz Walenty, Pawłowicz Barbara - indeks aktu małżeństwa
+1 CHAN
+2 DATE 23 MAR 2024
+3 TIME 11:09:01
+0 @I0577@ INDI
+1 NAME Michał /Wac/
+2 GIVN Michał
+2 SURN Wac
+1 SEX M
+1 FAMS @F0314@
+1 SOUR @S0001@
+2 PAGE Korotusz Walenty, Pawłowicz Barbara - indeks aktu małżeństwa
+1 SOUR @S0295@
+2 PAGE Korotusz Walenty - akt urodzenia; wpis nr 59, str. 114
+2 OBJE @O0770@
+1 CHAN
+2 DATE 23 MAR 2024
+3 TIME 19:53:44
+0 @I0578@ INDI
+1 NAME Grzegorz /Kisiel/
+2 GIVN Grzegorz
+2 SURN Kisiel
+1 SEX M
+1 FAMS @F0315@
+1 SOUR @S0001@
+2 PAGE Korotusz Walenty, Pawłowicz Barbara - indeks aktu małżeństwa
+1 CHAN
+2 DATE 23 MAR 2024
+3 TIME 11:09:01
+0 @I0579@ INDI
+1 NAME Jan /Korotusz/
+2 GIVN Jan
+2 SURN Korotusz
+1 SEX M
+1 FAMS @F0316@
+1 SOUR @S0295@
+2 PAGE Korotusz Walenty - akt urodzenia; wpis nr 59, str. 114
+2 OBJE @O0770@
+1 CHAN
+2 DATE 23 MAR 2024
+3 TIME 19:53:10
+0 @I0580@ INDI
+1 NAME Barbara /Kwaśniewicz/
+2 GIVN Barbara
+2 SURN Kwaśniewicz
+1 SEX F
+1 FAMS @F0316@
+1 SOUR @S0295@
+2 PAGE Korotusz Walenty - akt urodzenia; wpis nr 59, str. 114
+2 OBJE @O0770@
+1 CHAN
+2 DATE 23 MAR 2024
+3 TIME 19:53:10
+0 @I0581@ INDI
+1 NAME Katarzyna //
+2 GIVN Katarzyna
+1 SEX F
+1 FAMS @F0314@
+1 SOUR @S0295@
+2 PAGE Korotusz Walenty - akt urodzenia; wpis nr 59, str. 114
+2 OBJE @O0770@
+1 CHAN
+2 DATE 23 MAR 2024
+3 TIME 19:54:12
 0 @I500004@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -11917,7 +12162,7 @@
 3 CTRY Polska
 1 BURI
 2 TYPE pole 6, rząd 11, miejsce 8
-2 PLAC Cmentarz Parafialny, Bykowina, Ruda Śląska, Polska
+2 PLAC Cmentarz Parafialny, Bykowina, Ruda Śląska, woj. śląskie, Polska
 3 MAP
 4 LATI N50.270323
 4 LONG E18.892658
@@ -12187,14 +12432,62 @@
 2 GIVN Michał
 2 SURN Korotusz
 1 SEX M
+1 BIRT
+2 DATE 17 NOV 1932
+2 PLAC Czukiew, rejon samborski, obwód lwowski, Ukraina
+2 ADDR
+3 CTRY Ukraina
+2 SOUR @S0290@
+3 PAGE Karta repatriacyjna - str. 2
+1 IMMI
+2 DATE 12 DEC 1957
+2 PLAC Przemyśl, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0290@
+3 PAGE Karta repatriacyjna - str. 2
+1 RESI
+2 DATE 20 FEB 1958
+2 PLAC Stary Węgliniec, Węgliniec, zgorzelecki, woj. dolnośląskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0290@
+3 PAGE Karta repatriacyjna - str. 7
+1 RESI
+2 DATE 1972
+2 PLAC Pyskowice, gliwicki, woj. śląskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0292@
+3 DATA
+4 DATE 1972
 1 FACT Czerniak
 2 TYPE Przyczyna śmieci
+1 FACT stolarz
+2 TYPE Occupation
+2 SOUR @S0290@
+3 PAGE Karta repatriacyjna - str. 2
+1 FACT kowal
+2 TYPE Occupation
+2 SOUR @S0292@
+3 DATA
+4 DATE 1972
+1 IDNO BR 8546285, wydany przez KPMO Gliwice
+2 SOUR @S0292@
+3 DATA
+4 DATE 1972
 1 FAMC @F0164@
 2 PEDI birth
 1 FAMS @F0139@
+1 SOUR @S0290@
+2 PAGE Karta repatriacyjna - str. 2
+1 SOUR @S0292@
+2 DATA
+3 DATE 1972
+1 OBJE @O0764@
 1 CHAN
-2 DATE 18 APR 2023
-3 TIME 19:05:15
+2 DATE 23 MAR 2024
+3 TIME 11:03:21
 0 @I500034@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -12202,8 +12495,8 @@
 1 SEX M
 1 FAMS @F500011@
 1 CHAN
-2 DATE 24 JUL 2020
-3 TIME 19:33:29
+2 DATE 10 MAR 2024
+3 TIME 20:20:15
 0 @I500035@ INDI
 1 NAME [Private] /[Private]/
 2 GIVN [Private]
@@ -12425,12 +12718,43 @@
 2 PLAC Czukiew, rejon samborski, obwód lwowski, Ukraina
 2 ADDR
 3 CTRY Ukraina
+1 RESI
+2 DATE 1972
+2 PLAC Pyskowice, gliwicki, woj. śląskie, Polska
+2 ADDR
+3 CTRY Polska
+2 SOUR @S0292@
+3 DATA
+4 DATE 1972
+1 OCCU Woźnica (furman) w Rejonowym Punkcie Medycznym
+2 DATE FROM 1945 TO 1948
+2 SOUR @S0292@
+3 DATA
+4 DATE 1972
+1 OCCU Stolarz w Kołchozie
+2 DATE FROM 1949 TO 1958
+2 PLAC Czukiew, rejon samborski, obwód lwowski, Ukraina
+2 ADDR
+3 CTRY Ukraina
+2 SOUR @S0292@
+3 DATA
+4 DATE 1972
 1 FAMC @F0228@
 2 PEDI birth
 1 FAMS @F0162@
+1 SOUR @S0291@
+1 SOUR @S0292@
+2 DATA
+3 DATE 1972
+1 SOUR @S0293@
+1 SOUR @S0294@
+2 PAGE str. 2
+2 DATA
+3 DATE 1958
+1 OBJE @O0754@
 1 CHAN
-2 DATE 1 JAN 2021
-3 TIME 09:03:20
+2 DATE 21 MAR 2024
+3 TIME 20:30:25
 0 @I500056@ INDI
 1 NAME Józef /Bek/
 2 GIVN Józef
@@ -12478,8 +12802,8 @@
 2 PEDI birth
 1 FAMS @F0178@
 1 CHAN
-2 DATE 18 APR 2023
-3 TIME 19:02:57
+2 DATE 23 MAR 2024
+3 TIME 11:03:21
 0 @I500059@ INDI
 1 NAME Antoni /Wac/
 2 GIVN Antoni
@@ -12941,7 +13265,7 @@
 3 OBJE @O0480@
 1 CHR
 2 DATE 5 MAR 1916
-2 PLAC Kościół św. Mikołaja, Imielno, Polska
+2 PLAC Kościół św. Mikołaja, Imielno, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.584722
 4 LONG E20.444722
@@ -13323,7 +13647,7 @@
 1 SEX M
 1 BIRT
 2 DATE 13 DEC 1882
-2 PLAC Nowy Bytom, Ruda Śląska, Polska
+2 PLAC Nowy Bytom, Ruda Śląska, woj. śląskie, Polska
 2 ADDR
 3 CITY Ruda Śląska
 3 CTRY Polska
@@ -13569,7 +13893,7 @@
 1 SEX F
 1 BIRT
 2 DATE 31 JUL 1827
-2 PLAC Ignatzdorf, Katowice, Polska
+2 PLAC Ignatzdorf, Katowice, woj. śląskie, Polska
 3 MAP
 4 LATI N50.284374
 4 LONG E19.010532
@@ -13608,7 +13932,7 @@
 1 SEX M
 1 BIRT
 2 DATE 11 NOV 1867
-2 PLAC Ignatzdorf, Katowice, Polska
+2 PLAC Ignatzdorf, Katowice, woj. śląskie, Polska
 2 ADDR
 3 CITY Katowice
 3 CTRY Polska
@@ -13656,7 +13980,7 @@
 3 CTRY Polska
 1 DEAT
 2 DATE 25 FEB 1896
-2 PLAC Josefsdorf, gemainde Domb (Józefowiec, gmina Dąb), Katowice, Polska
+2 PLAC Josefsdorf, gemainde Domb (Józefowiec, gmina Dąb), Katowice, woj. śląskie, Polska
 2 ADDR
 3 CITY Katowice
 3 CTRY Polska
@@ -13678,7 +14002,7 @@
 1 SEX F
 1 DEAT
 2 DATE BEF 1884
-2 PLAC Josefsdorf, gemainde Domb (Józefowiec, gmina Dąb), Katowice, Polska
+2 PLAC Josefsdorf, gemainde Domb (Józefowiec, gmina Dąb), Katowice, woj. śląskie, Polska
 2 ADDR
 3 CITY Katowice
 3 CTRY Polska
@@ -13702,7 +14026,7 @@
 2 SOUR @S0041@
 1 OCCU Hüttenarbeiter (pracownik huty, hutnik)
 2 DATE ABT 1888
-2 PLAC Huta, Katowice, Polska
+2 PLAC Huta, Katowice, woj. śląskie, Polska
 2 ADDR
 3 CITY Katowice
 3 CTRY Polska
@@ -13728,7 +14052,7 @@
 1 SEX F
 1 BIRT
 2 DATE 16 MAY 1837
-2 PLAC Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, Polska
+2 PLAC Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, woj. opolskie, Polska
 3 MAP
 4 LATI N50.354722
 4 LONG E18.258611
@@ -13753,7 +14077,7 @@
 1 SEX F
 1 BIRT
 2 DATE 4 OCT 1869
-2 PLAC Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, Polska
+2 PLAC Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, woj. opolskie, Polska
 3 MAP
 4 LATI N50.354722
 4 LONG E18.258611
@@ -13824,7 +14148,7 @@
 1 SEX F
 1 BIRT
 2 DATE 14 JUL 1865
-2 PLAC Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, Polska
+2 PLAC Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, woj. opolskie, Polska
 3 MAP
 4 LATI N50.354722
 4 LONG E18.258611
@@ -13896,7 +14220,7 @@
 1 SEX M
 1 BIRT
 2 DATE 11 JUN 1833
-2 PLAC Smolna, Rybnik, Polska
+2 PLAC Smolna, Rybnik, rybnicki, woj. śląskie, Polska
 2 ADDR
 3 CITY Rybnik
 3 CTRY Polska
@@ -13927,7 +14251,7 @@
 1 SEX F
 1 BIRT
 2 DATE 1 OCT 1836
-2 PLAC Strzelce Opolskie, Polska
+2 PLAC Strzelce Opolskie, woj. opolskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0074@
@@ -14167,7 +14491,7 @@
 1 SEX M
 1 BIRT
 2 DATE 25 AUG 1832
-2 PLAC Rybnik, Polska
+2 PLAC Rybnik, rybnicki, woj. śląskie, Polska
 2 ADDR
 3 CITY Rybnik
 3 CTRY Polska
@@ -14199,7 +14523,7 @@
 1 SEX F
 1 BIRT
 2 DATE 24 OCT 1836
-2 PLAC Rybnik, Polska
+2 PLAC Rybnik, rybnicki, woj. śląskie, Polska
 2 ADDR
 3 CITY Rybnik
 3 CTRY Polska
@@ -14453,7 +14777,7 @@
 1 SEX F
 1 BIRT
 2 DATE 29 AUG 1920
-2 PLAC Zabrze, Polska
+2 PLAC Zabrze, woj. śląskie, Polska
 3 MAP
 4 LATI N50.320093
 4 LONG E18.789534
@@ -14512,7 +14836,7 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1867
-2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+2 PLAC Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska
 3 MAP
 4 LATI N51.499999
 4 LONG E18.357912
@@ -14523,7 +14847,7 @@
 1 DEAT Y
 1 RESI
 2 DATE 27 JAN 1906
-2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+2 PLAC Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska
 3 MAP
 4 LATI N51.499999
 4 LONG E18.357912
@@ -14943,8 +15267,8 @@
 2 PEDI birth
 1 FAMS @F500011@
 1 CHAN
-2 DATE 24 JUL 2020
-3 TIME 19:33:29
+2 DATE 10 MAR 2024
+3 TIME 20:19:56
 0 @I500230@ INDI
 1 NAME Mieczysław /Huńka/
 2 GIVN Mieczysław
@@ -15598,7 +15922,7 @@
 1 WIFE @I0010@
 1 MARR
 2 DATE 7 OCT 1934
-2 PLAC Nowy Bytom, Ruda Śląska, Polska
+2 PLAC Nowy Bytom, Ruda Śląska, woj. śląskie, Polska
 2 ADDR
 3 CITY Ruda Śląska
 3 CTRY Polska
@@ -15785,7 +16109,7 @@
 1 WIFE @I0051@
 1 MARR
 2 DATE 22 JAN 1895
-2 PLAC Ignatzdorf, Katowice, Polska
+2 PLAC Ignatzdorf, Katowice, woj. śląskie, Polska
 3 MAP
 4 LATI N50.284374
 4 LONG E19.010532
@@ -15883,7 +16207,7 @@
 1 WIFE @I0070@
 1 MARR
 2 DATE 5 SEP 1887
-2 PLAC Rybnik, Polska
+2 PLAC Rybnik, rybnicki, woj. śląskie, Polska
 2 ADDR
 3 CITY Rybnik
 3 CTRY Polska
@@ -15910,7 +16234,7 @@
 1 WIFE @I0073@
 1 MARR
 2 DATE 13 MAY 1889
-2 PLAC Rybnik, Polska
+2 PLAC Rybnik, rybnicki, woj. śląskie, Polska
 2 ADDR
 3 CITY Rybnik
 3 CTRY Polska
@@ -16225,7 +16549,7 @@
 1 WIFE @I0187@
 1 MARR
 2 DATE 18 APR 1900
-2 PLAC Kościół św. Mikołaja, Imielno, Polska
+2 PLAC Kościół św. Mikołaja, Imielno, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.584722
 4 LONG E20.444722
@@ -16302,7 +16626,7 @@
 2 WIFE
 3 AGE 24
 2 DATE 25 JAN 1820
-2 PLAC Schlawentziz, Kędzierzyn-Koźle, Polska
+2 PLAC Schlawentziz, Kędzierzyn-Koźle, woj. opolskie, Polska
 3 MAP
 4 LATI N50.379979
 4 LONG E18.316259
@@ -16394,7 +16718,7 @@
 1 MARR
 2 TYPE on - 32 lata, wdowiec; ona - 23 lata
 2 DATE 1820
-2 PLAC Witkowice, Kaźmierz, szamotulski, wielkopolskie, Polska
+2 PLAC Witkowice, Kaźmierz, szamotulski, woj. wielkopolskie, Polska
 3 MAP
 4 LATI N52.498654
 4 LONG E16.529983
@@ -16486,7 +16810,7 @@
 1 EVEN
 2 TYPE Residence
 2 DATE 21 JAN 1826
-2 PLAC Salamony, Czajków, ostrzeszowski, wielkopolskie, Polska
+2 PLAC Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska
 3 MAP
 4 LATI N51.499999
 4 LONG E18.357912
@@ -16660,13 +16984,20 @@
 0 @F0164@ FAM
 1 HUSB @I0256@
 1 WIFE @I0257@
+1 MARR
+2 DATE 9 JUN 1925
+2 PLAC Czukiew, rejon samborski, obwód lwowski, Ukraina
+2 ADDR
+3 CTRY Ukraina
+2 SOUR @S0001@
+3 PAGE Korotusz Walenty, Pawłowicz Barbara - indeks aktu małżeństwa
 1 CHIL @I500033@
 1 CHIL @I0258@
 1 CHIL @I0259@
 1 CHIL @I500058@
 1 CHAN
-2 DATE 18 APR 2023
-3 TIME 19:02:57
+2 DATE 23 MAR 2024
+3 TIME 11:03:21
 0 @F0167@ FAM
 1 HUSB @I500043@
 1 WIFE @I0262@
@@ -16963,7 +17294,7 @@
 1 WIFE @I0365@
 1 MARR
 2 DATE 21 OCT 1860
-2 PLAC Katowice, Polska
+2 PLAC Katowice, woj. śląskie, Polska
 3 MAP
 4 LATI N50.266005
 4 LONG E19.024878
@@ -17000,7 +17331,7 @@
 2 SOUR @S0083@
 1 MARR
 2 DATE 5 FEB 1872
-2 PLAC Imielno, Polska
+2 PLAC Imielno, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.584722
 4 LONG E20.444722
@@ -17044,7 +17375,7 @@
 1 WIFE @I500149@
 1 MARR
 2 DATE 14 JAN 1849
-2 PLAC Kościół pw. św. Michała Archanioła, Ignatzdorf, Katowice, Polska
+2 PLAC Kościół pw. św. Michała Archanioła, Ignatzdorf, Katowice, woj. śląskie, Polska
 2 ADDR
 3 CITY Katowice
 3 CTRY Polska
@@ -17069,7 +17400,7 @@
 1 WIFE @I0390@
 1 MARR
 2 DATE 16 FEB 1863
-2 PLAC Kościół pw. Trójcy Przenajświętszej, Kochłowice, Ruda Śląska, Polska
+2 PLAC Kościół pw. Trójcy Przenajświętszej, Kochłowice, Ruda Śląska, woj. śląskie, Polska
 2 ADDR
 3 CITY Ruda Śląska
 3 CTRY Polska
@@ -17230,7 +17561,7 @@
 1 WIFE @I0423@
 1 MARR
 2 DATE 18 FEB 1828
-2 PLAC Kościół św. Mikołaja, Imielno, Polska
+2 PLAC Kościół św. Mikołaja, Imielno, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.584722
 4 LONG E20.444722
@@ -17345,7 +17676,7 @@
 1 WIFE @I0438@
 1 MARR
 2 DATE 24 JAN 1779
-2 PLAC Imielno, Polska
+2 PLAC Imielno, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.584722
 4 LONG E20.444722
@@ -17487,7 +17818,7 @@
 1 WIFE @I0463@
 1 MARR
 2 DATE 22 NOV 1819
-2 PLAC Imielno, Polska
+2 PLAC Imielno, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.584722
 4 LONG E20.444722
@@ -17526,7 +17857,7 @@
 1 WIFE @I0466@
 1 MARR
 2 DATE 1737
-2 PLAC Chroberz, Złota, pińczowski, świętokrzyskie, Polska
+2 PLAC Chroberz, Złota, pińczowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.41699
 4 LONG E20.549983
@@ -17551,7 +17882,7 @@
 1 WIFE @I0470@
 1 MARR
 2 DATE 17 JUN 1775
-2 PLAC Rębów, Kije, pińczowski, świętokrzyskie, Polska
+2 PLAC Rębów, Kije, pińczowski, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0148@
@@ -17563,11 +17894,12 @@
 3 TIME 20:51:55
 0 @F0263@ FAM
 1 HUSB @I0472@
+1 WIFE @I0576@
 1 CHIL @I0257@
 1 CHIL @I0471@
 1 CHAN
-2 DATE 30 DEC 2020
-3 TIME 19:59:20
+2 DATE 23 MAR 2024
+3 TIME 11:06:40
 0 @F0264@ FAM
 1 HUSB @I0474@
 1 CHIL @I0296@
@@ -17625,7 +17957,7 @@
 1 WIFE @I0490@
 1 MARR
 2 DATE 12 JAN 1857
-2 PLAC Imielno, Polska
+2 PLAC Imielno, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.584722
 4 LONG E20.444722
@@ -17645,7 +17977,7 @@
 1 WIFE @I0494@
 1 MARR
 2 DATE 21 JAN 1817
-2 PLAC Kościół pw. MB Bolesnej, Rybnik, Polska
+2 PLAC Kościół pw. MB Bolesnej, Rybnik, rybnicki, woj. śląskie, Polska
 2 ADDR
 3 CITY Rybnik
 3 CTRY Polska
@@ -17661,7 +17993,7 @@
 1 WIFE @I0496@
 1 MARR
 2 DATE 2 NOV 1835
-2 PLAC Kościół pw. MB Bolesnej, Rybnik, Polska
+2 PLAC Kościół pw. MB Bolesnej, Rybnik, rybnicki, woj. śląskie, Polska
 2 ADDR
 3 CITY Rybnik
 3 CTRY Polska
@@ -17678,7 +18010,7 @@
 1 MARR
 2 TYPE on - kawaler, ona - panna
 2 DATE 11 SEP 1804
-2 PLAC Kościół pw. MB Bolesnej, Rybnik, Polska
+2 PLAC Kościół pw. MB Bolesnej, Rybnik, rybnicki, woj. śląskie, Polska
 2 ADDR
 3 CITY Rybnik
 3 CTRY Polska
@@ -17704,7 +18036,7 @@
 1 WIFE @I0501@
 1 MARR
 2 DATE 18 JAN 1830
-2 PLAC Kościół św. Mikołaja, Imielno, Polska
+2 PLAC Kościół św. Mikołaja, Imielno, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.584722
 4 LONG E20.444722
@@ -17729,7 +18061,7 @@
 1 WIFE @I0505@
 1 MARR
 2 DATE 25 JAN 1789
-2 PLAC Kościół św. Mikołaja, Imielno, Polska
+2 PLAC Kościół św. Mikołaja, Imielno, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.584722
 4 LONG E20.444722
@@ -17747,7 +18079,7 @@
 1 WIFE @I0506@
 1 MARR
 2 DATE 24 NOV 1823
-2 PLAC Kościół św. Mikołaja, Imielno, Polska
+2 PLAC Kościół św. Mikołaja, Imielno, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.584722
 4 LONG E20.444722
@@ -17766,7 +18098,7 @@
 1 MARR
 2 TYPE kawaler; panna
 2 DATE 5 FEB 1786
-2 PLAC Jakubów, Imielno, jędrzejowski, świętokrzyskie, Polska
+2 PLAC Jakubów, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 2 ADDR
 3 CTRY Polska
 2 SOUR @S0145@
@@ -17783,7 +18115,7 @@
 1 MARR
 2 TYPE ona - panna
 2 DATE 16 NOV 1810
-2 PLAC Imielno, Polska
+2 PLAC Imielno, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.584722
 4 LONG E20.444722
@@ -17927,7 +18259,7 @@
 1 WIFE @I0531@
 1 MARR
 2 DATE 6 AUG 1820
-2 PLAC Kościół pw. MB Bolesnej, Rybnik, Polska
+2 PLAC Kościół pw. MB Bolesnej, Rybnik, rybnicki, woj. śląskie, Polska
 2 ADDR
 3 CITY Rybnik
 3 CTRY Polska
@@ -18040,7 +18372,7 @@
 1 WIFE @I0555@
 1 MARR
 2 DATE 28 JAN 1812
-2 PLAC Bujaków, Mikołów, mikołowski, śląskie, Polska
+2 PLAC Bujaków, Mikołów, mikołowski, woj. śląskie, Polska
 2 ADDR
 3 CITY Mikołów
 3 CTRY Polska
@@ -18101,6 +18433,59 @@
 1 CHAN
 2 DATE 22 FEB 2024
 3 TIME 19:44:59
+0 @F0311@ FAM
+1 HUSB @I0567@
+1 WIFE @I0568@
+1 MARR
+2 DATE BEF 1749
+2 SOUR @S0214@
+3 PAGE Wersja z dnia 2024-03-06
+3 DATA
+4 DATE 6 MAR 2024
+3 OBJE @O0753@
+1 CHIL @I0554@
+1 SOUR @S0214@
+2 PAGE Wersja z dnia 2024-03-06
+2 DATA
+3 DATE 6 MAR 2024
+2 OBJE @O0753@
+1 CHAN
+2 DATE 9 MAR 2024
+3 TIME 07:57:33
+0 @F0312@ FAM
+1 HUSB @I0196@
+1 WIFE @I0570@
+1 CHIL @I0569@
+1 CHAN
+2 DATE 17 MAR 2024
+3 TIME 17:06:32
+0 @F0313@ FAM
+1 HUSB @I0574@
+1 WIFE @I0575@
+1 CHIL @I0256@
+1 CHAN
+2 DATE 23 MAR 2024
+3 TIME 19:50:44
+0 @F0314@ FAM
+1 HUSB @I0577@
+1 WIFE @I0581@
+1 CHIL @I0575@
+1 CHAN
+2 DATE 23 MAR 2024
+3 TIME 19:54:12
+0 @F0315@ FAM
+1 HUSB @I0578@
+1 CHIL @I0576@
+1 CHAN
+2 DATE 23 MAR 2024
+3 TIME 11:09:01
+0 @F0316@ FAM
+1 HUSB @I0579@
+1 WIFE @I0580@
+1 CHIL @I0574@
+1 CHAN
+2 DATE 23 MAR 2024
+3 TIME 19:53:10
 0 @F500004@ FAM
 1 HUSB @I500013@
 1 WIFE @I500012@
@@ -18170,12 +18555,10 @@
 0 @F500010@ FAM
 1 HUSB @I500029@
 1 WIFE @I500031@
-1 FACT MH:F500010
-2 TYPE RIN
-1 _UID 5D28DDB31D17A34158308EA978367CA9
+1 CHIL @I0571@
 1 CHAN
-2 DATE 2 FEB 2020
-3 TIME 22:55:09
+2 DATE 17 MAR 2024
+3 TIME 17:09:20
 0 @F500011@ FAM
 1 HUSB @I500034@
 1 WIFE @I500229@
@@ -18214,12 +18597,10 @@
 0 @F500014@ FAM
 1 HUSB @I500045@
 1 WIFE @I500044@
-1 FACT MH:F500014
-2 TYPE RIN
-1 _UID 5D28E457B182D8F91BDC7F711332C00B
+1 CHIL @I0572@
 1 CHAN
-2 DATE 2 FEB 2020
-3 TIME 22:55:11
+2 DATE 17 MAR 2024
+3 TIME 17:11:11
 0 @F500015@ FAM
 1 WIFE @I500048@
 1 FACT MH:F500015
@@ -18245,9 +18626,10 @@
 1 FACT MH:F500017
 2 TYPE RIN
 1 _UID 5D28E64694142C879D7AC2174999980D
+1 CHIL @I0573@
 1 CHAN
-2 DATE 2 FEB 2020
-3 TIME 22:55:13
+2 DATE 17 MAR 2024
+3 TIME 17:11:39
 0 @F500018@ FAM
 1 HUSB @I500046@
 1 WIFE @I500047@
@@ -18432,7 +18814,7 @@
 1 WIFE @I0105@
 1 MARR
 2 DATE 6 FEB 1907
-2 PLAC Kościół św. Mikołaja, Imielno, Polska
+2 PLAC Kościół św. Mikołaja, Imielno, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska
 3 MAP
 4 LATI N50.584722
 4 LONG E20.444722
@@ -18605,7 +18987,7 @@
 1 WIFE @I500149@
 1 MARR
 2 DATE 18 OCT 1857
-2 PLAC Kościół pw. św. Michała Archanioła, Ignatzdorf, Katowice, Polska
+2 PLAC Kościół pw. św. Michała Archanioła, Ignatzdorf, Katowice, woj. śląskie, Polska
 2 ADDR
 3 CITY Katowice
 3 CTRY Polska
@@ -18625,7 +19007,7 @@
 1 WIFE @I500151@
 1 MARR
 2 DATE 18 NOV 1893
-2 PLAC Ignatzdorf, Katowice, Polska
+2 PLAC Ignatzdorf, Katowice, woj. śląskie, Polska
 3 MAP
 4 LATI N50.284374
 4 LONG E19.010532
@@ -18658,7 +19040,7 @@
 1 WIFE @I500155@
 1 MARR
 2 DATE 16 NOV 1862
-2 PLAC Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, Polska
+2 PLAC Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, woj. opolskie, Polska
 3 MAP
 4 LATI N50.354722
 4 LONG E18.258611
@@ -18679,7 +19061,7 @@
 1 WIFE @I500156@
 1 MARR
 2 DATE 20 OCT 1888
-2 PLAC Ignatzdorf, Katowice, Polska
+2 PLAC Ignatzdorf, Katowice, woj. śląskie, Polska
 3 MAP
 4 LATI N50.284374
 4 LONG E19.010532
@@ -18704,7 +19086,7 @@
 1 WIFE @I500160@
 1 MARR
 2 DATE 11 FEB 1890
-2 PLAC Ignatzdorf, Katowice, Polska
+2 PLAC Ignatzdorf, Katowice, woj. śląskie, Polska
 3 MAP
 4 LATI N50.284374
 4 LONG E19.010532
@@ -18732,7 +19114,7 @@
 1 WIFE @I500165@
 1 MARR
 2 DATE 12 AUG 1860
-2 PLAC Kościół Ewangelicko-Augsburski, Rybnik, Polska
+2 PLAC Kościół Ewangelicko-Augsburski, Rybnik, rybnicki, woj. śląskie, Polska
 3 MAP
 4 LATI N50.09151
 4 LONG E18.54207
@@ -18783,7 +19165,7 @@
 1 WIFE @I500182@
 1 MARR
 2 DATE 11 OCT 1857
-2 PLAC Kościół pw. MB Bolesnej, Rybnik, Polska
+2 PLAC Kościół pw. MB Bolesnej, Rybnik, rybnicki, woj. śląskie, Polska
 2 ADDR
 3 CITY Rybnik
 3 CTRY Polska
@@ -19113,8 +19495,8 @@
 1 TITL Solorz Luiza - akt urodzenia
 1 OBJE @O0318@
 1 CHAN
-2 DATE 1 FEB 2020
-3 TIME 11:07:55
+2 DATE 19 MAR 2024
+3 TIME 20:00:24
 0 @S0019@ SOUR
 1 TITL Suchanek Mieczysław - akt urodzenia
 1 PUBL Akta stanu cywilnego Parafii Rzymskokatolickiej w Imielnie z lat 1810-19
@@ -20829,6 +21211,44 @@
 1 CHAN
 2 DATE 22 FEB 2024
 3 TIME 19:14:12
+0 @S0290@ SOUR
+1 TITL Karta repatriacyjna - Korotusz Michał
+1 AUTH Punkt Repatriacyjny Przemyśl
+1 OBJE @O0763@
+1 CHAN
+2 DATE 19 MAR 2024
+3 TIME 19:36:11
+0 @S0291@ SOUR
+1 TITL Wac Józef - korespondencja z urzędem ws. sprzedaży nieruchomości
+1 OBJE @O0765@
+1 CHAN
+2 DATE 19 MAR 2024
+3 TIME 19:59:17
+0 @S0292@ SOUR
+1 TITL Wac Józef - zeznania świadków w sprawie emerytalnej
+1 OBJE @O0766@
+1 CHAN
+2 DATE 19 MAR 2024
+3 TIME 20:08:58
+0 @S0293@ SOUR
+1 TITL Wac Józef - tłumaczenie umowy najmu domu w Czukwi
+1 OBJE @O0767@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 20:11:31
+0 @S0294@ SOUR
+1 TITL Karta repatriacyjna - Wac Maria
+1 OBJE @O0768@
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 20:28:42
+0 @S0295@ SOUR
+1 TITL Księgi metrykalne par. Czukiew
+1 AUTH Parafia Rzymskokatolicka Czukiew
+1 REPO @R0044@
+1 CHAN
+2 DATE 23 MAR 2024
+3 TIME 19:48:18
 0 @S500001@ SOUR
 1 TITL Brylewski Web Site
 1 AUTH Grzegorz Brylewski
@@ -25965,15 +26385,8 @@
 2 FORM jpg
 2 TITL Wincek Wilhelm, Gruszka Józefina, Częstochowa
 1 CHAN
-2 DATE 5 JUL 2023
-3 TIME 20:29:46
-0 @O0730@ OBJE
-1 FILE /home/dmirecki/projects/gramps/media/photos/Gruszka__Wincek/gruszka-józefina__wincek-wilhelm.jpg
-2 FORM jpg
-2 TITL gruszka-józefina__wincek-wilhelm
-1 CHAN
-2 DATE 5 JUL 2023
-3 TIME 20:30:28
+2 DATE 10 MAR 2024
+3 TIME 20:08:04
 0 @O0731@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/photos/Gruszka__Wincek/wincek-wilhelm__recto.jpg
 2 FORM jpg
@@ -26085,15 +26498,8 @@
 2 FORM jpeg
 2 TITL Ostatnie spotkanie braci przed śmiercią Wernera
 1 CHAN
-2 DATE 22 OCT 2023
-3 TIME 17:56:35
-0 @O0747@ OBJE
-1 FILE /home/dmirecki/projects/gramps/media/sources/Moczygemba__Poloczek/moczygemba_romek_bernard_werner_beata.jpeg
-2 FORM jpeg
-2 TITL moczygemba_romek_bernard_werner_beata
-1 CHAN
-2 DATE 24 OCT 2023
-3 TIME 13:21:03
+2 DATE 10 MAR 2024
+3 TIME 20:03:10
 0 @O0748@ OBJE
 1 FILE /home/dmirecki/projects/gramps/media/photos/Mirecki__Poloczek/mirecki-werner.bmp
 2 FORM bmp
@@ -26129,4 +26535,123 @@
 1 CHAN
 2 DATE 22 FEB 2024
 3 TIME 19:10:15
+0 @O0753@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Koch__Thomashny/koch__thomashny__drzewo-genealogiczne__3.png
+2 FORM png
+2 TITL koch__thomashny__drzewo-genealogiczne__3
+1 CHAN
+2 DATE 9 MAR 2024
+3 TIME 07:26:50
+0 @O0754@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Sławik__Wac/wac-jozef.png
+2 FORM png
+2 TITL wac-jozef
+1 CHAN
+2 DATE 10 MAR 2024
+3 TIME 19:11:10
+0 @O0755@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Kopeć__Kulik/kulik-stanislaw.png
+2 FORM png
+2 TITL kulik-stanislaw
+1 CHAN
+2 DATE 10 MAR 2024
+3 TIME 19:12:38
+0 @O0756@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Korotusz__Pawłowicz/korotusz-jozef.png
+2 FORM png
+2 TITL korotusz-jozef
+1 CHAN
+2 DATE 10 MAR 2024
+3 TIME 19:14:31
+0 @O0757@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/pracownicy-maszynowni-1897.png
+2 FORM png
+2 TITL Pracownicy maszynowni, 1897 r.
+1 CHAN
+2 DATE 10 MAR 2024
+3 TIME 20:35:35
+0 @O0759@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Poloczek__Wincek/poloczek-teodor__wincek-weronika-_zdjęcie-ślubne.jpg
+2 FORM jpg
+2 TITL Poloczek Teodor, Wincek Weronika - zdjęcie ślubne
+1 CHAN
+2 DATE 17 MAR 2024
+3 TIME 17:21:26
+0 @O0760@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Poloczek__Wincek/poloczek-beata__wincek-weronika__mirecki-werner__poloczek-teodor__poloczek-felicja.jpg
+2 FORM jpg
+2 TITL Zdjęcie rodzinne
+1 CHAN
+2 DATE 17 MAR 2024
+3 TIME 17:28:16
+0 @O0761@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Poloczek__Wincek/wincek-helena__poloczek-beata__wincek-weronika__poloczek-teodor.jpg
+2 FORM jpg
+2 TITL Zdjęcie rodzinne
+1 CHAN
+2 DATE 17 MAR 2024
+3 TIME 17:37:14
+0 @O0762@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/photos/Mirecki__Poloczek/mirecki-andrzej.jpg
+2 FORM jpg
+2 TITL mirecki-andrzej
+1 CHAN
+2 DATE 17 MAR 2024
+3 TIME 18:05:23
+0 @O0763@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Korotusz__Wac/korotusz-michal__karta-repatriacyjna.pdf
+2 FORM pdf
+2 TITL korotusz-michal__karta-repatriacyjna
+1 CHAN
+2 DATE 19 MAR 2024
+3 TIME 19:35:27
+0 @O0764@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Korotusz__Wac/korotusz-michal__karta-repatriacyjna__zdjecie.png
+2 FORM png
+2 TITL korotusz-michal__karta-repatriacyjna__zdjecie
+1 CHAN
+2 DATE 19 MAR 2024
+3 TIME 19:37:23
+0 @O0765@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Sławik__Wac/jozef-wac__korespondencja-ws-sprzedazy-domu.pdf
+2 FORM pdf
+2 TITL jozef-wac__korespondencja-ws-sprzedazy-domu
+1 CHAN
+2 DATE 19 MAR 2024
+3 TIME 19:59:15
+0 @O0766@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Sławik__Wac/wac-jozef__sprawa-emerytalna.pdf
+2 FORM pdf
+2 TITL wac-jozef__sprawa-emerytalna
+1 CHAN
+2 DATE 19 MAR 2024
+3 TIME 20:08:55
+0 @O0767@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Sławik__Wac/wac-jozef__umowa-najmu.pdf
+2 FORM pdf
+2 TITL wac-jozef__umowa-najmu
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 20:11:28
+0 @O0768@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Korotusz__Wac/wac-maria__karta-repatriacyjna.pdf
+2 FORM pdf
+2 TITL wac-maria__karta-repatriacyjna
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 20:28:37
+0 @O0769@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Korotusz__Wac/wac-maria__karta-repatriacyjna__zdjecia.png
+2 FORM png
+2 TITL wac-maria__karta-repatriacyjna__zdjecia
+1 CHAN
+2 DATE 21 MAR 2024
+3 TIME 20:39:04
+0 @O0770@ OBJE
+1 FILE /home/dmirecki/projects/gramps/media/sources/Korotusz__Wac__senior/korotusz-walenty__akt-urodzenia.jpg
+2 FORM jpg
+2 TITL korotusz-walenty__akt-urodzenia
+1 CHAN
+2 DATE 23 MAR 2024
+3 TIME 19:48:34
 0 TRLR
