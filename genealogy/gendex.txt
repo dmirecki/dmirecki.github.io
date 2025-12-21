@@ -1,5 +1,16 @@
+ppl/9/f/10007ff29f3dec6adfa5fe63af9.html|Kołodziej| /Kołodziej/|||||
+ppl/1/0/100c1e17cf332b10f0718680e01.html|Hein|Estera /Hein/|||3 JUL 1741|Schlawentziz, Kędzierzyn-Koźle, woj. opolskie, Polska|
+ppl/3/a/100c1f103d2f11687a57bcf683a3.html|Nagel|Jacob /Nagel/|ABT 1702||8 MAR 1752|Schlawentziz, Kędzierzyn-Koźle, woj. opolskie, Polska|
+ppl/8/8/100c2bfa23a87f3a1c1435221e88.html|Nagel|Heinrich /Nagel/|||20 FEB 1739|Schlawentziz, Kędzierzyn-Koźle, woj. opolskie, Polska|
+ppl/5/b/100f3299526478076fc80f9674b5.html|Nagel|Joseph /Nagel/|27 FEB 1739|Schlawentziz, Kędzierzyn-Koźle, woj. opolskie, Polska|||
+ppl/3/8/100f32cf21fc48ddc80424696183.html|Pielot|Maria /Pielot/|||||
+ppl/7/0/100f339c8485564ba8127d718f07.html|Hein|Jan /Hein/|||||
+ppl/a/a/10108116f6a97c9e4cfdc2f2a8aa.html|Parusel|Paul /Parusel/|||||
+ppl/3/c/1010811dd82844b738f3301d05c3.html|Kulos|Anna /Kulos/|||||
+ppl/e/d/101095d4a3ef1deacf6b8807e0de.html|Parusel|Eva /Parusel/|22 DEC 1767|Miejsce Kłodnickie, Kędzierzyn-Koźle, woj. opolskie, Polska|||
+ppl/0/0/10109616e9c5435a25253f3a1200.html|Parusel|Gregor /Parusel/|24 FEB 1782|Miejsce Kłodnickie, Kędzierzyn-Koźle, woj. opolskie, Polska|||
 ppl/e/e/e5e47fa402b37ebbb6839ea3bee.html|Private| /Private/|||||
-ppl/c/b/e5e47fa416b11cac04062a95ebc.html|[Private]|[Private] /[Private]/|||||
+ppl/c/b/e5e47fa416b11cac04062a95ebc.html|Private| /Private/|||||
 ppl/4/e/e5e47fa426f627441c2715acce4.html|[Private]|[Private] /[Private]/|||||
 ppl/7/a/e5e47fa42dd696ba27a5ec481a7.html|[Private]|[Private] /[Private]/|||||
 ppl/d/c/e5e47fa43694c18f00fb0cd31cd.html|[Private]|[Private] /[Private]/|||||
@@ -41,13 +52,13 @@ ppl/3/6/e5e47fa516a2b38b16e34f0b563.html|Kolorz|Piotr Krzysztof /Kolorz/|||||
 ppl/0/e/e5e47fa51a61a0408a20155b1e0.html|[Private]|[Private] /[Private]/|||||
 ppl/2/a/e5e47fa523c648aca966aed68a2.html|[Private]|[Private] /[Private]/|||||
 ppl/6/0/e5e47fa52b43c321984f3691d06.html|[Private]|[Private] /[Private]/|||||
-ppl/c/3/e5e47fa52fa3aaf1e885a3d013c.html|Kolorz|Tomasz /Kolorz/|||||
+ppl/c/3/e5e47fa52fa3aaf1e885a3d013c.html|[Private]|[Private] /[Private]/|||||
 ppl/0/5/e5e47fa53865f04383cd306f850.html|[Private]|[Private] /[Private]/|||||
 ppl/9/e/e5e47fa53d62fe16cac6dd4a5e9.html|Wincek|Wilhelm Josef /Wincek/|22 MAR 1871|Nowy Bytom, Ruda Śląska, woj. śląskie, Polska|||
 ppl/d/e/e5e47fa5480777d826332ec3bed.html|Gruschka|Josefa /Gruschka/|30 OCT 1872|Ignatzdorf, Katowice, woj. śląskie, Polska|||
 ppl/9/c/e5e47fa55346ab846a14803e7c9.html|Wincek|Agnieszka /Wincek/ Agnes|||||
 ppl/c/0/e5e47fa557a2b8a6962e52050c.html|Gaida|Jan /Gaida/|||||
-ppl/c/7/e5e47fa558e7ef87d6c33ab67c.html|[Private]|[Private] /[Private]/|||||
+ppl/c/7/e5e47fa558e7ef87d6c33ab67c.html|Gaida|Edwin /Gaida/|||||
 ppl/3/4/e5e47fa562f6cb46888a4de8843.html|Wincek|Ernestyna Elżbieta /Wincek/|4 NOV 1900|Nowy Bytom, Ruda Śląska, woj. śląskie, Polska|||
 ppl/0/5/e5e47fa56e2529e4875a96e8a50.html|Wincek|Maria /Wincek/ Mitza|||||
 ppl/7/9/e5e47fa57285e97471f64d34d97.html|Kubica|Franciszek /Kubica/ Franz|||||
@@ -247,7 +258,7 @@ ppl/b/c/e5e4936c1096e5498847d4789cb.html|[Private]|[Private] /[Private]/|||||
 ppl/4/f/e5e4936c47972592242ac680af4.html|[Private]|[Private] /[Private]/|||||
 ppl/1/7/e5e4936c53646853b0fc93be371.html|[Private]|[Private] /[Private]/|||||
 ppl/b/7/e5e4936c5f4765a12b398c1c97b.html|Huńka|Ryszard Bronisław /Huńka/|4 FEB 1922|Lwów, Ukraina|30 JAN 2009|Częstochowa, Polska|
-ppl/b/5/e5e4936c6b25020792d1b5a875b.html|Sibińska|Stefania /Sibińska/|15 SEP 1928|Oborniki, Polska|23 APR 1979|Kędzierzyn-Koźle, woj. opolskie, Polska|
+ppl/b/5/e5e4936c6b25020792d1b5a875b.html|Sibińska|Stefania /Sibińska/|15 SEP 1928|Oborniki, pow. obornicki, woj. wielkopolskie, Polska|23 APR 1979|Kędzierzyn-Koźle, woj. opolskie, Polska|
 ppl/3/b/e5e4936c75237763caf8ec9a7b3.html|[Private]|[Private] /[Private]/|||||
 ppl/5/5/e5e4936c77a1749c28da6ee3c55.html|Włodarczak|Ireneusz /Włodarczak/|||||
 ppl/d/4/e5e4936c8067fada6ed7d6bb14d.html|Huńka|Jadwiga Maria /Huńka/|||||
@@ -255,7 +266,7 @@ ppl/0/3/e5e4936c83862ad76de5eeaf330.html|Włodarczak|Ignacy /Włodarczak/|||||
 ppl/7/6/e5e4936c85f6b99121040ea967.html|[Private]|[Private] /[Private]/|||||
 ppl/5/2/e5e4936c8b91d8b64fa145ced25.html|[Private]|[Private] /[Private]/|||||
 ppl/a/1/e5e4936c8d71c013c4bc3c231a.html|[Private]|[Private] /[Private]/|||||
-ppl/6/1/e5e4936c8ff2f3ba1f205a42e16.html|Wentland|Stanisława /Wentland/|6 MAY 1902|Przebędowo, Polska|||
+ppl/6/1/e5e4936c8ff2f3ba1f205a42e16.html|Wentland|Stanisława /Wentland/|6 MAY 1902|Przebędowo, gm. Murowana Goślina, pow. poznański, woj. wielkopolskie, Polska|29 AUG 1984|Kędzierzyn-Koźle, woj. opolskie, Polska|
 ppl/4/d/e5e4936c9bd41d70021610db0d4.html|Sibiński|Stanisław /Sibiński/|27 JAN 1906|Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska|||
 ppl/9/c/e5e4936ca5d162e2e1657494ac9.html|Podsiadło|Stanisława /Podsiadło/ babka Suchankowa|17 APR 1911|Czeladź, Polska|||
 ppl/2/a/e5e4936caa315ed61a85286c4a2.html|Suchanek|Mieczysław /Suchanek/|1 JAN 1908|Motkowice, Polska|||
@@ -388,8 +399,8 @@ ppl/2/1/e607cddef9e26ba2e4276728712.html|Madejczyk|Małgorzata /Madejczyk/|||||
 ppl/c/a/e607e8834365cce29af2e89f8ac.html|[Private]|[Private] /[Private]/|||||
 ppl/0/2/e607e8b332d7a488b55ded85a20.html|[Private]|[Private] /[Private]/|||||
 ppl/2/9/e630b3ea73655cf0d844248ab92.html|Moczygemba|Joseph /Moczygemba/|||||
-ppl/d/d/e630b59e193c6896a6f77628dd.html|Nagel|Joseph /Nagel/|ABT 1796||||
-ppl/f/3/e6313b4c14921a1acd9fca10c3f.html|Rudolf|Julianna /Rudolf/|ABT 1797||||
+ppl/d/d/e630b59e193c6896a6f77628dd.html|Nagel|Joseph /Nagel/|12 MAR 1796|Schlawentziz, Kędzierzyn-Koźle, woj. opolskie, Polska|17 APR 1876|Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, woj. opolskie, Polska|
+ppl/f/3/e6313b4c14921a1acd9fca10c3f.html|Rudolf|Julianna /Rudolf/|ABT 1796||19 APR 1877|Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, woj. opolskie, Polska|
 ppl/c/e/e631c3939b12f6b6975c30264ec.html|Nagel|Carolina /Nagel/|12 FEB 1834|Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, woj. opolskie, Polska|||
 ppl/3/0/e67eb0f1a62393a171a5da3a403.html|[Private]|[Private] /[Private]/|||||
 ppl/7/0/e67ebe1512360f7031c7a16e07.html|Sibiński|Franciszek /Sibiński/|3 MAR 1895||||
@@ -399,8 +410,8 @@ ppl/1/7/e67eebbb610384a14164be5e671.html|[Private]|[Private] /[Private]/|||||
 ppl/1/0/e67eec700114baabba42714ad01.html|[Private]|[Private] /[Private]/|||||
 ppl/4/c/e67eec8e40c2d4aaf8c8141dfc4.html|[Private]|[Private] /[Private]/|||||
 ppl/4/5/e688f805ccf2d53e8f17501d454.html|Wentland|Franciszek /Wentland/|ABT 1810|Kiączyn, Polska|29 MAY 1868|Stare, Polska|
-ppl/6/6/e688f85b958ddbdd1ba4299866.html|Skowronski|Petronilla /Skowronski/|1821|Witkowice, Kaźmierz, szamotulski, woj. wielkopolskie, Polska|||
-ppl/b/4/e6890164e6627654be5b44ff04b.html|Sklepik|Walenty /Sklepik/|||||
+ppl/6/6/e688f85b958ddbdd1ba4299866.html|Skowronski|Petronilla /Skowronski/|29 MAY 1821|Witkowice, Kaźmierz, szamotulski, woj. wielkopolskie, Polska|||
+ppl/b/4/e6890164e6627654be5b44ff04b.html|Sklepik|Walenty /Sklepik/|||23 APR 1903|Oborniki, pow. obornicki, woj. wielkopolskie, Polska|
 ppl/c/a/e68901afe8e28b7f62bd00c2ac.html|Kromolicka|Regina /Kromolicka/|ABT 1827||||
 ppl/7/f/e68a943ebca3fb71fa854eadbf7.html|Skowroński|Wojciech /Skowroński/|30 MAR 1788|Komorowo, Kaźmierz, szamotulski, woj. wielkopolskie, Polska|1845|Kiączyn, Polska|
 ppl/9/e/e68a9485d922cc0daaa949879e9.html|Wąchowianka|Marianna /Wąchowianka/|1797|Witkowice, Kaźmierz, szamotulski, woj. wielkopolskie, Polska|||
@@ -449,9 +460,9 @@ ppl/8/9/e779f96926617f3307c67466598.html|[Private]|[Private] /[Private]/|||||
 ppl/4/6/e779f96927370673bc402a42264.html|Korotusz|Michał /Korotusz/|17 NOV 1932|Czukiew, rejon samborski, obwód lwowski, Ukraina|||
 ppl/7/b/e779f969287b28339d876e28b7.html|Korotusz|Walenty /Korotusz/|7 OCT 1894|Czukiew, rejon samborski, obwód lwowski, Ukraina|||
 ppl/f/9/e779f96929e55e519319355f29f.html|Pawłowicz|Barbara /Pawłowicz/|4 APR 1906||||
-ppl/9/0/e779f9692aa69ba30d5f1cd5e09.html|Korotusz|Agnieszka /Korotusz/|||||
+ppl/9/0/e779f9692aa69ba30d5f1cd5e09.html|[Private]|[Private] /[Private]/|||||
 ppl/b/6/e779f9692e774eb06f238583a6b.html|Korotusz|Józef /Korotusz/|||||
-ppl/9/4/e779f9692f633cf49d49dfd8c49.html|Rozmarynowski|Antoni /Rozmarynowski/|||||
+ppl/9/4/e779f9692f633cf49d49dfd8c49.html|Rozmarynowski|Antoni /Rozmarynowski/|7 JUN 1930||||
 ppl/b/c/e779f9693006f44862b01a06cb.html|[Private]|[Private] /[Private]/|||||
 ppl/8/3/e779f96930f2bf19ce452831238.html|[Private]|[Private] /[Private]/|||||
 ppl/6/6/e779f969316460e70a148dc5466.html|[Private]|[Private] /[Private]/|||||
@@ -467,8 +478,8 @@ ppl/0/8/e779f9693b83a8f29ad420f0580.html|[Private]|[Private] /[Private]/|||||
 ppl/f/8/e779f9693c15157d9af51672f8f.html|[Private]|[Private] /[Private]/|||||
 ppl/4/2/e779f9693cc2651e49b3bd2d524.html|[Private]|[Private] /[Private]/|||||
 ppl/6/3/e779f9693e04b1b82bd3cab5636.html|[Private]|[Private] /[Private]/|||||
-ppl/4/9/e779f9693ea339eabd5a75e0594.html|Wac|Józef /Wac/|10 APR 1900|Czukiew, rejon samborski, obwód lwowski, Ukraina|||
-ppl/6/b/e779f9693f56194e0b8c75d8ab6.html|Sławik|Agnieszka /Sławik/|15 APR 1905|Czukiew, rejon samborski, obwód lwowski, Ukraina|||
+ppl/4/9/e779f9693ea339eabd5a75e0594.html|Wac|Józef /Wac/|15 OCT 1900|Czukiew, rejon samborski, obwód lwowski, Ukraina|||
+ppl/6/b/e779f9693f56194e0b8c75d8ab6.html|Sławik|Agnieszka /Sławik/|26 OCT 1905|Czukiew, rejon samborski, obwód lwowski, Ukraina|||
 ppl/f/2/e779f9694323be0f87ed627a52f.html|[Private]|[Private] /[Private]/|||||
 ppl/1/1/e779f96943b28b81749942da611.html|Korotusz|Maria /Korotusz/|||||
 ppl/2/2/e779f96944957e13325083fa022.html|Wac|Antoni /Wac/|||||
@@ -480,7 +491,7 @@ ppl/a/5/e779f969484777b54908bbf545a.html|Chudzicka|Julianna /Chudzicka/|15 MAY 1
 ppl/2/c/e779f9694cd17c040a0d0942dc2.html|Chudzicki|Piotr /Chudzicki/|22 JAN 1914|Zagorzany, Polska|||
 ppl/f/8/e779f9694ed6d49451d7072b28f.html|Chudzicka|Maria /Chudzicka/ Barbara|||||
 ppl/8/d/e779f9694fb358b7f5797fde8d8.html|Juszczyk|Marianna /Juszczyk/ Marysia|||||
-ppl/b/6/e779f96950615800604829be06b.html|[Private]|[Private] /[Private]/|||||
+ppl/b/6/e779f96950615800604829be06b.html|Chudzicki|Andrzej /Chudzicki/|||||
 ppl/6/6/e779f96952c19c5ca3c90455066.html|[Private]|[Private] /[Private]/|||||
 ppl/b/6/e779f96953477eb0d88602fd56b.html|[Private]|[Private] /[Private]/|||||
 ppl/e/0/e779f96954269ab2afa2f44530e.html|[Private]|[Private] /[Private]/|||||
@@ -500,7 +511,7 @@ ppl/5/c/e779f96962a1de6678ea81dbdc5.html|[Private]|[Private] /[Private]/|||||
 ppl/b/8/e779f96963456a888c2df44548b.html|[Private]|[Private] /[Private]/|||||
 ppl/2/3/e779f96963f2a442057f2898332.html|Sławik|Kazimierz /Sławik/|||||
 ppl/4/d/e779f96964560e7a6e8214277d4.html|[Private]|[Private] /[Private]/|||||
-ppl/b/7/e779f96964c32ed83e5c49a807b.html|Sławik|Józef /Sławik/|||||
+ppl/b/7/e779f96964c32ed83e5c49a807b.html|Sławik|Józef /Sławik/|17 MAR 1897|Czukiew, rejon samborski, obwód lwowski, Ukraina|||
 ppl/e/5/e779f96965c3366db6809e39a5e.html|[Private]|[Private] /[Private]/|||||
 ppl/c/5/e779f96966711ec2bbdfa30895c.html|[Private]|[Private] /[Private]/|||||
 ppl/b/c/e779f96972a4c2a3dfeb87025cb.html|[Private]|[Private] /[Private]/|||||
@@ -548,7 +559,7 @@ ppl/e/5/e779f9699386ec951c5cddcdb5e.html|Chudzicka|Józefa /Chudzicka/|||||
 ppl/4/7/e779f9699431cf3b7b4f5d18374.html|Chudzicka| /Chudzicka/|||||
 ppl/f/d/e779f969950c795928c50f57df.html|Chudzicki|Wojciech /Chudzicki/|||||
 ppl/1/7/e779f96995b73af25fdd12dbf71.html|Chudzicki|Józef /Chudzicki/|1870||||
-ppl/d/6/e779f96996f403ce2d674a6ff6d.html|Czajkowski|Andrzej /Czajkowski/|||||
+ppl/d/6/e779f96996f403ce2d674a6ff6d.html|Czajkowski|Andrzej /Czajkowski/|10 NOV 1883|Zagorzany, Polska|1963||
 ppl/e/8/e779f96997d5601685227ab678e.html|| //|||||
 ppl/b/7/e779f9699834466fd26d7b0617b.html|Chudzicka|Maria /Chudzicka/|ABT 1899||||
 ppl/6/4/e779f96999749bb6fed72726946.html|Kulik|Stanisław /Kulik/|||||
@@ -580,7 +591,7 @@ ppl/9/2/e78d4aa99c76eae4fb407b4ee29.html|Rothkegel|Joseph Wilhelm /Rothkegel/|||
 ppl/2/f/e78d4bbb9af5706e5e394583cf2.html|Schulz|Rosalie /Schulz/|ABT 1 FEB 1835||||
 ppl/5/5/e78d60b93ff31f04d30b9083a55.html|Rudner|Karl /Rudner/|||||
 ppl/2/3/e78d61003aca3cfeeb32a65c32.html|Schulz|Marie /Schulz/|ABT 1838||||
-ppl/7/c/e7a59eb7e7dcfe589c763db6c7.html|Fatyga|Florian /Fatyga/|26 APR 1844|Kije, Polska|||
+ppl/7/c/e7a59eb7e7dcfe589c763db6c7.html|Fatyga|Florian /Fatyga/|26 APR 1844|Kije, Polska|21 JAN 1905|Motkowice, Polska|
 ppl/e/d/e7a5a0cd700224a7035269bade.html|Madejczyk|Franciszka /Madejczyk/|2 APR 1851|Dom nr 8, Motkowice, Polska|||
 ppl/6/c/e7a5a478f4858c4bf7d7e3d21c6.html|Fatyga|Anastazja /Fatyga/|23 DEC 1877|Motkowice, Polska|||
 ppl/8/8/e7a5cca27f7770f0c6b7d403988.html|Dittfeld|Rozalia /Dittfeld/|30 JUL 1884||||
@@ -600,8 +611,8 @@ ppl/1/7/e7bd52760006043b98688f25171.html|Zieliński|Franz Xaver /Zieliński/|186
 ppl/5/a/e819be359457a4354696c5504a5.html|Waniurka|Joseph /Waniurka/|ABT 1820||28 SEP 1852|Ignatzdorf, Katowice, woj. śląskie, Polska|
 ppl/e/5/e819ee3236540ae809a448995e.html|Schwammel|Antonie /Schwammel/|||||
 ppl/9/6/e819ef357fe4c23d48ac3f8c969.html|Krzanowski|Johann /Krzanowski/|||||
-ppl/1/c/e8365123c974c54bdf1b71ba4c1.html|Polloczek|Josef /Polloczek/|4 JUL 1833|Stanowice, Polska|BEF 5 FEB 1898||
-ppl/c/2/e83651ac6b58225cd2ef1dad2c.html|Pirożek|Margaretha /Pirożek/|ABT 1842|Bielszowice, Ruda Śląska, woj. śląskie, Polska|BEF 5 FEB 1898||
+ppl/1/c/e8365123c974c54bdf1b71ba4c1.html|Polloczek|Josef /Polloczek/|4 JUL 1833|Stanowice, Polska|22 AUG 1887|Małe Zabrze, Zabrze, woj. śląskie, Polska|
+ppl/c/2/e83651ac6b58225cd2ef1dad2c.html|Pirożek|Margaretha /Pirożek/|ABT 1842|Bielszowice, Ruda Śląska, woj. śląskie, Polska|30 SEP 1895|Bykowina, Ruda Śląska, woj. śląskie, Polska|
 ppl/7/9/e836558013131b78a407f40d197.html|Halama|Carl /Halama/|||||
 ppl/e/c/e83655a85dd2046f3ae833b48ce.html|Przikling|Florentine /Przikling/|||||
 ppl/3/d/e844d1e092258928466710d6cd3.html|Halama|Albert /Halama/|3 JUL 1875|Lipiny, Świętochłowice, Polska|||
@@ -624,7 +635,7 @@ ppl/a/5/e8df639329021118374fb47425a.html|Dudała|Antoni /Dudała/|15 JAN 1865|Mo
 ppl/3/8/e8df63e057f30f99aa71cc88c83.html|Banaś|Marcjanna /Banaś/|6 JAN 1865|Motkowice, Polska|||
 ppl/5/a/e8ee9f20534625b097da0d44ca5.html|Podsiadło|Antoni /Podsiadło/|9 JUN 1908|Motkowice, Polska|21 SEP 1908|Motkowice, Polska|
 ppl/d/4/e902a4b70c5513b7654b7f3ee4d.html|Huńka|Jan /Huńka/|11 APR 1871|Polana, obwód lwowski, Ukraina|1938|Zimna Woda, obwód lwowski, Ukraina|
-ppl/8/7/e902a4e681135a1315282e1f478.html|Martyniak|Maria /Martyniak/|1 NOV 1875|Żurawnik, przemyślański, Królewstwo Galicji i Lodomerii|||
+ppl/8/7/e902a4e681135a1315282e1f478.html|Martyniak|Maria /Martyniak/|1 NOV 1875|Żurawniki, przemyślański, Królewstwo Galicji i Lodomerii|||
 ppl/9/1/e912e9c05643e0579d2b5c65a19.html|[Private]|[Private] /[Private]/|||||
 ppl/9/e/e941f9e0b552e637e628e462ee9.html|Suchanek|Mikołaj /Suchanek/|11 NOV 1820|Motkowice, Polska|BEF 18 APR 1900||
 ppl/0/3/e941fa95831321abc99bf0abc30.html|Jakubczyk|Anna /Jakubczyk/|ABT 1843|Motkowice, Polska|14 APR 1902|Motkowice, Polska|
@@ -638,7 +649,7 @@ ppl/d/f/e96fa56f8b7294a79ab4470ccfd.html|Borkowa|Magdalena /Borkowa/|ABT 1770||5
 ppl/1/a/e96fa8637b33d304ee6aa5e42a1.html|Kielesiński|Wojciech /Kielesiński/|||AFT 18 FEB 1828||
 ppl/1/c/e96fa917a2b711b03a3475145c1.html|Woźniak|Katarzyna /Woźniak/|||AFT 18 FEB 1828||
 ppl/d/c/e9905569b243683aa539e614fcd.html|Fatyga|Wojciech /Fatyga/|28 MAR 1817|Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska|30 JAN 1872|Motkowice, Polska|
-ppl/7/e/e99055f418a153523d79aff45e7.html|Trzeciak|Katarzyna /Trzeciak/|ABT 1813|Rębów, Kije, pińczowski, woj. świętokrzyskie, Polska|AFT 5 FEB 1872||
+ppl/7/e/e99055f418a153523d79aff45e7.html|Trzeciak|Katarzyna /Trzeciak/|ABT 1813|Rębów, Kije, pińczowski, woj. świętokrzyskie, Polska|BET 5 FEB 1872 AND 21 JAN 1905||
 ppl/0/4/e990586d4f78fc2ad72c840540.html|Madejczyk|Tomasz /Madejczyk/|BET 1816 AND 1822||AFT 5 FEB 1872||
 ppl/f/3/e99059391d84432f7b2411c873f.html|Stopińska|Katarzyna /Stopińska/|ABT 1822|Motkowice, Polska|BEF 5 FEB 1872||
 ppl/b/9/e996983448330cdb4bf9a818f9b.html|Fatyga|Florian /Fatyga/|4 APR 1777|Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska|||
@@ -682,12 +693,12 @@ ppl/6/4/ea2476a8e2428b4c831efe0bc46.html|Rak|Jacek /Rak/|ABT 1747||30 OCT 1798|R
 ppl/6/b/ea2476ed6f9311e67bbf5f57bb6.html|Kuczma|Łucja /Kuczma/|ABT 1740||3 DEC 1811|Rębów, Kije, pińczowski, woj. świętokrzyskie, Polska|
 ppl/5/5/ea3144cf70838c619dd54a58955.html|Pawłowicz|Michał /Pawłowicz/|||||
 ppl/7/c/ea31454c3b269915275ca93a9c7.html|Pawłowicz|Andrzej /Pawłowicz/|||||
-ppl/e/1/ea315ec8f7230c57bc09119631e.html|Sławik|Maria /Sławik/|||||
-ppl/e/3/ea363aadcfd3336c0c4b4e0653e.html|Sławik|Jakub /Sławik/|||||
-ppl/b/1/ea363b2d4a361b9c7a83c26871b.html||Bartłomiej //|||||
-ppl/f/8/ea363d3e9f76180d04028404b8f.html|Wac|Agnieszka /Wac/|||||
+ppl/e/1/ea315ec8f7230c57bc09119631e.html|Januszkiewicz|Marianna /Januszkiewicz/|||||
+ppl/e/3/ea363aadcfd3336c0c4b4e0653e.html|Sławik|Józef /Sławik/|||||
+ppl/b/1/ea363b2d4a361b9c7a83c26871b.html|Januszkiewicz|Filip /Januszkiewicz/|||||
+ppl/f/8/ea363d3e9f76180d04028404b8f.html|Serafin|Agnieszka /Serafin/|||||
 ppl/2/7/ea363e41eea6d10f4ad47b9ac72.html|Wac|Jakub /Wac/|||||
-ppl/3/2/ea363ec108027dc994aa45af23.html||Paweł //|||||
+ppl/3/2/ea363ec108027dc994aa45af23.html|Serafin|Paweł /Serafin/|||||
 ppl/2/6/eaded4f6d96333ac20dc68aba62.html|[Private]|[Private] /[Private]/|||||
 ppl/a/6/ecb84397f30e10363a13d0f76a.html|Depka|Mateusz /Depka/|ABT 1806||22 NOV 1863|Lubocheń, Polska|
 ppl/d/a/ecb844189666d6bfd4cc73dcad.html|Skomska|Franciszka /Skomska/|||BEF 22 NOV 1863||
@@ -702,8 +713,8 @@ ppl/d/4/ee8ddc07cae5bf760fe937de54d.html|Banaś|Andrzej /Banaś/|ABT 1837|Motkow
 ppl/c/5/ee8ddc3dadf5204084193ef615c.html|Kielesińska|Marianna /Kielesińska/|ABT 1838|Motkowice, Polska|AFT 1887||
 ppl/d/a/ee94a1399ce6ab76467bc3019ad.html|Suchanek|Stanisław /Suchanek/|4 OCT 1910|Motkowice, Polska|||
 ppl/8/5/ee94a1f65a02371d620ebaf6358.html|Suchanek|Franciszek /Suchanek/|1 APR 1901|Motkowice, Polska|19 SEP 1909|Motkowice, Polska|
-ppl/9/6/ee94d2cfd722914fece315b9169.html|Durschlag|Aunton /Durschlag/|ABT 1793||||
-ppl/e/7/ee94d4c4ffe2cf2e6c6d71df67e.html|Lanczek|Antonia /Lanczek/|ABT 1799||||
+ppl/9/6/ee94d2cfd722914fece315b9169.html|Durschlag|Aunton /Durschlag/|11 JUN 1798|Rybnik, rybnicki, woj. śląskie, Polska|||
+ppl/e/7/ee94d4c4ffe2cf2e6c6d71df67e.html|Lanczek|Antonia /Lanczek/|4 NOV 1794|Rybnik, rybnicki, woj. śląskie, Polska|||
 ppl/e/a/ee94d6880af26a8dfecfdfb33ae.html|Malharczyk|Carl /Malharczyk/|ABT 1798|Pawłów, Pietrowice Wielkie, raciborski, woj. śląskie, Polska|||
 ppl/4/2/ee94dad3684239efb54a8d62e24.html|Tomaschno|Johanna /Tomaschno/|21 MAR 1814|Rybnik, rybnicki, woj. śląskie, Polska|||
 ppl/f/9/ee94dbc5ab4718bef82c8b0919f.html|Thomaschny|Anton /Thomaschny/|11 JUN 1778|Rybnik, rybnicki, woj. śląskie, Polska|13 JUL 1825|Rybnik, rybnicki, woj. śląskie, Polska|
@@ -791,3 +802,95 @@ ppl/5/1/f902dfc779b23ce2ebe9850bb15.html|Kisiel|Grzegorz /Kisiel/|||||
 ppl/2/5/f9040b45b3b16c21f3f08b7aa52.html|Korotusz|Jan /Korotusz/|||||
 ppl/1/f/f9040ba82c0127e81010e1b7df1.html|Kwaśniewicz|Barbara /Kwaśniewicz/|||||
 ppl/1/e/f9040c3554dc4bc94d9b0390e1.html||Katarzyna //|||||
+ppl/b/2/f927646dc0a6ac34d75a527612b.html|Sibińska|Tekla /Sibińska/|22 SEP 1783||||
+ppl/b/f/f94a7c0fd286224d96e6d2643fb.html|[Private]|[Private] /[Private]/|||||
+ppl/b/6/f94a7c0fdfe7ce45d530f16376b.html|Wentland|Antonia /Wentland/|1881|Germany|1956|New York, United States|
+ppl/f/3/f94a7c0feeb249500b6e44cc03f.html|Wentland|Agnieszka /Wentland/|1883|Poland||Brooklyn, New York City, New York, United States|
+ppl/8/1/f94a7c0ff5c6a146feb1dbbe918.html|Wentland|Martin /Wentland/|5 SEP 1889|Posen, Prussia, Germany||Vineland, Cumberland, New Jersey, United States|
+ppl/d/0/f94a7c1005d413c78a562fed60d.html|Frost|William Charles /Frost/|1920|New York, United States|26 SEP 1962||
+ppl/1/3/f94a7c103ad7c5a632f1e1cb031.html|Frost|Stanley W /Frost/||New York|1982|Queens, New York, United States|
+ppl/9/f/f94a7c10484c4a7610ef3f7ef9.html|Frost|Florence /Frost/||New York|10 NOV 1993|Nassau, New York|
+ppl/e/b/f94a7c104d46dd3fc267f2185be.html|Frost|Peter /Frost/||Umółtowo, Poznań, Wielkopolskie, Poland||New York, United States|
+ppl/b/d/f94a7c105ba3a03fab0c49aaadb.html|Frost|Francis Bernard /Frost/||Queens, New York City, New York, United States||Brooklyn, Kings, New York, United States|
+ppl/f/3/f94a7c106584763dc955ea8fe3f.html|Wandland|Richard /Wandland/|1935|New York City, ,|7 JUL 2012|Vineland, ,|
+ppl/6/9/f94a7c106d35ffa750016ffac96.html|Frost|John Joseph /Frost/|1909|New York, United States|||
+ppl/7/7/f94a7c1073f1dc209d834019a77.html|Frost|Muriel Veronica "Lida" /Frost/|1906|New York|30 OCT 1992|Suffolk, New York|
+ppl/c/9/f94a7c107bd149a4f3b6b89e9c.html|Frost|Wladyslaw /Frost/|1900||1913||
+ppl/b/b/f94a7c107ee2c9eddf5c823acbb.html|Frost|Frances /Frost/|1912|New York, United States|||
+ppl/4/c/f94a7c10867687ebfda55d341c4.html|Frost|Jakob /Frost/||Posen, Prussia, Germany|9 MAY 1942|New York City, Queens, New York, United States|
+ppl/b/e/f94a7c1092322072d2deb3d44eb.html|Frost|Joseph /Frost/||New York, United States||Otsego, New York, United States|
+ppl/4/5/f94a7c109a46a17de360959a254.html|Wandland|John /Wandland/|5 FEB 1934||6 FEB 1993|Cumberland, New Jersey|
+ppl/c/3/f94a7c10a03f21935d053caf3c.html|Adamczyk|Veronica /Adamczyk/|1896|Poland|FEB 1988|Cumberland, New Jersey|
+ppl/d/6/f94a7c10aa435a7762bce39366d.html|Bauman|Joseph /Bauman/||Queens, New York City, New York, United States||Merrick, Hempstead, Nassau, New York, United States|
+ppl/7/6/f94a7c10aea7629003a2b696c67.html|Cody|Richard /Cody/|1930|New York|||
+ppl/f/6/f94a7c10b2e48cd62eaf20bc66f.html|Cornell|Josephine Mary /Cornell/||New York, United States||Brooklyn, Kings, New York, United States|
+ppl/a/e/f94a7c10b8a288a16aa92284aea.html|Frost|James /Frost/|||||
+ppl/9/1/f94a7c10b973ccd03e64b0c8119.html|Bauman|Emil M. /Bauman/|1907||||
+ppl/f/6/f94a7c10c3855e8bb63684c7c6f.html|Cody|Robert /Cody/||||St Patrick Cemetary, Smithtown New York|
+ppl/e/5/f94a7c10c8b2d325d6f33b8185e.html|Cody|Richard Joseph /Cody/||Long Island City, New York|1992||
+ppl/b/c/f94a7c10d0a37feed703ccea1cb.html|Bauman|Elizabeth /Bauman/|22 JUN 1937|U.S.A.|29 JUN 1937|New York City, Queens, New York, United States|
+ppl/4/5/f94a7c10d3d7db0bf0d6db32954.html|Bauman|John /Bauman/||New York, United States|28 NOV 2004|Nassau, New york|
+ppl/1/c/f94a7c10dd0457b4c60141c4bc1.html|Bauman|Thomas William /Bauman/||||Maryland, United States|
+ppl/3/6/f94a7c10e33429b144a1084c963.html|Bauman|John Donald /Bauman/|||16 JAN 2012||
+ppl/2/b/f94a7c10e64cc3b7e17e2649b2.html|Bauman|Michael Dean /Bauman/|||||
+ppl/2/9/f94a7c10e9650c334626e8a8192.html|Paetow|Erna Katherine /Paetow/|22 MAY 1940|||New York, United States|
+ppl/8/c/f94a7c10efc275cd9152155d0c8.html|Grich|Eugenia /Grich/|1922||25 FEB 1941|New York City, Queens, New York, United States|
+ppl/3/1/f94a7c10f3416bf466a3132e413.html|Frost|Anna G /Frost/|1904|New York|||
+ppl/d/e/f94a7c110127adf7ddcaf446aed.html|Dibik|Anna /Dibik/|1925||2000||
+ppl/9/5/f94a7c1107950de416a053b5259.html|Imry|Margaret /Imry/||Czechoslovakia||St Patrick Cemetary, Smithtown New York|
+ppl/3/5/f94a7c110a9726eb026f1fa1453.html|Pennett|Donald John /Pennett/|1939||1960||
+ppl/5/6/f94a7c110d454c1c5a8db36c965.html|Silletti|Luke /Silletti/|1911|New York City|11 MAY 1990|Nassau, New York|
+ppl/6/0/f94a7c11131218ebff7c61e9006.html|Droogon|Joseph /Droogon/|1892|Poland|||
+ppl/0/d/f94a7c1115d1d917e8a0a832ad0.html|Passaretti|Angelina /Passaretti/|1939|||Vineland, Cumberland, New Jersey, United States|
+ppl/7/4/f94a7c1119371f79708d97d2547.html|Frost|Mary /Frost/|1908|New York|||
+ppl/0/c/f94a7c111b965da7d2e7ac5ccc0.html|Posak|John /Posak/|1892||||
+ppl/6/9/f94a7c111d158b09334d4c0fc96.html|Combes|Maud /Combes/||Queens, New York, United States|3 APR 1932|Hempstead, Rockland, New York, United States|
+ppl/4/8/f94a7c112141391073c23ff1d84.html|Cornell|Margaret Elizabeth /Cornell/||New York||Brooklyn, New York City, New York, United States|
+ppl/8/8/f99a8dd5c371b0666ba77e13788.html|Nagel|Carl /Nagel/|||||
+ppl/f/0/f99a8e2737c12cc895cd7623d0f.html|Nagel|Joseph /Nagel/|||||
+ppl/1/e/f99a8e646a0570352d38dc1dae1.html|Nagel|Auguste /Nagel/|||||
+ppl/8/1/f99a8eaadf2b64c4c345a30718.html|Nagel|Erdmann /Nagel/|||||
+ppl/5/1/f99a8eebc7348fc8b8294ee3e15.html|Nagel|Anton /Nagel/|||||
+ppl/1/6/f99a8f121cd6fdfe02985216061.html|Nagel|Johann /Nagel/|||||
+ppl/b/0/f9a4c4b7f7223bd2db44d2cf60b.html|Nagel|Johann /Nagel/|19 JUN 1766|Schlawentziz, Kędzierzyn-Koźle, woj. opolskie, Polska|||
+ppl/2/c/f9a4c56887f7e7a8f1b4a4f2fc2.html|Parusel|Beata /Parusel/|25 DEC 1769|Blechhammer, Kreis Cosel, Kędzierzyn-Koźle, woj. opolskie, Polska|||
+ppl/a/f/f9d52fe64cc5c44b09eba8ae1fa.html|Sibiński|Józef /Sibiński/||||Józefów, gm. Wróblew, pow. sieradzki, woj. łódzkie, Polska|
+ppl/7/9/f9d53043f877047ece7d2a65a97.html|Sibiński|Kazimierz /Sibiński/||||Bolesławiec, woj. dolnośląskie, Polska|
+ppl/e/9/f9e7d522dc26cb3b4a5bddd009e.html|[Private]|[Private] /[Private]/|||||
+ppl/d/c/f9e7d5536e37b0c0be84097d6cd.html|Nowak| /Nowak/|||||
+ppl/c/2/f9e7d565b8f9fea987eaea172c.html|Nowak| /Nowak/|||||
+ppl/4/a/fb00ad4c9e73a67b61f019597a4.html|Fatyga|Jadwiga /Fatyga/|2 OCT 1763|Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska|||
+ppl/a/2/fb00afd3ac81e50887ef260612a.html|Fatyga|Salomea /Fatyga/|29 OCT 1766||||
+ppl/5/8/fb03dff929418bae4887bf9ef85.html|Durschlag|Anton /Durschlag/|16 JAN 1766|Rybnik, rybnicki, woj. śląskie, Polska|||
+ppl/e/4/fb03e09c186b4c4cf0849fd24e.html|Damczykin|Josepha /Damczykin/|ABT 1768||||
+ppl/3/9/fb03e53166463c4ff2c16923993.html|Lanczek|Thomas /Lanczek/|14 OCT 1752|Rybnik, rybnicki, woj. śląskie, Polska|||
+ppl/c/8/fb03e84a5e025423d8f3756308c.html|Tlatlik|Rosalia /Tlatlik/|31 MAR 1756|Rybnik, rybnicki, woj. śląskie, Polska|12 NOV 1811|Rybnik, rybnicki, woj. śląskie, Polska|
+ppl/6/4/fb03ebf392262aba5f01dc9f846.html|Mateika|Rosalia /Mateika/|||||
+ppl/5/a/fb03ed95222197498492a7150a5.html|Thlatlik|Philippus /Thlatlik/|||||
+ppl/f/1/fb03ee0ede03e02d0cf21ec671f.html|Kaczmarzikin|Anna /Kaczmarzikin/|||||
+ppl/7/f/fb03f0e16b172ce0421d4804f7.html|Lanczyk|Joannes /Lanczyk/||Radzieiow|||
+ppl/d/9/fb03f4cb8e0674a0011daeed69d.html|Adleriana|Rozalia /Adleriana/||Radzieiow|||
+ppl/e/8/fb070fbd6954192d6e64db8708e.html|Durschlag|Anton /Durschlag/|ABT 1733|Rybnik, rybnicki, woj. śląskie, Polska|||
+ppl/4/7/fb07146877c78b397b228c56b74.html|Bajer|Marianna /Bajer/|ABT 1738|Rybnik, rybnicki, woj. śląskie, Polska|||
+ppl/3/5/fb071f1987967f5b4f5e857cb53.html|Durschlag|Andreas /Durschlag/||Skoczów, cieszyński, woj. śląskie, Polska|||
+ppl/1/2/fb0720402623ef1665429e39321.html|Bajer|Martini /Bajer/|||||
+ppl/f/8/fb0ce5a863313f5998853d9578f.html|Bujak|Wincenty /Bujak/|||||
+ppl/4/b/fb0cee39bcb58253198908824b4.html|Suchanek|Marcin /Suchanek/|1 NOV 1811|Wólka, Jędrzejów, jędrzejowski, woj. świętokrzyskie, Polska|||
+ppl/8/e/fb0ceed7fac1fa7f564251fbe8.html|Suchanek|Paulina /Suchanek/|12 JAN 1830|Motkowice, Polska|||
+ppl/7/8/fbdec4219f76ddee54fc08d0487.html|Rozmarynowski|Andrzej /Rozmarynowski/|||||
+ppl/e/c/fbdec4668f675895c516eb83dce.html|Gawrońska|Maria /Gawrońska/|2 JUL 1903||19 FEB 1980||
+ppl/1/e/fbdec6ac55928f544c758f7ce1.html|Rozmarynowska|Agnieszka /Rozmarynowska/|22 OCT 1922||15 JUN 2001||
+ppl/f/4/fbdec7b8acecb7c4ad5de36e4f.html|[Private]|[Private] /[Private]/|||||
+ppl/a/5/fbdec8a631b2839999ae7e4105a.html|Rozmarynowski|Władysław /Rozmarynowski/|||||
+ppl/5/3/fbe1feef5bc24d1c1814d640d35.html|Serafin|Tomasz /Serafin/|||||
+ppl/2/6/fbe1ffa8d5fc907cd0c8f95662.html|Pawłowicz|Barbara /Pawłowicz/|||BEF JUL 1926||
+ppl/8/3/fbe2025ac593ec2f5cf36923838.html|[Private]|[Private] /[Private]/|||||
+ppl/7/a/fbe53a1bb6c2455478ca30d91a7.html|Sławik|Katarzyna /Sławik/|18 JUN 1889|Czukiew, rejon samborski, obwód lwowski, Ukraina|||
+ppl/9/2/fbe53ae434e1b7f775c7ad32a29.html|Sławik|Wiktoria /Sławik/|17 JAN 1891|Czukiew, rejon samborski, obwód lwowski, Ukraina|||
+ppl/a/b/fbe53ba85664c99408f351df1ba.html|Sławik|Franciszek /Sławik/|25 JAN 1894|Czukiew, rejon samborski, obwód lwowski, Ukraina|||
+ppl/d/0/fbe53d4443562a6b0e41bc24f0d.html|Sławik|Antoni /Sławik/|29 DEC 1899|Czukiew, rejon samborski, obwód lwowski, Ukraina|||
+ppl/2/1/fbe53de489de207f94d68b6312.html|Sławik|Walenty /Sławik/|3 FEB 1903|Czukiew, rejon samborski, obwód lwowski, Ukraina|||
+ppl/1/d/fbe53f5eafd32f8d1b063ece5d1.html|Burda|Maria /Burda/|||||
+ppl/a/e/fbe54011844419902b8641e8eea.html|Snopek|Wiktoria /Snopek/|||||
+ppl/d/b/fbeb3a4dc1c2d12db6c3ab700bd.html|Martyniak|Teodor /Martyniak/|||||
+ppl/0/4/fbeb3a7288c15b22ab26b956440.html|Bandurowska|Franciszka /Bandurowska/|||||
