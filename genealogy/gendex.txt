@@ -9,6 +9,13 @@ ppl/a/a/10108116f6a97c9e4cfdc2f2a8aa.html|Parusel|Paul /Parusel/|||||
 ppl/3/c/1010811dd82844b738f3301d05c3.html|Kulos|Anna /Kulos/|||||
 ppl/e/d/101095d4a3ef1deacf6b8807e0de.html|Parusel|Eva /Parusel/|22 DEC 1767|Miejsce Kłodnickie, Kędzierzyn-Koźle, woj. opolskie, Polska|||
 ppl/0/0/10109616e9c5435a25253f3a1200.html|Parusel|Gregor /Parusel/|24 FEB 1782|Miejsce Kłodnickie, Kędzierzyn-Koźle, woj. opolskie, Polska|||
+ppl/a/3/1018db6de5cd7d37207f9fc9bb3a.html|Wygash|Eva /Wygash/|||||
+ppl/b/b/1018dbb0be42158e2d13829fbdbb.html|[Private]|[Private] /[Private]/|||||
+ppl/b/4/1022ad6ac5ac39aa784c9254b.html|Gabryś|Łukasz /Gabryś/|ABT 1822|Czajków, Polska|AFT 1883||
+ppl/2/e/102dc31a20af285bae29a0e904e2.html|Cieśla|Michał /Cieśla/|ABT 1778||30 MAY 1846|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|
+ppl/7/3/102df1fd55d955dc81584311f337.html|Suchanek|Jan /Suchanek/|22 APR 1787|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
+ppl/7/7/1033c29586a210a4ae3819548877.html|Suchanek|Elżbieta /Suchanek/|ABT 1782||27 DEC 1840|Imielno, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|
+ppl/6/5/1033c36210576c4e1d9c314e0156.html|Łukasik|Rozalia /Łukasik/|||AFT 30 MAY 1846||
 ppl/e/e/e5e47fa402b37ebbb6839ea3bee.html|Private| /Private/|||||
 ppl/c/b/e5e47fa416b11cac04062a95ebc.html|Private| /Private/|||||
 ppl/4/e/e5e47fa426f627441c2715acce4.html|[Private]|[Private] /[Private]/|||||
@@ -269,13 +276,13 @@ ppl/a/1/e5e4936c8d71c013c4bc3c231a.html|[Private]|[Private] /[Private]/|||||
 ppl/6/1/e5e4936c8ff2f3ba1f205a42e16.html|Wentland|Stanisława /Wentland/|6 MAY 1902|Przebędowo, gm. Murowana Goślina, pow. poznański, woj. wielkopolskie, Polska|29 AUG 1984|Kędzierzyn-Koźle, woj. opolskie, Polska|
 ppl/4/d/e5e4936c9bd41d70021610db0d4.html|Sibiński|Stanisław /Sibiński/|27 JAN 1906|Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska|||
 ppl/9/c/e5e4936ca5d162e2e1657494ac9.html|Podsiadło|Stanisława /Podsiadło/ babka Suchankowa|17 APR 1911|Czeladź, Polska|||
-ppl/2/a/e5e4936caa315ed61a85286c4a2.html|Suchanek|Mieczysław /Suchanek/|1 JAN 1908|Motkowice, Polska|||
+ppl/2/a/e5e4936caa315ed61a85286c4a2.html|Suchanek|Mieczysław /Suchanek/|1 JAN 1908|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
 ppl/c/6/e5e4936cb4d4bdc69a423eda16c.html|Suchanek|Wanda Maria /Suchanek/|||||
 ppl/3/3/e5e4936cbbb474b896d37f67d33.html|[Private]|[Private] /[Private]/|||||
-ppl/a/b/e5e4936cbd92b16340a0d4c5cba.html|Podsiadło|Andrzej /Podsiadło/|31 OCT 1880|Motkowice, Polska|||
-ppl/e/9/e5e4936cbed473c2ae62043b89e.html|Dudała|Marianna /Dudała/|ABT 1887|Motkowice, Polska|||
+ppl/a/b/e5e4936cbd92b16340a0d4c5cba.html|Podsiadło|Andrzej /Podsiadło/|31 OCT 1880|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
+ppl/e/9/e5e4936cbed473c2ae62043b89e.html|Dudała|Marianna /Dudała/|ABT 1887|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
 ppl/d/f/e5e4936cc01721ed4482d72c2fd.html|Podsiadło|Zygmunt /Podsiadło/|||||
-ppl/b/3/e5e4936cc1549826dc885d67a3b.html|Podsiadło|Bolesław /Podsiadło/|26 FEB 1916|Motkowice, Polska|||
+ppl/b/3/e5e4936cc1549826dc885d67a3b.html|Podsiadło|Bolesław /Podsiadło/|26 FEB 1916|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
 ppl/7/4/e5e4936ccaa217b7d40b6a58647.html|Podsiadło|Władysław /Podsiadło/|||||
 ppl/b/7/e5e4936ccc86623e8487bebe97b.html|Podsiadło|Stanisław /Podsiadło/|||||
 ppl/9/d/e5e4936cd2269475037ec7dc8d9.html||Zofia //|||||
@@ -304,7 +311,7 @@ ppl/9/e/e5e4936cf8e392b51ba29a69fe9.html|[Private]|[Private] /[Private]/|||||
 ppl/e/a/e5e4936cfa2626461db9b4698ae.html|[Private]|[Private] /[Private]/|||||
 ppl/b/2/e5e4936cfb66de768c00803aa2b.html|[Private]|[Private] /[Private]/|||||
 ppl/4/e/e5e4936cfca3d19ce974df7ffe4.html|[Private]|[Private] /[Private]/|||||
-ppl/0/9/e5e4936d00f6369c495b6c39d90.html|Suchanek|Katarzyna /Suchanek/|30 OCT 1904|Motkowice, Polska|||
+ppl/0/9/e5e4936d00f6369c495b6c39d90.html|Suchanek|Katarzyna /Suchanek/|30 OCT 1904|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
 ppl/a/4/e5e4936d0373b15efc6f2204b4a.html|Sibiński|Edmund Teodor /Sibiński/|||||
 ppl/8/5/e5e4936d07d22446666fd119c58.html|[Private]|[Private] /[Private]/|||||
 ppl/a/3/e5e4936d0f5f46d1950c93a63a.html|Sibiński|Tadeusz /Sibiński/|||||
@@ -338,7 +345,7 @@ ppl/a/2/e5e4936d55e4c33eaa8a9d7342a.html|[Private]|[Private] /[Private]/|||||
 ppl/7/9/e5e4936d57247c764129bb54697.html|Cygan|Mieczysław /Cygan/|||||
 ppl/0/3/e5e4936d5906d619396ce6fcf30.html|[Private]|[Private] /[Private]/|||||
 ppl/2/b/e5e4936d5ea631c242c2e0b27b2.html|Podsiadło|Matylda /Podsiadło/|||||
-ppl/c/8/e5e4936d6124f4e45d9ad3d2b8c.html|Podsiadło|Mieczysław /Podsiadło/|ABT MAY 1919||12 NOV 1920|Motkowice, Polska|
+ppl/c/8/e5e4936d6124f4e45d9ad3d2b8c.html|Podsiadło|Mieczysław /Podsiadło/|ABT MAY 1919||12 NOV 1920|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|
 ppl/9/c/e5e4936d63a7c910dc3c7e3b3c9.html|[Private]|[Private] /[Private]/|||||
 ppl/c/f/e5e4936d64e50aa23272cf766fc.html|[Private]|[Private] /[Private]/|||||
 ppl/f/0/e5e4936d662545148efe82da20f.html|[Private]|[Private] /[Private]/|||||
@@ -386,10 +393,10 @@ ppl/4/6/e60231187da75fb14bec3e4d164.html|[Private]|[Private] /[Private]/|||||
 ppl/e/c/e6023207f6d4da770c33efaf4ce.html|[Private]|[Private] /[Private]/|||||
 ppl/e/f/e602323d1ed3d46c36a029c57fe.html|[Private]|[Private] /[Private]/|||||
 ppl/d/b/e6023425eb6241b1cdd0ebba1bd.html|[Private]|[Private] /[Private]/|||||
-ppl/0/7/e603c01226c4ee69b8c898bb570.html|Suchanek|Wincenty /Suchanek/|1873|Kije, Polska|||
-ppl/c/5/e603c13af014576327a23ef25c.html|Fatyga|Marianna /Fatyga/|20 MAR 1875|Motkowice, Polska|||
-ppl/4/b/e603c61ceb113e38afd61b264b4.html|Suchanek|Julianna /Suchanek/|9 FEB 1903|Motkowice, Polska|||
-ppl/a/5/e603c8ec3ab5dd31756cd1ca05a.html|Kowalczyk|Marcin /Kowalczyk/|ABT 1898|Motkowice, Polska|||
+ppl/0/7/e603c01226c4ee69b8c898bb570.html|Suchanek|Wincenty /Suchanek/|1873|Kije, Polska|AFT 17 SEP 1873||
+ppl/c/5/e603c13af014576327a23ef25c.html|Fatyga|Marianna /Fatyga/|20 MAR 1875|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
+ppl/4/b/e603c61ceb113e38afd61b264b4.html|Suchanek|Julianna /Suchanek/|9 FEB 1903|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
+ppl/a/5/e603c8ec3ab5dd31756cd1ca05a.html|Kowalczyk|Marcin /Kowalczyk/|ABT 1898|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
 ppl/c/0/e603faf36326650b9640144bc0c.html|Kowalczyk|Jan /Kowalczyk/|||||
 ppl/3/8/e603fb25d11fef4aea92d68183.html|Skwar|Katarzyna /Skwar/|||||
 ppl/9/a/e605337f69a35c0fad18b4d73a9.html|[Private]|[Private] /[Private]/|||||
@@ -416,13 +423,13 @@ ppl/c/a/e68901afe8e28b7f62bd00c2ac.html|Kromolicka|Regina /Kromolicka/|ABT 1827|
 ppl/7/f/e68a943ebca3fb71fa854eadbf7.html|Skowroński|Wojciech /Skowroński/|30 MAR 1788|Komorowo, Kaźmierz, szamotulski, woj. wielkopolskie, Polska|1845|Kiączyn, Polska|
 ppl/9/e/e68a9485d922cc0daaa949879e9.html|Wąchowianka|Marianna /Wąchowianka/|1797|Witkowice, Kaźmierz, szamotulski, woj. wielkopolskie, Polska|||
 ppl/d/a/e6d5237fde25544ba636c22b9ad.html|Sibiński|Kacper /Sibiński/|30 DEC 1832|Dom nr 36, Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska|13 DEC 1878|Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska|
-ppl/f/0/e6d525a4b885352ac89e5991c0f.html|Mielcarek|Marianna /Mielcarek/|17 JAN 1840|Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska|AFT 13 DEC 1878||
+ppl/f/0/e6d525a4b885352ac89e5991c0f.html|Mielcarek|Marianna /Mielcarek/|17 JAN 1840|Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska|16 FEB 1883|Czajków, Polska|
 ppl/4/8/e6d52cb3c20699f9249af3b5484.html|Zieliński|Mateusz /Zieliński/|ABT 1828||BET 24 APR 1881 AND 7 JAN 1894||
 ppl/c/5/e6d52d5e37b4100680be888c5c.html|Depka|Agnieszka /Depka/|19 OCT 1834|Sulnówko, Świecie, świecki, woj. kujawsko-pomorskie, Polska|24 APR 1881|Osie, Osie, świecki, woj. kujawsko-pomorskie, Polska|
 ppl/6/7/e6d5759d06c60f576d6ba830d76.html|Sibiński|Jan /Sibiński/|ABT 1802|Kolonia Sibińskie, Polska|BEF 10 FEB 1862||
 ppl/5/c/e6d5769d7c8147f4a0fcb0037c5.html|Wyrębska|Barbara /Wyrębska/|ABT 1806|Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska|25 APR 1835|Pustkowie Sibińskie, Polska|
 ppl/9/7/e6d57c1f4e75e238ff39ed8679.html|Mielcarek|Jan /Mielcarek/|ABT 1807||BET 1840 AND 10 FEB 1862||
-ppl/3/8/e6d57ca37fc2af6a9f97af7cd83.html|Salamon|Antonina /Salamon/|ABT 1812||AFT 1862||
+ppl/3/8/e6d57ca37fc2af6a9f97af7cd83.html|Salamon|Antonina /Salamon/|ABT 1812||BET 1862 AND 1882||
 ppl/6/7/e6dbe9d7e796945118ec5f3d676.html|Sibiński|Walenty /Sibiński/|21 FEB 1780|Giżyce, Grabów nad Prosną, ostrzeszowski, woj. wielkopolskie, Polska|||
 ppl/8/6/e6dbea35ce46dfe71e9aa228568.html|Gaszta|Marianna /Gaszta/|||||
 ppl/6/4/e6dbec0879248501ae353069b46.html|Wyrębski|Piotr /Wyrębski/|ABT 1783|Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska|25 JAN 1844|Salamony, Czajków, ostrzeszowski, woj. wielkopolskie, Polska|
@@ -436,7 +443,7 @@ ppl/8/e/e779f968faf7f2ed1a446c2f3e8.html|[Private]|[Private] /[Private]/|||||
 ppl/b/5/e779f968fbe2ac193d0860f595b.html|[Private]|[Private] /[Private]/|||||
 ppl/f/f/e779f9690005302cb89af2886ff.html|[Private]|[Private] /[Private]/|||||
 ppl/8/7/e779f9690131c68f110018e7878.html|[Private]|[Private] /[Private]/|||||
-ppl/1/9/e779f96905629e97601a71b0891.html|[Private]|[Private] /[Private]/|||||
+ppl/1/9/e779f96905629e97601a71b0891.html|Kulik|Stanisław /Kulik/|||||
 ppl/2/0/e779f969077413eeee738f38c02.html|Chudzicka|Zyta /Chudzicka/|20 MAY 1911||||
 ppl/1/f/e779f9690a312cbed03122366f1.html|Kopeć|Kazimierz /Kopeć/|2 JUN 1911||||
 ppl/1/9/e779f9690c228a16f3ac5f03b91.html|[Private]|[Private] /[Private]/|||||
@@ -591,9 +598,9 @@ ppl/9/2/e78d4aa99c76eae4fb407b4ee29.html|Rothkegel|Joseph Wilhelm /Rothkegel/|||
 ppl/2/f/e78d4bbb9af5706e5e394583cf2.html|Schulz|Rosalie /Schulz/|ABT 1 FEB 1835||||
 ppl/5/5/e78d60b93ff31f04d30b9083a55.html|Rudner|Karl /Rudner/|||||
 ppl/2/3/e78d61003aca3cfeeb32a65c32.html|Schulz|Marie /Schulz/|ABT 1838||||
-ppl/7/c/e7a59eb7e7dcfe589c763db6c7.html|Fatyga|Florian /Fatyga/|26 APR 1844|Kije, Polska|21 JAN 1905|Motkowice, Polska|
-ppl/e/d/e7a5a0cd700224a7035269bade.html|Madejczyk|Franciszka /Madejczyk/|2 APR 1851|Dom nr 8, Motkowice, Polska|||
-ppl/6/c/e7a5a478f4858c4bf7d7e3d21c6.html|Fatyga|Anastazja /Fatyga/|23 DEC 1877|Motkowice, Polska|||
+ppl/7/c/e7a59eb7e7dcfe589c763db6c7.html|Fatyga|Florian /Fatyga/|26 APR 1844|Kije, Polska|21 JAN 1905|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|
+ppl/e/d/e7a5a0cd700224a7035269bade.html|Madejczyk|Franciszka /Madejczyk/|2 APR 1851|Dom nr 8, Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
+ppl/6/c/e7a5a478f4858c4bf7d7e3d21c6.html|Fatyga|Anastazja /Fatyga/|23 DEC 1877|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
 ppl/8/8/e7a5cca27f7770f0c6b7d403988.html|Dittfeld|Rozalia /Dittfeld/|30 JUL 1884||||
 ppl/3/9/e7a5cea99724af91f81b69b9d93.html|Sibiński|Stanisław /Sibiński/|||||
 ppl/d/1/e7a5d6951406347ca4ea4e4bc1d.html|[Private]|[Private] /[Private]/|||||
@@ -631,27 +638,27 @@ ppl/6/5/e8be4f431476fec82430185b956.html|Dziadek|Zofia /Dziadek/|ABT 1814|Czajk�
 ppl/1/e/e8bf0bf6e0a5a0c09a6a69ce7e1.html|Skorupa|Antonina /Skorupa/|ABT 1803||||
 ppl/6/2/e8df602f90c7d353a84a425aa26.html|Podsiadło|Jan /Podsiadło/|14 MAY 1844|Borszowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
 ppl/d/8/e8df60823cc39bac678eb5b3f8d.html|Kielesińska|Marianna /Kielesińska/|ABT 1845||||
-ppl/a/5/e8df639329021118374fb47425a.html|Dudała|Antoni /Dudała/|15 JAN 1865|Motkowice, Polska|||
-ppl/3/8/e8df63e057f30f99aa71cc88c83.html|Banaś|Marcjanna /Banaś/|6 JAN 1865|Motkowice, Polska|||
-ppl/5/a/e8ee9f20534625b097da0d44ca5.html|Podsiadło|Antoni /Podsiadło/|9 JUN 1908|Motkowice, Polska|21 SEP 1908|Motkowice, Polska|
+ppl/a/5/e8df639329021118374fb47425a.html|Dudała|Antoni /Dudała/|15 JAN 1865|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
+ppl/3/8/e8df63e057f30f99aa71cc88c83.html|Banaś|Marcjanna /Banaś/|6 JAN 1865|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
+ppl/5/a/e8ee9f20534625b097da0d44ca5.html|Podsiadło|Antoni /Podsiadło/|9 JUN 1908|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|21 SEP 1908|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|
 ppl/d/4/e902a4b70c5513b7654b7f3ee4d.html|Huńka|Jan /Huńka/|11 APR 1871|Polana, obwód lwowski, Ukraina|1938|Zimna Woda, obwód lwowski, Ukraina|
 ppl/8/7/e902a4e681135a1315282e1f478.html|Martyniak|Maria /Martyniak/|1 NOV 1875|Żurawniki, przemyślański, Królewstwo Galicji i Lodomerii|||
 ppl/9/1/e912e9c05643e0579d2b5c65a19.html|[Private]|[Private] /[Private]/|||||
-ppl/9/e/e941f9e0b552e637e628e462ee9.html|Suchanek|Mikołaj /Suchanek/|11 NOV 1820|Motkowice, Polska|BEF 18 APR 1900||
-ppl/0/3/e941fa95831321abc99bf0abc30.html|Jakubczyk|Anna /Jakubczyk/|ABT 1843|Motkowice, Polska|14 APR 1902|Motkowice, Polska|
+ppl/9/e/e941f9e0b552e637e628e462ee9.html|Suchanek|Mikołaj /Suchanek/|11 NOV 1820|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|16 SEP 1873|Borczyn, Kije, pińczowski, woj. świętokrzyskie, Polska|
+ppl/0/3/e941fa95831321abc99bf0abc30.html|Jakubczyk|Anna /Jakubczyk/|ABT 1843|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|14 APR 1902|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|
 ppl/4/3/e95ca2011b51aff09c2be232134.html|Suchanek|Waleria /Suchanek/|4 JUN 1866|Wierzbica, Kije, pińczowski, woj. świętokrzyskie, Polska|||
-ppl/4/d/e95ccc0556e3a21b89e534fa8d4.html|Suchanek|Katarzyna /Suchanek/|13 NOV 1869|Lipnik, Kije, pińczowski, woj. świętokrzyskie, Polska|||
-ppl/1/d/e96f4821ba5156e050340d8f9d1.html|Podsiadło|Anna /Podsiadło/|27 JUN 1868|Motkowice, Polska|||
+ppl/4/d/e95ccc0556e3a21b89e534fa8d4.html|Suchanek|Katarzyna /Suchanek/|13 NOV 1869|Lipnik, Kije, pińczowski, woj. świętokrzyskie, Polska|4 OCT 1872|Kije, Polska|
+ppl/1/d/e96f4821ba5156e050340d8f9d1.html|Podsiadło|Anna /Podsiadło/|27 JUN 1868|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
 ppl/1/c/e96f8b9a12b34cefcd4248c69c1.html|Podsiadło|Marcin /Podsiadło/|16 OCT 1807|Dom nr 23, Borszowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
 ppl/0/3/e96f8e864094d3777a729517330.html|Kieliś|Łucja /Kieliś/|24 NOV 1809|Borszowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
 ppl/6/8/e96fa54b70c7efcee24316bcc86.html|Podsiadło|Jakub /Podsiadło/|ABT 1770||AFT 5 OCT 1830||
 ppl/d/f/e96fa56f8b7294a79ab4470ccfd.html|Borkowa|Magdalena /Borkowa/|ABT 1770||5 OCT 1830|Borszowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|
 ppl/1/a/e96fa8637b33d304ee6aa5e42a1.html|Kielesiński|Wojciech /Kielesiński/|||AFT 18 FEB 1828||
 ppl/1/c/e96fa917a2b711b03a3475145c1.html|Woźniak|Katarzyna /Woźniak/|||AFT 18 FEB 1828||
-ppl/d/c/e9905569b243683aa539e614fcd.html|Fatyga|Wojciech /Fatyga/|28 MAR 1817|Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska|30 JAN 1872|Motkowice, Polska|
+ppl/d/c/e9905569b243683aa539e614fcd.html|Fatyga|Wojciech /Fatyga/|28 MAR 1817|Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska|30 JAN 1872|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|
 ppl/7/e/e99055f418a153523d79aff45e7.html|Trzeciak|Katarzyna /Trzeciak/|ABT 1813|Rębów, Kije, pińczowski, woj. świętokrzyskie, Polska|BET 5 FEB 1872 AND 21 JAN 1905||
 ppl/0/4/e990586d4f78fc2ad72c840540.html|Madejczyk|Tomasz /Madejczyk/|BET 1816 AND 1822||AFT 5 FEB 1872||
-ppl/f/3/e99059391d84432f7b2411c873f.html|Stopińska|Katarzyna /Stopińska/|ABT 1822|Motkowice, Polska|BEF 5 FEB 1872||
+ppl/f/3/e99059391d84432f7b2411c873f.html|Stopińska|Katarzyna /Stopińska/|ABT 1822|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|BEF 5 FEB 1872||
 ppl/b/9/e996983448330cdb4bf9a818f9b.html|Fatyga|Florian /Fatyga/|4 APR 1777|Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska|||
 ppl/7/a/e9969856d8b2083fdef93dae7a7.html|Kostoń|Agnieszka /Kostoń/|19 JAN 1785|Kliszów, Kije, pińczowski, woj. świętokrzyskie, Polska|||
 ppl/4/6/e996990621e64507d4fb34f1c64.html|Trzeciak|Antoni /Trzeciak/|||||
@@ -676,13 +683,13 @@ ppl/0/a/e9bd13012bc6433b2ca5d19f0a0.html|Mocydlarz|Tekla /Mocydlarz/|18 SEP 1888
 ppl/8/7/e9bd13d443f7d9a1c637e2b5c78.html|Zurek| /Zurek/|||||
 ppl/9/c/e9bd1b079d227c1198a3d1f5bc9.html|Matuszczyk|Franciszek /Matuszczyk/|||||
 ppl/1/1/e9bd1b726052893415b25ad1311.html|Jędrusik|Józefa /Jędrusik/|||||
-ppl/d/2/e9bd67357ce10faf1754635112d.html|Podsiadło|Ludwika /Podsiadło/|21 JUL 1889|Motkowice, Polska|||
+ppl/d/2/e9bd67357ce10faf1754635112d.html|Podsiadło|Ludwika /Podsiadło/|21 JUL 1889|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
 ppl/d/8/e9bd6fe12d31638a4026409bc8d.html|Kielesiński|Jan /Kielesiński/|ABT 1884||||
-ppl/9/d/e9c0966ab5f35d7054d5f55acd9.html|Podsiadło|Józefa /Podsiadło/|17 MAR 1886|Motkowice, Polska|17 NOV 1918|Motkowice, Polska|
+ppl/9/d/e9c0966ab5f35d7054d5f55acd9.html|Podsiadło|Józefa /Podsiadło/|17 MAR 1886|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|17 NOV 1918|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|
 ppl/d/8/e9ccf47ccb41361494d0420cc8d.html|Groszek|Małgorzata /Groszek/|||||
-ppl/6/b/ea045a89ea45bd9193744f700b6.html|Madejczyk|Baltazar /Madejczyk/|1756|Chroberz, Złota, pińczowski, woj. świętokrzyskie, Polska|7 OCT 1830|Dom nr 30, Motkowice, Polska|
+ppl/6/b/ea045a89ea45bd9193744f700b6.html|Madejczyk|Baltazar /Madejczyk/|1756|Chroberz, Złota, pińczowski, woj. świętokrzyskie, Polska|7 OCT 1830|Dom nr 30, Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|
 ppl/9/0/ea045ae9e96293bd6a8865d9d09.html|Ciasnocha|Magdalena /Ciasnocha/|ABT 1784||AFT 27 OCT 1840||
-ppl/7/d/ea045ee20c7646f808d0c8c55d7.html|Stopiński|Grzegorz /Stopiński/|8 MAR 1793|Motkowice, Polska|AFT 27 OCT 1840||
+ppl/7/d/ea045ee20c7646f808d0c8c55d7.html|Stopiński|Grzegorz /Stopiński/|8 MAR 1793|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|AFT 27 OCT 1840||
 ppl/7/0/ea045f225b77cb2b8dfac228e07.html|Raczek|Petronella /Raczek/|25 MAY 1792|Rębów, Kije, pińczowski, woj. świętokrzyskie, Polska|AFT 27 OCT 1840||
 ppl/3/b/ea0f67b1ca73cadf2f633afc3b3.html|Pachowicz|Jadwiga /Pachowicz/|||||
 ppl/8/f/ea0f754a2545219aa341b4755f8.html|Madejczyk|Adam /Madejczyk/|||||
@@ -706,13 +713,13 @@ ppl/1/e/ecbb76fbbfd69f43fb393fbbce1.html|Depka|Andrzej /Depka/|ABT 1844||||
 ppl/b/5/ecbeb7e3d0848b68dd5603d625b.html||Katarzyna //|||||
 ppl/7/9/ed72e8296ae42986b452e624797.html|[Private]|[Private] /[Private]/|||||
 ppl/c/5/ed72e85b92aedad727463afb5c.html|[Private]|[Private] /[Private]/|||||
-ppl/7/7/ee8ae9e59e3689a7d4c015eb77.html|Podsiadło|Kazimierz /Podsiadło/|19 FEB 1871|Motkowice, Polska|||
+ppl/7/7/ee8ae9e59e3689a7d4c015eb77.html|Podsiadło|Kazimierz /Podsiadło/|19 FEB 1871|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
 ppl/1/6/ee8ddafdd33a83f04554235261.html|Dudała|Kazimierz /Dudała/|ABT 1843||BEF 1887||
 ppl/5/9/ee8ddb4672c161592206190db95.html|Cackowska|Marianna /Cackowska/|ABT 1846||BEF 1887||
-ppl/d/4/ee8ddc07cae5bf760fe937de54d.html|Banaś|Andrzej /Banaś/|ABT 1837|Motkowice, Polska|AFT 1887||
-ppl/c/5/ee8ddc3dadf5204084193ef615c.html|Kielesińska|Marianna /Kielesińska/|ABT 1838|Motkowice, Polska|AFT 1887||
-ppl/d/a/ee94a1399ce6ab76467bc3019ad.html|Suchanek|Stanisław /Suchanek/|4 OCT 1910|Motkowice, Polska|||
-ppl/8/5/ee94a1f65a02371d620ebaf6358.html|Suchanek|Franciszek /Suchanek/|1 APR 1901|Motkowice, Polska|19 SEP 1909|Motkowice, Polska|
+ppl/d/4/ee8ddc07cae5bf760fe937de54d.html|Banaś|Andrzej /Banaś/|ABT 1837|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|AFT 1887||
+ppl/c/5/ee8ddc3dadf5204084193ef615c.html|Kielesińska|Marianna /Kielesińska/|ABT 1838|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|AFT 1887||
+ppl/d/a/ee94a1399ce6ab76467bc3019ad.html|Suchanek|Stanisław /Suchanek/|4 OCT 1910|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
+ppl/8/5/ee94a1f65a02371d620ebaf6358.html|Suchanek|Franciszek /Suchanek/|1 APR 1901|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|19 SEP 1909|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|
 ppl/9/6/ee94d2cfd722914fece315b9169.html|Durschlag|Aunton /Durschlag/|11 JUN 1798|Rybnik, rybnicki, woj. śląskie, Polska|||
 ppl/e/7/ee94d4c4ffe2cf2e6c6d71df67e.html|Lanczek|Antonia /Lanczek/|4 NOV 1794|Rybnik, rybnicki, woj. śląskie, Polska|||
 ppl/e/a/ee94d6880af26a8dfecfdfb33ae.html|Malharczyk|Carl /Malharczyk/|ABT 1798|Pawłów, Pietrowice Wielkie, raciborski, woj. śląskie, Polska|||
@@ -726,14 +733,14 @@ ppl/0/3/ef62b7da3746d547b2bc7072530.html|Kielesiński|Wojciech /Kielesiński/|||
 ppl/e/2/ef62b84fcef267b6119d78f9c2e.html|Gidek|Katarzyna /Gidek/|||AFT 12 JAN 1857||
 ppl/b/9/ef62cbfd83d754ce327684acf9b.html|Banaś|Tomasz /Banaś/||Rębów, Kije, pińczowski, woj. świętokrzyskie, Polska|BET 13 NOV 1823 AND 18 JAN 1830||
 ppl/8/7/ef62cca338c540d8f9ab705a578.html|Rak|Magdalena /Rak/||Borszowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|BEF 18 JAN 1830||
-ppl/0/0/ef62cdf9807f31bc41f32afa00.html|Suchanek|Magdalena /Suchanek/|20 JUL 1806||15 DEC 1829|Motkowice, Polska|
+ppl/0/0/ef62cdf9807f31bc41f32afa00.html|Suchanek|Magdalena /Suchanek/|20 JUL 1806||15 DEC 1829|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|
 ppl/d/6/ef62cfaa18818831ee60954156d.html|Karasek|Marcin /Karasek/|ABT 1750||2 NOV 1812|Jakubów, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|
 ppl/5/7/ef62d13f0e26844ec0e68fec75.html|Ciszkoszczonka|Katarzyna /Ciszkoszczonka/|ABT 1761||9 DEC 1812|Jakubów, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|
-ppl/4/c/ef6fbf9990c4b721499455cb9c4.html|Suchanek|Michał /Suchanek/|ABT 28 SEP 1784|Motkowice, Polska|||
-ppl/e/a/ef6fc089fcf933175c578974ae.html|Cieśla|Elżbieta /Cieśla/|BEF 16 NOV 1791|Wólka, Jędrzejów, jędrzejowski, woj. świętokrzyskie, Polska|||
-ppl/0/4/ef7622448e975f17a2c4170ce40.html|Cieśla|Franciszek /Cieśla/|ABT 1771||||
-ppl/1/e/ef762cae9056bcad98efa98a1e1.html|Cichoszczonka|Katarzyna /Cichoszczonka/|||||
-ppl/c/9/ef762f42074ba03d34554249c.html|Suchanek|Marcin /Suchanek/|ABT 1760||22 JAN 1814|Motkowice, Polska|
+ppl/4/c/ef6fbf9990c4b721499455cb9c4.html|Suchanek|Michał /Suchanek/|28 SEP 1784|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|BET 18 MAY 1845 AND 16 SEP 1873||
+ppl/e/a/ef6fc089fcf933175c578974ae.html|Cieśla|Elżbieta /Cieśla/|16 NOV 1791|Wólka, Jędrzejów, jędrzejowski, woj. świętokrzyskie, Polska|18 MAY 1845|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|
+ppl/0/4/ef7622448e975f17a2c4170ce40.html|Cieśla|Franciszek /Cieśla/|ABT 1771||BEF 3 FEB 1841||
+ppl/1/e/ef762cae9056bcad98efa98a1e1.html|Cichoszczonka|Katarzyna /Cichoszczonka/|||BEF 3 FEB 1841||
+ppl/c/9/ef762f42074ba03d34554249c.html|Suchanek|Marcin /Suchanek/|ABT 1760||22 JAN 1814|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|
 ppl/e/d/ef762f753f044e7cdc9362851de.html|Stępień|Jadwiga /Stępień/|ABT 1762||AFT 1790||
 ppl/f/4/ef82f7dbc6e401bf544a4c6c4f.html|Koch|Marianna /Koch/|ABT 1782||||
 ppl/9/6/f00d4918c8b2a27cadde98adc69.html|Pipia|Helena /Pipia/|ABT 1804||||
@@ -742,9 +749,9 @@ ppl/c/7/f00d4ed60f3314ee2cd31b2c67c.html|Janik|Zofia /Janik/|||BEF 1809||
 ppl/a/3/f013803e1614e69dc967ccb633a.html|Wyrębski|Józef /Wyrębski/|ABT 1779||||
 ppl/e/a/f01384224d176585c5c1d8dadae.html|Salamon|Tekla /Salamon/|||BEF 1809||
 ppl/7/7/f013872a89fe985fac88ee2c77.html|Grzesiek|Gertruda /Grzesiek/|ABT 1777||||
-ppl/9/6/f016c6cb3ec56eeaabbe0cd1969.html|Suchanek|Paweł /Suchanek/|23 JAN 1781|Motkowice, Polska|||
+ppl/9/6/f016c6cb3ec56eeaabbe0cd1969.html|Suchanek|Paweł /Suchanek/|23 JAN 1781|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
 ppl/c/d/f01a12342916e5cc6d140bb3bdc.html|Jakubczyk|Antoni /Jakubczyk/|ABT 1787|Borszowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
-ppl/b/c/f01a128809a7a4b0e65af9c01cb.html|Stępień|Regina /Stępień/|ABT 1807|Motkowice, Polska|||
+ppl/b/c/f01a128809a7a4b0e65af9c01cb.html|Stępień|Regina /Stępień/|ABT 1807|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
 ppl/7/d/f02542862753d9ed4def693fbd7.html|Jakubczyk|Tomasz /Jakubczyk/|ABT 1751||AFT 1790||
 ppl/0/1/f02542ee02c3ee1374254c88d10.html||Jadwiga //|ABT 1757||AFT 1790||
 ppl/0/f/f025435e9df506c126d48aadbf0.html||Franciszka //|||BEF NOV 1830||
@@ -876,7 +883,7 @@ ppl/3/5/fb071f1987967f5b4f5e857cb53.html|Durschlag|Andreas /Durschlag/||Skoczów
 ppl/1/2/fb0720402623ef1665429e39321.html|Bajer|Martini /Bajer/|||||
 ppl/f/8/fb0ce5a863313f5998853d9578f.html|Bujak|Wincenty /Bujak/|||||
 ppl/4/b/fb0cee39bcb58253198908824b4.html|Suchanek|Marcin /Suchanek/|1 NOV 1811|Wólka, Jędrzejów, jędrzejowski, woj. świętokrzyskie, Polska|||
-ppl/8/e/fb0ceed7fac1fa7f564251fbe8.html|Suchanek|Paulina /Suchanek/|12 JAN 1830|Motkowice, Polska|||
+ppl/8/e/fb0ceed7fac1fa7f564251fbe8.html|Suchanek|Paulina /Suchanek/|12 JAN 1830|Motkowice, gmina Imielno, jędrzejowski, woj. świętokrzyskie, Polska|||
 ppl/7/8/fbdec4219f76ddee54fc08d0487.html|Rozmarynowski|Andrzej /Rozmarynowski/|||||
 ppl/e/c/fbdec4668f675895c516eb83dce.html|Gawrońska|Maria /Gawrońska/|2 JUL 1903||19 FEB 1980||
 ppl/1/e/fbdec6ac55928f544c758f7ce1.html|Rozmarynowska|Agnieszka /Rozmarynowska/|22 OCT 1922||15 JUN 2001||
